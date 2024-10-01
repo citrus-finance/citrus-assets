@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:97",
+  "name": "Citrus Finance - Binance Smart Chain Testnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:12.093Z",
+  "timestamp": "2024-10-01T20:35:24.345Z",
   "tokens": [
     {
       "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",

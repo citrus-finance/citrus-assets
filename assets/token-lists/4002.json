@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:4002",
+  "name": "Citrus Finance - Fantom Testnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:15.559Z",
+  "timestamp": "2024-10-01T20:35:28.516Z",
   "tokens": [
     {
       "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",

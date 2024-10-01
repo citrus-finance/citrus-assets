@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:40",
+  "name": "Citrus Finance - Telos",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:11.664Z",
+  "timestamp": "2024-10-01T20:36:24.835Z",
   "tokens": [
     {
       "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",

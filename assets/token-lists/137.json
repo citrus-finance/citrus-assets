@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:137",
+  "name": "Citrus Finance - Polygon",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:06.819Z",
+  "timestamp": "2024-10-01T20:36:19.194Z",
   "tokens": [
     {
       "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:80001",
+  "name": "Citrus Finance - Polygon Mumbai",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:02.761Z",
+  "timestamp": "2024-10-01T20:36:15.113Z",
   "tokens": [
     {
       "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",

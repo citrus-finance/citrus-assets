@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:43113",
+  "name": "Citrus Finance - Avalanche Fuji",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:16.177Z",
+  "timestamp": "2024-10-01T20:35:29.137Z",
   "tokens": [
     {
       "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",

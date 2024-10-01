@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:25",
+  "name": "Citrus Finance - Cronos Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:15.556Z",
+  "timestamp": "2024-10-01T20:35:28.515Z",
   "tokens": [
     {
       "address": "0x00D7699b71290094CcB1a5884cD835bD65a78c17",

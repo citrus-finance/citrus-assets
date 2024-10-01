@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:100",
+  "name": "Citrus Finance - Gnosis",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:17.598Z",
+  "timestamp": "2024-10-01T20:35:30.460Z",
   "tokens": [
     {
       "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",

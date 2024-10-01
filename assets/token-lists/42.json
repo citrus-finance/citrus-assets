@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:42",
+  "name": "Citrus Finance - LUKSO",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:55.324Z",
+  "timestamp": "2024-10-01T20:36:07.379Z",
   "tokens": [
     {
       "address": "0x07de306FF27a2B630B1141956844eB1552B956B5",

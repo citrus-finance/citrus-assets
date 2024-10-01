@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:30",
+  "name": "Citrus Finance - Rootstock Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:08.647Z",
+  "timestamp": "2024-10-01T20:36:21.664Z",
   "tokens": [
     {
       "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",

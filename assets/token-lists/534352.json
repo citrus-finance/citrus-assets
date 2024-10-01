@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:534352",
+  "name": "Citrus Finance - Scroll",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:09.819Z",
+  "timestamp": "2024-10-01T20:36:23.094Z",
   "tokens": [
     {
       "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",

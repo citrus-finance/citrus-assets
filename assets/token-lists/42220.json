@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:42220",
+  "name": "Citrus Finance - Celo",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:14.834Z",
+  "timestamp": "2024-10-01T20:35:26.980Z",
   "tokens": [
     {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",

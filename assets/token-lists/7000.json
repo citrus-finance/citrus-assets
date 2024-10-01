@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:7000",
+  "name": "Citrus Finance - ZetaChain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:11.851Z",
+  "timestamp": "2024-10-01T20:36:25.042Z",
   "tokens": [
     {
       "address": "0x05BA149A7bd6dC1F937fA9046A9e05C05f3b18b0",

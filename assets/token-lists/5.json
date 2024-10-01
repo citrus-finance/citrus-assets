@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:5",
+  "name": "Citrus Finance - Goerli",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:17.803Z",
+  "timestamp": "2024-10-01T20:35:30.767Z",
   "tokens": [
     {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",

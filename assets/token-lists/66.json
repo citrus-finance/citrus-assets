@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:66",
+  "name": "Citrus Finance - OKC",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:02.256Z",
+  "timestamp": "2024-10-01T20:36:14.598Z",
   "tokens": [
     {
       "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",

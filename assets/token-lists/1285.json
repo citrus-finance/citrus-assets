@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:1285",
+  "name": "Citrus Finance - Moonriver",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:56.203Z",
+  "timestamp": "2024-10-01T20:36:08.247Z",
   "tokens": [
     {
       "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",

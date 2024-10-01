@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:2046399126",
+  "name": "Citrus Finance - SKALE | Europa Liquidity Hub",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:11.459Z",
+  "timestamp": "2024-10-01T20:36:24.632Z",
   "tokens": [
     {
       "address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",

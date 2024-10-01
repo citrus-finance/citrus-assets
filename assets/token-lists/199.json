@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:199",
+  "name": "Citrus Finance - BitTorrent",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:14.424Z",
+  "timestamp": "2024-10-01T20:35:26.467Z",
   "tokens": [
     {
       "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",

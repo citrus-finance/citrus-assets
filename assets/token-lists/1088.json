@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:1088",
+  "name": "Citrus Finance - Metis",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:55.486Z",
+  "timestamp": "2024-10-01T20:36:07.612Z",
   "tokens": [
     {
       "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",

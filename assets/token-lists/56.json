@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:56",
+  "name": "Citrus Finance - BNB Smart Chain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:13.409Z",
+  "timestamp": "2024-10-01T20:35:25.510Z",
   "tokens": [
     {
       "address": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",

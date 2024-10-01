@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:1284",
+  "name": "Citrus Finance - Moonbeam",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:55.492Z",
+  "timestamp": "2024-10-01T20:36:07.620Z",
   "tokens": [
     {
       "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",

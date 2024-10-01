@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:11297108109",
+  "name": "Citrus Finance - Palm",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:45:02.757Z",
+  "timestamp": "2024-10-01T20:36:15.107Z",
   "tokens": [
     {
       "address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",

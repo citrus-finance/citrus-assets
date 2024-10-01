@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:11235",
+  "name": "Citrus Finance - HAQQ Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:18.008Z",
+  "timestamp": "2024-10-01T20:35:30.965Z",
   "tokens": [
     {
       "address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",

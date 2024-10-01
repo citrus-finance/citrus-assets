@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:288",
+  "name": "Citrus Finance - Boba Network",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:12.090Z",
+  "timestamp": "2024-10-01T20:35:24.341Z",
   "tokens": [
     {
       "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:81457",
+  "name": "Citrus Finance - Blast",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:12.083Z",
+  "timestamp": "2024-10-01T20:35:24.324Z",
   "tokens": [
     {
       "address": "0x0000000000a1c217530F17948CBb487c743b9F63",

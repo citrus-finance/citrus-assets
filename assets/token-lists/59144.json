@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:59144",
+  "name": "Citrus Finance - Linea Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T19:44:55.325Z",
+  "timestamp": "2024-10-01T20:36:07.381Z",
   "tokens": [
     {
       "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
