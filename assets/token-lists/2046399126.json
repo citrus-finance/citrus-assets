@@ -1,0 +1,66 @@
+{
+  "name": "Citrus Finance - chain:2046399126",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:45:11.459Z",
+  "tokens": [
+    {
+      "address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",
+      "chainId": 2046399126,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
+      "name": "Block Brawlers BRAWL",
+      "symbol": "BRAWL",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg"
+      }
+    },
+    {
+      "address": "0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f",
+      "chainId": 2046399126,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
+      "name": "RubyToken",
+      "symbol": "RUBY",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg"
+      }
+    },
+    {
+      "address": "0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558",
+      "chainId": 2046399126,
+      "decimals": 9,
+      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+      "name": "Europa HITMAKR",
+      "symbol": "HMKR",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg"
+      }
+    },
+    {
+      "address": "0xCEC20381ac92D610AC444f6D73c1D40726650259",
+      "chainId": 2046399126,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0xCEC20381ac92D610AC444f6D73c1D40726650259.jpg",
+      "name": "Europa SushiToken",
+      "symbol": "SUSHI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCEC20381ac92D610AC444f6D73c1D40726650259.jpg"
+      }
+    },
+    {
+      "address": "0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA",
+      "chainId": 2046399126,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+      "name": "Exorde Network Token",
+      "symbol": "EXD",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg"
+      }
+    }
+  ]
+}

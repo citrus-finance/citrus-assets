@@ -1,0 +1,33 @@
+{
+  "name": "Citrus Finance - chain:128",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:54.979Z",
+  "tokens": [
+    {
+      "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/128/0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5.jpg",
+      "name": "SUSHI",
+      "symbol": "SUSHI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg"
+      }
+    },
+    {
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/128/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.png",
+      "name": "WOWSwap",
+      "symbol": "WOW",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+      }
+    }
+  ]
+}

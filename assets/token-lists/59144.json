@@ -1,0 +1,66 @@
+{
+  "name": "Citrus Finance - chain:59144",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:55.325Z",
+  "tokens": [
+    {
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.jpg",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.jpg"
+      }
+    },
+    {
+      "address": "0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4.jpg",
+      "name": "NFTEarthOFT",
+      "symbol": "NFTE",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4.jpg"
+      }
+    },
+    {
+      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "name": "Axelar Wrapped DAI",
+      "symbol": "axlDAI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg"
+      }
+    },
+    {
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg"
+      }
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg"
+      }
+    }
+  ]
+}

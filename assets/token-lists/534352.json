@@ -1,0 +1,33 @@
+{
+  "name": "Citrus Finance - chain:534352",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:45:09.819Z",
+  "tokens": [
+    {
+      "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534352/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040.jpg",
+      "name": "Axelar Wrapped FRAX",
+      "symbol": "axlFRAX",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040.jpg"
+      }
+    },
+    {
+      "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+      "chainId": 534352,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534352/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.jpg",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/scroll/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.jpg"
+      }
+    }
+  ]
+}

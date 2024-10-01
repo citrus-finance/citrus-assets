@@ -1,0 +1,33 @@
+{
+  "name": "Citrus Finance - chain:1287",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:55.491Z",
+  "tokens": [
+    {
+      "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
+      "chainId": 1287,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1287/0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521.png",
+      "name": "Custom ERC20 Token",
+      "symbol": "ERC20S",
+      "extensions": {
+        "fallbackUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+      }
+    },
+    {
+      "address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
+      "chainId": 1287,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1287/0xe73763DB808ecCDC0E36bC8E32510ED126910394.png",
+      "name": "Wrapped Glimmer",
+      "symbol": "WGLMR",
+      "extensions": {
+        "fallbackUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+      }
+    }
+  ]
+}

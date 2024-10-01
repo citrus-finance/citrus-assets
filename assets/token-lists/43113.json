@@ -1,0 +1,22 @@
+{
+  "name": "Citrus Finance - chain:43113",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:16.177Z",
+  "tokens": [
+    {
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+      "chainId": 43113,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png?v=010",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "extensions": {
+        "fallbackUrl": "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=010"
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "name": "Citrus Finance - chain:2222",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:54.982Z",
+  "tokens": [
+    {
+      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+      "chainId": 2222,
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
+      "name": "Axeler Wrapped WBTC",
+      "symbol": "axlWBTC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg"
+      }
+    },
+    {
+      "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg"
+      }
+    },
+    {
+      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "name": "Axler Wrapped DAI",
+      "symbol": "axlDAI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg"
+      }
+    },
+    {
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x765277EebeCA2e31912C9946eAe1021199B39C61.jpg",
+      "name": "Dai Stablecoin",
+      "symbol": "anyDAI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
+      }
+    },
+    {
+      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
+      "name": "SushiToken",
+      "symbol": "anySUSHI",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg"
+      }
+    },
+    {
+      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+      "chainId": 2222,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
+      "name": "Axelar Wrapped USDT",
+      "symbol": "axlUSDT",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg"
+      }
+    },
+    {
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "chainId": 2222,
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.jpg",
+      "name": "Wrapped Bitcoin",
+      "symbol": "anyWBTC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg"
+      }
+    },
+    {
+      "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+      "chainId": 2222,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
+      "name": "TetherUSDt",
+      "symbol": "USDt",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg"
+      }
+    },
+    {
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "chainId": 2222,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.jpg",
+      "name": "Tether USD",
+      "symbol": "anyUSDT",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+      }
+    },
+    {
+      "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
+      "name": "Axelar Wrapped ETH",
+      "symbol": "axlETH",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg"
+      }
+    },
+    {
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b.svg",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/native-currency-logos/kava.svg"
+      }
+    },
+    {
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "chainId": 2222,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.jpg",
+      "name": "Wrapped Ethereum",
+      "symbol": "anyWETH",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg"
+      }
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 2222,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg"
+      }
+    },
+    {
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "chainId": 2222,
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f.jpg",
+      "name": "USD Coin",
+      "symbol": "anyUSDC",
+      "extensions": {
+        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
+      }
+    }
+  ]
+}

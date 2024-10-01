@@ -1,0 +1,33 @@
+{
+  "name": "Citrus Finance - chain:4002",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-10-01T19:44:15.559Z",
+  "tokens": [
+    {
+      "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4002/0x91ea991bd52EE3C40EdA2509701d905e1Ee54074.svg",
+      "name": "Fantom USD",
+      "symbol": "FUSD",
+      "extensions": {
+        "fallbackUrl": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+      }
+    },
+    {
+      "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4002/0xf1277d1Ed8AD466beddF92ef448A132661956621.svg?v=003",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "extensions": {
+        "fallbackUrl": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
+      }
+    }
+  ]
+}
