@@ -15,7 +15,7 @@ export async function gitPull(url: string) {
       stdout: "inherit",
       stderr: "inherit",
       cwd: ".cache",
-    })`git clone ${url} ${name}`;
+    })`git clone --depth 1 ${url} ${name}`;
   }
 
   console.log(`Updating ${url}`);

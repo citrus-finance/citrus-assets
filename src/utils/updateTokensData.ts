@@ -5,14 +5,7 @@ import { existsSync } from "fs";
 import { TokenList } from "../types/TokenList.js";
 import retrieveFile from "./retrieveFile.js";
 import { extname } from "path";
-import type { Chain } from "viem/chains";
-
-const chains = await import("viem/chains");
-
-// @ts-ignore
-const chainMap = new Map<number, Chain>(
-  Object.values(chains).map((x) => [x.id, x]),
-);
+import { viemChainsMap } from "./viemChains.js";
 
 type ExtensionWithFallback = {
   fallbackUrl: string;
@@ -75,7 +68,7 @@ export default async function updateTokensData(newChainMap: TokenMap) {
     }
 
     const tokenList: TokenListWithFallback = {
-      name: `Citrus Finance - ${chainMap.get(chainId)?.name ?? `chain:${chainId}`}`,
+      name: `Citrus Finance - ${viemChainsMap.get(chainId)?.name ?? `chain:${chainId}`}`,
       version: {
         major: 1,
         minor: 0,

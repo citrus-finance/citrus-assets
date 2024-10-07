@@ -1,0 +1,6631 @@
+[
+  {
+    "id": 1,
+    "name": "Ethereum",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "ETH",
+      "geckoId": "ethereum"
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://etherscan.io",
+      "apiUrl": "https://api.etherscan.io/api"
+    },
+    "website": "https://ethereum.foundation/",
+    "github": "ethereum",
+    "twitter": "ethereum",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "Goerli",
+    "nativeCurrency": {
+      "name": "Goerli Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://goerli.etherscan.io",
+      "apiUrl": "https://api-goerli.etherscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7,
+    "name": "ThaiChain",
+    "nativeCurrency": {
+      "name": "TCH",
+      "symbol": "TCH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://exp.thaichain.org",
+      "apiUrl": "https://exp.thaichain.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "OP Mainnet",
+    "description": "Optimism is a collective focused on building scalable, decentralized infrastructure for Ethereum. It supports a network of blockchain ecosystems powered by the OP Stack, promoting public goods funding, equitable governance, and sustainable growth.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "coin": {
+      "symbol": "OP",
+      "geckoId": "optimism"
+    },
+    "blockExplorer": {
+      "name": "Optimism Explorer",
+      "url": "https://optimistic.etherscan.io",
+      "apiUrl": "https://api-optimistic.etherscan.io/api"
+    },
+    "website": "https://www.optimism.io/",
+    "github": "Optimism",
+    "twitter": "Optimism",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 14,
+    "name": "Flare Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Flare",
+      "symbol": "FLR"
+    },
+    "blockExplorer": {
+      "name": "Flare Explorer",
+      "url": "https://flare-explorer.flare.network",
+      "apiUrl": "https://flare-explorer.flare.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 16,
+    "name": "Songbird Testnet Coston",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Coston Flare",
+      "symbol": "CFLR"
+    },
+    "blockExplorer": {
+      "name": "Coston Explorer",
+      "url": "https://coston-explorer.flare.network",
+      "apiUrl": "https://coston-explorer.flare.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 19,
+    "name": "Songbird Canary-Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Songbird",
+      "symbol": "SGB"
+    },
+    "coin": {
+      "symbol": "SGB",
+      "geckoId": "songbird"
+    },
+    "blockExplorer": {
+      "name": "Songbird Explorer",
+      "url": "https://songbird-explorer.flare.network",
+      "apiUrl": "https://songbird-explorer.flare.network/api"
+    },
+    "website": "https://flare.network/",
+    "github": "FlareNetworks",
+    "twitter": "FlareNetworks",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 25,
+    "name": "Cronos Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Cronos",
+      "symbol": "CRO"
+    },
+    "coin": {
+      "symbol": "CRO",
+      "geckoId": "crypto-com-chain"
+    },
+    "blockExplorer": {
+      "name": "Cronos Explorer",
+      "url": "https://explorer.cronos.org",
+      "apiUrl": "https://explorer-api.cronos.org/mainnet/api"
+    },
+    "website": "https://cronos.org/",
+    "github": "cronos_chain",
+    "twitter": "cronos_chain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 30,
+    "name": "Rootstock Mainnet",
+    "description": "Rootstock (RSK) is a Bitcoin sidechain that enables Ethereum-compatible smart contracts while leveraging Bitcoin's security through merged mining. It powers decentralized finance (DeFi) and enables Bitcoin-based decentralized applications (dApps).",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Rootstock Bitcoin",
+      "symbol": "RBTC"
+    },
+    "wrappedToken": {
+      "name": "Wrapped BTC ",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d"
+    },
+    "coin": {
+      "symbol": "RBTC",
+      "geckoId": "rootstock"
+    },
+    "blockExplorer": {
+      "name": "RSK Explorer",
+      "url": "https://explorer.rsk.co"
+    },
+    "website": "https://rootstock.io/",
+    "github": "rootstock_io",
+    "twitter": "rootstock_io",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 31,
+    "name": "Rootstock Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Rootstock Bitcoin",
+      "symbol": "tRBTC"
+    },
+    "blockExplorer": {
+      "name": "RSK Explorer",
+      "url": "https://explorer.testnet.rootstock.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 40,
+    "name": "Telos",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Telos",
+      "symbol": "TLOS"
+    },
+    "coin": {
+      "symbol": "TLOS",
+      "geckoId": "telos"
+    },
+    "blockExplorer": {
+      "name": "Teloscan",
+      "url": "https://www.teloscan.io/"
+    },
+    "website": "https://www.telos.net/",
+    "github": "HelloTelos",
+    "twitter": "HelloTelos",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 41,
+    "name": "Telos",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Telos",
+      "symbol": "TLOS"
+    },
+    "blockExplorer": {
+      "name": "Teloscan (testnet)",
+      "url": "https://testnet.teloscan.io/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42,
+    "name": "LUKSO",
+    "nativeCurrency": {
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "LYX",
+      "geckoId": "lukso-token-2"
+    },
+    "blockExplorer": {
+      "name": "LUKSO Mainnet Explorer",
+      "url": "https://explorer.execution.mainnet.lukso.network",
+      "apiUrl": "https://api.explorer.execution.mainnet.lukso.network/api"
+    },
+    "website": "https://www.lukso.network",
+    "github": "lukso_io",
+    "twitter": "lukso_io",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 44,
+    "name": "Crab Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Crab Network Native Token",
+      "symbol": "CRAB"
+    },
+    "coin": {
+      "symbol": "CRAB",
+      "geckoId": "darwinia-crab-network"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://crab-scan.darwinia.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 46,
+    "name": "Darwinia Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "RING",
+      "symbol": "RING"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://explorer.darwinia.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 50,
+    "name": "XinFin Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "XDC",
+      "symbol": "XDC"
+    },
+    "blockExplorer": {
+      "name": "Blocksscan",
+      "url": "https://xdc.blocksscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 51,
+    "name": "Apothem Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "TXDC",
+      "symbol": "TXDC"
+    },
+    "blockExplorer": {
+      "name": "Blocksscan",
+      "url": "https://apothem.blocksscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 56,
+    "name": "BNB Smart Chain",
+    "description": "BNB Chain is a blockchain platform designed for developers and users focused on decentralized applications (dApps) and decentralized finance (DeFi).",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "wrappedToken": {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "coin": {
+      "symbol": "BNB",
+      "geckoId": "binancecoin"
+    },
+    "blockExplorer": {
+      "name": "BscScan",
+      "url": "https://bscscan.com",
+      "apiUrl": "https://api.bscscan.com/api"
+    },
+    "website": "https://www.bnbchain.org/en",
+    "github": "BNBCHAIN",
+    "twitter": "BNBCHAIN",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 57,
+    "name": "Syscoin Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Syscoin",
+      "symbol": "SYS"
+    },
+    "coin": {
+      "symbol": "SYS",
+      "geckoId": "syscoin"
+    },
+    "blockExplorer": {
+      "name": "SyscoinExplorer",
+      "url": "https://explorer.syscoin.org",
+      "apiUrl": "https://explorer.syscoin.org/api"
+    },
+    "website": "https://syscoin.org/",
+    "github": "syscoin",
+    "twitter": "syscoin",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 61,
+    "name": "Ethereum Classic",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETC",
+      "symbol": "ETC"
+    },
+    "coin": {
+      "symbol": "ETC",
+      "geckoId": "ethereum-classic"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.com/etc/mainnet"
+    },
+    "website": "https://ethereumclassic.org/",
+    "github": "eth_classic",
+    "twitter": "eth_classic",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 66,
+    "name": "OKC",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "OKT",
+      "symbol": "OKT"
+    },
+    "coin": {
+      "symbol": "OKT",
+      "geckoId": "oec-token"
+    },
+    "blockExplorer": {
+      "name": "oklink",
+      "url": "https://www.oklink.com/okc"
+    },
+    "website": "https://www.okx.com/oktc",
+    "github": "OKCNetwork",
+    "twitter": "OKCNetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 71,
+    "name": "Conflux eSpace Testnet",
+    "nativeCurrency": {
+      "name": "Conflux",
+      "symbol": "CFX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "ConfluxScan",
+      "url": "https://evmtestnet.confluxscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 82,
+    "name": "Meter",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MTR",
+      "symbol": "MTR"
+    },
+    "coin": {
+      "symbol": "MTRG",
+      "geckoId": "meter"
+    },
+    "blockExplorer": {
+      "name": "MeterScan",
+      "url": "https://scan.meter.io"
+    },
+    "website": "https://meter.io/",
+    "github": "Meter_IO",
+    "twitter": "Meter_IO",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 83,
+    "name": "Meter Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MTR",
+      "symbol": "MTR"
+    },
+    "blockExplorer": {
+      "name": "MeterTestnetScan",
+      "url": "https://scan-warringstakes.meter.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 88,
+    "name": "Viction",
+    "nativeCurrency": {
+      "name": "Viction",
+      "symbol": "VIC",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "VIC",
+      "geckoId": "tomochain"
+    },
+    "blockExplorer": {
+      "name": "VIC Scan",
+      "url": "https://vicscan.xyz"
+    },
+    "website": "https://viction.xyz/",
+    "github": "BuildOnViction",
+    "twitter": "BuildOnViction",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 89,
+    "name": "Viction Testnet",
+    "nativeCurrency": {
+      "name": "Viction",
+      "symbol": "VIC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "VIC Scan",
+      "url": "https://testnet.vicscan.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 96,
+    "name": "Bitkub",
+    "nativeCurrency": {
+      "name": "Bitkub",
+      "symbol": "KUB",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "KUB",
+      "geckoId": "bitkub-coin"
+    },
+    "blockExplorer": {
+      "name": "Bitkub Chain Mainnet Explorer",
+      "url": "https://www.bkcscan.com",
+      "apiUrl": "https://www.bkcscan.com/api"
+    },
+    "website": "https://www.bitkubchain.com",
+    "github": "bitkubchain",
+    "twitter": "bitkubchain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 97,
+    "name": "Binance Smart Chain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "tBNB"
+    },
+    "blockExplorer": {
+      "name": "BscScan",
+      "url": "https://testnet.bscscan.com",
+      "apiUrl": "https://api-testnet.bscscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 100,
+    "name": "Gnosis",
+    "description": "Gnosis Chain is an Ethereum-compatible blockchain known for its low fees (paid in xDAI) and fast transactions. It’s community-owned, governed by GnosisDAO, and secured by over 200,000 validators worldwide. Designed as a more efficient environment for decentralized applications (dApps), Gnosis Chain emphasizes resilience, neutrality, and developer experimentation",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Gnosis",
+      "symbol": "xDAI"
+    },
+    "wrappedToken": {
+      "name": "Wrapped XDAI",
+      "symbol": "WXDAI",
+      "decimals": 18,
+      "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+    },
+    "coin": {
+      "symbol": "GNO",
+      "geckoId": "gnosis"
+    },
+    "blockExplorer": {
+      "name": "Gnosisscan",
+      "url": "https://gnosisscan.io",
+      "apiUrl": "https://api.gnosisscan.io/api"
+    },
+    "website": "https://www.gnosis.io/",
+    "github": "gnosischain",
+    "twitter": "gnosischain",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 109,
+    "name": "Shibarium",
+    "nativeCurrency": {
+      "name": "Bone",
+      "symbol": "BONE",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://shibariumscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 114,
+    "name": "Flare Testnet Coston2",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Coston2 Flare",
+      "symbol": "C2FLR"
+    },
+    "blockExplorer": {
+      "name": "Coston2 Explorer",
+      "url": "https://coston2-explorer.flare.network",
+      "apiUrl": "https://coston2-explorer.flare.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 122,
+    "name": "Fuse",
+    "description": "Fuse is a decentralized blockchain platform designed to power cost-effective payments and DeFi solutions. It supports EVM-compatible dApps, business payments, and loyalty programs, with tools for Web3 integration, mobile wallets, and branded stablecoins.",
+    "nativeCurrency": {
+      "name": "Fuse",
+      "symbol": "FUSE",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Fuse",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629"
+    },
+    "coin": {
+      "symbol": "FUSE",
+      "geckoId": "fuse-network-token"
+    },
+    "blockExplorer": {
+      "name": "Fuse Explorer",
+      "url": "https://explorer.fuse.io",
+      "apiUrl": "https://explorer.fuse.io/api"
+    },
+    "website": "https://www.fuse.io/",
+    "github": "Fuse_network",
+    "twitter": "Fuse_network",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 123,
+    "name": "Fuse Sparknet",
+    "nativeCurrency": {
+      "name": "Spark",
+      "symbol": "SPARK",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Sparkent Explorer",
+      "url": "https://explorer.fusespark.io",
+      "apiUrl": "https://explorer.fusespark.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 133,
+    "name": "HashKey Chain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "HashKey EcoPoints",
+      "symbol": "HSK"
+    },
+    "blockExplorer": {
+      "name": "HashKey Chain Explorer",
+      "url": "https://hashkeychain-testnet-explorer.alt.technology"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 137,
+    "name": "Polygon",
+    "description": "Polygon is a leading Ethereum scaling platform that offers a suite of solutions, including its PoS chain, zkEVM, and more, designed to enhance scalability, security, and decentralization for dApps.",
+    "nativeCurrency": {
+      "name": "POL",
+      "symbol": "POL",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+    },
+    "coin": {
+      "symbol": "MATIC",
+      "geckoId": "matic-network"
+    },
+    "blockExplorer": {
+      "name": "PolygonScan",
+      "url": "https://polygonscan.com",
+      "apiUrl": "https://api.polygonscan.com/api"
+    },
+    "website": "https://polygon.technology/",
+    "github": "0xPolygon",
+    "twitter": "0xPolygon",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 148,
+    "name": "Shimmer",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Shimmer",
+      "symbol": "SMR"
+    },
+    "coin": {
+      "symbol": "SMR",
+      "geckoId": "shimmer"
+    },
+    "blockExplorer": {
+      "name": "Shimmer Network Explorer",
+      "url": "https://explorer.evm.shimmer.network",
+      "apiUrl": "https://explorer.evm.shimmer.network/api"
+    },
+    "website": "https://shimmer.network/",
+    "github": "shimmernet",
+    "twitter": "shimmernet",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 153,
+    "name": "Redbelly Network Testnet",
+    "nativeCurrency": {
+      "name": "Redbelly Native Coin",
+      "symbol": "RBNT",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ethernal",
+      "url": "https://explorer.testnet.redbelly.network",
+      "apiUrl": "https://ethernal.fly.dev/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 157,
+    "name": "Puppynet Shibarium",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Bone",
+      "symbol": "BONE"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://puppyscan.shib.io",
+      "apiUrl": "https://puppyscan.shib.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 169,
+    "name": "Manta Pacific Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "MANTA",
+      "geckoId": "manta-network"
+    },
+    "blockExplorer": {
+      "name": "Manta Explorer",
+      "url": "https://pacific-explorer.manta.network",
+      "apiUrl": "https://pacific-explorer.manta.network/api"
+    },
+    "website": "https://manta.network/",
+    "github": "MantaNetwork",
+    "twitter": "MantaNetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 185,
+    "name": "Mint Mainnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Mintchain explorer",
+      "url": "https://explorer.mintchain.io"
+    },
+    "website": "https://www.mintchain.io/",
+    "github": "Mint_Blockchain",
+    "twitter": "Mint_Blockchain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 195,
+    "name": "X1 Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "OKB",
+      "symbol": "OKB"
+    },
+    "blockExplorer": {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/xlayer-test"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 196,
+    "name": "X Layer Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "OKB",
+      "symbol": "OKB"
+    },
+    "blockExplorer": {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/xlayer",
+      "apiUrl": "https://www.oklink.com/api/v5/explorer/xlayer/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 199,
+    "name": "BitTorrent",
+    "nativeCurrency": {
+      "name": "BitTorrent",
+      "symbol": "BTT",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "BTT",
+      "geckoId": "bittorrent"
+    },
+    "blockExplorer": {
+      "name": "Bttcscan",
+      "url": "https://bttcscan.com",
+      "apiUrl": "https://api.bttcscan.com/api"
+    },
+    "website": "https://bt.io/",
+    "github": "BitTorrent",
+    "twitter": "BitTorrent",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 202,
+    "name": "Edgeless Testnet",
+    "nativeCurrency": {
+      "name": "Edgeless Wrapped ETH",
+      "symbol": "EwETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Edgeless Testnet Explorer",
+      "url": "https://testnet.explorer.edgeless.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 204,
+    "name": "opBNB",
+    "description": "opBNB is a layer-2 scaling solution built on BNB Chain, designed to reduce transaction costs and improve throughput for decentralized applications (dApps) by utilizing Optimistic Rollups technology.",
+    "nativeCurrency": {
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "opbnbscan",
+      "url": "https://mainnet.opbnbscan.com"
+    },
+    "website": "https://opbnb.bnbchain.org/",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 240,
+    "name": "Nexilix Smart Chain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Nexilix",
+      "symbol": "NEXILIX"
+    },
+    "blockExplorer": {
+      "name": "NexilixScan",
+      "url": "https://scan.nexilix.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 242,
+    "name": "Plinga",
+    "nativeCurrency": {
+      "name": "Plinga",
+      "symbol": "PLINGA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Plgscan",
+      "url": "https://www.plgscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 248,
+    "name": "Oasys",
+    "nativeCurrency": {
+      "name": "Oasys",
+      "symbol": "OAS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "OasysScan",
+      "url": "https://scan.oasys.games",
+      "apiUrl": "https://scan.oasys.games/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 250,
+    "name": "Fantom",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Fantom",
+      "symbol": "FTM"
+    },
+    "coin": {
+      "symbol": "FTM",
+      "geckoId": "fantom"
+    },
+    "blockExplorer": {
+      "name": "FTMScan",
+      "url": "https://ftmscan.com",
+      "apiUrl": "https://api.ftmscan.com/api"
+    },
+    "website": "https://fantom.foundation/",
+    "github": "FantomFDN",
+    "twitter": "FantomFDN",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 252,
+    "name": "Fraxtal",
+    "nativeCurrency": {
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Frax Ether",
+      "symbol": "wfrxETH",
+      "decimals": 18,
+      "address": "0xfc00000000000000000000000000000000000006"
+    },
+    "coin": {
+      "symbol": "FXTL",
+      "geckoId": "fraxtal"
+    },
+    "blockExplorer": {
+      "name": "fraxscan",
+      "url": "https://fraxscan.com",
+      "apiUrl": "https://api.fraxscan.com/api"
+    },
+    "website": "https://frax.finance",
+    "github": "fraxfinance",
+    "twitter": "fraxfinance",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 254,
+    "name": "Swan Chain Mainnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Swan Explorer",
+      "url": "https://swanscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 255,
+    "name": "Kroma",
+    "nativeCurrency": {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "KRO",
+      "geckoId": "kroma"
+    },
+    "blockExplorer": {
+      "name": "Kroma Explorer",
+      "url": "https://blockscout.kroma.network",
+      "apiUrl": "https://blockscout.kroma.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 260,
+    "name": "ZKsync InMemory Node",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 270,
+    "name": "ZKsync CLI Local Node",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 282,
+    "name": "Cronos zkEVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Cronos zkEVM Test Coin",
+      "symbol": "zkTCRO"
+    },
+    "blockExplorer": {
+      "name": "Cronos zkEVM Testnet Explorer",
+      "url": "https://explorer.zkevm.cronos.org/testnet"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 288,
+    "name": "Boba Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "BOBA",
+      "geckoId": "boba-network"
+    },
+    "blockExplorer": {
+      "name": "BOBAScan",
+      "url": "https://bobascan.com"
+    },
+    "website": "https://boba.network/",
+    "github": "bobanetwork",
+    "twitter": "bobanetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 291,
+    "name": "Orderly",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Orderly Explorer",
+      "url": "https://explorer.orderly.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 295,
+    "name": "Hedera Mainnet",
+    "nativeCurrency": {
+      "symbol": "HBAR",
+      "name": "HBAR",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Hashscan",
+      "url": "https://hashscan.io/mainnet"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 296,
+    "name": "Hedera Testnet",
+    "nativeCurrency": {
+      "symbol": "HBAR",
+      "name": "HBAR",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Hashscan",
+      "url": "https://hashscan.io/testnet"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 297,
+    "name": "Hedera Previewnet",
+    "nativeCurrency": {
+      "symbol": "HBAR",
+      "name": "HBAR",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Hashscan",
+      "url": "https://hashscan.io/previewnet"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 300,
+    "name": "ZKsync Sepolia Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://sepolia-era.zksync.network/",
+      "apiUrl": "https://api-sepolia-era.zksync.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 314,
+    "name": "Filecoin Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "filecoin",
+      "symbol": "FIL"
+    },
+    "blockExplorer": {
+      "name": "Filfox",
+      "url": "https://filfox.info/en"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 321,
+    "name": "KCC Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "KCS",
+      "symbol": "KCS"
+    },
+    "coin": {
+      "symbol": "KCS",
+      "geckoId": "kucoin-shares"
+    },
+    "blockExplorer": {
+      "name": "KCC Explorer",
+      "url": "https://explorer.kcc.io"
+    },
+    "website": "https://www.kcc.io/",
+    "github": "KCCOfficialTW",
+    "twitter": "KCCOfficialTW",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 324,
+    "name": "ZKsync Era",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "ZK",
+      "geckoId": "zksync"
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://era.zksync.network/",
+      "apiUrl": "https://api-era.zksync.network/api"
+    },
+    "website": "https://zksync.io/",
+    "github": "zksync",
+    "twitter": "zksync",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 338,
+    "name": "Cronos Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CRO",
+      "symbol": "tCRO"
+    },
+    "blockExplorer": {
+      "name": "Cronos Explorer",
+      "url": "https://cronos.org/explorer/testnet3"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 360,
+    "name": "Shape",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "shapescan",
+      "url": "https://shapescan.xyz",
+      "apiUrl": "https://shapescan.xyz/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 369,
+    "name": "PulseChain",
+    "nativeCurrency": {
+      "name": "Pulse",
+      "symbol": "PLS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PulseScan",
+      "url": "https://scan.pulsechain.com",
+      "apiUrl": "https://api.scan.pulsechain.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 388,
+    "name": "Cronos zkEVM Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Cronos zkEVM CRO",
+      "symbol": "zkCRO"
+    },
+    "blockExplorer": {
+      "name": "Cronos zkEVM (Mainnet) Chain Explorer",
+      "url": "https://explorer.zkevm.cronos.org"
+    },
+    "website": "https://cronos.org/zkevm",
+    "github": "cronos_chain",
+    "twitter": "cronos_chain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 420,
+    "name": "Optimism Goerli",
+    "nativeCurrency": {
+      "name": "Goerli Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://goerli-optimism.etherscan.io",
+      "apiUrl": "https://goerli-optimism.etherscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 424,
+    "name": "PGN",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PGN Explorer",
+      "url": "https://explorer.publicgoods.network",
+      "apiUrl": "https://explorer.publicgoods.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 462,
+    "name": "Areon Network Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "TAREA",
+      "symbol": "TAREA"
+    },
+    "blockExplorer": {
+      "name": "Areonscan",
+      "url": "https://areonscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 463,
+    "name": "Areon Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "AREA",
+      "symbol": "AREA"
+    },
+    "blockExplorer": {
+      "name": "Areonscan",
+      "url": "https://areonscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 480,
+    "name": "World Chain",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "World Chain Explorer",
+      "url": "https://worldchain-mainnet.explorer.alchemy.com"
+    },
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 545,
+    "name": "FlowEVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Flow",
+      "symbol": "FLOW"
+    },
+    "blockExplorer": {
+      "name": "Flow Diver",
+      "url": "https://testnet.flowdiver.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 570,
+    "name": "Rollux Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Syscoin",
+      "symbol": "SYS"
+    },
+    "blockExplorer": {
+      "name": "RolluxExplorer",
+      "url": "https://explorer.rollux.com",
+      "apiUrl": "https://explorer.rollux.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 571,
+    "name": "MetaChain Mainnet",
+    "nativeCurrency": {
+      "name": "Metatime Coin",
+      "symbol": "MTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "MetaExplorer",
+      "url": "https://explorer.metatime.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 592,
+    "name": "Astar",
+    "nativeCurrency": {
+      "name": "Astar",
+      "symbol": "ASTR",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "ASTR",
+      "geckoId": "astar"
+    },
+    "blockExplorer": {
+      "name": "Astar Subscan",
+      "url": "https://astar.subscan.io"
+    },
+    "website": "https://unstoppable.astar.network/",
+    "github": "AstarNetwork",
+    "twitter": "AstarNetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 595,
+    "name": "Mandala TC9",
+    "nativeCurrency": {
+      "name": "Mandala",
+      "symbol": "mACA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Mandala Blockscout",
+      "url": "https://blockscout.mandala.aca-staging.network",
+      "apiUrl": "https://blockscout.mandala.aca-staging.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 599,
+    "name": "Metis Goerli",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Metis Goerli",
+      "symbol": "METIS"
+    },
+    "blockExplorer": {
+      "name": "Metis Goerli Explorer",
+      "url": "https://goerli.explorer.metisdevops.link",
+      "apiUrl": "https://goerli.explorer.metisdevops.link/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 686,
+    "name": "Karura",
+    "nativeCurrency": {
+      "name": "Karura",
+      "symbol": "KAR",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Karura Blockscout",
+      "url": "https://blockscout.karura.network",
+      "apiUrl": "https://blockscout.karura.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 690,
+    "name": "Redstone",
+    "description": "Redstone is a Layer 2 blockchain optimized for on-chain games, autonomous worlds, and decentralized applications. It offers low transaction fees, fast performance, and integrates tools like MUD for game development.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer.redstone.xyz"
+    },
+    "website": "https://redstone.xyz/",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 701,
+    "name": "Koi Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Koi Network Native Token",
+      "symbol": "KRING"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://koi-scan.darwinia.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 721,
+    "name": "Lycan",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Lycan",
+      "symbol": "LYC"
+    },
+    "blockExplorer": {
+      "name": "Lycan Explorer",
+      "url": "https://explorer.lycanchain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 747,
+    "name": "FlowEVM Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Flow",
+      "symbol": "FLOW"
+    },
+    "coin": {
+      "symbol": "FLOW",
+      "geckoId": "flow"
+    },
+    "blockExplorer": {
+      "name": "Mainnet Explorer",
+      "url": "https://flowdiver.io"
+    },
+    "website": "https://flow.com/",
+    "github": "flow_blockchain",
+    "twitter": "flow_blockchain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 787,
+    "name": "Acala",
+    "nativeCurrency": {
+      "name": "Acala",
+      "symbol": "ACA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Acala Blockscout",
+      "url": "https://blockscout.acala.network",
+      "apiUrl": "https://blockscout.acala.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 841,
+    "name": "Taraxa Mainnet",
+    "nativeCurrency": {
+      "name": "Tara",
+      "symbol": "TARA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Taraxa Explorer",
+      "url": "https://explorer.mainnet.taraxa.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 842,
+    "name": "Taraxa Testnet",
+    "nativeCurrency": {
+      "name": "Tara",
+      "symbol": "TARA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Taraxa Explorer",
+      "url": "https://explorer.testnet.taraxa.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 888,
+    "name": "Wanchain",
+    "nativeCurrency": {
+      "name": "WANCHAIN",
+      "symbol": "WAN",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "WAN",
+      "geckoId": "wanchain"
+    },
+    "blockExplorer": {
+      "name": "WanScan",
+      "url": "https://wanscan.org"
+    },
+    "website": "https://www.wanchain.org/",
+    "github": "wanchain_org",
+    "twitter": "wanchain_org",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 919,
+    "name": "Mode Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://sepolia.explorer.mode.network",
+      "apiUrl": "https://sepolia.explorer.mode.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 943,
+    "name": "PulseChain V4",
+    "nativeCurrency": {
+      "name": "V4 Pulse",
+      "symbol": "v4PLS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PulseScan",
+      "url": "https://scan.v4.testnet.pulsechain.com",
+      "apiUrl": "https://scan.v4.testnet.pulsechain.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 957,
+    "name": "Lyra Chain",
+    "description": "Derive is a decentralized trading platform offering options, perpetuals, and structured financial products on-chain. It operates using an Optimistic Rollup for fast, scalable, and programmable DeFi trading.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Lyra Explorer",
+      "url": "https://explorer.lyra.finance",
+      "apiUrl": "https://explorer.lyra.finance/api/v2"
+    },
+    "website": "https://www.derive.xyz/",
+    "github": "derivexyz",
+    "twitter": "derivexyz",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 997,
+    "name": "5ireChain Thunder Testnet",
+    "nativeCurrency": {
+      "name": "5ire Token",
+      "symbol": "5IRE",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "5ireChain Explorer",
+      "url": "https://explorer.5ire.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 999,
+    "name": "Wanchain Testnet",
+    "nativeCurrency": {
+      "name": "WANCHAIN",
+      "symbol": "WANt",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "WanScanTest",
+      "url": "https://wanscan.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 999,
+    "name": "Zora Goerli Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Zora Goerli",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://testnet.explorer.zora.energy",
+      "apiUrl": "https://testnet.explorer.zora.energy/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1001,
+    "name": "Kairos Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Kairos KAIA",
+      "symbol": "KAIA"
+    },
+    "blockExplorer": {
+      "name": "KaiaScan",
+      "url": "https://kairos.kaiascan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1004,
+    "name": "Ekta Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "EKTA",
+      "symbol": "EKTA"
+    },
+    "blockExplorer": {
+      "name": "Test Ektascan",
+      "url": "https://test.ektascan.io",
+      "apiUrl": "https://test.ektascan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1017,
+    "name": "BNB Greenfield Chain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "blockExplorer": {
+      "name": "BNB Greenfield Mainnet Scan",
+      "url": "https://greenfieldscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1028,
+    "name": "BitTorrent Chain Testnet",
+    "nativeCurrency": {
+      "name": "BitTorrent",
+      "symbol": "BTT",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Bttcscan",
+      "url": "https://testnet.bttcscan.com",
+      "apiUrl": "https://testnet.bttcscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1030,
+    "name": "Conflux eSpace",
+    "nativeCurrency": {
+      "name": "Conflux",
+      "symbol": "CFX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "ConfluxScan",
+      "url": "https://evm.confluxscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1038,
+    "name": "Bronos Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Bronos Coin",
+      "symbol": "tBRO"
+    },
+    "blockExplorer": {
+      "name": "BronoScan",
+      "url": "https://tbroscan.bronos.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1039,
+    "name": "Bronos",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BRO",
+      "symbol": "BRO"
+    },
+    "blockExplorer": {
+      "name": "BronoScan",
+      "url": "https://broscan.bronos.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1073,
+    "name": "Shimmer Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Shimmer",
+      "symbol": "SMR"
+    },
+    "blockExplorer": {
+      "name": "Shimmer Network Explorer",
+      "url": "https://explorer.evm.testnet.shimmer.network",
+      "apiUrl": "https://explorer.evm.testnet.shimmer.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1075,
+    "name": "IOTA EVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IOTA",
+      "symbol": "IOTA"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://explorer.evm.testnet.iotaledger.net",
+      "apiUrl": "https://explorer.evm.testnet.iotaledger.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1088,
+    "name": "Metis",
+    "description": "Metis is a Layer 2 Ethereum scaling platform designed for decentralized applications. It offers low-cost transactions, fast performance, and tools for developers, focusing on decentralization and scalability.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Metis",
+      "symbol": "METIS"
+    },
+    "coin": {
+      "symbol": "METIS",
+      "geckoId": "metis-token"
+    },
+    "blockExplorer": {
+      "name": "Metis Explorer",
+      "url": "https://explorer.metis.io",
+      "apiUrl": "https://api.routescan.io/v2/network/mainnet/evm/1088/etherscan/api"
+    },
+    "website": "https://www.metis.io/",
+    "github": "MetisL2",
+    "twitter": "MetisL2",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1101,
+    "name": "Polygon zkEVM",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PolygonScan",
+      "url": "https://zkevm.polygonscan.com",
+      "apiUrl": "https://api-zkevm.polygonscan.com/api"
+    },
+    "website": "https://polygon.technology/",
+    "github": "0xPolygon",
+    "twitter": "0xPolygon",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1111,
+    "name": "WEMIX",
+    "nativeCurrency": {
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "wemixExplorer",
+      "url": "https://explorer.wemix.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1112,
+    "name": "WEMIX Testnet",
+    "nativeCurrency": {
+      "name": "WEMIX",
+      "symbol": "tWEMIX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "wemixExplorer",
+      "url": "https://testnet.wemixscan.com",
+      "apiUrl": "https://testnet.wemixscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1116,
+    "name": "Core Dao",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Core",
+      "symbol": "CORE"
+    },
+    "blockExplorer": {
+      "name": "CoreDao",
+      "url": "https://scan.coredao.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1130,
+    "name": "DeFiChain EVM Mainnet",
+    "nativeCurrency": {
+      "name": "DeFiChain",
+      "symbol": "DFI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "DeFiScan",
+      "url": "https://meta.defiscan.live"
+    },
+    "website": "https://defichain.com/",
+    "github": "defichain",
+    "twitter": "defichain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1131,
+    "name": "DeFiChain EVM Testnet",
+    "nativeCurrency": {
+      "name": "DeFiChain",
+      "symbol": "DFI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "DeFiScan",
+      "url": "https://meta.defiscan.live/?network=TestNet"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1135,
+    "name": "Lisk",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "LSK",
+      "geckoId": "lisk"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.lisk.com",
+      "apiUrl": "https://blockscout.lisk.com/api"
+    },
+    "website": "https://lisk.com/",
+    "github": "LiskHQ",
+    "twitter": "LiskHQ",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1281,
+    "name": "Moonbeam Development Node",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "DEV",
+      "symbol": "DEV"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1284,
+    "name": "Moonbeam",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "GLMR",
+      "symbol": "GLMR"
+    },
+    "coin": {
+      "symbol": "GLMR",
+      "geckoId": "moonbeam"
+    },
+    "blockExplorer": {
+      "name": "Moonscan",
+      "url": "https://moonscan.io",
+      "apiUrl": "https://api-moonbeam.moonscan.io/api"
+    },
+    "website": "https://moonbeam.network/",
+    "github": "MoonbeamNetwork",
+    "twitter": "MoonbeamNetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1285,
+    "name": "Moonriver",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MOVR",
+      "symbol": "MOVR"
+    },
+    "coin": {
+      "symbol": "MOVR",
+      "geckoId": "moonriver"
+    },
+    "blockExplorer": {
+      "name": "Moonscan",
+      "url": "https://moonriver.moonscan.io",
+      "apiUrl": "https://api-moonriver.moonscan.io/api"
+    },
+    "website": "https://moonbeam.network/networks/moonriver/",
+    "github": "MoonriverNW",
+    "twitter": "MoonriverNW",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1287,
+    "name": "Moonbase Alpha",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "DEV",
+      "symbol": "DEV"
+    },
+    "blockExplorer": {
+      "name": "Moonscan",
+      "url": "https://moonbase.moonscan.io",
+      "apiUrl": "https://moonbase.moonscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1328,
+    "name": "Sei Testnet",
+    "nativeCurrency": {
+      "name": "Sei",
+      "symbol": "SEI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Seitrace",
+      "url": "https://seitrace.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1329,
+    "name": "Sei Network",
+    "nativeCurrency": {
+      "name": "Sei",
+      "symbol": "SEI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Seitrace",
+      "url": "https://seitrace.com",
+      "apiUrl": "https://seitrace.com/pacific-1/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1337,
+    "name": "Localhost",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1338,
+    "name": "Elysium Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "LAVA",
+      "symbol": "LAVA"
+    },
+    "blockExplorer": {
+      "name": "Elysium testnet explorer",
+      "url": "https://elysium-explorer.vulcanforged.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1453,
+    "name": "MetaChain Istanbul",
+    "nativeCurrency": {
+      "name": "Metatime Coin",
+      "symbol": "MTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "MetaExplorer",
+      "url": "https://istanbul-explorer.metachain.dev"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1513,
+    "name": "Story Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IP",
+      "symbol": "IP"
+    },
+    "blockExplorer": {
+      "name": "Story Testnet Explorer",
+      "url": "https://testnet.storyscan.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1559,
+    "name": "Tenet",
+    "nativeCurrency": {
+      "name": "TENET",
+      "symbol": "TENET",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "TenetScan Mainnet",
+      "url": "https://tenetscan.io",
+      "apiUrl": "https://tenetscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1625,
+    "name": "Gravity Alpha Mainnet",
+    "nativeCurrency": {
+      "name": "G",
+      "symbol": "G",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "G",
+      "geckoId": "g-token"
+    },
+    "blockExplorer": {
+      "name": "Gravity Explorer",
+      "url": "https://explorer.gravity.xyz",
+      "apiUrl": "https://explorer.gravity.xyz/api"
+    },
+    "website": "https://gravity.xyz/",
+    "github": "GravityChain",
+    "twitter": "GravityChain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1663,
+    "name": "Horizen Gobi Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Test ZEN",
+      "symbol": "tZEN"
+    },
+    "blockExplorer": {
+      "name": "Gobi Explorer",
+      "url": "https://gobi-explorer.horizen.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1686,
+    "name": "Mint Sepolia Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Mintchain Testnet explorer",
+      "url": "https://testnet-explorer.mintchain.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1729,
+    "name": "Reya Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Reya Network Explorer",
+      "url": "https://explorer.reya.network"
+    },
+    "website": "https://reya.network",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1750,
+    "name": "Metal L2",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://explorer.metall2.com",
+      "apiUrl": "https://explorer.metall2.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1890,
+    "name": "LightLink Phoenix Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "LightLink Phoenix Explorer",
+      "url": "https://phoenix.lightlink.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1891,
+    "name": "LightLink Pegasus Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "LightLink Pegasus Explorer",
+      "url": "https://pegasus.lightlink.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1946,
+    "name": "Soneium Minato Testnet",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer-testnet.soneium.org",
+      "apiUrl": "https://explorer-testnet.soneium.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1993,
+    "name": "B3 Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://sepolia.explorer.b3.fun"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1994,
+    "name": "Ekta",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "EKTA",
+      "symbol": "EKTA"
+    },
+    "blockExplorer": {
+      "name": "Ektascan",
+      "url": "https://ektascan.io",
+      "apiUrl": "https://ektascan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2000,
+    "name": "Dogechain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Wrapped Dogecoin",
+      "symbol": "WDOGE"
+    },
+    "blockExplorer": {
+      "name": "DogeChainExplorer",
+      "url": "https://explorer.dogechain.dog",
+      "apiUrl": "https://explorer.dogechain.dog/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2017,
+    "name": "Telcoin Adiri Testnet",
+    "nativeCurrency": {
+      "name": "Telcoin",
+      "symbol": "TEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "telscan",
+      "url": "https://telscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2020,
+    "name": "Ronin",
+    "nativeCurrency": {
+      "name": "RON",
+      "symbol": "RON",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ronin Explorer",
+      "url": "https://app.roninchain.com"
+    },
+    "website": "https://roninchain.com/",
+    "github": "Ronin_Network",
+    "twitter": "Ronin_Network",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2021,
+    "name": "Edgeware EdgeEVM Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Edgeware",
+      "symbol": "EDG"
+    },
+    "blockExplorer": {
+      "name": "Edgscan by Bharathcoorg",
+      "url": "https://edgscan.live",
+      "apiUrl": "https://edgscan.live/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2021,
+    "name": "Saigon Testnet",
+    "nativeCurrency": {
+      "name": "RON",
+      "symbol": "RON",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Saigon Explorer",
+      "url": "https://saigon-app.roninchain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2022,
+    "name": "Beresheet BereEVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Testnet EDG",
+      "symbol": "tEDG"
+    },
+    "blockExplorer": {
+      "name": "Edgscan by Bharathcoorg",
+      "url": "https://testnet.edgscan.live",
+      "apiUrl": "https://testnet.edgscan.live/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2024,
+    "name": "Swan Saturn Testnet",
+    "nativeCurrency": {
+      "name": "Swan Ether",
+      "symbol": "sETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Swan Explorer",
+      "url": "https://saturn-explorer.swanchain.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2026,
+    "name": "Edgeless Network",
+    "nativeCurrency": {
+      "name": "Edgeless Wrapped ETH",
+      "symbol": "EwETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Edgeless Explorer",
+      "url": "https://explorer.edgeless.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2192,
+    "name": "SnaxChain",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Snax Explorer",
+      "url": "https://explorer.snaxchain.io",
+      "apiUrl": "https://explorer.snaxchain.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2221,
+    "name": "Kava EVM Testnet",
+    "nativeCurrency": {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Kava EVM Testnet Explorer",
+      "url": "https://testnet.kavascan.com/",
+      "apiUrl": "https://testnet.kavascan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2222,
+    "name": "Kava EVM",
+    "nativeCurrency": {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Kava EVM Explorer",
+      "url": "https://kavascan.com",
+      "apiUrl": "https://kavascan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2331,
+    "name": "RSS3 VSL Sepolia Testnet",
+    "nativeCurrency": {
+      "name": "RSS3",
+      "symbol": "RSS3",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "RSS3 VSL Sepolia Testnet Scan",
+      "url": "https://scan.testnet.rss3.io",
+      "apiUrl": "https://scan.testnet.rss3.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2340,
+    "name": "Atleta Olympia",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Atla",
+      "symbol": "ATLA"
+    },
+    "blockExplorer": {
+      "name": "Atleta Olympia Explorer",
+      "url": "https://blockscout.atleta.network",
+      "apiUrl": "https://blockscout.atleta.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2355,
+    "name": "Silicon zkEVM",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SiliconScope",
+      "url": "https://scope.silicon.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2358,
+    "name": "Kroma Sepolia",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Kroma Sepolia Explorer",
+      "url": "https://blockscout.sepolia.kroma.network",
+      "apiUrl": "https://blockscout.sepolia.kroma.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2442,
+    "name": "Polygon zkEVM Cardona",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PolygonScan",
+      "url": "https://cardona-zkevm.polygonscan.com",
+      "apiUrl": "https://cardona-zkevm.polygonscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2522,
+    "name": "Fraxtal Testnet",
+    "nativeCurrency": {
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "fraxscan testnet",
+      "url": "https://holesky.fraxscan.com",
+      "apiUrl": "https://api-holesky.fraxscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2525,
+    "name": "inEVM Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Injective",
+      "symbol": "INJ"
+    },
+    "blockExplorer": {
+      "name": "inEVM Explorer",
+      "url": "https://inevm.calderaexplorer.xyz",
+      "apiUrl": "https://inevm.calderaexplorer.xyz/api/v2"
+    },
+    "website": "https://inevm.com/",
+    "github": "injective",
+    "twitter": "injective",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2710,
+    "name": "Morph Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Morph Testnet Explorer",
+      "url": "https://explorer-testnet.morphl2.io",
+      "apiUrl": "https://explorer-api-testnet.morphl2.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2730,
+    "name": "XR Sepolia",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "tXR",
+      "symbol": "tXR"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://xr-sepolia-testnet.explorer.caldera.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2810,
+    "name": "Morph Holesky",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Morph Holesky Explorer",
+      "url": "https://explorer-holesky.morphl2.io",
+      "apiUrl": "https://explorer-api-holesky.morphl2.io/api?"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2882,
+    "name": "Chips Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IOTA",
+      "symbol": "IOTA"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2911,
+    "name": "HYCHAIN",
+    "nativeCurrency": {
+      "name": "HYTOPIA",
+      "symbol": "TOPIA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "HYCHAIN Explorer",
+      "url": "https://explorer.hychain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3109,
+    "name": "SatoshiVM Alpha Mainnet",
+    "nativeCurrency": {
+      "name": "BTC",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://svmscan.io",
+      "apiUrl": "https://svmscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3110,
+    "name": "SatoshiVM Testnet",
+    "nativeCurrency": {
+      "name": "BTC",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://testnet.svmscan.io",
+      "apiUrl": "https://testnet.svmscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3141,
+    "name": "Filecoin Hyperspace",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "testnet filecoin",
+      "symbol": "tFIL"
+    },
+    "blockExplorer": {
+      "name": "Filfox",
+      "url": "https://hyperspace.filfox.info/en"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3636,
+    "name": "Botanix Testnet",
+    "nativeCurrency": {
+      "name": "Botanix",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://blockscout.botanixlabs.dev",
+      "apiUrl": "https://blockscout.botanixlabs.dev"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3737,
+    "name": "Crossbell",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CSB",
+      "symbol": "CSB"
+    },
+    "blockExplorer": {
+      "name": "CrossScan",
+      "url": "https://scan.crossbell.io",
+      "apiUrl": "https://scan.crossbell.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3776,
+    "name": "Astar zkEVM",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Astar zkEVM Explorer",
+      "url": "https://astar-zkevm.explorer.startale.com"
+    },
+    "website": "https://astar.network/",
+    "github": "AstarNetwork",
+    "twitter": "AstarNetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3993,
+    "name": "APEX Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://exp-testnet.apexlayer.xyz",
+      "apiUrl": "https://exp-testnet.apexlayer.xyz/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4002,
+    "name": "Fantom Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Fantom",
+      "symbol": "FTM"
+    },
+    "blockExplorer": {
+      "name": "FTMScan",
+      "url": "https://testnet.ftmscan.com",
+      "apiUrl": "https://testnet.ftmscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4090,
+    "name": "Oasis Testnet",
+    "nativeCurrency": {
+      "name": "Fasttoken",
+      "symbol": "FTN",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ftnscan",
+      "url": "https://oasis.ftnscan.com",
+      "apiUrl": "https://oasis.ftnscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4200,
+    "name": "Merlin",
+    "nativeCurrency": {
+      "name": "BTC",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://scan.merlinchain.io",
+      "apiUrl": "https://scan.merlinchain.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4201,
+    "name": "LUKSO Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "LUKSO Testnet",
+      "symbol": "LYXt"
+    },
+    "blockExplorer": {
+      "name": "LUKSO Testnet Explorer",
+      "url": "https://explorer.execution.testnet.lukso.network",
+      "apiUrl": "https://api.explorer.execution.testnet.lukso.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4202,
+    "name": "Lisk Sepolia",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://sepolia-blockscout.lisk.com",
+      "apiUrl": "https://sepolia-blockscout.lisk.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4242,
+    "name": "Nexi",
+    "nativeCurrency": {
+      "name": "Nexi",
+      "symbol": "NEXI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "NexiScan",
+      "url": "https://www.nexiscan.com",
+      "apiUrl": "https://www.nexiscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4337,
+    "name": "Beam",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Beam",
+      "symbol": "BEAM"
+    },
+    "blockExplorer": {
+      "name": "Beam Explorer",
+      "url": "https://subnets.avax.network/beam"
+    },
+    "website": "https://meritcircle.io/",
+    "github": "MeritCircle_IO",
+    "twitter": "MeritCircle_IO",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4460,
+    "name": "Orderly Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Orderly Explorer",
+      "url": "https://explorerl2new-orderly-l2-4460-sepolia-8tc3sd7dvy.t.conduit.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4689,
+    "name": "IoTeX",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IoTeX",
+      "symbol": "IOTX"
+    },
+    "coin": {
+      "symbol": "IOTX",
+      "geckoId": "iotex"
+    },
+    "blockExplorer": {
+      "name": "IoTeXScan",
+      "url": "https://iotexscan.io"
+    },
+    "website": "https://iotex.io/",
+    "github": "iotex_io",
+    "twitter": "iotex_io",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4690,
+    "name": "IoTeX Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IoTeX",
+      "symbol": "IOTX"
+    },
+    "blockExplorer": {
+      "name": "IoTeXScan",
+      "url": "https://testnet.iotexscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4759,
+    "name": "MEVerse Chain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MEVerse",
+      "symbol": "MEV"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://testnet.meversescan.io/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4777,
+    "name": "BlackFort Exchange Network Testnet",
+    "nativeCurrency": {
+      "name": "BlackFort Testnet Token",
+      "symbol": "TBXN",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer.blackfort.network",
+      "apiUrl": "https://testnet-explorer.blackfort.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4801,
+    "name": "World Chain Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "World Chain Sepolia Explorer",
+      "url": "https://worldchain-sepolia.explorer.alchemy.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 4999,
+    "name": "BlackFort Exchange Network",
+    "nativeCurrency": {
+      "name": "BlackFort Token",
+      "symbol": "BXN",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer.blackfort.network",
+      "apiUrl": "https://explorer.blackfort.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5000,
+    "name": "Mantle",
+    "description": "Mantle is a Layer-2 scaling solution for Ethereum, designed to enhance transaction throughput and reduce gas fees through its modular architecture.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MNT",
+      "symbol": "MNT"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Mantle",
+      "symbol": "WMNT",
+      "decimals": 18,
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+    },
+    "coin": {
+      "symbol": "MNT",
+      "geckoId": "mantle"
+    },
+    "blockExplorer": {
+      "name": "Mantle Explorer",
+      "url": "https://mantlescan.xyz/",
+      "apiUrl": "https://api.mantlescan.xyz/api"
+    },
+    "website": "https://www.mantle.xyz/",
+    "github": "0xMantle",
+    "twitter": "0xMantle",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 5001,
+    "name": "Mantle Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MNT",
+      "symbol": "MNT"
+    },
+    "blockExplorer": {
+      "name": "Mantle Testnet Explorer",
+      "url": "https://explorer.testnet.mantle.xyz",
+      "apiUrl": "https://explorer.testnet.mantle.xyz/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5003,
+    "name": "Mantle Sepolia Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MNT",
+      "symbol": "MNT"
+    },
+    "blockExplorer": {
+      "name": "Mantle Testnet Explorer",
+      "url": "https://explorer.sepolia.mantle.xyz/",
+      "apiUrl": "https://explorer.sepolia.mantle.xyz/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5112,
+    "name": "Ham",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ham",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Ham Chain Explorer",
+      "url": "https://explorer.ham.fun",
+      "apiUrl": "https://explorer.ham.fun/api/v2"
+    },
+    "website": "https://ham.fun",
+    "github": "HamOnWarpcast",
+    "twitter": "HamOnWarpcast",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5165,
+    "name": "Bahamut",
+    "nativeCurrency": {
+      "name": "Fasttoken",
+      "symbol": "FTN",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ftnscan",
+      "url": "https://www.ftnscan.com",
+      "apiUrl": "https://www.ftnscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5611,
+    "name": "opBNB Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "tBNB",
+      "symbol": "tBNB"
+    },
+    "blockExplorer": {
+      "name": "opbnbscan",
+      "url": "https://testnet.opbnbscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 5700,
+    "name": "Syscoin Tanenbaum Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Syscoin",
+      "symbol": "SYS"
+    },
+    "blockExplorer": {
+      "name": "SyscoinTestnetExplorer",
+      "url": "https://tanenbaum.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 6000,
+    "name": "BounceBit Testnet",
+    "nativeCurrency": {
+      "name": "BounceBit",
+      "symbol": "BB",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "BB Scan",
+      "url": "https://testnet.bbscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 6001,
+    "name": "BounceBit Mainnet",
+    "nativeCurrency": {
+      "name": "BounceBit",
+      "symbol": "BB",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "BB",
+      "geckoId": "bouncebit"
+    },
+    "blockExplorer": {
+      "name": "BB Scan",
+      "url": "https://bbscan.io"
+    },
+    "website": "https://bouncebit.io/",
+    "github": "bounce_bit",
+    "twitter": "bounce_bit",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7000,
+    "name": "ZetaChain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Zeta",
+      "symbol": "ZETA"
+    },
+    "coin": {
+      "symbol": "ZETA",
+      "geckoId": "zetachain"
+    },
+    "blockExplorer": {
+      "name": "ZetaScan",
+      "url": "https://explorer.zetachain.com"
+    },
+    "website": "https://www.zetachain.com",
+    "github": "zetablockchain",
+    "twitter": "zetablockchain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7001,
+    "name": "ZetaChain Athens Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Zeta",
+      "symbol": "aZETA"
+    },
+    "blockExplorer": {
+      "name": "ZetaScan",
+      "url": "https://athens.explorer.zetachain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7332,
+    "name": "Horizen EON",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ZEN",
+      "symbol": "ZEN"
+    },
+    "coin": {
+      "symbol": "ZEN",
+      "geckoId": "zencash"
+    },
+    "blockExplorer": {
+      "name": "EON Explorer",
+      "url": "https://eon-explorer.horizenlabs.io"
+    },
+    "website": "https://www.horizen.io/",
+    "github": "horizenglobal",
+    "twitter": "horizenglobal",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7518,
+    "name": "MEVerse Chain Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "MEVerse",
+      "symbol": "MEV"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://www.meversescan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7560,
+    "name": "Cyber",
+    "description": "Cyber is a Layer 2 blockchain focused on social applications, offering a smooth user experience with account abstraction, high performance via EigenDA, and decentralized infrastructure. It supports social dApps, ensuring low costs and high transaction throughput while securing the network through ETH restaking and decentralized sequencers.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://cyberscan.co",
+      "apiUrl": "https://cyberscan.co/api"
+    },
+    "website": "https://cyber.co/",
+    "github": "BuildOnCyber",
+    "twitter": "BuildOnCyber",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 7668,
+    "name": "The Root Network",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "blockExplorer": {
+      "name": "Rootscan",
+      "url": "https://rootscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7672,
+    "name": "The Root Network - Porcini",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "blockExplorer": {
+      "name": "Rootscan",
+      "url": "https://porcini.rootscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7700,
+    "name": "Canto",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Canto",
+      "symbol": "CANTO"
+    },
+    "blockExplorer": {
+      "name": "Tuber.Build (Blockscout)",
+      "url": "https://tuber.build"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7887,
+    "name": "Kinto Mainnet",
+    "description": "Kinto is a Layer 2 blockchain solution designed for financial applications, emphasizing safety, scalability, and low transaction costs.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x0E7000967bcB5fC76A5A89082db04ed0Bf9548d8"
+    },
+    "blockExplorer": {
+      "name": "Kinto Explorer",
+      "url": "https://explorer.kinto.xyz"
+    },
+    "website": "https://www.kinto.xyz/",
+    "github": "KintoXYZ",
+    "twitter": "KintoXYZ",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 8082,
+    "name": "Shardeum Sphinx",
+    "nativeCurrency": {
+      "name": "SHARDEUM",
+      "symbol": "SHM",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Shardeum Explorer",
+      "url": "https://explorer-sphinx.shardeum.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8217,
+    "name": "Kaia",
+    "description": "Kaia is a Layer 1 and 2 blockchain platform created through the merger of Klaytn and Finschia, designed for seamless integration into the Web3 ecosystem. It features low latency transactions, supports account abstraction and gas fee delegation, and aims to enhance user experience for over 250 million users via popular messaging apps like LINE and KakaoTalk.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Kaia",
+      "symbol": "KAIA"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Kaia",
+      "symbol": "WKLAY",
+      "decimals": 18,
+      "address": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432"
+    },
+    "coin": {
+      "symbol": "KLAY",
+      "geckoId": "klay-token"
+    },
+    "blockExplorer": {
+      "name": "KaiaScan",
+      "url": "https://kaiascan.io",
+      "apiUrl": "https://api-cypress.klaytnscope.com/api"
+    },
+    "website": "https://kaia.io/",
+    "github": "kaiachain",
+    "twitter": "kaiachain",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 8333,
+    "name": "B3",
+    "description": "B3 is a horizontally-scaled gaming ecosystem built on the Base blockchain, developed by a team of alumni from Base, Coinbase, and Ethereum. It aims to revolutionize on-chain gaming experiences, with its mainnet now live for players.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer.b3.fun"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8453,
+    "name": "Base",
+    "description": "Base is a builder-friendly Ethereum Layer 2 solution designed for low-cost, secure transactions aimed at bringing the next billion users on-chain. Powered by the OP Stack and integrated with Coinbase, it enables developers to easily deploy EVM-compatible applications while ensuring fast performance and scalability.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "Basescan",
+      "url": "https://basescan.org",
+      "apiUrl": "https://api.basescan.org/api"
+    },
+    "website": "https://www.base.org/",
+    "github": "base",
+    "twitter": "base",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 8822,
+    "name": "IOTA EVM",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "IOTA",
+      "symbol": "IOTA"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://explorer.evm.iota.org",
+      "apiUrl": "https://explorer.evm.iota.org/api"
+    },
+    "website": "https://blog.iota.org/iotas-evm-mainnet-launch/",
+    "github": "iota",
+    "twitter": "iota",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8866,
+    "name": "SuperLumio",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Lumio explorer",
+      "url": "https://explorer.lumio.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8880,
+    "name": "Unique Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "UNQ",
+      "symbol": "UNQ"
+    },
+    "blockExplorer": {
+      "name": "Unique Subscan",
+      "url": "https://unique.subscan.io/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8881,
+    "name": "Quartz Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "QTZ",
+      "symbol": "QTZ"
+    },
+    "blockExplorer": {
+      "name": "Quartz Subscan",
+      "url": "https://quartz.subscan.io/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8882,
+    "name": "Opal Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "OPL",
+      "symbol": "OPL"
+    },
+    "blockExplorer": {
+      "name": "Opal Subscan",
+      "url": "https://opal.subscan.io/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 8899,
+    "name": "JIBCHAIN L1",
+    "nativeCurrency": {
+      "name": "JBC",
+      "symbol": "JBC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://exp-l1.jibchain.net",
+      "apiUrl": "https://exp-l1.jibchain.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 9000,
+    "name": "Evmos Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Evmos",
+      "symbol": "EVMOS"
+    },
+    "blockExplorer": {
+      "name": "Evmos Testnet Block Explorer",
+      "url": "https://evm.evmos.dev/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 9001,
+    "name": "Evmos",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Evmos",
+      "symbol": "EVMOS"
+    },
+    "blockExplorer": {
+      "name": "Evmos Block Explorer",
+      "url": "https://escan.live"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 9496,
+    "name": "WeaveVM Alphanet",
+    "nativeCurrency": {
+      "name": "Testnet WeaveVM",
+      "symbol": "tWVM",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "WeaveVM Alphanet Explorer",
+      "url": "https://explorer.wvm.dev"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 9700,
+    "name": "OORT MainnetDev",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "OORT",
+      "symbol": "OORT"
+    },
+    "blockExplorer": {
+      "name": "OORT MainnetDev Explorer",
+      "url": "https://dev-scan.oortech.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 10200,
+    "name": "Gnosis Chiado",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Gnosis",
+      "symbol": "xDAI"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.chiadochain.net",
+      "apiUrl": "https://blockscout.chiadochain.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11011,
+    "name": "Shape Sepolia Testnet",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://explorer-sepolia.shape.network/",
+      "apiUrl": "https://explorer-sepolia.shape.network/api/v2"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11124,
+    "name": "Abstract Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Abstract Block Explorer",
+      "url": "https://explorer.testnet.abs.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11235,
+    "name": "HAQQ Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Islamic Coin",
+      "symbol": "ISLM"
+    },
+    "blockExplorer": {
+      "name": "HAQQ Explorer",
+      "url": "https://explorer.haqq.network",
+      "apiUrl": "https://explorer.haqq.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11501,
+    "name": "BEVM Mainnet",
+    "nativeCurrency": {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Bevmscan",
+      "url": "https://scan-mainnet.bevm.io",
+      "apiUrl": "https://scan-mainnet-api.bevm.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11822,
+    "name": "Artela Testnet",
+    "nativeCurrency": {
+      "name": "ART",
+      "symbol": "ART",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Artela",
+      "url": "https://betanet-scan.artela.network",
+      "apiUrl": "https://betanet-scan.artela.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 12306,
+    "name": "Fibo Chain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "fibo",
+      "symbol": "FIBO"
+    },
+    "blockExplorer": {
+      "name": "FiboScan",
+      "url": "https://scan.fibochain.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 12324,
+    "name": "L3X Protocol",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "L3X Mainnet Explorer",
+      "url": "https://explorer.l3x.com",
+      "apiUrl": "https://explorer.l3x.com/api/v2"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 12325,
+    "name": "L3X Protocol Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "L3X Testnet Explorer",
+      "url": "https://explorer-testnet.l3x.com",
+      "apiUrl": "https://explorer-testnet.l3x.com/api/v2"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 12553,
+    "name": "RSS3 VSL Mainnet",
+    "nativeCurrency": {
+      "name": "RSS3",
+      "symbol": "RSS3",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "RSS3 VSL Mainnet Scan",
+      "url": "https://scan.rss3.io",
+      "apiUrl": "https://scan.rss3.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13001,
+    "name": "SnaxChain Testnet",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Snax Explorer",
+      "url": "https://testnet-explorer.snaxchain.io",
+      "apiUrl": "https://testnet-explorer.snaxchain.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13337,
+    "name": "Beam Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Beam",
+      "symbol": "BEAM"
+    },
+    "blockExplorer": {
+      "name": "Beam Explorer",
+      "url": "https://subnets-test.avax.network/beam"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13370,
+    "name": "Cannon",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13371,
+    "name": "Immutable zkEVM",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Immutable Coin",
+      "symbol": "IMX"
+    },
+    "coin": {
+      "symbol": "IMX",
+      "geckoId": "immutable-x"
+    },
+    "blockExplorer": {
+      "name": "Immutable Explorer",
+      "url": "https://explorer.immutable.com",
+      "apiUrl": "https://explorer.immutable.com/api"
+    },
+    "website": "https://www.immutable.com",
+    "github": "Immutable",
+    "twitter": "Immutable",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13381,
+    "name": "Phoenix Blockchain",
+    "nativeCurrency": {
+      "name": "Phoenix",
+      "symbol": "PHX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Phoenixplorer",
+      "url": "https://phoenixplorer.com",
+      "apiUrl": "https://phoenixplorer.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 13473,
+    "name": "Immutable zkEVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Immutable Coin",
+      "symbol": "IMX"
+    },
+    "blockExplorer": {
+      "name": "Immutable Testnet Explorer",
+      "url": "https://explorer.testnet.immutable.com/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 15557,
+    "name": "EOS EVM Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "EOS",
+      "symbol": "EOS"
+    },
+    "blockExplorer": {
+      "name": "EOS EVM Testnet Explorer",
+      "url": "https://explorer.testnet.evm.eosnetwork.com",
+      "apiUrl": "https://explorer.testnet.evm.eosnetwork.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 17000,
+    "name": "Holesky",
+    "nativeCurrency": {
+      "name": "Holesky Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://holesky.etherscan.io",
+      "apiUrl": "https://api-holesky.etherscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 17069,
+    "name": "Garnet Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer.garnetchain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 17777,
+    "name": "EOS EVM",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "EOS",
+      "symbol": "EOS"
+    },
+    "blockExplorer": {
+      "name": "EOS EVM Explorer",
+      "url": "https://explorer.evm.eosnetwork.com",
+      "apiUrl": "https://explorer.evm.eosnetwork.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 18233,
+    "name": "Unreal",
+    "nativeCurrency": {
+      "name": "reETH",
+      "decimals": 18,
+      "symbol": "reETH"
+    },
+    "blockExplorer": {
+      "name": "Unreal Explorer",
+      "url": "https://unreal.blockscout.com",
+      "apiUrl": "https://unreal.blockscout.com/api/v2"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 22222,
+    "name": "Nautilus Mainnet",
+    "nativeCurrency": {
+      "name": "ZBC",
+      "symbol": "ZBC",
+      "decimals": 9
+    },
+    "blockExplorer": {
+      "name": "NautScan",
+      "url": "https://nautscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 23294,
+    "name": "Oasis Sapphire",
+    "nativeCurrency": {
+      "name": "Sapphire Rose",
+      "symbol": "ROSE",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Oasis Explorer",
+      "url": "https://explorer.oasis.io/mainnet/sapphire"
+    },
+    "website": "https://oasisprotocol.org/sapphire",
+    "github": "OasisProtocol",
+    "twitter": "OasisProtocol",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 23295,
+    "name": "Oasis Sapphire Testnet",
+    "nativeCurrency": {
+      "name": "Sapphire Test Rose",
+      "symbol": "TEST",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Oasis Explorer",
+      "url": "https://explorer.oasis.io/testnet/sapphire"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 23451,
+    "name": "DreyerX Mainnet",
+    "nativeCurrency": {
+      "name": "DreyerX",
+      "symbol": "DRX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "DreyerX Scan",
+      "url": "https://scan.dreyerx.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 23452,
+    "name": "DreyerX Testnet",
+    "nativeCurrency": {
+      "name": "DreyerX",
+      "symbol": "DRX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "DreyerX Testnet Scan",
+      "url": "https://testnet-scan.dreyerx.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 25925,
+    "name": "Bitkub Testnet",
+    "nativeCurrency": {
+      "name": "Bitkub Test",
+      "symbol": "tKUB",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Bitkub Chain Testnet Explorer",
+      "url": "https://testnet.bkcscan.com",
+      "apiUrl": "https://testnet.bkcscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 28882,
+    "name": "Boba Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "BOBAScan",
+      "url": "https://testnet.bobascan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 29112,
+    "name": "HYCHAIN Testnet",
+    "nativeCurrency": {
+      "name": "HYTOPIA",
+      "symbol": "TOPIA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "HYCHAIN Explorer",
+      "url": "https://testnet-rpc.hychain.com/http"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 31337,
+    "name": "Anvil",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 31337,
+    "name": "Hardhat",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 32659,
+    "name": "Fusion Mainnet",
+    "nativeCurrency": {
+      "name": "Fusion",
+      "symbol": "FSN",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "FSN",
+      "geckoId": "fsn"
+    },
+    "blockExplorer": {
+      "name": "FSNscan",
+      "url": "https://fsnscan.com"
+    },
+    "website": "https://www.fusion.org/en",
+    "github": "FUSIONProtocol",
+    "twitter": "FUSIONProtocol",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 32769,
+    "name": "Zilliqa",
+    "nativeCurrency": {
+      "name": "Zilliqa",
+      "symbol": "ZIL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ethernal",
+      "url": "https://evmx.zilliqa.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 33101,
+    "name": "Zilliqa Testnet",
+    "nativeCurrency": {
+      "name": "Zilliqa",
+      "symbol": "ZIL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ethernal",
+      "url": "https://evmx.testnet.zilliqa.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 33111,
+    "name": "Curtis",
+    "nativeCurrency": {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Curtis Explorer",
+      "url": "https://explorer.curtis.apechain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 33979,
+    "name": "Funki",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Funki Mainnet Explorer",
+      "url": "https://funkiscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 34443,
+    "name": "Mode Mainnet",
+    "description": "Mode Network is a Layer 2 blockchain focused on decentralized finance (DeFi), aiming to bring on-chain finance to billions. It partners with Optimism to provide a secure infrastructure for a range of DeFi applications, rewarding users for contributions to ecosystem growth and facilitating a new on-chain economy.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "MODE",
+      "geckoId": "mode"
+    },
+    "blockExplorer": {
+      "name": "Modescan",
+      "url": "https://modescan.io"
+    },
+    "website": "https://www.mode.network/",
+    "github": "modenetwork",
+    "twitter": "modenetwork",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 35441,
+    "name": "Q Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Q",
+      "symbol": "Q"
+    },
+    "blockExplorer": {
+      "name": "Q Mainnet Explorer",
+      "url": "https://explorer.q.org",
+      "apiUrl": "https://explorer.q.org/api"
+    },
+    "website": "https://q.org/",
+    "github": "QBlockchain",
+    "twitter": "QBlockchain",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 35443,
+    "name": "Q Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Q",
+      "symbol": "Q"
+    },
+    "blockExplorer": {
+      "name": "Q Testnet Explorer",
+      "url": "https://explorer.qtestnet.org",
+      "apiUrl": "https://explorer.qtestnet.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42161,
+    "name": "Arbitrum One",
+    "description": "Arbitrum is a leading Layer 2 scaling solution for Ethereum, utilizing advanced rollup technology to enhance transaction speed and reduce costs. It offers various products like Arbitrum Rollup, AnyTrust, and Orbit, designed for scalable and efficient decentralized applications. The platform emphasizes security and compatibility with Ethereum, making it a robust choice for developers and users in the DeFi ecosystem.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+    },
+    "coin": {
+      "symbol": "ARB",
+      "geckoId": "arbitrum"
+    },
+    "blockExplorer": {
+      "name": "Arbiscan",
+      "url": "https://arbiscan.io",
+      "apiUrl": "https://api.arbiscan.io/api"
+    },
+    "website": "https://arbitrum.io/",
+    "github": "arbitrum",
+    "twitter": "arbitrum",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 42170,
+    "name": "Arbitrum Nova",
+    "description": "Arbitrum Nova is a Layer 2 scaling solution that focuses on low transaction fees and high throughput, leveraging AnyTrust technology and a Data Availability Committee (DAC) to minimize costs. It's particularly suited for applications like gaming that require high transaction volumes while maintaining decent security.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x722e8bdd2ce80a4422e880164f2079488e115365"
+    },
+    "blockExplorer": {
+      "name": "Arbiscan",
+      "url": "https://nova.arbiscan.io",
+      "apiUrl": "https://api-nova.arbiscan.io/api"
+    },
+    "website": "https://arbitrum.io/",
+    "github": "arbitrum",
+    "twitter": "arbitrum",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 42220,
+    "name": "Celo",
+    "description": "Celo is a mobile-first blockchain platform designed to make Web3 accessible for everyone, focusing on low-cost transactions and a diverse ecosystem of decentralized applications (dApps). It aims to promote financial inclusion globally by supporting multiple currencies and facilitating easy interactions on mobile devices. Celo emphasizes a regenerative finance (ReFi) approach, fostering sustainable growth within its community.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CELO",
+      "symbol": "CELO"
+    },
+    "coin": {
+      "symbol": "CELO",
+      "geckoId": "celo"
+    },
+    "blockExplorer": {
+      "name": "Celo Explorer",
+      "url": "https://celoscan.io",
+      "apiUrl": "https://api.celoscan.io/api"
+    },
+    "website": "https://celo.org/",
+    "github": "Celo",
+    "twitter": "Celo",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42420,
+    "name": "AssetChain Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Real World Asset",
+      "symbol": "RWA"
+    },
+    "blockExplorer": {
+      "name": "Asset Chain Explorer",
+      "url": "https://scan.assetchain.org",
+      "apiUrl": "https://scan.assetchain.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42421,
+    "name": "AssetChain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Real World Asset",
+      "symbol": "RWA"
+    },
+    "blockExplorer": {
+      "name": "Asset Chain Testnet Explorer",
+      "url": "https://scan-testnet.assetchain.org",
+      "apiUrl": "https://scan-testnet.assetchain.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42766,
+    "name": "ZKFair Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "blockExplorer": {
+      "name": "zkFair Explorer",
+      "url": "https://scan.zkfair.io",
+      "apiUrl": "https://scan.zkfair.io/api"
+    },
+    "website": "https://zkfair.io/",
+    "github": "ZKFCommunity",
+    "twitter": "ZKFCommunity",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 42793,
+    "name": "Etherlink",
+    "description": "Etherlink is a Layer 2 solution powered by Tezos' Smart Rollup technology, focusing on low transaction costs and fast confirmations. It enables seamless EVM compatibility, allowing easy migration of existing Ethereum projects while ensuring decentralized governance and security through a non-custodial architecture.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Tez",
+      "symbol": "XTZ"
+    },
+    "wrappedToken": {
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb"
+    },
+    "blockExplorer": {
+      "name": "Etherlink",
+      "url": "https://explorer.etherlink.com"
+    },
+    "website": "https://www.etherlink.com",
+    "github": "etherlink",
+    "twitter": "etherlink",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 43113,
+    "name": "Avalanche Fuji",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Avalanche Fuji",
+      "symbol": "AVAX"
+    },
+    "blockExplorer": {
+      "name": "SnowTrace",
+      "url": "https://testnet.snowtrace.io",
+      "apiUrl": "https://api-testnet.snowtrace.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 43114,
+    "name": "Avalanche",
+    "description": "Avalanche is a high-performance blockchain platform designed for decentralized applications (dApps) that prioritizes scalability, security, and speed. It features subnets for independent blockchains, enabling developers to launch applications quickly with low fees. With transaction finality under one second, Avalanche supports a vibrant ecosystem of DeFi and other applications while maintaining a commitment to sustainability, consuming minimal energy.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    "wrappedToken": {
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+    },
+    "coin": {
+      "symbol": "AVAX",
+      "geckoId": "avalanche-2"
+    },
+    "blockExplorer": {
+      "name": "SnowTrace",
+      "url": "https://snowtrace.io",
+      "apiUrl": "https://api.snowtrace.io"
+    },
+    "website": "https://www.avax.network/",
+    "github": "avax",
+    "twitter": "avax",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 43851,
+    "name": "ZKFair Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    "blockExplorer": {
+      "name": "zkFair Explorer",
+      "url": "https://testnet-scan.zkfair.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 44787,
+    "name": "Alfajores",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CELO",
+      "symbol": "A-CELO"
+    },
+    "blockExplorer": {
+      "name": "Celo Alfajores Explorer",
+      "url": "https://celo-alfajores.blockscout.com",
+      "apiUrl": "https://celo-alfajores.blockscout.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 46688,
+    "name": "Fusion Testnet",
+    "nativeCurrency": {
+      "name": "Fusion",
+      "symbol": "FSN",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "FSNscan",
+      "url": "https://testnet.fsnscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 48899,
+    "name": "Zircuit Testnet",
+    "nativeCurrency": {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Zircuit Testnet Explorer",
+      "url": "https://explorer.testnet.zircuit.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 48900,
+    "name": "Zircuit Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "ZRC",
+      "geckoId": "zircuit"
+    },
+    "blockExplorer": {
+      "name": "Zircuit Explorer",
+      "url": "https://explorer.zircuit.com"
+    },
+    "website": "https://www.zircuit.com/",
+    "github": "ZircuitL2",
+    "twitter": "ZircuitL2",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 50005,
+    "name": "Yooldo Verse",
+    "nativeCurrency": {
+      "name": "OAS",
+      "symbol": "OAS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Yooldo Verse Explorer",
+      "url": "https://explorer.yooldo-verse.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 50006,
+    "name": "Yooldo Verse Testnet",
+    "nativeCurrency": {
+      "name": "OAS",
+      "symbol": "OAS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Yooldo Verse Testnet Explorer",
+      "url": "https://explorer.testnet.yooldo-verse.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 53457,
+    "name": "DODOchain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "DODO",
+      "symbol": "DODO"
+    },
+    "blockExplorer": {
+      "name": "DODOchain Testnet (Sepolia) Explorer",
+      "url": "https://testnet-scan.dodochain.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 53935,
+    "name": "DFK Chain",
+    "description": "DeFi Kingdoms is a blockchain-based play-to-earn game that combines decentralized finance (DeFi) elements with a fantasy-themed gaming experience. Players can engage in various activities like questing, farming, and trading, all while earning rewards in the game's native tokens. The platform emphasizes community governance and integrates features like NFT heroes and resources, providing a unique blend of gaming and financial opportunities.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Jewel",
+      "symbol": "JEWEL"
+    },
+    "wrappedToken": {
+      "name": "Wrapped JEWEL",
+      "symbol": "WJEWEL",
+      "decimals": 18,
+      "address": "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260"
+    },
+    "coin": {
+      "symbol": "JEWEL",
+      "geckoId": "defi-kingdoms"
+    },
+    "blockExplorer": {
+      "name": "DFKSubnetScan",
+      "url": "https://subnets.avax.network/defi-kingdoms"
+    },
+    "website": "https://defikingdoms.com/",
+    "github": "dfkchain",
+    "twitter": "dfkchain",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 54211,
+    "name": "HAQQ Testedge 2",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Islamic Coin",
+      "symbol": "ISLMT"
+    },
+    "blockExplorer": {
+      "name": "HAQQ Explorer",
+      "url": "https://explorer.testedge2.haqq.network",
+      "apiUrl": "https://explorer.testedge2.haqq.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 57000,
+    "name": "Rollux Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Syscoin",
+      "symbol": "SYS"
+    },
+    "blockExplorer": {
+      "name": "RolluxTestnetExplorer",
+      "url": "https://rollux.tanenbaum.io",
+      "apiUrl": "https://rollux.tanenbaum.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 58008,
+    "name": "PGN ",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PGN Testnet Explorer",
+      "url": "https://explorer.sepolia.publicgoods.network",
+      "apiUrl": "https://explorer.sepolia.publicgoods.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 59140,
+    "name": "Linea Goerli Testnet",
+    "nativeCurrency": {
+      "name": "Linea Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://goerli.lineascan.build",
+      "apiUrl": "https://api-goerli.lineascan.build/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 59141,
+    "name": "Linea Sepolia Testnet",
+    "nativeCurrency": {
+      "name": "Linea Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://sepolia.lineascan.build",
+      "apiUrl": "https://api-sepolia.lineascan.build/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 59144,
+    "name": "Linea Mainnet",
+    "description": "Linea is a secure zkEVM ecosystem designed to empower decentralized applications (dApps) with low gas fees and rapid transactions. Backed by ConsenSys, it prioritizes security through advanced cryptography and partnerships, aiming to create a safe environment for Web3 interactions. Linea supports a wide range of use cases, including DeFi, gaming, and social applications.",
+    "nativeCurrency": {
+      "name": "Linea Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://lineascan.build",
+      "apiUrl": "https://api.lineascan.build/api"
+    },
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 60808,
+    "name": "BOB",
+    "description": "BOB is a hybrid Layer 2 blockchain that combines Bitcoin's security with Ethereum's versatility, allowing developers to build EVM-compatible applications on Bitcoin. It focuses on providing low transaction costs and leveraging dual liquidity from both ecosystems to enhance DeFi mass adoption. BOB aims to empower developers with advanced tooling and infrastructure, making it easier to launch and grow projects.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "BOB Explorer",
+      "url": "https://explorer.gobob.xyz"
+    },
+    "website": "https://www.gobob.xyz",
+    "github": "build_on_bob",
+    "twitter": "build_on_bob",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 62049,
+    "name": "Optopia Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Optopia Explorer",
+      "url": "https://scan-testnet.optopia.ai"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 62050,
+    "name": "Optopia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Optopia Explorer",
+      "url": "https://scan.optopia.ai"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 64240,
+    "name": "Fantom Sonic Open Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Fantom",
+      "symbol": "FTM"
+    },
+    "blockExplorer": {
+      "name": "Fantom Sonic Open Testnet Explorer",
+      "url": "https://public-sonic.fantom.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 80001,
+    "name": "Polygon Mumbai",
+    "nativeCurrency": {
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PolygonScan",
+      "url": "https://mumbai.polygonscan.com",
+      "apiUrl": "https://api-testnet.polygonscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 80002,
+    "name": "Polygon Amoy",
+    "nativeCurrency": {
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PolygonScan",
+      "url": "https://amoy.polygonscan.com",
+      "apiUrl": "https://api-amoy.polygonscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 80084,
+    "name": "Berachain bArtio",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BERA Token",
+      "symbol": "BERA"
+    },
+    "blockExplorer": {
+      "name": "Berachain bArtio Beratrail",
+      "url": "https://bartio.beratrail.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 80085,
+    "name": "Berachain Artio",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BERA Token",
+      "symbol": "BERA"
+    },
+    "blockExplorer": {
+      "name": "Berachain",
+      "url": "https://artio.beratrail.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 81457,
+    "name": "Blast",
+    "description": "Blast is a full-stack EVM blockchain that uniquely offers native yield for Ethereum and stablecoins. It focuses on providing a robust infrastructure for decentralized finance (DeFi) applications, enabling users to bridge and earn while benefiting from low fees and fast transactions. Backed by prominent investors, Blast aims to enhance the DeFi landscape by simplifying access and maximizing returns.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4300000000000000000000000000000000000004"
+    },
+    "blockExplorer": {
+      "name": "Blastscan",
+      "url": "https://blastscan.io",
+      "apiUrl": "https://api.blastscan.io/api"
+    },
+    "website": "https://blast.io",
+    "github": "Blast_L2",
+    "twitter": "Blast_L2",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 84531,
+    "name": "Base Goerli",
+    "nativeCurrency": {
+      "name": "Goerli Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Basescan",
+      "url": "https://goerli.basescan.org",
+      "apiUrl": "https://goerli.basescan.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 84532,
+    "name": "Base Sepolia",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Basescan",
+      "url": "https://sepolia.basescan.org",
+      "apiUrl": "https://api-sepolia.basescan.org/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 88882,
+    "name": "Chiliz Spicy Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ"
+    },
+    "blockExplorer": {
+      "name": "Chiliz Explorer",
+      "url": "http://spicy-explorer.chiliz.com",
+      "apiUrl": "http://spicy-explorer.chiliz.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 88888,
+    "name": "Chiliz Chain",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ"
+    },
+    "coin": {
+      "symbol": "CHZ",
+      "geckoId": "chiliz"
+    },
+    "blockExplorer": {
+      "name": "Chiliz Explorer",
+      "url": "https://scan.chiliz.com",
+      "apiUrl": "https://scan.chiliz.com/api"
+    },
+    "website": "https://www.chiliz.com/",
+    "github": "Chiliz",
+    "twitter": "Chiliz",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 88991,
+    "name": "Jibchain Testnet",
+    "nativeCurrency": {
+      "name": "tJBC",
+      "symbol": "tJBC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://exp.testnet.jibchain.net",
+      "apiUrl": "https://exp.testnet.jibchain.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 100009,
+    "name": "Vechain",
+    "nativeCurrency": {
+      "name": "VeChain",
+      "symbol": "VET",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Vechain Explorer",
+      "url": "https://explore.vechain.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 105105,
+    "name": "Stratis Mainnet",
+    "nativeCurrency": {
+      "name": "Stratis",
+      "symbol": "STRAX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Stratis Explorer",
+      "url": "https://explorer.stratisevm.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 111188,
+    "name": "re.al",
+    "nativeCurrency": {
+      "name": "reETH",
+      "decimals": 18,
+      "symbol": "reETH"
+    },
+    "coin": {
+      "symbol": "RWA",
+      "geckoId": "re-al"
+    },
+    "blockExplorer": {
+      "name": "re.al Explorer",
+      "url": "https://explorer.re.al",
+      "apiUrl": "https://explorer.re.al/api/v2"
+    },
+    "website": "https://www.re.al",
+    "github": "real_rwa",
+    "twitter": "real_rwa",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 128123,
+    "name": "Etherlink Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Tez",
+      "symbol": "XTZ"
+    },
+    "blockExplorer": {
+      "name": "Etherlink Testnet",
+      "url": "https://testnet-explorer.etherlink.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 167000,
+    "name": "Taiko Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Taikoscan",
+      "url": "https://taikoscan.io",
+      "apiUrl": "https://api.taikoscan.io/api"
+    },
+    "website": "https://taiko.xyz",
+    "github": "taikoxyz",
+    "twitter": "taikoxyz",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 167005,
+    "name": "Taiko (Alpha-3 Testnet)",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://explorer.test.taiko.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 167007,
+    "name": "Taiko Jolnir (Alpha-5 Testnet)",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://explorer.jolnir.taiko.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 167008,
+    "name": "Taiko Katla (Alpha-6 Testnet)",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "blockscout",
+      "url": "https://explorer.katla.taiko.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 167009,
+    "name": "Taiko Hekla L2",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Taikoscan",
+      "url": "https://hekla.taikoscan.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 200810,
+    "name": "Bitlayer Testnet",
+    "nativeCurrency": {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Bitlayer(BTR) Scan",
+      "url": "https://testnet.btrscan.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 200901,
+    "name": "Bitlayer",
+    "nativeCurrency": {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Bitlayer(BTR) Scan",
+      "url": "https://www.btrscan.com"
+    },
+    "website": "https://www.bitlayer.org",
+    "github": "BitlayerLabs",
+    "twitter": "BitlayerLabs",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 205205,
+    "name": "Auroria Testnet",
+    "nativeCurrency": {
+      "name": "Auroria Stratis",
+      "symbol": "tSTRAX",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Auroria Testnet Explorer",
+      "url": "https://auroria.explorer.stratisevm.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 314159,
+    "name": "Filecoin Calibration",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "testnet filecoin",
+      "symbol": "tFIL"
+    },
+    "blockExplorer": {
+      "name": "Filscan",
+      "url": "https://calibration.filscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 421613,
+    "name": "Arbitrum Goerli",
+    "nativeCurrency": {
+      "name": "Arbitrum Goerli Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Arbiscan",
+      "url": "https://goerli.arbiscan.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 421614,
+    "name": "Arbitrum Sepolia",
+    "nativeCurrency": {
+      "name": "Arbitrum Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Arbiscan",
+      "url": "https://sepolia.arbiscan.io",
+      "apiUrl": "https://api-sepolia.arbiscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 534351,
+    "name": "Scroll Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Scrollscan",
+      "url": "https://sepolia.scrollscan.com",
+      "apiUrl": "https://api-sepolia.scrollscan.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 534352,
+    "name": "Scroll",
+    "description": "Scroll is a zkEVM Layer 2 solution for Ethereum that enhances scalability while ensuring security and compatibility. By utilizing zero-knowledge proofs, it facilitates efficient transaction processing, enabling high throughput and lower costs for decentralized applications (dApps)",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Scrollscan",
+      "url": "https://scrollscan.com",
+      "apiUrl": "https://api.scrollscan.com/api"
+    },
+    "website": "https://scroll.io/",
+    "github": "Scroll_ZKP",
+    "twitter": "Scroll_ZKP",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 641230,
+    "name": "Bear Network Chain Mainnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "BearNetworkChain",
+      "symbol": "BRNKC"
+    },
+    "blockExplorer": {
+      "name": "BrnkScan",
+      "url": "https://brnkscan.bearnetwork.net",
+      "apiUrl": "https://brnkscan.bearnetwork.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 660279,
+    "name": "Xai Mainnet",
+    "description": "Xai is a Layer 3 solution built on Arbitrum, focused on enhancing scalability for AAA gaming applications. It provides developers with tools to create engaging games and offers users access to in-game economies. Xai promotes community engagement through initiatives like the Vanguard League.",
+    "nativeCurrency": {
+      "name": "Xai",
+      "symbol": "XAI",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Xai",
+      "symbol": "WXAI",
+      "decimals": 18,
+      "address": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF"
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://explorer.xai-chain.net"
+    },
+    "website": "https://xai.games/",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 666666,
+    "name": "Vision Testnet",
+    "nativeCurrency": {
+      "name": "VISION",
+      "symbol": "VS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Vision Scan",
+      "url": "https://visionscan.org/?chain=vpioneer"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 713715,
+    "name": "Sei Devnet",
+    "nativeCurrency": {
+      "name": "Sei",
+      "symbol": "SEI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Seitrace",
+      "url": "https://seitrace.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 743111,
+    "name": "Hemi Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Hemi Sepolia explorer",
+      "url": "https://testnet.explorer.hemi.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 751230,
+    "name": "Bear Network Chain Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "tBRNKC",
+      "symbol": "tBRNKC"
+    },
+    "blockExplorer": {
+      "name": "BrnkTestScan",
+      "url": "https://brnktest-scan.bearnetwork.net",
+      "apiUrl": "https://brnktest-scan.bearnetwork.net/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 808813,
+    "name": "BOB Sepolia",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "BOB Sepolia Explorer",
+      "url": "https://bob-sepolia.explorer.gobob.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 810180,
+    "name": "zkLink Nova",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "ZKL",
+      "geckoId": "zklink"
+    },
+    "blockExplorer": {
+      "name": "zkLink Nova Block Explorer",
+      "url": "https://explorer.zklink.io"
+    },
+    "website": "https://zk.link",
+    "github": "zkLink_Official",
+    "twitter": "zkLink_Official",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 810181,
+    "name": "zkLink Nova Sepolia Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "zkLink Nova Block Explorer",
+      "url": "https://sepolia.explorer.zklink.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 888888,
+    "name": "Vision",
+    "nativeCurrency": {
+      "name": "VISION",
+      "symbol": "VS",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Vision Scan",
+      "url": "https://visionscan.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 984122,
+    "name": "Forma",
+    "nativeCurrency": {
+      "symbol": "TIA",
+      "name": "TIA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Forma Explorer",
+      "url": "https://explorer.forma.art"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 984123,
+    "name": "Forma Sketchpad",
+    "nativeCurrency": {
+      "symbol": "TIA",
+      "name": "TIA",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Sketchpad Explorer",
+      "url": "https://explorer.sketchpad-1.forma.art"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1337803,
+    "name": "Zhejiang",
+    "nativeCurrency": {
+      "name": "Zhejiang Ether",
+      "symbol": "ZhejETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Beaconchain",
+      "url": "https://zhejiang.beaconcha.in"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1612127,
+    "name": "PlayFi Albireo Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "PlayFi Albireo Explorer",
+      "url": "https://albireo-explorer.playfi.ai"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3397901,
+    "name": "Funki Sepolia Sandbox",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Funki Sepolia Sandbox Explorer",
+      "url": "https://sepolia-sandbox.funkichain.com/"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3441005,
+    "name": "Manta Pacific Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Manta Testnet Explorer",
+      "url": "https://pacific-explorer.testnet.manta.network",
+      "apiUrl": "https://pacific-explorer.testnet.manta.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 3441006,
+    "name": "Manta Pacific Sepolia Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Manta Sepolia Testnet Explorer",
+      "url": "https://pacific-explorer.sepolia-testnet.manta.network",
+      "apiUrl": "https://pacific-explorer.sepolia-testnet.manta.network/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 6038361,
+    "name": "Astar zkEVM Testnet zKyoto",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "zKyoto Explorer",
+      "url": "https://zkyoto.explorer.startale.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 7777777,
+    "name": "Zora",
+    "description": "Zora is a decentralized marketplace for NFTs and digital assets, enabling creators to mint, sell, and discover unique content. It focuses on community-driven features, reshaping the trading and valuation of digital art.",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "Explorer",
+      "url": "https://explorer.zora.energy",
+      "apiUrl": "https://explorer.zora.energy/api"
+    },
+    "website": "https://zora.co",
+    "github": "zora",
+    "twitter": "zora",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 9999999,
+    "name": "Fluence",
+    "nativeCurrency": {
+      "name": "FLT",
+      "symbol": "FLT",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.mainnet.fluence.dev",
+      "apiUrl": "https://blockscout.mainnet.fluence.dev/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 10241024,
+    "name": "AlienX Mainnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "AlienX Explorer",
+      "url": "https://explorer.alienxchain.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 10241025,
+    "name": "ALIENX Hal Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "AlienX Explorer",
+      "url": "https://hal-explorer.alienxchain.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11155111,
+    "name": "Sepolia",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Etherscan",
+      "url": "https://sepolia.etherscan.io",
+      "apiUrl": "https://api-sepolia.etherscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11155420,
+    "name": "OP Sepolia",
+    "nativeCurrency": {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://optimism-sepolia.blockscout.com",
+      "apiUrl": "https://optimism-sepolia.blockscout.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 20241133,
+    "name": "Swan Proxima Testnet",
+    "nativeCurrency": {
+      "name": "Swan Ether",
+      "symbol": "sETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Swan Explorer",
+      "url": "https://proxima-explorer.swanchain.io"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 28122024,
+    "name": "Ancient8 Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Ancient8 Celestia Testnet explorer",
+      "url": "https://scanv2-testnet.ancient8.gg",
+      "apiUrl": "https://scanv2-testnet.ancient8.gg/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 37084624,
+    "name": "SKALE Nebula Testnet",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 41144114,
+    "name": "Otim Devnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "ETH",
+      "symbol": "ETH"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 52164803,
+    "name": "Fluence Testnet",
+    "nativeCurrency": {
+      "name": "tFLT",
+      "symbol": "tFLT",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.testnet.fluence.dev",
+      "apiUrl": "https://blockscout.testnet.fluence.dev/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 111557560,
+    "name": "Cyber Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://testnet.cyberscan.co",
+      "apiUrl": "https://testnet.cyberscan.co/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 161221135,
+    "name": "Plume Testnet",
+    "nativeCurrency": {
+      "name": "Plume Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer.plumenetwork.xyz",
+      "apiUrl": "https://testnet-explorer.plumenetwork.xyz/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 168587773,
+    "name": "Blast Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blastscan",
+      "url": "https://sepolia.blastscan.io",
+      "apiUrl": "https://api-sepolia.blastscan.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 245022926,
+    "name": "Neon EVM DevNet",
+    "nativeCurrency": {
+      "name": "NEON",
+      "symbol": "NEON",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Neonscan",
+      "url": "https://devnet.neonscan.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 245022934,
+    "name": "Neon EVM MainNet",
+    "nativeCurrency": {
+      "name": "NEON",
+      "symbol": "NEON",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "NEON",
+      "geckoId": "neon"
+    },
+    "blockExplorer": {
+      "name": "Neonscan",
+      "url": "https://neonscan.org"
+    },
+    "website": "https://neonevm.org/",
+    "github": "Neon_EVM",
+    "twitter": "Neon_EVM",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 278611351,
+    "name": "SKALE | Razor Network",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 391845894,
+    "name": "SKALE | Block Brawlers",
+    "nativeCurrency": {
+      "name": "BRAWL",
+      "symbol": "BRAWL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://frayed-decent-antares.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 531050104,
+    "name": "Sophon Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Sophon",
+      "symbol": "SOPH"
+    },
+    "blockExplorer": {
+      "name": "Sophon Block Explorer",
+      "url": "https://explorer.testnet.sophon.xyz"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 666666666,
+    "name": "Degen",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Degen",
+      "symbol": "DEGEN"
+    },
+    "wrappedToken": {
+      "name": "Wrapped Degen",
+      "symbol": "WDEGEN",
+      "decimals": 18,
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387"
+    },
+    "coin": {
+      "symbol": "DEGEN",
+      "geckoId": "degen-base"
+    },
+    "blockExplorer": {
+      "name": "Degen Chain Explorer",
+      "url": "https://explorer.degen.tips",
+      "apiUrl": "https://explorer.degen.tips/api/v2"
+    },
+    "website": "https://www.degen.tips",
+    "github": "degentokenbase",
+    "twitter": "degentokenbase",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 728126428,
+    "name": "Tron",
+    "nativeCurrency": {
+      "name": "TRON",
+      "symbol": "TRX",
+      "decimals": 6
+    },
+    "blockExplorer": {
+      "name": "Tronscan",
+      "url": "https://tronscan.org",
+      "apiUrl": "https://apilist.tronscanapi.com/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 888888888,
+    "name": "Ancient8",
+    "description": "Ancient8 is a Web3 gaming platform that empowers players and builds community through blockchain integration. It offers tools for earning rewards and enhancing the gaming experience while connecting users within the gaming ecosystem.",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "wrappedToken": {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    "blockExplorer": {
+      "name": "Ancient8 explorer",
+      "url": "https://scan.ancient8.gg",
+      "apiUrl": "https://scan.ancient8.gg/api"
+    },
+    "website": "https://ancient8.gg/",
+    "github": "Ancient8_gg",
+    "twitter": "Ancient8_gg",
+    "citrusProducts": {
+      "dex": true
+    }
+  },
+  {
+    "id": 974399131,
+    "name": "SKALE Calypso Testnet",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://giant-half-dual-testnet.explorer.testnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 999999999,
+    "name": "Zora Sepolia",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Zora Sepolia",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Zora Sepolia Explorer",
+      "url": "https://sepolia.explorer.zora.energy/",
+      "apiUrl": "https://sepolia.explorer.zora.energy/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1020352220,
+    "name": "SKALE Titan Hub",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://aware-fake-trim-testnet.explorer.testnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1026062157,
+    "name": "SKALE | CryptoBlades",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://affectionate-immediate-pollux.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1032942172,
+    "name": "SKALE | Crypto Colosseum",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://haunting-devoted-deneb.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1273227453,
+    "name": "SKALE | Human Protocol",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://wan-red-ain.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1313161554,
+    "name": "Aurora",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "coin": {
+      "symbol": "AURORA",
+      "geckoId": "aurora-near"
+    },
+    "blockExplorer": {
+      "name": "Aurorascan",
+      "url": "https://aurorascan.dev",
+      "apiUrl": "https://aurorascan.dev/api"
+    },
+    "website": "https://aurora.dev/",
+    "github": "auroraisnear",
+    "twitter": "auroraisnear",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1313161555,
+    "name": "Aurora Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH"
+    },
+    "blockExplorer": {
+      "name": "Aurorascan",
+      "url": "https://testnet.aurorascan.dev",
+      "apiUrl": "https://testnet.aurorascan.dev/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1350216234,
+    "name": "SKALE | Titan Community Hub",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://parallel-stormy-spica.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1444673419,
+    "name": "SKALE Europa Testnet",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://juicy-low-small-testnet.explorer.testnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1482601649,
+    "name": "SKALE | Nebula Gaming Hub",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1564830818,
+    "name": "SKALE | Calypso NFT Hub",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1666600000,
+    "name": "Harmony One",
+    "nativeCurrency": {
+      "name": "Harmony",
+      "symbol": "ONE",
+      "decimals": 18
+    },
+    "coin": {
+      "symbol": "ONE",
+      "geckoId": "harmony"
+    },
+    "blockExplorer": {
+      "name": "Harmony Explorer",
+      "url": "https://explorer.harmony.one"
+    },
+    "website": "https://harmony.one/",
+    "github": "harmonyprotocol",
+    "twitter": "harmonyprotocol",
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1722641160,
+    "name": "Silicon Sepolia zkEVM",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SiliconSepoliaScope",
+      "url": "https://scope-sepolia.silicon.network"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 1802203764,
+    "name": "Kakarot Sepolia",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Kakarot Scan",
+      "url": "https://sepolia.kakarotscan.org"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2046399126,
+    "name": "SKALE | Europa Liquidity Hub",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://elated-tan-skat.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2139927552,
+    "name": "SKALE | Exorde",
+    "nativeCurrency": {
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "SKALE Explorer",
+      "url": "https://light-vast-diphda.explorer.mainnet.skalenodes.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11297108099,
+    "name": "Palm Testnet",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "PALM",
+      "symbol": "PALM"
+    },
+    "blockExplorer": {
+      "name": "Chainlens",
+      "url": "https://palm.chainlens.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 11297108109,
+    "name": "Palm",
+    "nativeCurrency": {
+      "decimals": 18,
+      "name": "PALM",
+      "symbol": "PALM"
+    },
+    "blockExplorer": {
+      "name": "Chainlens",
+      "url": "https://palm.chainlens.com"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 37714555429,
+    "name": "Xai Testnet",
+    "nativeCurrency": {
+      "name": "sXai",
+      "symbol": "sXAI",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://testnet-explorer-v2.xai-chain.net"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 123420000220,
+    "name": "Fluence Stage",
+    "nativeCurrency": {
+      "name": "tFLT",
+      "symbol": "tFLT",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Blockscout",
+      "url": "https://blockscout.stage.fluence.dev",
+      "apiUrl": "https://blockscout.stage.fluence.dev/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2713017997578000,
+    "name": "Dchain Testnet",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Dchain Explorer",
+      "url": "https://dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io",
+      "apiUrl": "https://api-dchaintestnet-2713017997578000-1.testnet.sagaexplorer.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  },
+  {
+    "id": 2716446429837000,
+    "name": "Dchain",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "blockExplorer": {
+      "name": "Dchain Explorer",
+      "url": "https://dchain-2716446429837000-1.sagaexplorer.io",
+      "apiUrl": "https://api-dchain-2716446429837000-1.sagaexplorer.io/api"
+    },
+    "citrusProducts": {
+      "dex": false
+    }
+  }
+]

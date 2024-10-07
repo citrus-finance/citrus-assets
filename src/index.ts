@@ -1,6 +1,9 @@
+import buildNetworks from "./buildNetworks.js";
 import { TokenMap } from "./types/TokenMap.js";
 import addManyTokenLists from "./utils/addManyTokenLists.js";
 import updateTokensData from "./utils/updateTokensData.js";
+
+await buildNetworks();
 
 const tokenMap: TokenMap = new Map();
 
