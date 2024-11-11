@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:36:19.819Z",
+  "timestamp": "2024-11-11T22:52:48.924Z",
   "tokens": [
     {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/4/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "name": "Uniswap",
-      "symbol": "UNI",
-      "extensions": {
-        "fallbackUrl": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-      }
+      "symbol": "UNI"
     }
   ]
 }

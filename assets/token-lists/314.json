@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:29.137Z",
+  "timestamp": "2024-11-11T22:50:31.710Z",
   "tokens": [
     {
       "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
@@ -13,10 +13,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/314/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
       "name": "Celer Wrapped USDT",
-      "symbol": "ceUSDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg"
-      }
+      "symbol": "ceUSDT"
     },
     {
       "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/314/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
       "name": "Axelar Wrapped DAI",
-      "symbol": "axlDAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg"
-      }
+      "symbol": "axlDAI"
     },
     {
       "address": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/314/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
       "name": "Wrapped Filecoin",
-      "symbol": "WFIL",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg"
-      }
+      "symbol": "WFIL"
     },
     {
       "address": "0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/314/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg",
       "name": "rSPD Token",
-      "symbol": "rSPD",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg"
-      }
+      "symbol": "rSPD"
     },
     {
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -57,10 +45,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/314/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
       "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg"
-      }
+      "symbol": "axlUSDC"
     }
   ]
 }

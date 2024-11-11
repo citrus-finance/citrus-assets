@@ -1316,6 +1316,9 @@
       "url": "https://shapescan.xyz",
       "apiUrl": "https://shapescan.xyz/api"
     },
+    "website": "https://shape.network/",
+    "github": "Shape_L2",
+    "twitter": "Shape_L2",
     "citrusProducts": {
       "dex": false
     }
@@ -1436,10 +1439,17 @@
       "decimals": 18,
       "address": "0x4200000000000000000000000000000000000006"
     },
+    "coin": {
+      "symbol": "WLD",
+      "geckoId": "worldcoin-wld"
+    },
     "blockExplorer": {
       "name": "World Chain Explorer",
       "url": "https://worldchain-mainnet.explorer.alchemy.com"
     },
+    "website": "https://world.org/",
+    "github": "worldcoin",
+    "twitter": "worldcoin",
     "citrusProducts": {
       "dex": true
     }
@@ -4585,11 +4595,18 @@
       "name": "Real World Asset",
       "symbol": "RWA"
     },
+    "coin": {
+      "symbol": "RWA",
+      "geckoId": "xend-finance"
+    },
     "blockExplorer": {
       "name": "Asset Chain Explorer",
       "url": "https://scan.assetchain.org",
       "apiUrl": "https://scan.assetchain.org/api"
     },
+    "website": "https://xend.finance/",
+    "github": "xendfinance",
+    "twitter": "xendfinance",
     "citrusProducts": {
       "dex": false
     }

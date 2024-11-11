@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:36:07.612Z",
+  "timestamp": "2024-11-11T22:50:37.232Z",
   "tokens": [
     {
       "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
       "name": "SushiToken",
-      "symbol": "m.SUSHI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg"
-      }
+      "symbol": "m.SUSHI"
     },
     {
       "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.jpg",
       "name": "Monkex",
-      "symbol": "MONKEX",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.jpg"
-      }
+      "symbol": "MONKEX"
     },
     {
       "address": "0x420000000000000000000000000000000000000A",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0x420000000000000000000000000000000000000A.jpg",
       "name": "Wrapped Ethereum",
-      "symbol": "WETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg"
-      }
+      "symbol": "WETH"
     },
     {
       "address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0.jpg",
       "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
-      }
+      "symbol": "DAI"
     },
     {
       "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
       "name": "Wrapped Monkex",
-      "symbol": "WMONKEX",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg"
-      }
+      "symbol": "WMONKEX"
     },
     {
       "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
@@ -68,10 +53,7 @@
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
       "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg"
-      }
+      "symbol": "WBTC"
     },
     {
       "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
@@ -79,10 +61,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC.jpg",
       "name": "Tether USD",
-      "symbol": "USDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
-      }
+      "symbol": "USDT"
     },
     {
       "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
@@ -90,10 +69,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png",
       "name": "Mai Stablecoin",
-      "symbol": "MAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
-      }
+      "symbol": "MAI"
     },
     {
       "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
@@ -101,10 +77,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21.jpg",
       "name": "USD Coin",
-      "symbol": "USDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-      }
+      "symbol": "USDC"
     }
   ]
 }

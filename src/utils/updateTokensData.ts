@@ -8,7 +8,7 @@ import { extname } from "path";
 import { viemChainsMap } from "./viemChains.js";
 
 type ExtensionWithFallback = {
-  fallbackUrl: string;
+  wrapped?: string;
 };
 
 type TokenWithFallback = Token<ExtensionWithFallback>;
@@ -41,14 +41,6 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           continue;
         }
 
-        // if the best token is the one we already have, no need to do anything
-        if (
-          t.logoURI === currentTokenMap.get(address)?.extensions?.fallbackUrl
-        ) {
-          outputTokenMap.set(address, currentTokenMap.get(address)!);
-          break;
-        }
-
         const successs = await retrieveFile(
           t.logoURI,
           `assets/token-logos/${t.chainId}/${t.address}${extname(t.logoURI)}`,
@@ -58,9 +50,6 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           outputTokenMap.set(t.address, {
             ...t,
             logoURI: `https://assets.citrus.finance/token-logos/${t.chainId}/${t.address}${extname(t.logoURI)}`,
-            extensions: {
-              fallbackUrl: t.logoURI,
-            },
           });
           break;
         }

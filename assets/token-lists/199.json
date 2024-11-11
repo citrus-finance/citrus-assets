@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:26.467Z",
+  "timestamp": "2024-11-11T22:51:42.256Z",
   "tokens": [
     {
       "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006.jpg",
       "name": "Ether",
-      "symbol": "ETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006.jpg"
-      }
+      "symbol": "ETH"
     },
     {
       "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg",
       "name": "Decentralized USD Tron",
-      "symbol": "USDD.t",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg"
-      }
+      "symbol": "USDD.t"
     },
     {
       "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x185a4091027E2dB459a2433F85f894dC3013aeB5.jpg",
       "name": "Binance Coin",
-      "symbol": "BNB",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x185a4091027E2dB459a2433F85f894dC3013aeB5.jpg"
-      }
+      "symbol": "BNB"
     },
     {
       "address": "0x1A7019909B10cdD2D8B0034293AD729f1C1F604e",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x1A7019909B10cdD2D8B0034293AD729f1C1F604e.jpg",
       "name": "Bitcoin BSC",
-      "symbol": "BTC.b",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x1A7019909B10cdD2D8B0034293AD729f1C1F604e.jpg"
-      }
+      "symbol": "BTC.b"
     },
     {
       "address": "0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e.jpg",
       "name": "Sushi Ethereum",
-      "symbol": "SUSHI.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e.jpg"
-      }
+      "symbol": "SUSHI.e"
     },
     {
       "address": "0x6E626c62D54554737697E633eF9578ac3C4Ba4Ea",
@@ -68,10 +53,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x6E626c62D54554737697E633eF9578ac3C4Ba4Ea.jpg",
       "name": "Binance USD Ethereum",
-      "symbol": "BUSD.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x6E626c62D54554737697E633eF9578ac3C4Ba4Ea.jpg"
-      }
+      "symbol": "BUSD.e"
     },
     {
       "address": "0x935faA2FCec6Ab81265B301a30467Bbc804b43d3",
@@ -79,10 +61,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x935faA2FCec6Ab81265B301a30467Bbc804b43d3.jpg",
       "name": "USD Coin BSC",
-      "symbol": "USDC.t",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x935faA2FCec6Ab81265B301a30467Bbc804b43d3.jpg"
-      }
+      "symbol": "USDC.t"
     },
     {
       "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
@@ -90,10 +69,7 @@
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF.jpg",
       "name": "Wrapped BTC Ethereum",
-      "symbol": "WBTC.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF.jpg"
-      }
+      "symbol": "WBTC.e"
     },
     {
       "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
@@ -101,10 +77,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d.jpg",
       "name": "Tether USD BSC",
-      "symbol": "USDT.b",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d.jpg"
-      }
+      "symbol": "USDT.b"
     },
     {
       "address": "0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50",
@@ -112,10 +85,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50.jpg",
       "name": "Ether BSC",
-      "symbol": "ETH.b",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xA20dfb01DCa223c0E52B0D4991D4aFA7E08e3a50.jpg"
-      }
+      "symbol": "ETH.b"
     },
     {
       "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
@@ -123,10 +93,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xAE17940943BA9440540940DB0F1877f101D39e8b.jpg",
       "name": "USD Coin Ethereum",
-      "symbol": "USDC.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xAE17940943BA9440540940DB0F1877f101D39e8b.jpg"
-      }
+      "symbol": "USDC.e"
     },
     {
       "address": "0xb602f26Bf29B83e4E1595244000E0111A9d39f62",
@@ -134,10 +101,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xb602f26Bf29B83e4E1595244000E0111A9d39f62.jpg",
       "name": "Decentralized USD Ethereum",
-      "symbol": "USDD.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x17F235FD5974318E4E2a5e37919a209f7c37A6d1.jpg"
-      }
+      "symbol": "USDD.e"
     },
     {
       "address": "0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF",
@@ -145,10 +109,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF.jpg",
       "name": "USD Coin BSC",
-      "symbol": "USDC.b",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF.jpg"
-      }
+      "symbol": "USDC.b"
     },
     {
       "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
@@ -156,10 +117,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xdB28719F7f938507dBfe4f0eAe55668903D34a15.jpg",
       "name": "Tether USD Tron",
-      "symbol": "USDT.t",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xdB28719F7f938507dBfe4f0eAe55668903D34a15.jpg"
-      }
+      "symbol": "USDT.t"
     },
     {
       "address": "0xde47772Ac041A4Ccf3c865632131D1093e51C02d",
@@ -167,10 +125,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xde47772Ac041A4Ccf3c865632131D1093e51C02d.jpg",
       "name": "Binance USD BSC",
-      "symbol": "BUSD.b",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xde47772Ac041A4Ccf3c865632131D1093e51C02d.jpg"
-      }
+      "symbol": "BUSD.b"
     },
     {
       "address": "0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B",
@@ -178,10 +133,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B.jpg",
       "name": "Tether USD Ethereum",
-      "symbol": "USDT.e",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xE887512ab8BC60BcC9224e1c3b5Be68E26048B8B.jpg"
-      }
+      "symbol": "USDT.e"
     },
     {
       "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
@@ -189,10 +141,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/199/0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662.jpg",
       "name": "Tron",
-      "symbol": "TRX",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662.jpg"
-      }
+      "symbol": "TRX"
     }
   ]
 }

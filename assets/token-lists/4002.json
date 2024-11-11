@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:28.516Z",
+  "timestamp": "2024-11-11T22:49:51.065Z",
   "tokens": [
     {
       "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/4002/0x91ea991bd52EE3C40EdA2509701d905e1Ee54074.svg",
       "name": "Fantom USD",
-      "symbol": "FUSD",
-      "extensions": {
-        "fallbackUrl": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
-      }
+      "symbol": "FUSD"
     },
     {
       "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/4002/0xf1277d1Ed8AD466beddF92ef448A132661956621.svg?v=003",
       "name": "Wrapped Fantom",
-      "symbol": "WFTM",
-      "extensions": {
-        "fallbackUrl": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
-      }
+      "symbol": "WFTM"
     }
   ]
 }

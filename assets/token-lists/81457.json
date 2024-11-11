@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:24.324Z",
+  "timestamp": "2024-11-11T22:50:26.323Z",
   "tokens": [
     {
       "address": "0x0000000000a1c217530F17948CBb487c743b9F63",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x0000000000a1c217530F17948CBb487c743b9F63.jpg",
       "name": "Ore",
-      "symbol": "ORE",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0000000000a1c217530F17948CBb487c743b9F63.jpg"
-      }
+      "symbol": "ORE"
     },
     {
       "address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
       "name": "P@cman Blastoff",
-      "symbol": "$PACM",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg"
-      }
+      "symbol": "$PACM"
     },
     {
       "address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.jpg",
       "name": "Pump",
-      "symbol": "PUMP",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A.jpg"
-      }
+      "symbol": "PUMP"
     },
     {
       "address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
       "name": "Dog Wif Blast",
-      "symbol": "WIF",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg"
-      }
+      "symbol": "WIF"
     },
     {
       "address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
@@ -57,10 +45,7 @@
       "decimals": 9,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x34050224F9eA1859790b7CBBBe2264f1204771A6.jpg",
       "name": "Blast Inu",
-      "symbol": "BINU",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x34050224F9eA1859790b7CBBBe2264f1204771A6.jpg"
-      }
+      "symbol": "BINU"
     },
     {
       "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
@@ -68,10 +53,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg",
       "name": "Orbit Protocol",
-      "symbol": "ORBIT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x42E12D42b3d6C4A74a88A61063856756Ea2DB357.jpg"
-      }
+      "symbol": "ORBIT"
     },
     {
       "address": "0x4300000000000000000000000000000000000003",
@@ -79,10 +61,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x4300000000000000000000000000000000000003.jpg",
       "name": "USD Blast",
-      "symbol": "USDB",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000003.jpg"
-      }
+      "symbol": "USDB"
     },
     {
       "address": "0x4300000000000000000000000000000000000004",
@@ -90,10 +69,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x4300000000000000000000000000000000000004.jpg",
       "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x4300000000000000000000000000000000000004.jpg"
-      }
+      "symbol": "WETH"
     },
     {
       "address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
@@ -101,10 +77,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg",
       "name": "BlastDEX",
-      "symbol": "BD",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88.jpg"
-      }
+      "symbol": "BD"
     },
     {
       "address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
@@ -112,10 +85,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40.jpg",
       "name": "Monoswap USD",
-      "symbol": "MUSD",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40.jpg"
-      }
+      "symbol": "MUSD"
     },
     {
       "address": "0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84",
@@ -123,10 +93,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
       "name": "Dyor",
-      "symbol": "Dyor",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg"
-      }
+      "symbol": "Dyor"
     },
     {
       "address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
@@ -134,10 +101,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg",
       "name": "BlastCat",
-      "symbol": "BCat",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x9bD75c164dAf830733AC2EA71A0258f95aac7C57.jpg"
-      }
+      "symbol": "BCat"
     },
     {
       "address": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
@@ -145,10 +109,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.jpg",
       "name": "Mia",
-      "symbol": "MIA",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B.jpg"
-      }
+      "symbol": "MIA"
     },
     {
       "address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
@@ -156,10 +117,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg",
       "name": "Blast Pepe",
-      "symbol": "BEPE",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xB582Dc28968c725D2868130752aFa0c13EbF9b1a.jpg"
-      }
+      "symbol": "BEPE"
     },
     {
       "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
@@ -167,10 +125,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xd07379a755A8f11B57610154861D694b2A0f615a.jpg",
       "name": "SwapBlast Finance Token",
-      "symbol": "SBF",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd07379a755A8f11B57610154861D694b2A0f615a.jpg"
-      }
+      "symbol": "SBF"
     },
     {
       "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
@@ -178,10 +133,7 @@
       "decimals": 9,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg",
       "name": "Andy",
-      "symbol": "ANDY",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8.jpg"
-      }
+      "symbol": "ANDY"
     },
     {
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -189,10 +141,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
       "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg"
-      }
+      "symbol": "axlUSDC"
     }
   ]
 }

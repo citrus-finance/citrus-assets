@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:36:07.620Z",
+  "timestamp": "2024-11-11T22:49:51.492Z",
   "tokens": [
     {
       "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x085416975fe14C2A731a97eC38B9bF8135231F62.jpg",
       "name": "TerraUSD",
-      "symbol": "UST",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg"
-      }
+      "symbol": "UST"
     },
     {
       "address": "0x14dF360966a1c4582d2b18EDbdae432EA0A27575",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x14dF360966a1c4582d2b18EDbdae432EA0A27575.jpg",
       "name": "Axelar Wrapped DAI",
-      "symbol": "axlDAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x14dF360966a1c4582d2b18EDbdae432EA0A27575.jpg"
-      }
+      "symbol": "axlDAI"
     },
     {
       "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
@@ -35,10 +29,7 @@
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0.jpg",
       "name": "Wrapped Bitcoin",
-      "symbol": "nomadWBTC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg"
-      }
+      "symbol": "nomadWBTC"
     },
     {
       "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e.jpg",
       "name": "Sushi",
-      "symbol": "anySUSHI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg"
-      }
+      "symbol": "anySUSHI"
     },
     {
       "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C.jpg",
       "name": "Frax Share",
-      "symbol": "FXS",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg"
-      }
+      "symbol": "FXS"
     },
     {
       "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
@@ -68,10 +53,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7.jpg",
       "name": "Wrapped Ether",
-      "symbol": "nomadWETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg"
-      }
+      "symbol": "nomadWETH"
     },
     {
       "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
@@ -79,10 +61,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x322E86852e492a7Ee17f28a78c663da38FB33bfb.jpg",
       "name": "Frax",
-      "symbol": "FRAX",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/frax.jpg"
-      }
+      "symbol": "FRAX"
     },
     {
       "address": "0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f",
@@ -90,10 +69,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg",
       "name": "Axelar Wrapped ETH",
-      "symbol": "axlETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg"
-      }
+      "symbol": "axlETH"
     },
     {
       "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
@@ -101,10 +77,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594.jpg",
       "name": "Tether USD",
-      "symbol": "nomadUSDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
-      }
+      "symbol": "nomadUSDT"
     },
     {
       "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
@@ -112,10 +85,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9.jpg",
       "name": "USD Coin",
-      "symbol": "nomadUSDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-      }
+      "symbol": "nomadUSDC"
     },
     {
       "address": "0x931715FEE2d06333043d11F658C8CE934aC61D0c",
@@ -123,10 +93,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg",
       "name": "USD Coin (Wormhole)",
-      "symbol": "wh.USDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg"
-      }
+      "symbol": "wh.USDC"
     },
     {
       "address": "0xab3f0245B83feB11d15AAffeFD7AD465a59817eD",
@@ -134,10 +101,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD.jpg",
       "name": "Wrapped Ether (Wormhole)",
-      "symbol": "wh.WETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xab3f0245B83feB11d15AAffeFD7AD465a59817eD.jpg"
-      }
+      "symbol": "wh.WETH"
     },
     {
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
@@ -145,10 +109,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xAcc15dC74880C9944775448304B263D191c6077F.png",
       "name": "Wrapped Glimmer",
-      "symbol": "WGLMR",
-      "extensions": {
-        "fallbackUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
-      }
+      "symbol": "WGLMR"
     },
     {
       "address": "0xc234A67a4F840E61adE794be47de455361b52413",
@@ -156,10 +117,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xc234A67a4F840E61adE794be47de455361b52413.jpg",
       "name": "Dai Stablecoin",
-      "symbol": "nomadDAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
-      }
+      "symbol": "nomadDAI"
     },
     {
       "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
@@ -167,10 +125,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xCa01a1D0993565291051daFF390892518ACfAD3A.jpg",
       "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xCa01a1D0993565291051daFF390892518ACfAD3A.jpg"
-      }
+      "symbol": "axlUSDC"
     },
     {
       "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
@@ -178,10 +133,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png",
       "name": "Mai Stablecoin",
-      "symbol": "MAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
-      }
+      "symbol": "MAI"
     },
     {
       "address": "0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038",
@@ -189,10 +141,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038.jpg",
       "name": "Axelar Wrapped USDT",
-      "symbol": "axlUSDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038.jpg"
-      }
+      "symbol": "axlUSDT"
     },
     {
       "address": "0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D",
@@ -200,10 +149,7 @@
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/1284/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg",
       "name": "Wrapped BTC (Wormhole)",
-      "symbol": "wh.WBTC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg"
-      }
+      "symbol": "wh.WBTC"
     }
   ]
 }

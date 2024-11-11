@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:24.345Z",
+  "timestamp": "2024-11-11T22:51:37.550Z",
   "tokens": [
     {
       "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png",
       "name": "USDT Token",
-      "symbol": "USDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
-      }
+      "symbol": "USDT"
     },
     {
       "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png",
       "name": "WBNB Token",
-      "symbol": "WBNB",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
-      }
+      "symbol": "WBNB"
     },
     {
       "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png",
       "name": "BUSD Token",
-      "symbol": "BUSD",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
-      }
+      "symbol": "BUSD"
     }
   ]
 }

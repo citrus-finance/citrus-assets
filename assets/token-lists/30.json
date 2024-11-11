@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:36:21.664Z",
+  "timestamp": "2024-11-11T22:52:40.218Z",
   "tokens": [
     {
       "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/30/0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37.jpg",
       "name": "RIF US Dollar",
-      "symbol": "USDRIF",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37.jpg"
-      }
+      "symbol": "USDRIF"
     },
     {
       "address": "0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/30/0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.jpg",
       "name": "BitPRO",
-      "symbol": "BITP",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.jpg"
-      }
+      "symbol": "BITP"
     },
     {
       "address": "0x9AC7fE28967B30E3A4e6e03286d715b42B453D10",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/30/0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.jpg",
       "name": "MOC",
-      "symbol": "MOC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.jpg"
-      }
+      "symbol": "MOC"
     },
     {
       "address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
@@ -46,10 +37,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/30/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.jpg",
       "name": "Dollar on Chain",
-      "symbol": "DOC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.jpg"
-      }
+      "symbol": "DOC"
     },
     {
       "address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/30/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg",
       "name": "RIFPro",
-      "symbol": "RIFP",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/rootstock/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.jpg"
-      }
+      "symbol": "RIFP"
     }
   ]
 }

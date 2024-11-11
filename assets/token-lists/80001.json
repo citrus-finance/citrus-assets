@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:36:15.113Z",
+  "timestamp": "2024-11-11T22:52:34.901Z",
   "tokens": [
     {
       "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
@@ -13,10 +13,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x3813e82e6f7098b9583FC0F33a962D02018B6803.jpg",
       "name": "Tether USD",
-      "symbol": "USDT",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
-      }
+      "symbol": "USDT"
     },
     {
       "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x5B67676a984807a212b1c59eBFc9B3568a474F0a.jpg",
       "name": "Wrapped Matic",
-      "symbol": "WMATIC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg"
-      }
+      "symbol": "WMATIC"
     },
     {
       "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323.jpg",
       "name": "Ether",
-      "symbol": "ETH",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg"
-      }
+      "symbol": "ETH"
     },
     {
       "address": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
@@ -46,10 +37,7 @@
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7.jpg",
       "name": "USD Coin",
-      "symbol": "USDC",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg"
-      }
+      "symbol": "USDC"
     },
     {
       "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1.jpg",
       "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg"
-      }
+      "symbol": "DAI"
     },
     {
       "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
@@ -68,10 +53,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025.jpg",
       "name": "The Sandbox",
-      "symbol": "SAND",
-      "extensions": {
-        "fallbackUrl": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sand.jpg"
-      }
+      "symbol": "SAND"
     }
   ]
 }

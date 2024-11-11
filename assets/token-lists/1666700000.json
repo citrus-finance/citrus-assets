@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-10-01T20:35:30.966Z",
+  "timestamp": "2024-11-11T22:51:37.144Z",
   "tokens": [
     {
       "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
@@ -13,10 +13,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x0E80905676226159cC3FF62B1876C907C91F7395.png",
       "name": "OneBUSD",
-      "symbol": "1BUSD",
-      "extensions": {
-        "fallbackUrl": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
-      }
+      "symbol": "1BUSD"
     },
     {
       "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
@@ -24,10 +21,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x1E120B3b4aF96e7F394ECAF84375b1C661830013.png",
       "name": "OneETH",
-      "symbol": "1ETH",
-      "extensions": {
-        "fallbackUrl": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
-      }
+      "symbol": "1ETH"
     },
     {
       "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
@@ -35,10 +29,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88.png",
       "name": "OneChainlink",
-      "symbol": "1LINK",
-      "extensions": {
-        "fallbackUrl": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
-      }
+      "symbol": "1LINK"
     },
     {
       "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
@@ -46,10 +37,7 @@
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593.png",
       "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "extensions": {
-        "fallbackUrl": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
-      }
+      "symbol": "WBTC"
     },
     {
       "address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
@@ -57,10 +45,7 @@
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x7a2afac38517d512E55C0bCe3b6805c10a04D60F.png",
       "name": "Wrapped ONE",
-      "symbol": "WONE",
-      "extensions": {
-        "fallbackUrl": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
-      }
+      "symbol": "WONE"
     }
   ]
 }
