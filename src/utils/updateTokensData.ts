@@ -49,8 +49,16 @@ export default async function updateTokensData(newChainMap: TokenMap) {
     if (chainId !== CELO_ID) {
       const viemChain = viemChainsMap.get(chainId);
       const citrusChain = citrusChainsMap.get(chainId);
+      const wrappedAddress = citrusChain?.wrappedToken
+        ? getAddress(citrusChain.wrappedToken?.address)
+        : undefined;
 
-      if (viemChain && citrusChain) {
+      if (
+        viemChain &&
+        citrusChain &&
+        wrappedAddress &&
+        outputTokenMap.has(wrappedAddress)
+      ) {
         outputTokenMap.set("0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", {
           name: viemChain.nativeCurrency.name,
           symbol: viemChain.nativeCurrency.symbol,
@@ -59,9 +67,7 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           chainId,
           logoURI: citrusChain.nativeLogoUrl,
           extensions: {
-            wrapped: citrusChain.wrappedToken
-              ? getAddress(citrusChain.wrappedToken?.address)
-              : undefined,
+            wrapped: wrappedAddress,
           },
         });
       }
