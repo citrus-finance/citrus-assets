@@ -59,13 +59,18 @@ export default async function updateTokensData(newChainMap: TokenMap) {
         wrappedAddress &&
         outputTokenMap.has(wrappedAddress)
       ) {
+        await retrieveFile(
+          citrusChain.nativeLogoUrl,
+          `assets/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE${extname(citrusChain.nativeLogoUrl)}`,
+        );
+
         outputTokenMap.set("0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", {
           name: viemChain.nativeCurrency.name,
           symbol: viemChain.nativeCurrency.symbol,
           decimals: viemChain.nativeCurrency.decimals,
           address: "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
           chainId,
-          logoURI: citrusChain.nativeLogoUrl,
+          logoURI: `https://assets.citrus.finance/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE${extname(citrusChain.nativeLogoUrl)}`,
           extensions: {
             wrapped: wrappedAddress,
           },

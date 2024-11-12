@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:34:06.882Z",
+  "timestamp": "2024-11-12T21:50:00.699Z",
   "tokens": [
     {
       "address": "0x0000000000a1c217530F17948CBb487c743b9F63",
@@ -149,7 +149,7 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 81457,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.svg",
       "extensions": {
         "wrapped": "0x4300000000000000000000000000000000000004"
       }

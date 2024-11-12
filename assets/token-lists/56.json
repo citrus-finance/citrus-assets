@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:34:06.578Z",
+  "timestamp": "2024-11-12T21:50:00.410Z",
   "tokens": [
     {
       "address": "0x0000028a2eB8346cd5c0267856aB7594B7a55308",
@@ -821,7 +821,7 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/bnb.svg",
+      "logoURI": "https://assets.citrus.finance/token-logos/56/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.svg",
       "extensions": {
         "wrapped": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       }

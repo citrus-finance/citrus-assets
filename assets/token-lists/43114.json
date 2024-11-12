@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:35:18.309Z",
+  "timestamp": "2024-11-12T21:51:21.353Z",
   "tokens": [
     {
       "address": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
@@ -397,7 +397,7 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 43114,
-      "logoURI": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
+      "logoURI": "https://assets.citrus.finance/token-logos/43114/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
       "extensions": {
         "wrapped": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
       }

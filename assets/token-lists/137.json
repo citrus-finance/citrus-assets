@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:34:02.534Z",
+  "timestamp": "2024-11-12T21:49:55.493Z",
   "tokens": [
     {
       "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
@@ -1533,7 +1533,7 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/matic.svg",
+      "logoURI": "https://assets.citrus.finance/token-logos/137/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.svg",
       "extensions": {
         "wrapped": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
       }
