@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Rootstock Mainnet",
+  "name": "Citrus Finance on Rootstock Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:03:39.921Z",
+  "timestamp": "2024-11-12T21:36:01.439Z",
   "tokens": [
     {
       "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
@@ -38,17 +38,6 @@
       "logoURI": "https://assets.citrus.finance/token-logos/30/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.jpg",
       "name": "Dollar on Chain",
       "symbol": "DOC"
-    },
-    {
-      "name": "Rootstock Bitcoin",
-      "symbol": "RBTC",
-      "decimals": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 30,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/token-logos/token/btc.jpg",
-      "extensions": {
-        "wrapped": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d"
-      }
     },
     {
       "address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",

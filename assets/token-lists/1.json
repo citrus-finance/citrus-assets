@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Ethereum",
+  "name": "Citrus Finance on Ethereum",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:02:53.028Z",
+  "timestamp": "2024-11-12T21:35:07.582Z",
   "tokens": [
     {
       "address": "0x0000000000085d4780B73119b644AE5ecd22b376",

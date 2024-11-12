@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Palm",
+  "name": "Citrus Finance on Palm",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:02:55.890Z",
+  "timestamp": "2024-11-12T21:35:10.648Z",
   "tokens": [
     {
       "address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",

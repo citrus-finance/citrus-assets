@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - SKALE | Europa Liquidity Hub",
+  "name": "Citrus Finance on SKALE | Europa Liquidity Hub",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:03:01.626Z",
+  "timestamp": "2024-11-12T21:35:17.609Z",
   "tokens": [
     {
       "address": "0x28c6ac22aB738BB01FC6CBA75804dC088aae6193",

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Blast",
+  "name": "Citrus Finance on Blast",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:01:47.476Z",
+  "timestamp": "2024-11-12T21:34:06.882Z",
   "tokens": [
     {
       "address": "0x0000000000a1c217530F17948CBb487c743b9F63",

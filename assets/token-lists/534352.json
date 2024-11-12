@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Scroll",
+  "name": "Citrus Finance on Scroll",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:01:55.819Z",
+  "timestamp": "2024-11-12T21:34:12.481Z",
   "tokens": [
     {
       "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
@@ -22,15 +22,6 @@
       "logoURI": "https://assets.citrus.finance/token-logos/534352/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.jpg",
       "name": "Frax Ether",
       "symbol": "frxETH"
-    },
-    {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 534352,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
-      "extensions": {}
     }
   ]
 }

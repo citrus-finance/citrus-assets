@@ -74,7 +74,7 @@ export default async function updateTokensData(newChainMap: TokenMap) {
     }
 
     const tokenList: TokenListWithFallback = {
-      name: `Citrus Finance - ${viemChainsMap.get(chainId)?.name ?? `chain:${chainId}`}`,
+      name: `Citrus Finance on ${viemChainsMap.get(chainId)?.name ?? `chain:${chainId}`}`,
       version: {
         major: 1,
         minor: 0,

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Harmony One",
+  "name": "Citrus Finance on Harmony One",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:03:48.279Z",
+  "timestamp": "2024-11-12T21:36:09.325Z",
   "tokens": [
     {
       "address": "0x0767D8E1b05eFA8d6A301a65b324B6b66A1CC14c",

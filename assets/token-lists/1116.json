@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Core Dao",
+  "name": "Citrus Finance on Core Dao",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:02:56.608Z",
+  "timestamp": "2024-11-12T21:35:11.467Z",
   "tokens": [
     {
       "address": "0x04596cf36027D177d460c2D0c4235eEc0a97EcBB",

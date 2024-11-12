@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Moonbeam",
+  "name": "Citrus Finance on Moonbeam",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:01:18.855Z",
+  "timestamp": "2024-11-12T21:33:40.159Z",
   "tokens": [
     {
       "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",

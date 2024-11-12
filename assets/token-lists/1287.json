@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Moonbase Alpha",
+  "name": "Citrus Finance on Moonbase Alpha",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:01:50.586Z",
+  "timestamp": "2024-11-12T21:34:08.110Z",
   "tokens": [
     {
       "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - chain:56288",
+  "name": "Citrus Finance on chain:56288",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:03:28.282Z",
+  "timestamp": "2024-11-12T21:35:45.667Z",
   "tokens": [
     {
       "address": "0x1E633Dcd0d3D349126983D58988051F7c62c543D",

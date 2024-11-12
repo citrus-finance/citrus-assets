@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Metis",
+  "name": "Citrus Finance on Metis",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:02:01.004Z",
+  "timestamp": "2024-11-12T21:34:16.580Z",
   "tokens": [
     {
       "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
@@ -78,15 +78,6 @@
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21.jpg",
       "name": "USD Coin",
       "symbol": "USDC"
-    },
-    {
-      "name": "Metis",
-      "symbol": "METIS",
-      "decimals": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 1088,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/metis.svg",
-      "extensions": {}
     }
   ]
 }

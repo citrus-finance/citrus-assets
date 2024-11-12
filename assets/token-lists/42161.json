@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Arbitrum One",
+  "name": "Citrus Finance on Arbitrum One",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:02:05.790Z",
+  "timestamp": "2024-11-12T21:34:21.493Z",
   "tokens": [
     {
       "address": "0x02150e97271fDC0D6E3A16d9094A0948266F07dD",

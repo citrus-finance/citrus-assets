@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance - Filecoin Mainnet",
+  "name": "Citrus Finance on Filecoin Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:01:53.935Z",
+  "timestamp": "2024-11-12T21:34:11.254Z",
   "tokens": [
     {
       "address": "0x422849B355039bC58F2780cc4854919fC9cfaF94",
