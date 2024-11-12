@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-11T22:52:27.089Z",
+  "timestamp": "2024-11-12T21:03:26.192Z",
   "tokens": [
     {
       "chainId": 10,
@@ -558,6 +558,17 @@
       "logoURI": "https://assets.citrus.finance/token-logos/10/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC"
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006"
+      }
     },
     {
       "chainId": 10,

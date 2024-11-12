@@ -11,6 +11,7 @@ export type WrappedToken = {
 type Chain = {
   description?: string;
   logoUrl?: string;
+  nativeLogoUrl: string;
   website?: string;
   wrappedToken?: WrappedToken;
 };
@@ -28,6 +29,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Rootstock
   30: {
@@ -41,6 +44,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/token-logos/token/btc.jpg",
   },
   // BSC
   56: {
@@ -54,6 +59,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/bnb.svg",
   },
   // Gnosis
   100: {
@@ -67,6 +74,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/xdai.svg",
   },
   // Fuse
   122: {
@@ -80,6 +89,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/fuse.svg",
   },
   // Polygon
   137: {
@@ -93,6 +104,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/matic.svg",
   },
   // opBNB
   204: {
@@ -107,6 +120,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/bnb.svg",
   },
   // Fraxtal
   252: {
@@ -118,11 +133,15 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xfc00000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png",
   },
   // Hedera
   295: {
     logoUrl:
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_hedera.jpg",
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/3688/standard/hbar.png",
   },
   // World Chain
   480: {
@@ -134,6 +153,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Redstone
   690: {
@@ -148,6 +169,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Lyra Chain
   957: {
@@ -155,6 +178,8 @@ const chains: Record<number, Chain> = {
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_derive%20chain.jpg",
     description:
       "Derive is a decentralized trading platform offering options, perpetuals, and structured financial products on-chain. It operates using an Optimistic Rollup for fast, scalable, and programmable DeFi trading.",
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Metis
   1088: {
@@ -162,15 +187,22 @@ const chains: Record<number, Chain> = {
       "https://cdn.prod.website-files.com/6507242ad3e4e6ff563301e4/65456ca18876498fe5fd2a49_Symbol.png",
     description:
       "Metis is a Layer 2 Ethereum scaling platform designed for decentralized applications. It offers low-cost transactions, fast performance, and tools for developers, focusing on decentralization and scalability.",
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/metis.svg",
   },
   // Sanko
   1996: {
     logoUrl:
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_sanko.jpg",
     website: "https://sanko.xyz/",
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/30505/standard/dmt.png",
   },
   // Vanar
-  2040: {},
+  2040: {
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/33466/standard/apple-touch-icon.png",
+  },
   // Mantle
   5000: {
     logoUrl:
@@ -183,6 +215,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/30980/standard/token-logo.png",
   },
   // Cyber
   7560: {
@@ -196,6 +230,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Kinto
   7887: {
@@ -209,9 +245,9 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x0E7000967bcB5fC76A5A89082db04ed0Bf9548d8",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
-  // DOS Chain
-  7979: {},
   // Kaia
   8217: {
     logoUrl:
@@ -224,6 +260,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/39901/standard/KAIA.png",
   },
   // B3
   8333: {
@@ -231,6 +269,8 @@ const chains: Record<number, Chain> = {
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_b3.png",
     description:
       "B3 is a horizontally-scaled gaming ecosystem built on the Base blockchain, developed by a team of alumni from Base, Coinbase, and Ethereum. It aims to revolutionize on-chain gaming experiences, with its mainnet now live for players.",
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Base
   8453: {
@@ -244,15 +284,22 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Nautilus
-  22222: {},
+  22222: {
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/36409/standard/logo3.png",
+  },
   // Apechain
   33139: {
     logoUrl:
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_apechain.png",
     description:
       "ApeChain is a blockchain platform designed for community-driven projects and applications, focusing on low transaction costs and high scalability. It aims to create an engaging ecosystem for decentralized finance (DeFi), gaming, and social interaction, promoting a vibrant community.",
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/24383/standard/apecoin.jpg",
   },
   // Mode
   34443: {
@@ -260,14 +307,9 @@ const chains: Record<number, Chain> = {
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_mode.jpg",
     description:
       "Mode Network is a Layer 2 blockchain focused on decentralized finance (DeFi), aiming to bring on-chain finance to billions. It partners with Optimism to provide a secure infrastructure for a range of DeFi applications, rewarding users for contributions to ecosystem growth and facilitating a new on-chain economy.",
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
-  // Aleph Zero
-  41455: {
-    logoUrl:
-      "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_aleph-zero-evm.png",
-  },
-  // Donatuz
-  42026: {},
   // Arbitrum One
   42161: {
     logoUrl:
@@ -280,6 +322,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Arbitrum Nova
   42170: {
@@ -293,6 +337,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x722e8bdd2ce80a4422e880164f2079488e115365",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Celo
   42220: {
@@ -300,6 +346,8 @@ const chains: Record<number, Chain> = {
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_celo.jpg",
     description:
       "Celo is a mobile-first blockchain platform designed to make Web3 accessible for everyone, focusing on low-cost transactions and a diverse ecosystem of decentralized applications (dApps). It aims to promote financial inclusion globally by supporting multiple currencies and facilitating easy interactions on mobile devices. Celo emphasizes a regenerative finance (ReFi) approach, fostering sustainable growth within its community.",
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/11090/standard/InjXBNx9_400x400.jpg",
   },
   // Etherlink
   42793: {
@@ -313,6 +361,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/976/standard/Tezos-logo.png",
   },
   // Avalanche
   43114: {
@@ -326,6 +376,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png",
   },
   // DFK
   53935: {
@@ -339,9 +391,14 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/18570/standard/jewel_token_x2.png",
   },
   // Superposition
-  55244: {},
+  55244: {
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
+  },
   // Linea
   59144: {
     logoUrl:
@@ -354,6 +411,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // BOB
   60808: {
@@ -367,6 +426,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Blast
   81457: {
@@ -380,6 +441,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4300000000000000000000000000000000000004",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Scroll
   534352: {
@@ -387,6 +450,8 @@ const chains: Record<number, Chain> = {
       "https://raw.githubusercontent.com/DefiLlama/icons/refs/heads/v2/assets/chains/rsz_scroll.jpg",
     description:
       "Scroll is a zkEVM Layer 2 solution for Ethereum that enhances scalability while ensuring security and compatibility. By utilizing zero-knowledge proofs, it facilitates efficient transaction processing, enabling high throughput and lower costs for decentralized applications (dApps)",
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Xai
   660279: {
@@ -399,9 +464,14 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/34258/standard/round_icon_2048_px.png",
   },
   // Treasure Ruby
-  978657: {},
+  978657: {
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/18623/standard/magic.png",
+  },
   // Zora
   7777777: {
     logoUrl:
@@ -414,6 +484,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Degen
   666666666: {
@@ -425,6 +497,8 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
     },
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/34515/standard/android-chrome-512x512.png",
   },
   // Ancient8
   888888888: {
@@ -438,9 +512,14 @@ const chains: Record<number, Chain> = {
       decimals: 18,
       address: "0x4200000000000000000000000000000000000006",
     },
+    nativeLogoUrl:
+      "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
   },
   // Lumia
-  994873017: {},
+  994873017: {
+    nativeLogoUrl:
+      "https://assets.coingecko.com/coins/images/50867/standard/lumia.jpg",
+  },
 };
 
 export const citrusChainsMap = new Map(

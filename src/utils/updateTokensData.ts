@@ -6,6 +6,8 @@ import { TokenList } from "../types/TokenList.js";
 import retrieveFile from "./retrieveFile.js";
 import { extname } from "path";
 import { viemChainsMap } from "./viemChains.js";
+import { citrusChainsMap } from "../constants/chains.js";
+import { getAddress } from "viem";
 
 type ExtensionWithFallback = {
   wrapped?: string;
@@ -15,26 +17,13 @@ type TokenWithFallback = Token<ExtensionWithFallback>;
 
 type TokenListWithFallback = TokenList<ExtensionWithFallback>;
 
+const CELO_ID = 42220;
+
 export default async function updateTokensData(newChainMap: TokenMap) {
-  for (let [chainId, newTokenMap] of newChainMap) {
-    const currentTokens = await (async () => {
-      if (!existsSync(`assets/token-lists/${chainId}.json`)) {
-        return [];
-      }
-
-      const file = await readFile(`assets/token-lists/${chainId}.json`, {
-        encoding: "utf-8",
-      });
-      const tokenList: TokenListWithFallback = JSON.parse(file);
-
-      return tokenList.tokens;
-    })();
-
-    const currentTokenMap = new Map(currentTokens.map((x) => [x.address, x]));
-
+  for (let [chainId, tokenMap] of newChainMap) {
     const outputTokenMap = new Map<string, TokenWithFallback>();
 
-    for (let [address, tokens] of newTokenMap) {
+    for (let [_address, tokens] of tokenMap) {
       for (const t of tokens) {
         // skip token if not valid
         if (!t.logoURI || !t.address) {
@@ -53,6 +42,28 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           });
           break;
         }
+      }
+    }
+
+    // NOTE: don't add native to Celo
+    if (chainId !== CELO_ID) {
+      const viemChain = viemChainsMap.get(chainId);
+      const citrusChain = citrusChainsMap.get(chainId);
+
+      if (viemChain && citrusChain) {
+        outputTokenMap.set("0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", {
+          name: viemChain.nativeCurrency.name,
+          symbol: viemChain.nativeCurrency.symbol,
+          decimals: viemChain.nativeCurrency.decimals,
+          address: "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+          chainId,
+          logoURI: citrusChain.nativeLogoUrl,
+          extensions: {
+            wrapped: citrusChain.wrappedToken
+              ? getAddress(citrusChain.wrappedToken?.address)
+              : undefined,
+          },
+        });
       }
     }
 

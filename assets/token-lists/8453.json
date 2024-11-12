@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-11T22:51:40.618Z",
+  "timestamp": "2024-11-12T21:02:58.446Z",
   "tokens": [
     {
       "address": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
@@ -446,6 +446,17 @@
       "logoURI": "https://assets.citrus.finance/token-logos/8453/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92.jpg",
       "name": "Based Chad",
       "symbol": "CHAD"
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8453,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/ethereum.svg",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006"
+      }
     },
     {
       "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",

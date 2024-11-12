@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-11T22:50:27.608Z",
+  "timestamp": "2024-11-12T21:01:50.555Z",
   "tokens": [
     {
       "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
@@ -126,6 +126,17 @@
       "logoURI": "https://assets.citrus.finance/token-logos/100/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d.jpg",
       "name": "Wrapped xDai",
       "symbol": "WXDAI"
+    },
+    {
+      "name": "Gnosis",
+      "symbol": "xDAI",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/refs/heads/master/logos/native-currency-logos/xdai.svg",
+      "extensions": {
+        "wrapped": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d"
+      }
     }
   ]
 }
