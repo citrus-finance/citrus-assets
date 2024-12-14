@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on RSS3 VSL Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.874Z",
+  "tokens": [
+    {
+      "chainId": 12553,
+      "address": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
+      "name": "Wrapped RSS3",
+      "symbol": "WRSS3",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/12553/0xE27D019909738D98Ab7F850C05eE07806c30c71D.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2c38b69b1cb94de53ac03de47cab6ba5"
+      }
+    }
+  ]
+}

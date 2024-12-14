@@ -5,47 +5,1111 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:49:30.376Z",
+  "timestamp": "2024-12-14T23:45:10.103Z",
   "tokens": [
     {
-      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
       "chainId": 59144,
-      "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.jpg",
-      "name": "USD Coin",
-      "symbol": "USDC"
+      "address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+      "name": "Metavault Trade",
+      "symbol": "MVX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0018D96C579121a94307249d47F053E2D687b5e7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c4e835d629de235940c7040850dea5e7"
+      }
     },
     {
-      "address": "0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4",
       "chainId": 59144,
+      "address": "0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067",
+      "name": "Aryze s Digital Gold",
+      "symbol": "EGOLD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0047C3c6D6A9537B2b5D2D969D44A8bEf5bC7067.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e0e4be9b87ace5822646e3aadba1273c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
+      "name": "CatWifCap",
+      "symbol": "CWC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x092b9E25a7D143c83D44c27194F5CeE7c1150F22.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dce3dfa85d8f5dafbc3a0090955ed0e9"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x0A79e44c99505c7f388CA30c787ff97217E73ecC",
+      "name": "Linea Bridged FXS  LInea ",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0A79e44c99505c7f388CA30c787ff97217E73ecC.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "24579032b7a0df399de23b84afcdbdd4"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x0B1A02A7309dFbfAD1Cd4adC096582C87e8A3Ac1",
+      "name": "Horizon",
+      "symbol": "HZN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0B1A02A7309dFbfAD1Cd4adC096582C87e8A3Ac1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0e846988a0cb58b7665a98ac4fc926f1"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0D1E753a25eBda689453309112904807625bEFBe.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "efb55c2aba8c52f1e49421e5c1ceffa7"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6",
+      "name": "Linea Bridged LDO  Linea ",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x0e076AAFd86a71dCEAC65508DAF975425c9D0cB6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ee96c43ff1b526ed27b15c039781d478"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x11D8680C7f8f82F623e840130eB06C33d9F90c89",
+      "name": "Ankr Staked ETH",
+      "symbol": "ANKRETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x11D8680C7f8f82F623e840130eB06C33d9F90c89.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1d15c7fb143087b6f9dfb769c935c418"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x11F98c7E42A367DaB4f200d2fdc460fb445CE9a8",
+      "name": "SpartaDEX",
+      "symbol": "SPARTA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x11F98c7E42A367DaB4f200d2fdc460fb445CE9a8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "18f94971d0be509dc6db8706dea71269"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x13a7F090D46C74acBA98c51786a5c46eD9A474F0",
+      "name": "ScamFari",
+      "symbol": "SCM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x13a7F090D46C74acBA98c51786a5c46eD9A474F0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7e1c728ab2c8a63d4bf7b7ccb32fa6e4"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "name": "Bridged USD Coin  Linea ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c8b6af5c98d280a148f1f069d3d49195"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+      "name": "Lynex",
+      "symbol": "LYNX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "37b48e2c54054446907acf793a5ad83c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+      "name": "LUBE",
+      "symbol": "LUBE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a4d065ab7f8fa3b2559b8149d44a46ae"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "name": "LayerZero Bridged weETH  Linea ",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "261b7f84dd37f8d7a3491672a0db7b97"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1E1F509963A6D33e169D9497b11c7DbFe73B7F13",
+      "name": "Overnight fi USDT ",
+      "symbol": "USDT+",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x1E1F509963A6D33e169D9497b11c7DbFe73B7F13.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bba9d633e07d019668aea5c8056b5926"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+      "name": "ONEPUNCH",
+      "symbol": "ONEPUNCH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x1F63D0EC7193964142ef6B13d901462d0E5CbB50.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "344cdad01238e0434e09e2b0449fe05e"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Staked USDe",
+      "symbol": "sUSDe",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8c888383a188652934c387faef225747"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4",
+      "name": "NFTEarthOFT",
+      "symbol": "NFTE",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4.jpg",
-      "name": "NFTEarthOFT",
-      "symbol": "NFTE"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "355231f216c22ab9f7359e8986a18ec7"
+      }
     },
     {
-      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
       "chainId": 59144,
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dbab6b725bea46cbb368f865de5ce066"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x2442Bd7AE83b51F6664De408A385375fe4a84F52",
+      "name": "Linea Bridged MKR  LInea ",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2442Bd7AE83b51F6664De408A385375fe4a84F52.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1a99a9caedeff817119b9e0ab7014bd5"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "25a608bf94c3170e695f16c5c91d52ac"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+      "name": "Interport Token",
+      "symbol": "ITP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "298e95690eca3805fda9ea6c981973ef"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x2F0b4300074aFC01726262d4cc9c1D2619d7297a",
+      "name": "KUMA Protocol Wrapped USK",
+      "symbol": "WUSK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x2F0b4300074aFC01726262d4cc9c1D2619d7297a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e19a7f6f93a7b349acdb2563997efe7e"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
+      "name": "Ryze",
+      "symbol": "RYZE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7b81064c4c6f7592866aa61ea6b15958"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "45a3283c0bb0007b777fe62f89041db7"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x3b2F62d42DB19B30588648bf1c184865D4C3B1D6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ce2a29d7146953167ab4c72a68e1422"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7",
+      "name": "3A",
+      "symbol": "A3A",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x3d4b2132eD4eA0aa93903713a4dE9F98e625a5c7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "70e81108f020a7ceebb9618a4fa33d24"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+      "name": "MetalSwap",
+      "symbol": "XMT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x3E5D9D8a63CC8a88748f229999CF59487e90721e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2e63b45909b1db03994f9a4d6d7fdcad"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+      "name": "EURO3",
+      "symbol": "EURO3",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f76346b8f274c1d9c11c38fe273ce56f"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+      "name": "LayerZero Bridged rsETH  Linea ",
+      "symbol": "RSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x4186BFC76E2E237523CBC30FD220FE055156b41F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4f2ef511f470f3eddd0ef93e2f8f04c0"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+      "name": "Mendi Finance",
+      "symbol": "MENDI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x43E8809ea748EFf3204ee01F08872F063e44065f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e37506d7d485c7025dfb88cdf889cc02"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
+      "name": "DackieSwap",
+      "symbol": "DACKIE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "620bb27647bb2bca8656d5a328a68465"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+      "name": "Bridged Dai Stablecoin  Linea ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e2df0bef8159561f169a7715332fd2dd"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a",
+      "name": "Clip Finance",
+      "symbol": "CLIP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x4Ea77a86d6E70FfE8Bb947FC86D68a7F086f198a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "977349fb67df5176fd9d4787449e8bd3"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x507940c2469e6E3B33032F1d4FF8d123BDDe2f5C",
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x507940c2469e6E3B33032F1d4FF8d123BDDe2f5C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "32414f18c3ea05964225daebfd4dbb44"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7f83fe3714846403f347ddac89de2e6c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6f25f920faccf986ebb77fcbb6e3625b"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5A32d48411387577c26a15775cf939494dA8064A",
+      "name": "Inception ankrETH",
+      "symbol": "INANKRETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5A32d48411387577c26a15775cf939494dA8064A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2355673fefa47d6bdb642d90f5d9087d"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+      "name": "Inception Restaked ETH",
+      "symbol": "INETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "89b2e99e2eabc63a6fa03ee1f5cd22ab"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5B16228B94b68C7cE33AF2ACc5663eBdE4dCFA2d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "52c85a9f983dbe6c797d923cc83b1d63"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+      "name": "Axelar Wrapped DAI",
+      "symbol": "axlDAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-      "name": "Axelar Wrapped DAI",
-      "symbol": "axlDAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cdddeb81294e4fa456a59a57724ae68f"
+      }
     },
     {
-      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       "chainId": 59144,
+      "address": "0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a",
+      "name": "XRGB",
+      "symbol": "XRGB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.jpg",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5cc5E64AB764A0f1E97F23984E20fD4528356a6a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "653013cab0872a4470b16da6fbd8a728"
+      }
     },
     {
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 59144,
+      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "90c092e78549fc59676c29434d36f0dd"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+      "name": "Foxy",
+      "symbol": "FOXY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x5FBDF89403270a1846F5ae7D113A989F850d1566.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2d22e994c2aadf4bc1227f0e9e707d82"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x60892e742d91d16Be2cB0ffE847e85445989e30B",
+      "name": "Wefi",
+      "symbol": "WEFI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x60892e742d91d16Be2cB0ffE847e85445989e30B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9b7fdc83a1ccbea411ca5ef727408301"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+      "name": "iZUMi Finance",
+      "symbol": "IZI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ff90af5134f11936946f0f7d82045ff0"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x636B22bC471c955A8DB60f28D4795066a8201fa3",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x636B22bC471c955A8DB60f28D4795066a8201fa3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cdf69c81e6bc9f5f6152f9d440cfc45d"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x63bA74893621d3d12F13CEc1e86517eC3d329837.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "78978ebc8bfad7374f72e187b171f9a4"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x68592c5c98C4F4A8a4bC6dA2121E65Da3d1c0917",
+      "name": "Stable USDLR",
+      "symbol": "USDLR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC"
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x68592c5c98C4F4A8a4bC6dA2121E65Da3d1c0917.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "635e6d94a8655f93ff6c6295f7f13b26"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0",
+      "name": "ZAI Stablecoin",
+      "symbol": "USDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "22aabe096d30af009856d084a9e5f61e"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x6bAA318CF7C51C76e17ae1EbE9Bbff96AE017aCB",
+      "name": "Linea Bridged APE  Linea ",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x6bAA318CF7C51C76e17ae1EbE9Bbff96AE017aCB.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cf83f74e3c52075f58e7a7eafc34ca66"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d",
+      "name": "Symbiosis",
+      "symbol": "SIS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x6EF95B6f3b0F39508e3E04054Be96D5eE39eDE0d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "19a146c56092135d8124f1921084ae4c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x757cD583004400ee67e5cC3c7A60C6a62E3F6d30",
+      "name": "DackieSwap",
+      "symbol": "DACKIE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x757cD583004400ee67e5cC3c7A60C6a62E3F6d30.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "80354d5905aa69eae8a803324112ede9"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1df0a925b0eeae19c7a747a89f5ae1d2"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x796000FAd0d00B003B9dd8e531BA90cff39E01E0",
+      "name": "Yellow Duckies",
+      "symbol": "DUCKIES",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x796000FAd0d00B003B9dd8e531BA90cff39E01E0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c84faad1ad96384d7b0f88438ed65609"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0",
+      "name": "XLink Bridged BTC",
+      "symbol": "ABTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f2987a3ed7a7c0015c04ac699b1e0e86"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x7a6AA80B49017f3E091574ab5C6977d863ff3865",
+      "name": "KUMA Protocol US KUMA Interest Bearing ",
+      "symbol": "USK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x7a6AA80B49017f3E091574ab5C6977d863ff3865.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7fa185baa206d97164d7758a4f50f870"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+      "name": "Binance USD  Linea ",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x7d43AABC515C356145049227CeE54B608342c0ad.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6a7b3903c1a5a867a67298f1a8467348"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3",
+      "name": "Linea Bridged PEPE  Linea ",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x7da14988E4f390C2E34ed41DF1814467D3aDe0c3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c199fca75b6a38a2180ba32b35ac03a2"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x7E63A5f1a8F0B4d0934B2f2327DAED3F6bb2ee75",
+      "name": "Across Protocol",
+      "symbol": "ACX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x7E63A5f1a8F0B4d0934B2f2327DAED3F6bb2ee75.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b1918a31584f4ef774310be312c53274"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x808d7c71ad2ba3FA531b068a2417C63106BC0949",
+      "name": "Stargate Finance",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x808d7c71ad2ba3FA531b068a2417C63106BC0949.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d5791eb565123e21a6588b56d130b4b5"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+      "name": "Linpuss",
+      "symbol": "LPUSS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a4026a4d333466d04753447e1cf5986b"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+      "name": "Linda",
+      "symbol": "LINDA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x82cC61354d78b846016b559e3cCD766fa7E793D5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "914ce471a06717ea8504cebf54caaa79"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x8C56017B172226fE024dEa197748FC1eaccC82B1",
+      "name": "XFai",
+      "symbol": "XFIT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x8C56017B172226fE024dEa197748FC1eaccC82B1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "01ba760753c763af8d2f0f596f682fc6"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x9201f3b9DfAB7C13Cd659ac5695D12D605B5F1e6",
+      "name": "EchoDEX Community Portion",
+      "symbol": "ECP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x9201f3b9DfAB7C13Cd659ac5695D12D605B5F1e6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "781f11579b61e42bd00dbd3c851c9f38"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116",
+      "name": "StakeStone ETH",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "912f618df089831c30cf33ffba07edea"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xA0e4c84693266a9d3BBef2f394B33712c76599Ab",
+      "name": "EURO3",
+      "symbol": "EURO3",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xA0e4c84693266a9d3BBef2f394B33712c76599Ab.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "eaf071b1504e9cb74341d41608a51e76"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+      "name": "Bridged Tether  Linea ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xA219439258ca9da29E9Cc4cE5596924745e12B93.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "38bb59c51c4369052438cd0cbf8c49e3"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xa334884bF6b0A066d553D19e507315E839409e62.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7d7c4b99c1814b76b8c729995b893a3b"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4",
+      "name": "Davos Protocol",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xA88B54E6b76Fb97CdB8eCAE868f1458e18a953F4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "79562c1f145729cd49ee750bbbdc6e60"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xa8Ae6365383eb907e6b4B1B7E82A35752cC5Ef8C",
+      "name": "Ankr Network",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xa8Ae6365383eb907e6b4B1B7E82A35752cC5Ef8C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5973843e60a475e07c0b322b275e488d"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+      "name": "Nile",
+      "symbol": "NILE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xAAAac83751090C6ea42379626435f805DDF54DC8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "69ffd7fc271ec06cdaed7a3438874924"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+      "name": "Croak",
+      "symbol": "CROAK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "33f0de9418a350b6c93d042ac9d80e48"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+      "name": "Wrapped stETH",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a3a779a7b36341f9aa61dc587101d0b7"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+      "name": "Overnight fi USD ",
+      "symbol": "USD+",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1daefc4358c4782aa05f8fa831ea5a0f"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xb7f8f05825f3e37DFA68e1F3DF8b6D4B5829bc78",
+      "name": "ZAI Stablecoin",
+      "symbol": "USDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xb7f8f05825f3e37DFA68e1F3DF8b6D4B5829bc78.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7604ffb1eae61eddfa4ff39c845f38b8"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d",
+      "name": "LineaBank Token",
+      "symbol": "LAB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xB97F21D1f2508fF5c73E7B5AF02847640B1ff75d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9886fea502fecdbbd0dd3e2e0bb88ef3"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF",
+      "name": "ARYZE eUSD",
+      "symbol": "EUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xBA2f9e7ae9F5f03FCe7D560f986743659e768bbF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "94082ee16ac1f6cc998289223782d823"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xcc22F6AA610D1b2a0e89EF228079cB3e1831b1D1",
+      "name": "Linea Velocore",
+      "symbol": "LVC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xcc22F6AA610D1b2a0e89EF228079cB3e1831b1D1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d85512a784411ba16b26674c2f5e7ac6"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
+      "name": "Inception stETH",
+      "symbol": "INSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xd08C3F25862077056cb1b710937576Af899a4959.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e03c210115e8e509225e7c9c6fe3000c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+      "name": "Wrapped rsETH",
+      "symbol": "WRSETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xD2671165570f41BBB3B0097893300b6EB6101E6C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "16fbbdcc33ec12ba0681dd0db24dfffd"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xd83af4fbD77f3AB65C3B1Dc4B38D7e67AEcf599A",
+      "name": "Linea Voyage XP",
+      "symbol": "LXP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xd83af4fbD77f3AB65C3B1Dc4B38D7e67AEcf599A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "22fec5f0d9138a9fbb745358aa117523"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xDB9C83cC3E2c61217Ac1763232Ba508DA1064BA1",
+      "name": "ZAI Stablecoin",
+      "symbol": "USDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xDB9C83cC3E2c61217Ac1763232Ba508DA1064BA1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bba14d7a7c5582ef5f5a9f193e045820"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xDD3B8084AF79B9BaE3D1b668c0De08CCC2C9429A",
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xDD3B8084AF79B9BaE3D1b668c0De08CCC2C9429A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d05adb3ef1c2b274da0b0055f5883211"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563",
+      "name": "NotWifGary",
+      "symbol": "NWG",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xE2a6e74118E708f7652FC4c74D2F9Ee5Fa210563.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5eb4e4ee40af90ff6a634db2901bc4b9"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xe4D584ae9b753e549cAE66200A6475d2f00705f7",
+      "name": "Merlin s Seal BTC",
+      "symbol": "M-BTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xe4D584ae9b753e549cAE66200A6475d2f00705f7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "95eb446bfcdc4104cad0f08afeb236a8"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xe516a5CFf996cc399EFBb48355FD5Ab83438E7a9",
+      "name": "Linea Bridged GNO  Linea ",
+      "symbol": "GNO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xe516a5CFf996cc399EFBb48355FD5Ab83438E7a9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6b49a0776662dc0e16cdb29ebbf5b605"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "16debf2f26f7014cb8195e18aef7cf01"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+      "name": "Donald Toad Coin",
+      "symbol": "DTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "961b339e5dd5598a94674efa3a4aaab2"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Bridged USDC",
+      "symbol": "AXLUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f167112a44a1168b38a873c0c7c3668b"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xeC859566fC5d7ED84Ac823509F3f7db06C461b20",
+      "name": "Unfettered Ecosystem",
+      "symbol": "SOULS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xeC859566fC5d7ED84Ac823509F3f7db06C461b20.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0ffceb9d5ba3e637bc7da0437a74988c"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+      "name": "Axelar Bridged Frax Ether",
+      "symbol": "AXLFRXETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEcc68d0451E20292406967Fe7C04280E5238Ac7D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "503fa032e24ac3f3b71fefacf7843106"
+      }
     },
     {
       "name": "Linea Ether",
@@ -53,9 +1117,49 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 59144,
-      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.svg",
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
-        "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+        "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+      },
+      "tags": [
+        "Top"
+      ]
+    },
+    {
+      "chainId": 59144,
+      "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+      "name": "MAI  Linea ",
+      "symbol": "MIMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xf3B001D64C656e30a62fbaacA003B1336b4ce12A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c79726f42c3d77092a82dbd2456cbfe0"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xf5C6825015280CdfD0b56903F9F8B5A2233476F5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9633c5959969c6115bb67a1f270ff2f1"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xfd7353c0bcbE8eAdafE31e5256e3d4f04792A374",
+      "name": "Dackie USD",
+      "symbol": "DCKUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xfd7353c0bcbE8eAdafE31e5256e3d4f04792A374.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d6ab4a2b98622ec07292ac5ad3a7a73e"
       }
     }
   ]

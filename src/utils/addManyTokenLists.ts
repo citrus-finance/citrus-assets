@@ -11,10 +11,12 @@ export default async function addManyTokenLists(
     gitUrl,
     tokenListsDir,
     tokenListTransform = (x) => x,
+    tags = {},
   }: {
     gitUrl: string;
     tokenListsDir: string;
     tokenListTransform?: (file: any) => Pick<TokenList, "tokens" | "tokenMap">;
+    tags?: Record<string, string[]>;
   },
 ) {
   const { dir: repoDir, remoteDir: repoRemoteDir } = await gitPull(gitUrl);
@@ -33,12 +35,12 @@ export default async function addManyTokenLists(
     const tokenList = tokenListTransform(JSON.parse(file));
 
     for (let token of tokenList.tokens) {
-      addToken(tokenMap, token);
+      addToken(tokenMap, token, tags);
     }
 
     if (tokenList.tokenMap) {
       for (let token of Object.values(tokenList.tokenMap)) {
-        addToken(tokenMap, token);
+        addToken(tokenMap, token, tags);
       }
     }
   }

@@ -1,27 +1,24 @@
-import { mkdir, readFile, writeFile } from "fs/promises";
+import { mkdir, writeFile } from "fs/promises";
 import { Token } from "../types/Token.js";
 import { TokenMap } from "../types/TokenMap.js";
 import { existsSync } from "fs";
 import { TokenList } from "../types/TokenList.js";
 import retrieveFile from "./retrieveFile.js";
-import { extname } from "path";
-import { viemChainsMap } from "./viemChains.js";
-import { citrusChainsMap } from "../constants/chains.js";
+import { getViemChain } from "./viemChains.js";
 import { getAddress } from "viem";
-
-type ExtensionWithFallback = {
-  wrapped?: string;
-};
-
-type TokenWithFallback = Token<ExtensionWithFallback>;
-
-type TokenListWithFallback = TokenList<ExtensionWithFallback>;
+import { config } from "../../config.js";
+import { hash } from "crypto";
+import getCurrentTokensMap from "./getCurrentTokensMap.js";
+import { OutputToken, OutputTokenList } from "../types/OutputTokenList.js";
+import { getNativeWrappedToken } from "./wrapped.js";
+import { getChainData } from "./talisman.js";
 
 const CELO_ID = 42220;
 
 export default async function updateTokensData(newChainMap: TokenMap) {
   for (let [chainId, tokenMap] of newChainMap) {
-    const outputTokenMap = new Map<string, TokenWithFallback>();
+    const currentTokenMap = await getCurrentTokensMap(chainId);
+    const outputTokenMap = new Map<string, OutputToken>();
 
     for (let [_address, tokens] of tokenMap) {
       for (const t of tokens) {
@@ -30,15 +27,26 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           continue;
         }
 
-        const successs = await retrieveFile(
+        const cacheHash = hash("md5", t.logoURI);
+        const currentToken = currentTokenMap.get(t.address);
+
+        if (currentToken && currentToken.extensions.cacheHash === cacheHash) {
+          outputTokenMap.set(t.address, currentToken);
+          break;
+        }
+
+        const fileExt = await retrieveFile(
           t.logoURI,
-          `assets/token-logos/${t.chainId}/${t.address}${extname(t.logoURI)}`,
+          `assets/token-logos/${t.chainId}/${t.address}`,
         );
 
-        if (successs) {
+        if (fileExt) {
           outputTokenMap.set(t.address, {
             ...t,
-            logoURI: `https://assets.citrus.finance/token-logos/${t.chainId}/${t.address}${extname(t.logoURI)}`,
+            logoURI: `https://assets.citrus.finance/token-logos/${t.chainId}/${t.address}.${fileExt}`,
+            extensions: {
+              cacheHash,
+            },
           });
           break;
         }
@@ -47,21 +55,21 @@ export default async function updateTokensData(newChainMap: TokenMap) {
 
     // NOTE: don't add native to Celo
     if (chainId !== CELO_ID) {
-      const viemChain = viemChainsMap.get(chainId);
-      const citrusChain = citrusChainsMap.get(chainId);
-      const wrappedAddress = citrusChain?.wrappedToken
-        ? getAddress(citrusChain.wrappedToken?.address)
-        : undefined;
+      const chainConfig = config.chains[chainId];
+      const viemChain = getViemChain(chainId);
+      const wrapped = getNativeWrappedToken(chainId);
+
+      const wrappedAddress = wrapped ? getAddress(wrapped.address) : undefined;
 
       if (
         viemChain &&
-        citrusChain &&
+        chainConfig &&
         wrappedAddress &&
         outputTokenMap.has(wrappedAddress)
       ) {
-        await retrieveFile(
-          citrusChain.nativeLogoUrl,
-          `assets/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE${extname(citrusChain.nativeLogoUrl)}`,
+        const fileExt = await retrieveFile(
+          chainConfig.nativeLogoUrl,
+          `assets/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`,
         );
 
         outputTokenMap.set("0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE", {
@@ -70,16 +78,18 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           decimals: viemChain.nativeCurrency.decimals,
           address: "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
           chainId,
-          logoURI: `https://assets.citrus.finance/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE${extname(citrusChain.nativeLogoUrl)}`,
+          logoURI: `https://assets.citrus.finance/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.${fileExt}`,
           extensions: {
             wrapped: wrappedAddress,
+            cacheHash: hash("md5", chainConfig.nativeLogoUrl),
           },
+          tags: ["Top"],
         });
       }
     }
 
-    const tokenList: TokenListWithFallback = {
-      name: `Citrus Finance on ${viemChainsMap.get(chainId)?.name ?? `chain:${chainId}`}`,
+    const tokenList: OutputTokenList = {
+      name: `Citrus Finance on ${getViemChain(chainId)?.name ?? `chain:${chainId}`}`,
       version: {
         major: 1,
         minor: 0,

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Rollux Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.564Z",
+  "tokens": [
+    {
+      "chainId": 570,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/570/0x4200000000000000000000000000000000000006.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ddfbba2ca4ebf8baff7900d82ec5c811"
+      }
+    }
+  ]
+}

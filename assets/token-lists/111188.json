@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on re.al",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:41.754Z",
+  "tokens": [
+    {
+      "chainId": 111188,
+      "address": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
+      "name": "Wrapped Real Ether",
+      "symbol": "WREETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/111188/0x90c6E93849E06EC7478ba24522329d14A5954Df4.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9464363af9b5bdb929d92151cb829cba"
+      }
+    }
+  ]
+}

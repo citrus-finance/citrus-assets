@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Rollux Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:53.550Z",
+  "tokens": [
+    {
+      "chainId": 57000,
+      "address": "0xcAc0759160d57A33D332Ed36a555C10957694407",
+      "name": "Wrapped TSYS",
+      "symbol": "WTSYS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/57000/0xcAc0759160d57A33D332Ed36a555C10957694407.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ddfbba2ca4ebf8baff7900d82ec5c811"
+      }
+    }
+  ]
+}

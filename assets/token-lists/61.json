@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Ethereum Classic",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:39:38.871Z",
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+      "name": "Wrapped ETC",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/61/0x82A618305706B14e7bcf2592D4B9324A366b6dAd.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f34e274a5a026c67dc4294fc05e3aaf0"
+      }
+    }
+  ]
+}

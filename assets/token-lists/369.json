@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on PulseChain",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.358Z",
+  "tokens": [
+    {
+      "chainId": 369,
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "name": "Wrapped Pulse",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/369/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d59f19d5991fefa232d0f34a40237a6e"
+      }
+    }
+  ]
+}

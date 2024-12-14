@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Fluence Stage",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:53.520Z",
+  "tokens": [
+    {
+      "chainId": 123420000220,
+      "address": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
+      "name": "Wrapped FLT",
+      "symbol": "WFLT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/123420000220/0xa7ea032Dea10E551EEEa78C40e483D13323247c9.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "67034870479bd8e8dc1ddbff00d83486"
+      }
+    }
+  ]
+}

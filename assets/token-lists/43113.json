@@ -5,15 +5,19 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:52:08.649Z",
+  "timestamp": "2024-12-14T23:44:52.506Z",
   "tokens": [
     {
-      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "chainId": 43113,
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.png?v=010",
+      "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
       "name": "Wrapped AVAX",
-      "symbol": "WAVAX"
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.avif",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "51930bb515efdc66b2950ebd60cdce16"
+      }
     }
   ]
 }

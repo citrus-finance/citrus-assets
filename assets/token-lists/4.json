@@ -5,15 +5,187 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:52:09.056Z",
+  "timestamp": "2024-12-14T23:45:54.450Z",
   "tokens": [
     {
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "chainId": 4,
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "address": "0x0014F450B8Ae7708593F4A46F8fa6E5D50620F96",
+      "name": "Compound Wrapped BTC",
+      "symbol": "cWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x0014F450B8Ae7708593F4A46F8fa6E5D50620F96.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6d9749adebb555496f837e0e5c6ae60f"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "name": "Uniswap",
-      "symbol": "UNI"
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9fff048586d68287d02ae287703d2648"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x2fB298BDbeF468638AD6653FF8376575ea41e768",
+      "name": "Compound USDT",
+      "symbol": "cUSDT",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x2fB298BDbeF468638AD6653FF8376575ea41e768.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "568edf9e77288c36fd90f678663c76a9"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+      "name": "USD Coin USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d7b72dc9b6a267180c808e5d18d3f2c5"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x52201ff1720134bBbBB2f6BC97Bf3715490EC19B",
+      "name": "Compound 0x",
+      "symbol": "cZRX",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x52201ff1720134bBbBB2f6BC97Bf3715490EC19B.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3d808f32d8457fc947af90bbd0bd6296"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0deb2449383230aa495b2a6be3e7abb4"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x5B281A6DdA0B271e91ae35DE655Ad301C976edb1",
+      "name": "Compound USD Coin",
+      "symbol": "cUSDC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x5B281A6DdA0B271e91ae35DE655Ad301C976edb1.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7ea4e19b7a9360561b61984754d01ba9"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x6D7F0754FFeb405d23C51CE938289d4835bE3b14",
+      "name": "Compound Dai",
+      "symbol": "cDAI",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x6D7F0754FFeb405d23C51CE938289d4835bE3b14.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4594241ab19b72ed25ba587bc11e6438"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0x6e894660985207feb7cf89Faf048998c71E8EE89",
+      "name": "Reputation",
+      "symbol": "REP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0x6e894660985207feb7cf89Faf048998c71E8EE89.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0f7109c26c4c397167758e97253f1aa4"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "89b6799fb3b327feb03a10c05d66eced"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xd6801a1DfFCd0a410336Ef88DeF4320D6DF1883e",
+      "name": "Compound Ether",
+      "symbol": "cETH",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xd6801a1DfFCd0a410336Ef88DeF4320D6DF1883e.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "85fc1558c745917316a85ce195393f0a"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5a73202badbd55ec07581df3e042a6e3"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b3581aa269d66691d58713363e4d8cf6"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xEBe09eB3411D18F4FF8D859e096C533CAC5c6B60",
+      "name": "Compound Augur",
+      "symbol": "cREP",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xEBe09eB3411D18F4FF8D859e096C533CAC5c6B60.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8594d84fee14971a04e09bc6818106f6"
+      }
+    },
+    {
+      "chainId": 4,
+      "address": "0xEBf1A11532b93a529b5bC942B4bAA98647913002",
+      "name": "Compound Basic Attention Token",
+      "symbol": "cBAT",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/4/0xEBf1A11532b93a529b5bC942B4bAA98647913002.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ce17467d5e844b38c054f638be604d81"
+      }
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "name": "Citrus Finance on Sei Devnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:48.193Z",
+  "tokens": [
+    {
+      "chainId": 713715,
+      "address": "0x57eE725BEeB991c70c53f9642f36755EC6eb2139",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/713715/0x57eE725BEeB991c70c53f9642f36755EC6eb2139.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b71d107da07d6f141f08245a8ca8652f"
+      }
+    },
+    {
+      "chainId": 713715,
+      "address": "0xA09F3386E05CEAC547b02f223bF500a728BE7d77",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xA09F3386E05CEAC547b02f223bF500a728BE7d77.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "924f3668e09ea916c62cb86b8ca0cfd9"
+      }
+    },
+    {
+      "chainId": 713715,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "69d0bec95f9ad3d1659d22fdd70f9c05"
+      }
+    }
+  ]
+}

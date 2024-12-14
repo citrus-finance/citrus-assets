@@ -5,23 +5,31 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:50:02.075Z",
+  "timestamp": "2024-12-14T23:41:11.104Z",
   "tokens": [
     {
-      "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
       "chainId": 1287,
+      "address": "0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521",
+      "name": "Custom ERC20 Token",
+      "symbol": "ERC20S",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1287/0xd222a876B303dAe4F8e2099ba3B26ECB5A1b8521.png",
-      "name": "Custom ERC20 Token",
-      "symbol": "ERC20S"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a432ce9469cb855f6243a6417fe6df69"
+      }
     },
     {
-      "address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
       "chainId": 1287,
+      "address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
+      "name": "Wrapped Glimmer",
+      "symbol": "WGLMR",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1287/0xe73763DB808ecCDC0E36bC8E32510ED126910394.png",
-      "name": "Wrapped Glimmer",
-      "symbol": "WGLMR"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a432ce9469cb855f6243a6417fe6df69"
+      }
     }
   ]
 }

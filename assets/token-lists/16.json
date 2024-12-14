@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Songbird Testnet Coston",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.250Z",
+  "tokens": [
+    {
+      "chainId": 16,
+      "address": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
+      "name": "Wrapped CostonFlare",
+      "symbol": "WCFLR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/16/0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
+      }
+    }
+  ]
+}

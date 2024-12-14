@@ -1,0 +1,62 @@
+{
+  "name": "Citrus Finance on World Chain",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.564Z",
+  "tokens": [
+    {
+      "chainId": 480,
+      "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/480/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d0722c21249c657aac4397d5d87a014a"
+      }
+    },
+    {
+      "chainId": 480,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/480/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "92eab55c31987c2444877933d35c2bbd"
+      }
+    },
+    {
+      "chainId": 480,
+      "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/480/0x79A02482A880bCE3F13e09Da970dC34db4CD24d1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ac2b7c0b1d64af319b4310845cf41165"
+      }
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 480,
+      "logoURI": "https://assets.citrus.finance/token-logos/480/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006",
+        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

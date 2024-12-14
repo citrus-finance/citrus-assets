@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Karura",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.565Z",
+  "tokens": [
+    {
+      "chainId": 686,
+      "address": "0x0000000000000000000100000000000000000080",
+      "name": "Karura",
+      "symbol": "KAR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/686/0x0000000000000000000100000000000000000080.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3c23d21ec0cdc7e46634d89d4f65118b"
+      }
+    }
+  ]
+}

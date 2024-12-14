@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Finance on Etherlink",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:52.499Z",
+  "tokens": [
+    {
+      "chainId": 42793,
+      "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "name": "Wrapped XTZ",
+      "symbol": "WXTZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bc3befec47b072f8db8f986e10734ad0"
+      }
+    },
+    {
+      "name": "Tez",
+      "symbol": "XTZ",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 42793,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
+      "extensions": {
+        "wrapped": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+        "cacheHash": "d8c0c35d0f6691527bd2957690ca410a"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

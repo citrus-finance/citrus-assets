@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on Sei Network",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.610Z",
+  "tokens": [
+    {
+      "chainId": 1329,
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9867ddc226ab55d96d13f8e528b0c5a6"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d594e83c57eb21eb2d5c7e9c85ecb0f2"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xB75D0B03c06A926e488e2659DF1A861F860bD3d1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a94e5735f6cc61be95f156cb0ef3071f"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "69d0bec95f9ad3d1659d22fdd70f9c05"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on WEMIX Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:59.117Z",
+  "tokens": [
+    {
+      "chainId": 1112,
+      "address": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1",
+      "name": "Wrapped Wemix",
+      "symbol": "WWEMIX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1112/0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "891a17cf03ed4120d19ba6f625dda3a5"
+      }
+    }
+  ]
+}

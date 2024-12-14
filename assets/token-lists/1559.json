@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Tenet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.610Z",
+  "tokens": [
+    {
+      "chainId": 1559,
+      "address": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe",
+      "name": "Wrapped TENET",
+      "symbol": "WTENET",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1559/0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "86248125409f6203a4df509ebab5e64a"
+      }
+    }
+  ]
+}

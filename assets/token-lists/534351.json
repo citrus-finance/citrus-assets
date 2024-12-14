@@ -1,0 +1,83 @@
+{
+  "name": "Citrus Finance on Scroll Sepolia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:44.405Z",
+  "tokens": [
+    {
+      "chainId": 534351,
+      "address": "0x2DAf22Caf40404ad8ff0Ab1E77F9C08Fef3953e2",
+      "name": "Wrapped stETH",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x2DAf22Caf40404ad8ff0Ab1E77F9C08Fef3953e2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6ea094225c256b777db55a3f634ed3b6"
+      }
+    },
+    {
+      "chainId": 534351,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x5300000000000000000000000000000000000004.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 534351,
+      "address": "0x7878290DB8C4f02bd06E0E249617871c19508bE6",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x7878290DB8C4f02bd06E0E249617871c19508bE6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2236dbcfbf1b2864532110abf013736a"
+      }
+    },
+    {
+      "chainId": 534351,
+      "address": "0xC8224ebfC539bD69848516384bF310abED504639",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xC8224ebfC539bD69848516384bF310abED504639.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d1877db1773fdb71641d9e7b3e906cd2"
+      }
+    },
+    {
+      "chainId": 534351,
+      "address": "0xCd19E32F4f6F4c8D10A416c0397297169E93b464",
+      "name": "Puffer Vault",
+      "symbol": "PufETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xCd19E32F4f6F4c8D10A416c0397297169E93b464.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "64635452fcda3a36d93b0c9ee1613fac"
+      }
+    },
+    {
+      "chainId": 534351,
+      "address": "0xD9692f1748aFEe00FACE2da35242417dd05a8615",
+      "name": "Gho Token",
+      "symbol": "GHO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xD9692f1748aFEe00FACE2da35242417dd05a8615.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "787e91a4fbaa7644a655f66c41361cbf"
+      }
+    }
+  ]
+}

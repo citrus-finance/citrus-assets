@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Alfajores",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:53.549Z",
+  "tokens": [
+    {
+      "chainId": 44787,
+      "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/44787/0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3c379a5418c36f53f1d6512091eb5a0e"
+      }
+    }
+  ]
+}

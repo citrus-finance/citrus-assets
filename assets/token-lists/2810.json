@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Morph Holesky",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.821Z",
+  "tokens": [
+    {
+      "chainId": 2810,
+      "address": "0x5300000000000000000000000000000000000011",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2810/0x5300000000000000000000000000000000000011.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e94b7f94fc170c7dfe31220c85f0523d"
+      }
+    }
+  ]
+}

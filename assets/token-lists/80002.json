@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Polygon Amoy",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:12.255Z",
+  "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0xA5733b3A8e62A8faF43b0376d5fAF46E89B3033E",
+      "name": "Wrapped POL",
+      "symbol": "WPOL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/80002/0xA5733b3A8e62A8faF43b0376d5fAF46E89B3033E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "023ab36bfba483d348ac7732a03dd4e4"
+      }
+    }
+  ]
+}

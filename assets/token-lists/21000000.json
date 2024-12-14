@@ -1,0 +1,107 @@
+{
+  "name": "Citrus Finance on chain:21000000",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:49:19.758Z",
+  "tokens": [
+    {
+      "chainId": 21000000,
+      "address": "0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b",
+      "name": "Wrapped aBTC",
+      "symbol": "waBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5c0e1b6cf8ee30b0794a6c8283b030dc"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0x1b3757d5EE281Eaf6a9c8E5D9b8488b4475Aa955",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x1b3757d5EE281Eaf6a9c8E5D9b8488b4475Aa955.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "59506f720592dbf649d1fc6d5fce4f39"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0x485BBC4F98c071C9BD74Ac255262E61F866f071a",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x485BBC4F98c071C9BD74Ac255262E61F866f071a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1da55305303ce5c4afc101839f11a156"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0x85aDfA60dDf86b67E6fD493Bd2c774b2eD772D14",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x85aDfA60dDf86b67E6fD493Bd2c774b2eD772D14.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6964d6e0ce7c0d38c9f0a0a3717fabc8"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2",
+      "name": "Wrapped Bitcorn",
+      "symbol": "WBTCN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c37f6a33b3af6895c914abc2f58e006"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xDF0B24095e15044538866576754F3C964e902Ee6",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xDF0B24095e15044538866576754F3C964e902Ee6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "463ed27cc794e8f9ae6cc2e192cfbf57"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xEAEdD2B1b3F0fEC6388A4d6b2fE500B59Fd9f755",
+      "name": "Curve.Fi USD Stablecoin",
+      "symbol": "crvUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xEAEdD2B1b3F0fEC6388A4d6b2fE500B59Fd9f755.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9451b5df95ff7c96ca8fc51d13f78adb"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e456d24e7786ee96339cb4a64bca5d98"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Q Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.880Z",
+  "tokens": [
+    {
+      "chainId": 35441,
+      "address": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+      "name": "Wrapped Q",
+      "symbol": "WQ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/35441/0xd07178e3eCbC78De110Df84fe1A979D5f349784a.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "402f754654138dfa735610c8493aa58a"
+      }
+    }
+  ]
+}

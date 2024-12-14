@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Telos",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.456Z",
+  "tokens": [
+    {
+      "chainId": 41,
+      "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+      "name": "Wrapped TLOS",
+      "symbol": "WTLOS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/41/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a23c73acc6894f28446e1efd1bfb7299"
+      }
+    }
+  ]
+}

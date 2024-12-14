@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Fraxtal Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.821Z",
+  "tokens": [
+    {
+      "chainId": 2522,
+      "address": "0xFC00000000000000000000000000000000000006",
+      "name": "Wrapped Frax Ether",
+      "symbol": "wfrxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2522/0xFC00000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "627f0c548e59d0d23569d10b697db44e"
+      }
+    }
+  ]
+}

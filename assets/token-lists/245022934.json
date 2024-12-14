@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Neon EVM MainNet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:49.638Z",
+  "tokens": [
+    {
+      "chainId": 245022934,
+      "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+      "name": "Wrapped Neon",
+      "symbol": "WNEON",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/245022934/0x202C35e517Fa803B537565c40F0a6965D7204609.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f72e2d53bf23ee1c6e4b2ac5f6dd4449"
+      }
+    }
+  ]
+}

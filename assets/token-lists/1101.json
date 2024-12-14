@@ -5,6 +5,463 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:59.873Z",
-  "tokens": []
+  "timestamp": "2024-12-14T23:40:59.116Z",
+  "tokens": [
+    {
+      "chainId": 1101,
+      "address": "0x120eF59b80774F02211563834d8E3b72cb1649d6",
+      "name": "Balancer",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x120eF59b80774F02211563834d8E3b72cb1649d6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b965763604161177d23df55dee588696"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "219658cf17ce55ac9e58adc02d33295c"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+      "name": "Aura",
+      "symbol": "AURA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x1509706a6c66CA549ff0cB464de88231DDBe213B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8fb60003f263bb3eed99303b3a3444ec"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x1E4a5963aBFD975d8c9021ce480b42188849D41d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "717684a619e48ad612b5795da033b0e6"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x2548C94A3092494dB3aF864cc2cF781a72f55678",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x2548C94A3092494dB3aF864cc2cF781a72f55678.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "69fe8fb6ef9dd1ab05a7336815d06ea6"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x2b684D1BAb13A547CD196Ca6168d59509D9e9b37",
+      "name": "Frax Price Index Share",
+      "symbol": "FPIS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x2b684D1BAb13A547CD196Ca6168d59509D9e9b37.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "edea7a2134294bf6a0e64762a3b62e0b"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c84b3f425abe60d28611023ce21a7b14"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89",
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2f0a0049aaec14965ec16a2adf9d78d3"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x3e7BD82b7DBCe275fF86ff419d8BdF37b05e574B",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x3e7BD82b7DBCe275fF86ff419d8BdF37b05e574B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2ddd9385662238966d1d2886bcdce908"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8ca926a264b3899a5c8f7eb4348222b1"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1ec2226d773d6ca08923894dbb4df581"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x595157F1ba7FB5bECcFD689659d3C343319F533e",
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x595157F1ba7FB5bECcFD689659d3C343319F533e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "467a6537c079b9552606d8b19f067800"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "70f69608dc7085131807bfe2aa0a6dcc"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x68286607A1d43602d880D349187c3c48c0fD05E6",
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x68286607A1d43602d880D349187c3c48c0fD05E6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5dce71eda3241ca06e9ac464ccd2ade8"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "96772f6bb7f0b2ac6a69ddad4d6237ce"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "37da4a2ac19a6000f5656a3aa02a4c83"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2f58ed44678d606aaea740a1cd36dcad"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x7940DEAe60FA6dBB56dE469dFCdDc84D2B6b17EA",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x7940DEAe60FA6dBB56dE469dFCdDc84D2B6b17EA.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3fea4169fb3fc3512898b279a010aa54"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x7C1B24c139a3EdA18Ab77C8Fa04A0F816C23e6D4",
+      "name": "Tetu token",
+      "symbol": "TETU",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x7C1B24c139a3EdA18Ab77C8Fa04A0F816C23e6D4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cde4da9e1f1596e8cfc238a8988e2c52"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04",
+      "name": "Frax Price Index",
+      "symbol": "FPI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1d1ef19a8c52562f42b56e7ef53f8f7f"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x7e2feEa957b7D1606335e339754F4e52b452B792",
+      "name": "Lido DAO Token",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x7e2feEa957b7D1606335e339754F4e52b452B792.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "827c6c2a045cb9f9e0d15651aeb90f48"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x83b874c1e09D316059d929da402dcB1A98e92082",
+      "name": "Staked MATIC",
+      "symbol": "stMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x83b874c1e09D316059d929da402dcB1A98e92082.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2d0ff5aeb58bbb3098052beebc2fc8bf"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x8C7D118B5c47a5BCBD47cc51789558B98dAD17c5",
+      "name": "rsETH",
+      "symbol": "rsETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x8C7D118B5c47a5BCBD47cc51789558B98dAD17c5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ebe634452283feab5f43a5ba1ff63a4d"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0x95e4e1554a3F20932b559470eb57C56B7A26d10E",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0x95e4e1554a3F20932b559470eb57C56B7A26d10E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1ed39ca5abeef36a68470f87f7135b4a"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xa2036f0538221a77A3937F1379699f44945018d0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9acb4fb9f3a8a092c499eb972ed52506"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xa7Bd526e698a7EE6261982607D7B64cc8e7be0ef",
+      "name": "Tether Gold",
+      "symbol": "XAUt",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xa7Bd526e698a7EE6261982607D7B64cc8e7be0ef.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f721a361c94a476fbc24c67b944da54a"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bf940b409248ba0268d64503b997ab2a"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xAe4ac1070ba338F1c948Ebdd635F640b4d560bB7",
+      "name": "swETH",
+      "symbol": "swETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xAe4ac1070ba338F1c948Ebdd635F640b4d560bB7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6de6007f4f6a4372fb8e9c416868685e"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+      "name": "Rocket Pool ETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c1f6544f640ff5d0e99196e8bb82525e"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xb584516c8d90f133A48af5cC445cc5d924cf9863",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xb584516c8d90f133A48af5cC445cc5d924cf9863.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e6101b77a811608336be824e649bd188"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d5d186d245aa931d0b05d61d1cbc1dc0"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+      "name": "Gyroscope",
+      "symbol": "GYD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d00842cc89d93f0c682a72eec9c6a407"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xCf7eceE185f19e2E970a301eE37F93536ed66179",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xCf7eceE185f19e2E970a301eE37F93536ed66179.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7286e5c196afe69c047a682ce51fed37"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xdE7df9036801676aF0cB73661d93a098c0085fba",
+      "name": "Frax Price Index Share",
+      "symbol": "FPIS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xdE7df9036801676aF0cB73661d93a098c0085fba.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "96a6569bbe38c4634fa0b53b79a2fe27"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xE765a819dbEfDEC134DB20F0b82a2F3F13a5cd4a",
+      "name": "Frax Price Index",
+      "symbol": "FPI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xE765a819dbEfDEC134DB20F0b82a2F3F13a5cd4a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1b451077400430944c7eb056f9952665"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1b5adf1df9d74be95eeed8f690b85c95"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xf9eD88937B2D82707d0eabd8C3D9Aa4870b714D3",
+      "name": "Liquid Staked Matic by Stader",
+      "symbol": "MaticX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xf9eD88937B2D82707d0eabd8C3D9Aa4870b714D3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "60f4b39ce8d83712c20ddfbc0afd627d"
+      }
+    },
+    {
+      "chainId": 1101,
+      "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1101/0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7f7f0e25a1e23a0a0384225ec40e4b90"
+      }
+    }
+  ]
 }

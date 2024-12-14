@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Rootstock Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.253Z",
+  "tokens": [
+    {
+      "chainId": 31,
+      "address": "0xA274d994F698Dd09256674960d86aBa22C086669",
+      "name": "Wrapped RSK Bitcoin",
+      "symbol": "WRBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/31/0xA274d994F698Dd09256674960d86aBa22C086669.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d0c1706d24473b97346f9f091bf5390d"
+      }
+    }
+  ]
+}

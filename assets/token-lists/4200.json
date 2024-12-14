@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Merlin",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.821Z",
+  "tokens": [
+    {
+      "chainId": 4200,
+      "address": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4200/0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "869fd2e480051b5004953c9efc200005"
+      }
+    }
+  ]
+}

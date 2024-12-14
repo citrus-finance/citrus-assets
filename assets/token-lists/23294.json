@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Oasis Sapphire",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.875Z",
+  "tokens": [
+    {
+      "chainId": 23294,
+      "address": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+      "name": "Wrapped ROSE",
+      "symbol": "wROSE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/23294/0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "67d079a3f4d2d56ebfd2fecef688fbdd"
+      }
+    }
+  ]
+}

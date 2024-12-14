@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Finance on Xai Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:47.759Z",
+  "tokens": [
+    {
+      "chainId": 660279,
+      "address": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+      "name": "Wrapped Xai",
+      "symbol": "WXAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/660279/0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "434672a74255f37078cc72949790aab1"
+      }
+    },
+    {
+      "name": "Xai",
+      "symbol": "XAI",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 660279,
+      "logoURI": "https://assets.citrus.finance/token-logos/660279/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
+      "extensions": {
+        "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+        "cacheHash": "2f9f2737ab2fa7ca99ce5ab867e3c75b"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

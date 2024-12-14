@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Finance on opBNB",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:41.408Z",
+  "tokens": [
+    {
+      "chainId": 204,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/204/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c2b90c1c726c820f1d289b96657d630"
+      }
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 204,
+      "logoURI": "https://assets.citrus.finance/token-logos/204/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006",
+        "cacheHash": "3acce29ca5d9d8874e543e3417f243f9"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

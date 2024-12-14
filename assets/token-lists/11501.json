@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on BEVM Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.874Z",
+  "tokens": [
+    {
+      "chainId": 11501,
+      "address": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11501/0xB5136FEba197f5fF4B765E5b50c74db717796dcD.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ad70420a1cd0747856083e18d359f8b"
+      }
+    }
+  ]
+}

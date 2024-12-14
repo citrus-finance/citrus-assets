@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Chiliz Spicy Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:41.752Z",
+  "tokens": [
+    {
+      "chainId": 88882,
+      "address": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6",
+      "name": "Wrapped Chiliz",
+      "symbol": "wCHZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/88882/0x678c34581db0a7808d0aC669d7025f1408C9a3C6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4984c30956b7fe19e8e5be93b1aec6b4"
+      }
+    }
+  ]
+}

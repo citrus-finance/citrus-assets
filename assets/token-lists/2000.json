@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Dogechain",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.819Z",
+  "tokens": [
+    {
+      "chainId": 2000,
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "name": "Wrapped WDOGE",
+      "symbol": "WWDOGE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2000/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "36862087c991ab6319b2f132e858780c"
+      }
+    }
+  ]
+}

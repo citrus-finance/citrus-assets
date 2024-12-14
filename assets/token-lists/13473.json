@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Immutable zkEVM Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.874Z",
+  "tokens": [
+    {
+      "chainId": 13473,
+      "address": "0x1CcCa691501174B4A623CeDA58cC8f1a76dc3439",
+      "name": "Wrapped IMX",
+      "symbol": "WIMX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/13473/0x1CcCa691501174B4A623CeDA58cC8f1a76dc3439.jpeg",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "842f7ee52e4fee0a7a3f7b618e19442c"
+      }
+    }
+  ]
+}

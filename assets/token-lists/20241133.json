@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Swan Proxima Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:49.634Z",
+  "tokens": [
+    {
+      "chainId": 20241133,
+      "address": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/20241133/0xD1927A43aF6d18424075d1C8f21339B4EE0776b9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

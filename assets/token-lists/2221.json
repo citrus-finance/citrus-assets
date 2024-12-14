@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Kava EVM Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.819Z",
+  "tokens": [
+    {
+      "chainId": 2221,
+      "address": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
+      "name": "Wrapped Kava",
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2221/0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1835ff5587eec80c20faff692330aef6"
+      }
+    }
+  ]
+}

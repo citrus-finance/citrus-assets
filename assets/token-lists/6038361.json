@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Astar zkEVM Testnet zKyoto",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:48.194Z",
+  "tokens": [
+    {
+      "chainId": 6038361,
+      "address": "0x441325a0e1D5aC0d64C9cc790FcAbf9c5416a4a1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6038361/0x441325a0e1D5aC0d64C9cc790FcAbf9c5416a4a1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

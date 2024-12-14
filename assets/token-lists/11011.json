@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Shape Sepolia Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.586Z",
+  "tokens": [
+    {
+      "chainId": 11011,
+      "address": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11011/0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

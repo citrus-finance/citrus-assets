@@ -5,31 +5,43 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:12.190Z",
+  "timestamp": "2024-12-14T23:39:38.872Z",
   "tokens": [
     {
-      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
       "chainId": 97,
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "name": "USDT Token",
+      "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png",
-      "name": "USDT Token",
-      "symbol": "USDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9f1e68f3381c9276e8c2c913c0fcc8c3"
+      }
     },
     {
-      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
       "chainId": 97,
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png",
-      "name": "WBNB Token",
-      "symbol": "WBNB"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c2b90c1c726c820f1d289b96657d630"
+      }
     },
     {
-      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
       "chainId": 97,
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/97/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png",
-      "name": "BUSD Token",
-      "symbol": "BUSD"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ab01d95add7c0f4dbb0a27e60916deb3"
+      }
     }
   ]
 }

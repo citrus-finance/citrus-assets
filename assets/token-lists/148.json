@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Shimmer",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:26.149Z",
+  "tokens": [
+    {
+      "chainId": 148,
+      "address": "0x1074010000000000000000000000000000000000",
+      "name": "Shimmer",
+      "symbol": "SMR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/148/0x1074010000000000000000000000000000000000.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "86f5f4b78a651373c433666851efeb5d"
+      }
+    }
+  ]
+}

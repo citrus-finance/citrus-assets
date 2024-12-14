@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on BOB Sepolia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:48.194Z",
+  "tokens": [
+    {
+      "chainId": 808813,
+      "address": "0x8CEc2719a2e896A11eA3f10406EfDb6Ad87281D9",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/808813/0x8CEc2719a2e896A11eA3f10406EfDb6Ad87281D9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Optopia Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:12.255Z",
+  "tokens": [
+    {
+      "chainId": 62049,
+      "address": "0x98E1817244d130D8fE05591ba517d3f24Db035Ec",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/62049/0x98E1817244d130D8fE05591ba517d3f24Db035Ec.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "name": "Citrus Finance on Base Goerli",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:49:16.377Z",
+  "tokens": [
+    {
+      "chainId": 84531,
+      "address": "0x121dAEb77cFbC6a9CfC691Da4F5E97c8Bd02518F",
+      "name": "Prime",
+      "symbol": "PRIME",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x121dAEb77cFbC6a9CfC691Da4F5E97c8Bd02518F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4d72ca13ec3003c6a2941af3f1f05b7e"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x174956bDfbCEb6e53089297cce4fE2825E58d92C",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x174956bDfbCEb6e53089297cce4fE2825E58d92C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1cb6eea7410e0449a15bb5d75b6bf262"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125",
+      "name": "Wrapped Ampleforth",
+      "symbol": "WAMPL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x395Ae52bB17aef68C2888d941736A71dC6d4e125.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4b5acd2cff7311407ab90a7a0c12ab0f"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "77df0df1dfedbf6b4644dc541043f27a"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "308b8d0d53cee35090eabea50080c5ee"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b95aa77cc5e7b7e0b56024cb48eae2bd"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0x783349cd20f26CE12e747b1a17bC38D252c9e119",
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0x783349cd20f26CE12e747b1a17bC38D252c9e119.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0d4390f642b0c4bd8d2411903e0db6c7"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796",
+      "name": "Compound",
+      "symbol": "COMP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0xA29b548056c3fD0f68BAd9d4829EC4E66f22f796.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2d0f1b0cb0a5e2a2d40b8f807d816091"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0xC6729C6cFc6B872acF641EB3EA628C9F038e5ABb",
+      "name": "Alethea Artificial Liquid Intelligence",
+      "symbol": "ALI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0xC6729C6cFc6B872acF641EB3EA628C9F038e5ABb.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8bce0ca00df106c25d53a36c5857efad"
+      }
+    },
+    {
+      "chainId": 84531,
+      "address": "0xF175520C52418dfE19C8098071a252da48Cd1C19",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/84531/0xF175520C52418dfE19C8098071a252da48Cd1C19.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7ee36fb1d7f2393ae05946890e9944b8"
+      }
+    }
+  ]
+}

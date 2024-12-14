@@ -5,47 +5,67 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:11.897Z",
+  "timestamp": "2024-12-14T23:49:19.962Z",
   "tokens": [
     {
-      "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
       "chainId": 1666700000,
+      "address": "0x0E80905676226159cC3FF62B1876C907C91F7395",
+      "name": "OneBUSD",
+      "symbol": "1BUSD",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x0E80905676226159cC3FF62B1876C907C91F7395.png",
-      "name": "OneBUSD",
-      "symbol": "1BUSD"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f78a764e902d185f2076f26c9e1ba0bf"
+      }
     },
     {
-      "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
       "chainId": 1666700000,
+      "address": "0x1E120B3b4aF96e7F394ECAF84375b1C661830013",
+      "name": "OneETH",
+      "symbol": "1ETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x1E120B3b4aF96e7F394ECAF84375b1C661830013.png",
-      "name": "OneETH",
-      "symbol": "1ETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f55e70c3163af8657523918fcb683796"
+      }
     },
     {
-      "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
       "chainId": 1666700000,
+      "address": "0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88",
+      "name": "OneChainlink",
+      "symbol": "1LINK",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x2C6e26B2faD89bc52d043e78E3D980A08af0Ce88.png",
-      "name": "OneChainlink",
-      "symbol": "1LINK"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d6785ef45f77bee2beeeea0aa3fdbdad"
+      }
     },
     {
-      "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
       "chainId": 1666700000,
+      "address": "0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x6c4387C4f570Aa8cAdcaFFc5E73ecb3D0F8Fc593.png",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7ebfebf5e902917ca21cee7e7d33cd11"
+      }
     },
     {
-      "address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
       "chainId": 1666700000,
+      "address": "0x7a2afac38517d512E55C0bCe3b6805c10a04D60F",
+      "name": "Wrapped ONE",
+      "symbol": "WONE",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/1666700000/0x7a2afac38517d512E55C0bCe3b6805c10a04D60F.png",
-      "name": "Wrapped ONE",
-      "symbol": "WONE"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f92a50ef299581da5c9e426e650d40ab"
+      }
     }
   ]
 }

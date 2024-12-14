@@ -1,0 +1,119 @@
+{
+  "name": "Citrus Finance on OP Sepolia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:49.633Z",
+  "tokens": [
+    {
+      "chainId": 11155420,
+      "address": "0x0B5DAd18B8791ddb24252B433ec4f21f9e6e5Ed0",
+      "name": "Status Test Token",
+      "symbol": "STT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x0B5DAd18B8791ddb24252B433ec4f21f9e6e5Ed0.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d1e2b6320bd731372730c81c4e7f6204"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x1696baFBe18EFB141823a041E22E43d12B144407",
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x1696baFBe18EFB141823a041E22E43d12B144407.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a95406bc8ec27353f9f3512f931ff413"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x1BDD24840e119DC2602dCC587Dd182812427A5Cc.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x24B47cd3A74f1799b32B2de11073764Cb1bb318B",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x24B47cd3A74f1799b32B2de11073764Cb1bb318B.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4663dbe54bec02f96555f75ce0199594"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x5fd84259d66Cd46123540766Be93DFE6D43130D7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ab8bfd2cb1499b2fc9b9d75620ee1c48"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x75bb6dcA2cD6F9a0189c478bBb8F7EE2fEF07C78",
+      "name": "WalletConnect",
+      "symbol": "WCT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x75bb6dcA2cD6F9a0189c478bBb8F7EE2fEF07C78.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d29eb865e1ba9d6e5076de7425f6d4ef"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+      "name": "OptimismUselessToken-Bridged",
+      "symbol": "OUTb",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2114a6fc74dc33ef33bb7c49366bc335"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x819845b60A192167Ed1139040B4F8ecA31834f27",
+      "name": "IRARA Token",
+      "symbol": "IRARA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x819845b60A192167Ed1139040B4F8ecA31834f27.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "23d3ab939029d91d6bf3426a2bf958c2"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7e2b17c1532bfb4703a6c0e83cf6246a"
+      }
+    }
+  ]
+}

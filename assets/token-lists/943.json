@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on PulseChain V4",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.571Z",
+  "tokens": [
+    {
+      "chainId": 943,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/943/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6831c96fe33f084ea88a534e98824257"
+      }
+    }
+  ]
+}

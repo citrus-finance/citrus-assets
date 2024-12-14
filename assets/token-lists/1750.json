@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on Metal L2",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.817Z",
+  "tokens": [
+    {
+      "chainId": 1750,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1750/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 1750,
+      "address": "0x51E85d70944256710cb141847F1a04f568C1Db0e",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1750/0x51E85d70944256710cb141847F1a04f568C1Db0e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "eee5e7b97313dd45d93e1d63d78e2d98"
+      }
+    },
+    {
+      "chainId": 1750,
+      "address": "0xf1F9Ccc7638F124c3d9354Be0edE2ACb5F0A15Bc",
+      "name": "Mugloo",
+      "symbol": "MUGLOO",
+      "decimals": 4,
+      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xf1F9Ccc7638F124c3d9354Be0edE2ACb5F0A15Bc.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2ff9b48d8b58d7624ca25d1e5c34a79b"
+      }
+    },
+    {
+      "chainId": 1750,
+      "address": "0xF35155E38C8750372ca024a3d1b5cc7174AaaBbC",
+      "name": "Travel Deals",
+      "symbol": "CTRAVL",
+      "decimals": 4,
+      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xF35155E38C8750372ca024a3d1b5cc7174AaaBbC.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d587f681f2efdaa85eeea758a44d5d72"
+      }
+    }
+  ]
+}

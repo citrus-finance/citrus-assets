@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Gravity Alpha Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.611Z",
+  "tokens": [
+    {
+      "chainId": 1625,
+      "address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+      "name": "Wrapped G",
+      "symbol": "wG",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1625/0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "845fa2e1df4aa5d1f6dfdda32a7a3dc1"
+      }
+    }
+  ]
+}

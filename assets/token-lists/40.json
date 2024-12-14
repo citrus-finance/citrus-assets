@@ -5,135 +5,199 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:50:06.140Z",
+  "timestamp": "2024-12-14T23:23:31.455Z",
   "tokens": [
     {
-      "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
       "chainId": 40,
+      "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
+      "name": "Binance Coin",
+      "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x26Ed0F16e777C94A6FE798F9E20298034930Bae8.jpg",
-      "name": "Binance Coin",
-      "symbol": "BNB"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4117c6827cbba55c22f690399b74eef2"
+      }
     },
     {
-      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
       "chainId": 40,
+      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+      "name": "Binance Coin (Anyswap)",
+      "symbol": "anyBNB",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e.jpg",
-      "name": "Binance Coin (Anyswap)",
-      "symbol": "anyBNB"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b1b226a5e3ed55968e9166f7e50e5c6f"
+      }
     },
     {
-      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
       "chainId": 40,
+      "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+      "name": "Polygon (Anyswap)",
+      "symbol": "anyMATIC",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x332730a4F6E03D9C55829435f10360E13cfA41Ff.jpg",
-      "name": "Polygon (Anyswap)",
-      "symbol": "anyMATIC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "60fc183bb1c7167e23790c69d904bc11"
+      }
     },
     {
-      "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
       "chainId": 40,
+      "address": "0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x7627b27594bc71e6Ab0fCE755aE8931EB1E12DAC.jpg",
-      "name": "Bitcoin",
-      "symbol": "BTC.b"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "982c68ad51431eabde9eb720074b6aa2"
+      }
     },
     {
-      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
       "chainId": 40,
+      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+      "name": "Avalanche (Anyswap)",
+      "symbol": "anyAVAX",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
-      "name": "Avalanche (Anyswap)",
-      "symbol": "anyAVAX"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f53ff224165634deeaadd81155fcbc00"
+      }
     },
     {
-      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "chainId": 40,
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "name": "USD Coin (Anyswap)",
+      "symbol": "anyUSDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.jpg",
-      "name": "USD Coin (Anyswap)",
-      "symbol": "anyUSDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ade9d8a5d672ddd4d8d7483ee81f1bcb"
+      }
     },
     {
-      "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
       "chainId": 40,
+      "address": "0x8D97Cea50351Fb4329d591682b148D43a0C3611b",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x8D97Cea50351Fb4329d591682b148D43a0C3611b.jpg",
-      "name": "USD Coin",
-      "symbol": "USDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "71f08a01ed7d1760e628e4e69c9155c2"
+      }
     },
     {
-      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
       "chainId": 40,
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "name": "SushiToken (Anyswap)",
+      "symbol": "anySUSHI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x922D641a426DcFFaeF11680e5358F34d97d112E1.jpg",
-      "name": "SushiToken (Anyswap)",
-      "symbol": "anySUSHI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "31dbb9794091910485dfd786473fdaba"
+      }
     },
     {
-      "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
       "chainId": 40,
+      "address": "0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f",
+      "name": "Tether Stable Coin",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0x975Ed13fa16857E83e7C493C7741D556eaaD4A3f.jpg",
-      "name": "Tether Stable Coin",
-      "symbol": "USDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "85741f59ee5992d7cfdaf6638809daa1"
+      }
     },
     {
-      "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
       "chainId": 40,
+      "address": "0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50",
+      "name": "Ethereum",
+      "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xA0fB8cd450c8Fd3a11901876cD5f17eB47C6bc50.jpg",
-      "name": "Ethereum",
-      "symbol": "ETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f079a2fd3ba9ef0c32139e2fc4a57927"
+      }
     },
     {
-      "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
       "chainId": 40,
+      "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
+      "name": "Staked TLOS",
+      "symbol": "STLOS",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.jpg",
-      "name": "Staked TLOS",
-      "symbol": "STLOS"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e33e7d5581ea5ddfa9c62a1a5a0e8477"
+      }
     },
     {
-      "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
       "chainId": 40,
+      "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+      "name": "Fantom (Anyswap)",
+      "symbol": "anyFTM",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4.jpg",
-      "name": "Fantom (Anyswap)",
-      "symbol": "anyFTM"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0623a46a775c02420c967c4a98130072"
+      }
     },
     {
+      "chainId": 40,
       "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-      "chainId": 40,
+      "name": "Wrapped TLOS",
+      "symbol": "WTLOS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/40/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.jpg",
-      "name": "Wrapped Telos",
-      "symbol": "WTLOS"
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a23c73acc6894f28446e1efd1bfb7299"
+      }
     },
     {
-      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
       "chainId": 40,
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "name": "Tether USD (Anyswap)",
+      "symbol": "anyUSDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
-      "name": "Tether USD (Anyswap)",
-      "symbol": "anyUSDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "39a90ffc6f404a07bedab4beb454d5fe"
+      }
     },
     {
-      "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
       "chainId": 40,
+      "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+      "name": "Bitcoin (Anyswap)",
+      "symbol": "anyBTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xf390830DF829cf22c53c8840554B98eafC5dCBc2.jpg",
-      "name": "Bitcoin (Anyswap)",
-      "symbol": "anyBTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "72c2fd2757612e8e247ac4e32ed22020"
+      }
     },
     {
-      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "chainId": 40,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "name": "Ether (Anyswap)",
+      "symbol": "anyETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/40/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f.jpg",
-      "name": "Ether (Anyswap)",
-      "symbol": "anyETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7b367294411224331b651d90870d05c6"
+      }
     }
   ]
 }

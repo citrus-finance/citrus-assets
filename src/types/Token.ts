@@ -14,11 +14,13 @@ export type TokenExtensions = {
     | string;
 };
 
-export interface Token<T extends TokenExtensions = TokenExtensions> {
+export interface Token<
+  T extends TokenExtensions | undefined = TokenExtensions,
+> {
   address: string;
   chainId: number;
   decimals: number;
-  extensions?: T;
+  extensions: T;
   logoURI?: string;
   name: string;
   symbol: string;

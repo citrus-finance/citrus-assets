@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Kairos Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.573Z",
+  "tokens": [
+    {
+      "chainId": 1001,
+      "address": "0x043c471bEe060e00A56CcD02c0Ca286808a5A436",
+      "name": "Wrapped Klay",
+      "symbol": "WKLAY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1001/0x043c471bEe060e00A56CcD02c0Ca286808a5A436.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0bcf35e3f99506b06a33f5b47c3a95b3"
+      }
+    }
+  ]
+}

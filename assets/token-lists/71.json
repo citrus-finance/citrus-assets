@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Conflux eSpace Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:39:38.872Z",
+  "tokens": [
+    {
+      "chainId": 71,
+      "address": "0x2ED3dddae5B2F321AF0806181FBFA6D049Be47d8",
+      "name": "Wrapped CFX",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/71/0x2ED3dddae5B2F321AF0806181FBFA6D049Be47d8.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7f1bc26e077331774f7ce3b7f3f72e77"
+      }
+    }
+  ]
+}

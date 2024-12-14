@@ -1,0 +1,479 @@
+{
+  "name": "Citrus Finance on Manta Pacific Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:35.062Z",
+  "tokens": [
+    {
+      "chainId": 169,
+      "address": "0x00C6Af82ABFdDc5E1B8f376F954Eb4f4DffF31C5",
+      "name": "MyanCat Coin",
+      "symbol": "MYAN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x00C6Af82ABFdDc5E1B8f376F954Eb4f4DffF31C5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5b7a2d6c535b48389b0a5552813cca22"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x01D27580C464d5B3B26F78Bee12E684901dbC02a",
+      "name": "Stader MaticX",
+      "symbol": "MATICX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x01D27580C464d5B3B26F78Bee12E684901dbC02a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bfcfcdc7f476dfb56d6e96132c79cb19"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x078f712f038A95BeEA94F036cADB49188a90604b",
+      "name": "iZUMi Bond USD",
+      "symbol": "IUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x078f712f038A95BeEA94F036cADB49188a90604b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d34b12fc7a100ba45fd2833135ecd890"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x0d613B80f9afB3cEF99Fe26702227d74B0178740",
+      "name": "Minu the Manta",
+      "symbol": "MNU",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x0d613B80f9afB3cEF99Fe26702227d74B0178740.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "df3ab7c3b22d433767718b8521e30ba6"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x0Dc808adcE2099A9F62AA87D9670745AbA741746.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x1468177DbCb2a772F3d182d2F1358d442B553089",
+      "name": "Manta mBTC",
+      "symbol": "MBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x1468177DbCb2a772F3d182d2F1358d442B553089.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7bafd094503f22a77c92a0d85879eef0"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x170C6f4c848Dd834605B419F72C3ee4323d1ca57",
+      "name": "Firefly",
+      "symbol": "FLY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x170C6f4c848Dd834605B419F72C3ee4323d1ca57.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "84b4c0ff95a6bc6f6cb122b8985dc526"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5",
+      "name": "Bridged Wrapped stETH  Manta Pacific ",
+      "symbol": "WSTETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x2FE3AD97a60EB7c79A976FC18Bb5fFD07Dd94BA5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3feb2f1c789298f997d2a446a9e35121"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ee07c24b6c094a9b48f48d8afad8f9fa"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x35a57eFB9b4ae833e9A200bb191ff69420caFa1D",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x35a57eFB9b4ae833e9A200bb191ff69420caFa1D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3cc403a6c80db6c8b54f37bf56802d95"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x3Af03E8C993900f0Ea6B84217071e1D4CC783982",
+      "name": "Ceto Swap",
+      "symbol": "CETO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x3Af03E8C993900f0Ea6B84217071e1D4CC783982.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "26a29a4299863ecb77e8734a117d24be"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x41C49790967067A71f893B51f2F311aCe46fb773",
+      "name": "CirclePacific",
+      "symbol": "CIRCLE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x41C49790967067A71f893B51f2F311aCe46fb773.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "faa859312e48193faadde26cfb68083d"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x4220E94F507Dc9E14169CFa0f2912463AcE8c8FF",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x4220E94F507Dc9E14169CFa0f2912463AcE8c8FF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "65da35962c939d6196c5f871157c7b8e"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x547213367cfB08ab418E7b54d7883b2C2AA27Fd7",
+      "name": "Anzen Staked USDz",
+      "symbol": "SUSDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x547213367cfB08ab418E7b54d7883b2C2AA27Fd7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "83eb89e85202e5fdf929295a11f693ed"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x649d4524897cE85A864DC2a2D5A11Adb3044f44a",
+      "name": "Manta mUSD",
+      "symbol": "MUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x649d4524897cE85A864DC2a2D5A11Adb3044f44a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a7fd870c297f1ac02ee2bc289c7b979a"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
+      "name": "Bridged Rocket Pool ETH  Manta Pacific ",
+      "symbol": "RETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x6E9655611b42C10b9aF25B6ca08bE349Df45c370.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ca9a138fb9bde932e66a5fded62c7484"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x73d23F3778a90Be8846E172354A115543dF2a7E4",
+      "name": "Manta Pacific Bridged USDZ  Manta Pacif",
+      "symbol": "USDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x73d23F3778a90Be8846E172354A115543dF2a7E4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "318f33e6c530c9df94640dacb0dd2f07"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x7746ef546d562b443AE4B4145541a3b1a3D75717",
+      "name": "Bifrost Voucher MANTA",
+      "symbol": "VMANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x7746ef546d562b443AE4B4145541a3b1a3D75717.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e00c85c99d449fa864a13c880c98007b"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a",
+      "name": "Tellor Tributes",
+      "symbol": "TRB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x8D7090DdDa057f48FdBbb2ABCeA22D1113AB566a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "65e860910d0471657bade413f5822582"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x8f08A3B5bCEADEF10C0B26c8BB720EBb8fA91758",
+      "name": "Anzen Staked USDz",
+      "symbol": "SUSDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x8f08A3B5bCEADEF10C0B26c8BB720EBb8fA91758.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "292820d99498067727c94801d52947c4"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917",
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x90E95735378A31BfAD2Dcd87128Fbb80FFeB6917.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "79afeb2c67c91fc8c41a81126f34d40a"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x91647632245caBf3d66121F86C387aE0ad295F9A",
+      "name": "iZUMi Token",
+      "symbol": "iZi",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x91647632245caBf3d66121F86C387aE0ad295F9A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "76f2b67a004c3578355965cdbd69aff6"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x9582B518d28Dc65945f8151c25E44A4e80504205",
+      "name": "GULL",
+      "symbol": "GULL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x9582B518d28Dc65945f8151c25E44A4e80504205.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b21ab45aa738b4de3b0f2a28aec2b385"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x95CeF13441Be50d20cA4558CC0a27B601aC544E5",
+      "name": "Manta",
+      "symbol": "MANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x95CeF13441Be50d20cA4558CC0a27B601aC544E5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1abe5b1ccbada4480c2a4d7158b28d4e"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x95D1b0f2A751010083BF12E29e7A2F13429F7143",
+      "name": "EZswap Protocol",
+      "symbol": "EZSWAP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x95D1b0f2A751010083BF12E29e7A2F13429F7143.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cc4ad30feceb26ec00cf7db0de0bf4eb"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xACCBC418a994a27a75644d8d591afC22FaBA594e",
+      "name": "Manta mETH",
+      "symbol": "METH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xACCBC418a994a27a75644d8d591afC22FaBA594e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6932601c833f2ef53e63ecfad2b3b338"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xB385E52903C802B3bDca7C4D0C78460A8988E1ce",
+      "name": "Bella Protocol",
+      "symbol": "BEL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xB385E52903C802B3bDca7C4D0C78460A8988E1ce.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "fc14f9b2ee13ca0ccc3d71830a03b337"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xb73603C5d87fA094B7314C74ACE2e64D165016fb.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "50c3fc48d03d8a72ef5ee1b376b53f46"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xBAb1c57ec0bB0aE81d948503E51d90166459D154",
+      "name": "Ispolink",
+      "symbol": "ISP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xBAb1c57ec0bB0aE81d948503E51d90166459D154.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "35507ff940e7c92d87bfad0e3dc24f97"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xbdAd407F77f44F7Da6684B416b1951ECa461FB07",
+      "name": "Wrapped Mountain Protocol USD",
+      "symbol": "wUSDM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xbdAd407F77f44F7Da6684B416b1951ECa461FB07.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "39cd4593d9971875630d5a064c571aac"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xCA24Fdce9d4D9BD69c829689bAEa02E34d025f43",
+      "name": "KUMA",
+      "symbol": "KUMA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xCA24Fdce9d4D9BD69c829689bAEa02E34d025f43.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "564f285899c56e0210e753a8f9386a18"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xcba2aeEc821b0B119857a9aB39E09b034249681A",
+      "name": "Accumulated Finance Staked MANTA",
+      "symbol": "STMANTA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xcba2aeEc821b0B119857a9aB39E09b034249681A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "46efebdbbf460e5db62278256e857b2f"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806",
+      "name": "AsMatch",
+      "symbol": "ASM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xCd5d6dE3fdBce1895F0Dac13A065673599ED6806.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "79ef8edf3bdce5b39be3274e90a4dfaf"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xcd91716ef98798A85E79048B78287B13ae6b99b2",
+      "name": "Goku Money GAI",
+      "symbol": "GAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xcd91716ef98798A85E79048B78287B13ae6b99b2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "aa1f2e9024c4de188c43a5849efdcf06"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xd212377f71F15A1b962c9265Dc44FBcEAf0Bc46D",
+      "name": "Deri Protocol",
+      "symbol": "DERI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xd212377f71F15A1b962c9265Dc44FBcEAf0Bc46D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "097b97dffb0e0dcc722495d92448470e"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020",
+      "name": "Quickswap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xE22E3D44Ea9Fb0A87Ea3F7a8f41D869C677f0020.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4e9f76efbf96366c26aa225377cba70f"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xe68874E57224D1e4E6D4C6B4cF5AF7Ca51867611",
+      "name": "Ceto Swap Burned CETO",
+      "symbol": "BCETO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xe68874E57224D1e4E6D4C6B4cF5AF7Ca51867611.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "72889ecd5a6a3403e2accd64624ac0af"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3",
+      "name": "StakeStone Ether",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xEc901DA9c68E90798BbBb74c11406A32A70652C3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "47db9b01940b1f45bc6698ca74aeb8f6"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d983bcab28d61fe159fe17fed5a8acf8"
+      }
+    }
+  ]
+}

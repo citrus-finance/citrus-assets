@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on JIBCHAIN L1",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.586Z",
+  "tokens": [
+    {
+      "chainId": 8899,
+      "address": "0x99999999990FC47611b74827486218f3398A4abD",
+      "name": "Wrapped JBC",
+      "symbol": "WJBC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8899/0x99999999990FC47611b74827486218f3398A4abD.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "330b1a65c6301dc88e55cd669bdd09bf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Fuse Sparknet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:39:52.250Z",
+  "tokens": [
+    {
+      "chainId": 123,
+      "address": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B",
+      "name": "Wrapped Fuse",
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/123/0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "20239a94036dfca86c0539950819224d"
+      }
+    }
+  ]
+}

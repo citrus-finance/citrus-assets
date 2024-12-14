@@ -5,55 +5,103 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:55.776Z",
+  "timestamp": "2024-12-14T23:49:08.905Z",
   "tokens": [
     {
-      "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
       "chainId": 80001,
+      "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+      "name": "Tether USD",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x3813e82e6f7098b9583FC0F33a962D02018B6803.jpg",
-      "name": "Tether USD",
-      "symbol": "USDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ea5475e69a3f74b622083a4fba8595d2"
+      }
     },
     {
-      "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
       "chainId": 80001,
+      "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x5B67676a984807a212b1c59eBFc9B3568a474F0a.jpg",
-      "name": "Wrapped Matic",
-      "symbol": "WMATIC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9a2a6cf1cf4f3902c0074ee79b743539"
+      }
     },
     {
-      "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
       "chainId": 80001,
+      "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+      "name": "Ether",
+      "symbol": "ETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323.jpg",
-      "name": "Ether",
-      "symbol": "ETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
+      }
     },
     {
-      "address": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
       "chainId": 80001,
+      "address": "0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7.jpg",
-      "name": "USD Coin",
-      "symbol": "USDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
+      }
     },
     {
-      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
       "chainId": 80001,
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "88ca0790f807a102c7554753eba1640d"
+      }
+    },
+    {
+      "chainId": 80001,
+      "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/80001/0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
+      }
+    },
+    {
+      "chainId": 80001,
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1.jpg",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
+      }
     },
     {
-      "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
       "chainId": 80001,
+      "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
+      "name": "The Sandbox",
+      "symbol": "SAND",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/80001/0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025.jpg",
-      "name": "The Sandbox",
-      "symbol": "SAND"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b3d8c3348037f40b50f9a0099e1d5de8"
+      }
     }
   ]
 }

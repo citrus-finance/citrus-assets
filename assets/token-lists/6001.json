@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on BounceBit Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:22.406Z",
+  "tokens": [
+    {
+      "chainId": 6001,
+      "address": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
+      "name": "Wrapped BounceBit Token",
+      "symbol": "WBB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6001/0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f2332b3bd448f95c369bc9964270f884"
+      }
+    }
+  ]
+}

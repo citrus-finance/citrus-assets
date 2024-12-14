@@ -5,63 +5,91 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:50:07.579Z",
+  "timestamp": "2024-12-14T23:49:19.961Z",
   "tokens": [
     {
-      "address": "0x05BA149A7bd6dC1F937fA9046A9e05C05f3b18b0",
       "chainId": 7000,
+      "address": "0x05BA149A7bd6dC1F937fA9046A9e05C05f3b18b0",
+      "name": "ZetaChain ZRC20 USDC on BSC",
+      "symbol": "USDC.BSC",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x05BA149A7bd6dC1F937fA9046A9e05C05f3b18b0.jpg",
-      "name": "ZetaChain ZRC20 USDC on BSC",
-      "symbol": "USDC.BSC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a9605f9b1feaf2c5913e8e8c2005e692"
+      }
     },
     {
-      "address": "0x0cbe0dF132a6c6B4a2974Fa1b7Fb953CF0Cc798a",
       "chainId": 7000,
+      "address": "0x0cbe0dF132a6c6B4a2974Fa1b7Fb953CF0Cc798a",
+      "name": "ZetaChain ZRC20 USDC on ETH",
+      "symbol": "USDC.ETH",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x0cbe0dF132a6c6B4a2974Fa1b7Fb953CF0Cc798a.jpg",
-      "name": "ZetaChain ZRC20 USDC on ETH",
-      "symbol": "USDC.ETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1be016b6ed5ab3df0282dad43ab6b2ba"
+      }
     },
     {
-      "address": "0x13A0c5930C028511Dc02665E7285134B6d11A5f4",
       "chainId": 7000,
+      "address": "0x13A0c5930C028511Dc02665E7285134B6d11A5f4",
+      "name": "ZetaChain ZRC20 BTC-btc_mainnet",
+      "symbol": "BTC.BTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x13A0c5930C028511Dc02665E7285134B6d11A5f4.jpg",
-      "name": "ZetaChain ZRC20 BTC-btc_mainnet",
-      "symbol": "BTC.BTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3936bfbba264da1fe03d0632ff9b8a0a"
+      }
     },
     {
-      "address": "0x45334a5B0a01cE6C260f2B570EC941C680EA62c0",
       "chainId": 7000,
+      "address": "0x45334a5B0a01cE6C260f2B570EC941C680EA62c0",
+      "name": "Staked ZETA",
+      "symbol": "stZETA",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x45334a5B0a01cE6C260f2B570EC941C680EA62c0.jpg",
-      "name": "Staked ZETA",
-      "symbol": "stZETA"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a87b496b0aeab591637e2163b3707aa9"
+      }
     },
     {
-      "address": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
       "chainId": 7000,
+      "address": "0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf",
+      "name": "Wrapped Zeta",
+      "symbol": "WZETA",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x5F0b1a82749cb4E2278EC87F8BF6B618dC71a8bf.jpg",
-      "name": "Wrapped Zeta",
-      "symbol": "WZETA"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7feb122a3397423c16c40f4002358e51"
+      }
     },
     {
-      "address": "0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
       "chainId": 7000,
+      "address": "0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7",
+      "name": "ZetaChain ZRC20 USDT on ETH",
+      "symbol": "USDT.ETH",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x7c8dDa80bbBE1254a7aACf3219EBe1481c6E01d7.jpg",
-      "name": "ZetaChain ZRC20 USDT on ETH",
-      "symbol": "USDT.ETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b7006c902eb0cc5ac76aa523a7ae0747"
+      }
     },
     {
-      "address": "0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F",
       "chainId": 7000,
+      "address": "0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F",
+      "name": "ZetaChain ZRC20 USDT on BSC",
+      "symbol": "USDT.BSC",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/7000/0x91d4F0D54090Df2D81e834c3c8CE71C6c865e79F.jpg",
-      "name": "ZetaChain ZRC20 USDT on BSC",
-      "symbol": "USDT.BSC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ab2b5f58a05cfe3b1a6bf6166c3a01f"
+      }
     }
   ]
 }

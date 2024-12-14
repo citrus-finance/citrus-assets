@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on XinFin Network",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.457Z",
+  "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x951857744785E80e2De051c32EE7b25f9c458C42.jpeg",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4ee3902ce0da937dd788a9102294534a"
+      }
+    }
+  ]
+}

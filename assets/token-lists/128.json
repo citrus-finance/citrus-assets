@@ -5,23 +5,31 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:40.142Z",
+  "timestamp": "2024-12-14T23:49:38.512Z",
   "tokens": [
     {
-      "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
       "chainId": 128,
+      "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
+      "name": "SUSHI",
+      "symbol": "SUSHI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/128/0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5.jpg",
-      "name": "SUSHI",
-      "symbol": "SUSHI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2de2a7235a8d3476811e4bc160fa0d74"
+      }
     },
     {
-      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
       "chainId": 128,
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "name": "WOWSwap",
+      "symbol": "WOW",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/128/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.png",
-      "name": "WOWSwap",
-      "symbol": "WOW"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2c5b5203c45d8a0c90cb54cab56b3555"
+      }
     }
   ]
 }

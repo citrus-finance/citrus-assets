@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Syscoin Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:39:38.871Z",
+  "tokens": [
+    {
+      "chainId": 57,
+      "address": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
+      "name": "Wrapped SYS",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/57/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ddfbba2ca4ebf8baff7900d82ec5c811"
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "name": "Citrus Finance on X Layer Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:41.401Z",
+  "tokens": [
+    {
+      "chainId": 196,
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "name": "Polygon Hermez Bridged USDT  x Layer ",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x1E4a5963aBFD975d8c9021ce480b42188849D41d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bff24d3383ad5aaa5b18e0130f011a84"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x3116d456c053C8c6fd91F4EF85DB4463eAEf3898",
+      "name": "ApeX",
+      "symbol": "APEX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x3116d456c053C8c6fd91F4EF85DB4463eAEf3898.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4349499827a7b70f9c6c49ef4f6350c1"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x412080969E8D7cCFF8C78B4CC0A588e4d8786F27",
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x412080969E8D7cCFF8C78B4CC0A588e4d8786F27.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "eb430ce545e99a4313660dc80dbe4c7f"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x4D87750a795b0Ae310A24349fA9108585100A90e",
+      "name": "HOW TO FLY",
+      "symbol": "PUFF",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x4D87750a795b0Ae310A24349fA9108585100A90e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "29c0a407117624d6205fc5d0cb707028"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x54455532324468f5D60eBD6469f2BbD3Dc47a7F8",
+      "name": "AbstraDEX",
+      "symbol": "ABS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x54455532324468f5D60eBD6469f2BbD3Dc47a7F8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ab3426320c121954a33f46effa661b2"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x5574730E54E167e2fD0003aEd0D6Ce31eD8b4600",
+      "name": "OKCat",
+      "symbol": "OKCAT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x5574730E54E167e2fD0003aEd0D6Ce31eD8b4600.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "39ae97c8854fc87713c0a1ed1b691859"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+      "name": "x Layer Bridged WETH  x Layer ",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x5A77f1443D16ee5761d310e38b62f77f726bC71c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c83e0373b2b0b23f4ad94776f2e27595"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+      "name": "Inception Restaked ETH",
+      "symbol": "INETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ef565fae13ff981e5a9747aab8293abf"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x73644A48A4f540fA49a8B4D41dba2DED5Df3912B",
+      "name": "MUKI",
+      "symbol": "MUKI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x73644A48A4f540fA49a8B4D41dba2DED5Df3912B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "febce5a439834373368530e82b2e32fa"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+      "name": "Polygon Hermez Bridged USDC  x Layer ",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x74b7F16337b8972027F6196A17a631aC6dE26d22.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "42b1311cea0daeff4c7fb70ff30b286f"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x7a8d02FcF6BdF062A8365d71bF4c59F8671cE4F9",
+      "name": "AIPEPE",
+      "symbol": "AIPEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x7a8d02FcF6BdF062A8365d71bF4c59F8671cE4F9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9aa4285c94255cf538913980eb2b1f01"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x80137510979822322193FC997d400D5A6C747bf7",
+      "name": "StakeStone ETH",
+      "symbol": "STONE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x80137510979822322193FC997d400D5A6C747bf7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "79cb2db44285c5c1fa59a8cdd2be0f6b"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x843D794eD4335b27d02184ca86787C14e6247074",
+      "name": "ZeroLend",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x843D794eD4335b27d02184ca86787C14e6247074.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "933a2b29e99fe9f3deeb67bb6728d6c9"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+      "name": "X Layer Bridged USDC  X Layer ",
+      "symbol": "USDCE",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "02045a6b3ea3657faf2bcae23c907bd2"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "name": "x Layer Bridged DAI  x Layer ",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "585eaffe4c364e8dcff611a1e1fcb549"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xd077ABE1663166c0920d41Fd37ea2D9A00faBd40",
+      "name": "ZAI Stablecoin",
+      "symbol": "USDZ",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xd077ABE1663166c0920d41Fd37ea2D9A00faBd40.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8ac8b96e160ba99457449e70a14c3588"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xd564276F9DC4201FbC8a836e70874ab1B769bf2A",
+      "name": "DackieSwap",
+      "symbol": "DACKIE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xd564276F9DC4201FbC8a836e70874ab1B769bf2A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d79c37d282ca0d56e6068c9c2ce436bf"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xe538905cf8410324e03A5A23C1c177a474D59b2b.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e33c49ab3d823e889d4ef56dd10af57a"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+      "name": "x Layer Bridged WBTC  x Layer ",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "10919689f94e075f6d61fb17c93e7686"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xfBfdFaF3A3ed8807f9681Cf4aD8116f94418101b",
+      "name": "Dackie USD",
+      "symbol": "DCKUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xfBfdFaF3A3ed8807f9681Cf4aD8116f94418101b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bd6b974f727d8e3518995315cdb966bc"
+      }
+    }
+  ]
+}

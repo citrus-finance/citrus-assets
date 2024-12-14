@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on opBNB Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:22.405Z",
+  "tokens": [
+    {
+      "chainId": 5611,
+      "address": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5611/0x617d91847b74B70a3D3e3745445cb0d1b3c8560E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c2b90c1c726c820f1d289b96657d630"
+      }
+    }
+  ]
+}

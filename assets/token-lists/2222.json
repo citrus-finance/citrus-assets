@@ -5,119 +5,175 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:20.818Z",
+  "timestamp": "2024-12-14T23:41:11.819Z",
   "tokens": [
     {
-      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
       "chainId": 2222,
+      "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
+      "name": "Axeler Wrapped WBTC",
+      "symbol": "axlWBTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
-      "name": "Axeler Wrapped WBTC",
-      "symbol": "axlWBTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c560a9dee30ae4b4172af5c9d1f9547"
+      }
     },
     {
-      "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
       "chainId": 2222,
+      "address": "0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b31ea780bd2106847ee145971a0d9767"
+      }
     },
     {
-      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
       "chainId": 2222,
+      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+      "name": "Axler Wrapped DAI",
+      "symbol": "axlDAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-      "name": "Axler Wrapped DAI",
-      "symbol": "axlDAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1f146006b6690afd6b4ae67b5c35cda8"
+      }
     },
     {
-      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
       "chainId": 2222,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "name": "Dai Stablecoin",
+      "symbol": "anyDAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x765277EebeCA2e31912C9946eAe1021199B39C61.jpg",
-      "name": "Dai Stablecoin",
-      "symbol": "anyDAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
+      }
     },
     {
-      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
       "chainId": 2222,
+      "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+      "name": "SushiToken",
+      "symbol": "anySUSHI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
-      "name": "SushiToken",
-      "symbol": "anySUSHI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5b31540f478b2c4cd2b4a5f75cc09eb1"
+      }
     },
     {
-      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
       "chainId": 2222,
+      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+      "name": "Axelar Wrapped USDT",
+      "symbol": "axlUSDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
-      "name": "Axelar Wrapped USDT",
-      "symbol": "axlUSDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "343f10e654708a29f7030c66747a71f3"
+      }
     },
     {
-      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
       "chainId": 2222,
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "name": "Wrapped Bitcoin",
+      "symbol": "anyWBTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.jpg",
-      "name": "Wrapped Bitcoin",
-      "symbol": "anyWBTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a63f00f0a26e0b3d6351681206b8cf9a"
+      }
     },
     {
-      "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
       "chainId": 2222,
+      "address": "0x919C1c267BC06a7039e03fcc2eF738525769109c",
+      "name": "TetherUSDt",
+      "symbol": "USDt",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
-      "name": "TetherUSDt",
-      "symbol": "USDt"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "36a5e6646212a9c77aa43d846d5c2e46"
+      }
     },
     {
-      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "chainId": 2222,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "name": "Tether USD",
+      "symbol": "anyUSDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.jpg",
-      "name": "Tether USD",
-      "symbol": "anyUSDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ea5475e69a3f74b622083a4fba8595d2"
+      }
     },
     {
-      "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
       "chainId": 2222,
+      "address": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+      "name": "Axelar Wrapped ETH",
+      "symbol": "axlETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
-      "name": "Axelar Wrapped ETH",
-      "symbol": "axlETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a3c734a244084180cc603f4203d3bc0f"
+      }
     },
     {
+      "chainId": 2222,
       "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-      "chainId": 2222,
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b.svg",
       "name": "Wrapped Kava",
-      "symbol": "WKAVA"
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1835ff5587eec80c20faff692330aef6"
+      }
     },
     {
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
       "chainId": 2222,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "name": "Wrapped Ethereum",
+      "symbol": "anyWETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.jpg",
-      "name": "Wrapped Ethereum",
-      "symbol": "anyWETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
+      }
     },
     {
-      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 2222,
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "name": "Axelar Wrapped USDC",
+      "symbol": "axlUSDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-      "name": "Axelar Wrapped USDC",
-      "symbol": "axlUSDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7bd8a783d4d4a45797f89e046a0a5cd7"
+      }
     },
     {
-      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "chainId": 2222,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "name": "USD Coin",
+      "symbol": "anyUSDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/2222/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f.jpg",
-      "name": "USD Coin",
-      "symbol": "anyUSDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
+      }
     }
   ]
 }

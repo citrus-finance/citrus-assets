@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on LightLink Pegasus Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.818Z",
+  "tokens": [
+    {
+      "chainId": 1891,
+      "address": "0xF42991f02C07AB66cFEa282E7E482382aEB85461",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1891/0xF42991f02C07AB66cFEa282E7E482382aEB85461.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f07f769a5672d69927c5e2778674cd97"
+      }
+    }
+  ]
+}

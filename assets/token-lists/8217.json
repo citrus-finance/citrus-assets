@@ -1,0 +1,363 @@
+{
+  "name": "Citrus Finance on Kaia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:49:19.759Z",
+  "tokens": [
+    {
+      "chainId": 8217,
+      "address": "0x02cbE46fB8A1F579254a9B485788f2D86Cad51aa",
+      "name": "BORA",
+      "symbol": "BORA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x02cbE46fB8A1F579254a9B485788f2D86Cad51aa.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "111f1ff33bed10adca3530bb6acba2c4"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x078dB7827a5531359f6CB63f62CFA20183c4F10c",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x078dB7827a5531359f6CB63f62CFA20183c4F10c.png",
+      "tags": [
+        "GROUP:DAI",
+        "PEG:USD",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "6d60bab4ae09ecf2067864234c158d7b"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c",
+      "name": "Orbit Bridge Klaytn Wrapped BTC",
+      "symbol": "oWBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x16D0e1fBD024c600Ca0380A4C5D57Ee7a2eCBf9c.png",
+      "tags": [
+        "PEG:BTC",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "76aeaa5acba55220a397d22bd366e3e6"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x27dCd181459bcdDC63c37baB1E404A313C0dfD79",
+      "name": "Mineral",
+      "symbol": "MNR",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x27dCd181459bcdDC63c37baB1E404A313C0dfD79.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "13a7a91eb0104385217a4ce6baf666d5"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x34d21b1e550D73cee41151c77F3c73359527a396",
+      "name": "Orbit Bridge Klaytn Ethereum",
+      "symbol": "oETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x34d21b1e550D73cee41151c77F3c73359527a396.png",
+      "tags": [
+        "PEG:ETH",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "6520750c77e1ed8029f695829d3b3b4f"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x37C38B19a6bA325486Da87f946e72dC93E0AB39a",
+      "name": "NewKlayPunks",
+      "symbol": "PUNK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x37C38B19a6bA325486Da87f946e72dC93E0AB39a.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "d3dc7ffeffd4a9873f9d07760388e891"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x4Fa62F1f404188CE860c8f0041d6Ac3765a72E67",
+      "name": "Kokoa Stable Dollar",
+      "symbol": "KSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x4Fa62F1f404188CE860c8f0041d6Ac3765a72E67.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "0c487440f81813603f273f24fd32d643"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x5096dB80B21Ef45230C9E423C373f1FC9C0198dd",
+      "name": "WEMIX TOKEN",
+      "symbol": "WEMIX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x5096dB80B21Ef45230C9E423C373f1FC9C0198dd.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "7108e25637169c38a7a85bd284e3f583"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x588C62eD9aa7367d7cd9C2A9aaAc77e44fe8221B",
+      "name": "Answer Governance",
+      "symbol": "AGOV",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x588C62eD9aa7367d7cd9C2A9aaAc77e44fe8221B.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "0182e49ce531e00f0809ff62968dd526"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b",
+      "name": "Dai",
+      "symbol": "KDAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x5c74070FDeA071359b86082bd9f9b3dEaafbe32b.png",
+      "tags": [
+        "PEG:USD",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "df66b29630284c0c6f7010c4c5d43f49"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x6270B58BE569a7c0b8f47594F191631Ae5b2C86C.png",
+      "tags": [
+        "GROUP:USDC",
+        "PEG:USD",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "f30e8c533b6d4bbe61ee776fb238b06e"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x754288077D0fF82AF7a5317C7CB8c444D421d103",
+      "name": "Orbit Bridge Klaytn USD Coin",
+      "symbol": "oUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x754288077D0fF82AF7a5317C7CB8c444D421d103.png",
+      "tags": [
+        "PEG:USD",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "ad4ab726d46fd042130d75fe4420ff33"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x976232eB7Eb92287fF06c5D145bD0d1C033eCA58",
+      "name": "Walk Token",
+      "symbol": "WALK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x976232eB7Eb92287fF06c5D145bD0d1C033eCA58.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "c1f14778c2c40f0525134bd2abf2c480"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F",
+      "name": "Orbit Bridge Klaytn Ripple",
+      "symbol": "oXRP",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0x9eaeFb09fe4aABFbE6b1ca316a3c36aFC83A393F.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "5caba260776e0dfc812e90b8de16747c"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xb15183D0d4D5E86ba702cE9bb7b633376e7db29f",
+      "name": "Kokoa",
+      "symbol": "KOKOA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xb15183D0d4D5E86ba702cE9bb7b633376e7db29f.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "d6292e8fa31f7b5b08e328440dfdce59"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654",
+      "name": "KlaySwap Protocol",
+      "symbol": "KSP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xC6a2Ad8cC6e4A7E08FC37cC5954be07d499E7654.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "925b4e00f5401e437cc72e789f2a10fa"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xCD6f29dC9Ca217d0973d3D21bF58eDd3CA871a86.png",
+      "tags": [
+        "GROUP:WETH",
+        "PEG:ETH",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "71ae8dd1f56272005dab651378d10f15"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167",
+      "name": "Orbit Bridge Klaytn USD Tether",
+      "symbol": "oUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xceE8FAF64bB97a73bb51E115Aa89C17FfA8dD167.png",
+      "tags": [
+        "PEG:USD",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "07bf8b0e7d9f1fe815d2e3736458db9b"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xCF87f94fD8F6B6f0b479771F10dF672f99eADa63",
+      "name": "ClaimSwap",
+      "symbol": "CLA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xCF87f94fD8F6B6f0b479771F10dF672f99eADa63.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "60f53bb5d3cba13b5370955fd632f645"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xDCbacF3f7a069922E677912998c8d57423C37dfA",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xDCbacF3f7a069922E677912998c8d57423C37dfA.png",
+      "tags": [
+        "GROUP:WBTC",
+        "PEG:BTC",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "1a336e2d3d963a3a399a5020a98d576c"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xdCd62c57182E780E23d2313C4782709Da85b9D6C",
+      "name": "Somesing Exchange",
+      "symbol": "SSX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xdCd62c57182E780E23d2313C4782709Da85b9D6C.png",
+      "tags": [
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "0a09da8b6765f40d273d469433bcd418"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xe4f05A66Ec68B54A58B17c22107b02e0232cC817",
+      "name": "Wrapped Klay",
+      "symbol": "WKLAY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xe4f05A66Ec68B54A58B17c22107b02e0232cC817.png",
+      "tags": [
+        "PEG:KLAY",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "da18eaabe953f35ec3b8cf2480014f04"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "Kaia",
+      "symbol": "KAIA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
+      "tags": [
+        "native",
+        "PEG:KLAY"
+      ],
+      "extensions": {
+        "cacheHash": "fba14c90292445bc2075026fee55661e"
+      }
+    },
+    {
+      "chainId": 8217,
+      "address": "0xFF3e7cf0C007f919807b32b30a4a9E7Bd7Bc4121",
+      "name": "Wrapped KLAY v10",
+      "symbol": "WKLAY_2",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8217/0xFF3e7cf0C007f919807b32b30a4a9E7Bd7Bc4121.png",
+      "tags": [
+        "PEG:KLAY",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "9365b820ca4c29ffbbfdf1ddbb97094c"
+      }
+    }
+  ]
+}

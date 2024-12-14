@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on X1 Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:35.064Z",
+  "tokens": [
+    {
+      "chainId": 195,
+      "address": "0xa2aFfd8301BfB3c5b815829f2F509f053556D21B",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/195/0xa2aFfd8301BfB3c5b815829f2F509f053556D21B.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e33c49ab3d823e889d4ef56dd10af57a"
+      }
+    }
+  ]
+}

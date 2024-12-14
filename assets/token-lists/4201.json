@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on LUKSO Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.821Z",
+  "tokens": [
+    {
+      "chainId": 4201,
+      "address": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe",
+      "name": "Wrapped LYX",
+      "symbol": "WLYX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4201/0xB789fbA6532378151D2395f1171B1a7461BF6fBe.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1b96ed721ef75d5dd459df6e3da7aac4"
+      }
+    }
+  ]
+}

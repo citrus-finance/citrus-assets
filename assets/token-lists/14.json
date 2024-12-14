@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Flare Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.250Z",
+  "tokens": [
+    {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "name": "Wrapped Flare",
+      "symbol": "WFLR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/14/0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
+      }
+    }
+  ]
+}

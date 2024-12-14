@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Finance on Cyber",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:22.414Z",
+  "tokens": [
+    {
+      "chainId": 7560,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/7560/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ff6add24b496c4dae57f2861a717c5ff"
+      }
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 7560,
+      "logoURI": "https://assets.citrus.finance/token-logos/7560/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006",
+        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

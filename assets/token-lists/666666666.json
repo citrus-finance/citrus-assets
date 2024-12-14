@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Finance on Degen",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:49.664Z",
+  "tokens": [
+    {
+      "chainId": 666666666,
+      "address": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+      "name": "Wrapped Degen",
+      "symbol": "WDEGEN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/666666666/0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387.jpeg",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "257de0d3229335b2e9d0f261c66fbd74"
+      }
+    },
+    {
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 666666666,
+      "logoURI": "https://assets.citrus.finance/token-logos/666666666/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
+      "extensions": {
+        "wrapped": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
+        "cacheHash": "1eda818e888f219f2b4d22b888631ca9"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

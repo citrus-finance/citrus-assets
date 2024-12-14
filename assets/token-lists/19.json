@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Songbird Canary-Network",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:23:31.250Z",
+  "tokens": [
+    {
+      "chainId": 19,
+      "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+      "name": "Wrapped Songbird",
+      "symbol": "WSGB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/19/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
+      }
+    }
+  ]
+}

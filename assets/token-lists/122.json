@@ -5,119 +5,175 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:50:12.082Z",
+  "timestamp": "2024-12-14T23:39:52.249Z",
   "tokens": [
     {
-      "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
       "chainId": 122,
+      "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
+      "name": "Graph Token",
+      "symbol": "GRT",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x025a4c577198D116Ea499193E6D735FDb2e6E841.jpg",
-      "name": "Graph Token",
-      "symbol": "GRT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "042b5efab1e08cea452166f3f075125d"
+      }
     },
     {
-      "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
       "chainId": 122,
+      "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
+      "name": "ChainLink Token",
+      "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x0972F26e8943679b043de23df2fD3852177A7c48.jpg",
-      "name": "ChainLink Token",
-      "symbol": "LINK"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "77464dc9a43a415269c4cfb4b2bf56e4"
+      }
     },
     {
+      "chainId": 122,
       "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
-      "chainId": 122,
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/122/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg",
       "name": "Wrapped Fuse",
-      "symbol": "WFUSE"
+      "symbol": "WFUSE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/122/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "20239a94036dfca86c0539950819224d"
+      }
     },
     {
-      "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
       "chainId": 122,
+      "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
+      "name": "Fuse Dollar",
+      "symbol": "fUSD",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x249BE57637D8B013Ad64785404b24aeBaE9B098B.jpg",
-      "name": "Fuse Dollar",
-      "symbol": "fUSD"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "62270492a60ab01318939d39a08836ca"
+      }
     },
     {
-      "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
       "chainId": 122,
+      "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
+      "name": "DEXTools",
+      "symbol": "DEXT",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x2f60a843302F1Be3FA87429CA9d684f9091b003c.jpg",
-      "name": "DEXTools",
-      "symbol": "DEXT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2184e3a1e16dba9d6619243b6722c7e5"
+      }
     },
     {
-      "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
       "chainId": 122,
+      "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x33284f95ccb7B948d9D352e1439561CF83d8d00d.jpg",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bd0252d6e1f0fe6b041986f95c6beb3c"
+      }
     },
     {
-      "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
       "chainId": 122,
+      "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x43B17749B246fd2a96DE25d9e4184E27E09765b0.jpg",
-      "name": "Kyber Network Crystal",
-      "symbol": "KNC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f5286b211afddb4c3ed71b2c5db2b5f3"
+      }
     },
     {
-      "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
       "chainId": 122,
+      "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
+      "name": "GoodDollar",
+      "symbol": "G$",
       "decimals": 2,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x495d133B938596C9984d462F007B676bDc57eCEC.jpg",
-      "name": "GoodDollar",
-      "symbol": "G$"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a1912f0e0263c313c528c8fa40f10182"
+      }
     },
     {
-      "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
       "chainId": 122,
+      "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg",
-      "name": "USD Coin",
-      "symbol": "USDC"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f120a9f01195be8cc34b12533d2f77ff"
+      }
     },
     {
-      "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
       "chainId": 122,
+      "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
+      "name": "BNB",
+      "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x6acb34b1Df86E254b544189Ec32Cf737e2482058.jpg",
-      "name": "BNB",
-      "symbol": "BNB"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "74b741dfee70c84f2572ecb3323baf2b"
+      }
     },
     {
-      "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
       "chainId": 122,
+      "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
+      "name": "MANTRA DAO",
+      "symbol": "OM",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x7F59aE3a787C0d1D640F99883d0e48c22188C54f.jpg",
-      "name": "MANTRA DAO",
-      "symbol": "OM"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "937d8ef34dda2ce7644c7d0104f2391a"
+      }
     },
     {
-      "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
       "chainId": 122,
+      "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
+      "name": "SushiToken on Fuse",
+      "symbol": "SUSHI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
-      "name": "SushiToken on Fuse",
-      "symbol": "SUSHI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8b00de414fbae4807e1769ddeb09514b"
+      }
     },
     {
-      "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
       "chainId": 122,
+      "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cc56eaec50ab652e9590a1fe53d00276"
+      }
     },
     {
-      "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
       "chainId": 122,
+      "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0xa722c13135930332Eb3d749B2F0906559D2C5b99.jpg",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "50af48518bd6774c3bc2e06e4a419267"
+      }
     },
     {
       "name": "Fuse",
@@ -125,18 +181,26 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 122,
-      "logoURI": "https://assets.citrus.finance/token-logos/122/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.svg",
+      "logoURI": "https://assets.citrus.finance/token-logos/122/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
-        "wrapped": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629"
-      }
+        "wrapped": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+        "cacheHash": "7aae5f63ba01c1e01564b46e74f29203"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
-      "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
       "chainId": 122,
+      "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
+      "name": "Tether USD",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.citrus.finance/token-logos/122/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10.jpg",
-      "name": "Tether USD",
-      "symbol": "USDT"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "afad59aa22b9e8babc2fbb404b2f91f4"
+      }
     }
   ]
 }

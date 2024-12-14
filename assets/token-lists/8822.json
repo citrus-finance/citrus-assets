@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on IOTA EVM",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:44:51.585Z",
+  "tokens": [
+    {
+      "chainId": 8822,
+      "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+      "name": "wIOTA",
+      "symbol": "wIOTA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/8822/0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c.webp",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ecf0cff6c58300d473f618e1e823de70"
+      }
+    }
+  ]
+}

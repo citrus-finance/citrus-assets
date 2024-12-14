@@ -1,0 +1,35 @@
+{
+  "name": "Citrus Finance on Lisk Sepolia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.822Z",
+  "tokens": [
+    {
+      "chainId": 4202,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 4202,
+      "address": "0x8a21CF9Ba08Ae709D64Cb25AfAA951183EC9FF6D",
+      "name": "Lisk",
+      "symbol": "LSK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x8a21CF9Ba08Ae709D64Cb25AfAA951183EC9FF6D.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7f256ed3b46b51f7995366c6445a55ca"
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Berachain bArtio",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:12.255Z",
+  "tokens": [
+    {
+      "chainId": 80084,
+      "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
+      "name": "WBERA Token",
+      "symbol": "WBERA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/80084/0x7507c1dc16935B82698e4C63f2746A2fCf994dF8.avif",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a1ac85f33c892d64cb1c861c4b12dc2e"
+      }
+    }
+  ]
+}

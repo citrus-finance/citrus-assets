@@ -1,0 +1,50 @@
+{
+  "name": "Citrus Finance on Redstone",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:40:52.570Z",
+  "tokens": [
+    {
+      "chainId": 690,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/690/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 690,
+      "address": "0xD5d59fC063e7548b6015A36fEb10B875924A19be",
+      "name": "Bridged USDC (Lattice)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/690/0xD5d59fC063e7548b6015A36fEb10B875924A19be.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e2fe39e9e18925a75c4153f77632b683"
+      }
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 690,
+      "logoURI": "https://assets.citrus.finance/token-logos/690/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x4200000000000000000000000000000000000006",
+        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+      },
+      "tags": [
+        "Top"
+      ]
+    }
+  ]
+}

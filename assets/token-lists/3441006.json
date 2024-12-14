@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Manta Pacific Sepolia Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:48.194Z",
+  "tokens": [
+    {
+      "chainId": 3441006,
+      "address": "0x199d1a27684106dC3Deb673115fc0fc9cf6af287",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/3441006/0x199d1a27684106dC3Deb673115fc0fc9cf6af287.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

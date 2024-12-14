@@ -5,31 +5,43 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-11-12T21:51:12.394Z",
+  "timestamp": "2024-12-14T23:49:20.168Z",
   "tokens": [
     {
-      "address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
       "chainId": 11297108109,
+      "address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/11297108109/0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8.jpg",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
+      }
     },
     {
-      "address": "0x726138359C17F1E56bA8c4F737a7CAf724F6010b",
       "chainId": 11297108109,
+      "address": "0x726138359C17F1E56bA8c4F737a7CAf724F6010b",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/11297108109/0x726138359C17F1E56bA8c4F737a7CAf724F6010b.jpg",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
+      }
     },
     {
-      "address": "0xF98cABF0a963452C5536330408B2590567611a71",
       "chainId": 11297108109,
+      "address": "0xF98cABF0a963452C5536330408B2590567611a71",
+      "name": "Wrapped Palm",
+      "symbol": "WPALM",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/11297108109/0xF98cABF0a963452C5536330408B2590567611a71.jpg",
-      "name": "Wrapped Palm",
-      "symbol": "WPALM"
+      "tags": [],
+      "extensions": {
+        "cacheHash": "066a9ef8a5b4e5e6fcbba103d89657d6"
+      }
     }
   ]
 }

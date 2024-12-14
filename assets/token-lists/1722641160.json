@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on Silicon Sepolia zkEVM",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:45:53.519Z",
+  "tokens": [
+    {
+      "chainId": 1722641160,
+      "address": "0x2f9cc2c11d5E10a5fd5C90c68f7FaD69f82ceD0b",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1722641160/0x2f9cc2c11d5E10a5fd5C90c68f7FaD69f82ceD0b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}

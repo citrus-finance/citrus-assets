@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on IoTeX",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.822Z",
+  "tokens": [
+    {
+      "chainId": 4689,
+      "address": "0xA00744882684C3e4747faEFD68D283eA44099D03",
+      "name": "Wrapped IOTX",
+      "symbol": "WIOTX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4689/0xA00744882684C3e4747faEFD68D283eA44099D03.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b86904c894a3bebb9d0d63673a3e1e98"
+      }
+    }
+  ]
+}

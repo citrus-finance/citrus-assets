@@ -1,6 +1,8 @@
 import { Token, TokenExtensions } from "./Token.js";
 
-export interface TokenList<T extends TokenExtensions = TokenExtensions> {
+export interface TokenList<
+  T extends TokenExtensions | undefined = TokenExtensions,
+> {
   keywords?: string[];
   logoURI?: string;
   name: string;

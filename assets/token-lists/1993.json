@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on B3 Sepolia",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2024-12-14T23:41:11.819Z",
+  "tokens": [
+    {
+      "chainId": 1993,
+      "address": "0x3538f4C55893eDca690D1e4Cf9Fb61FB70cd0DD8",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1993/0x3538f4C55893eDca690D1e4Cf9Fb61FB70cd0DD8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    }
+  ]
+}
