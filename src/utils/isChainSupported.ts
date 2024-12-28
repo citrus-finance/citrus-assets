@@ -2,6 +2,7 @@
 
 import { Hex } from "viem";
 import { getViemChain } from "./viemChains.js";
+import pRetry from "p-retry";
 
 // import { citrusChainsMap } from "../constants/chains.js";
 
@@ -34,18 +35,20 @@ export default async function isChainSupported(
   }
 
   try {
-    const response = await fetch(chain.rpcUrls.default.http[0], {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        jsonrpc: "2.0",
-        method: "eth_getCode",
-        params: ["0x914d7fec6aac8cd542e72bca78b30650d45643d7", "latest"],
-        id: 1,
+    const response = await pRetry(() =>
+      fetch(chain.rpcUrls.default.http[0], {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          jsonrpc: "2.0",
+          method: "eth_getCode",
+          params: ["0x914d7fec6aac8cd542e72bca78b30650d45643d7", "latest"],
+          id: 1,
+        }),
       }),
-    });
+    );
 
     if (response.status !== 200) {
       return false;
