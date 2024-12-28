@@ -3,7 +3,8 @@ import { viemChains } from "./utils/viemChains.js";
 import isChainSupported from "./utils/isChainSupported.js";
 import { existsSync } from "fs";
 import { mkdir } from "fs/promises";
-import { getAddress } from "viem";
+import { ChainFormatters, getAddress } from "viem";
+import type { Chain as BaseChain } from "viem/chains";
 import { getNativeWrappedToken } from "./utils/wrapped.js";
 import { getDefiLlamaProvider } from "./utils/defiLlama.js";
 import { getChainData } from "./utils/talisman.js";
@@ -12,22 +13,26 @@ type CaipNetworkId = `${ChainNamespace}:${number}`;
 
 type ChainNamespace = "eip155" | "solana" | "polkadot";
 
-type CaipNetwork = {
-  id: CaipNetworkId;
-  chainId: number;
+// From: https://github.com/reown-com/appkit/blob/main/packages/common/src/utils/TypeUtil.ts
+export type CaipNetwork = Omit<
+  BaseChain<
+    ChainFormatters | undefined,
+    Record<string, unknown> & { wrapped: string; defiLLamaChain?: string }
+  >,
+  "id"
+> & {
+  id: number | string;
   chainNamespace: ChainNamespace;
-  name: string;
-  currency: string;
-  explorerUrl: string;
-  rpcUrl: string;
-  imageUrl?: string;
-  imageId?: string;
-  // Extra fields
-  wrapped: string;
-  defiLLamaChain?: string;
+  caipNetworkId: CaipNetworkId;
+  assets?: {
+    imageId: string | undefined;
+    imageUrl: string | undefined;
+  };
 };
 
 export default async function buildNetworks() {
+  let completed = 0;
+
   const appKitNetworks = await Promise.all(
     viemChains.map(async (chain): Promise<CaipNetwork | null> => {
       const wrappedToken = getNativeWrappedToken(chain.id);
@@ -44,17 +49,24 @@ export default async function buildNetworks() {
         return null;
       }
 
+      completed++;
+      if (completed % 10 === 0 || completed === viemChains.length) {
+        console.log(`networks: ${completed}/${viemChains.length}`);
+      }
+
       return {
-        id: `eip155:${chain.id}`,
-        chainId: chain.id,
-        name: chain.name,
-        currency: chain.nativeCurrency.symbol,
-        explorerUrl: chain.blockExplorers?.default.url ?? "",
-        rpcUrl: chain.rpcUrls?.default.http[0] ?? "",
+        ...chain,
         chainNamespace: "eip155",
-        imageUrl: chainData?.logo,
-        wrapped: getAddress(wrappedToken.address),
-        defiLLamaChain: defiLLamaProvider?.name,
+        caipNetworkId: `eip155:${chain.id}`,
+        assets: {
+          imageId: undefined,
+          imageUrl: chainData?.logo,
+        },
+        custom: {
+          ...chain.custom,
+          wrapped: getAddress(wrappedToken.address),
+          defiLLamaChain: defiLLamaProvider?.name,
+        },
       };
     }),
   );
@@ -70,7 +82,7 @@ export default async function buildNetworks() {
     JSON.stringify(
       appKitNetworks
         .filter((x) => Boolean(x))
-        .sort((a, b) => a!.chainId - b!.chainId),
+        .sort((a, b) => (a!.id as number) - (b!.id as number)),
       null,
       2,
     ),
