@@ -130,7 +130,7 @@ export default async function buildNetworks() {
   );
 
   await writeFile(
-    `assets/networks/app-view-chains.json`,
+    `assets/networks/viem-chains.json`,
     JSON.stringify(
       viemCustomChains
         .filter((x) => Boolean(x))
