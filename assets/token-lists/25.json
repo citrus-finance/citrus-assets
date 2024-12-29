@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.252Z",
+  "timestamp": "2024-12-29T17:10:32.500Z",
   "tokens": [
     {
       "chainId": 25,
@@ -2442,6 +2442,21 @@
       "extensions": {
         "cacheHash": "04d0d02c44d87a6fd40d4f714928a4e1"
       }
+    },
+    {
+      "name": "Cronos",
+      "symbol": "CRO",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 25,
+      "logoURI": "https://assets.citrus.finance/token-logos/25/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 25,

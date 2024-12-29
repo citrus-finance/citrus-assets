@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.875Z",
+  "timestamp": "2024-12-29T17:14:00.210Z",
   "tokens": [
     {
       "chainId": 23295,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "67d079a3f4d2d56ebfd2fecef688fbdd"
       }
+    },
+    {
+      "name": "Sapphire Test Rose",
+      "symbol": "TEST",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 23295,
+      "logoURI": "https://assets.citrus.finance/token-logos/23295/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94",
+        "cacheHash": "43d09a8fe3c4fd6c74809a6244e5f439"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

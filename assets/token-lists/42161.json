@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:49:08.899Z",
+  "timestamp": "2024-12-29T17:14:46.862Z",
   "tokens": [
     {
       "chainId": 42161,
@@ -125,6 +125,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "c7393df71bdb8f9ddbe280cbc2238513"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x021289588cd81dC1AC87ea91e91607eEF68303F5",
+      "name": "Spiko US T Bills Money Market Fund",
+      "symbol": "USTBL",
+      "decimals": 5,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x021289588cd81dC1AC87ea91e91607eEF68303F5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cf1fba64d90fb9a389aa2741163bda01"
       }
     },
     {
@@ -2222,6 +2234,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "406649075db4761c13b9d209c3309668"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x291A50E611035b6562a2374B8B44dE70aA8d7896",
+      "name": "Pentagon Games",
+      "symbol": "PEN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x291A50E611035b6562a2374B8B44dE70aA8d7896.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b1a157962b5ffdd91de2656aef46ca16"
       }
     },
     {
@@ -4698,6 +4722,18 @@
     },
     {
       "chainId": 42161,
+      "address": "0x53e70cc1d527b524A1C46Eaa892e4CB35d2ba901",
+      "name": "SPX6900",
+      "symbol": "SPX",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x53e70cc1d527b524A1C46Eaa892e4CB35d2ba901.jpeg",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ab53cef273de2a281bdeaf8d36888f39"
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
       "name": "UniDex",
       "symbol": "UNIDX",
@@ -5402,6 +5438,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "818a8f1ec6d7fb866f1d20556df0cc31"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51",
+      "name": "Spectra",
+      "symbol": "SPECTRA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x64FCC3A02eeEba05Ef701b7eed066c6ebD5d4E51.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ea60cca0044d2409146b62dbf92a69b0"
       }
     },
     {
@@ -6439,13 +6487,25 @@
     {
       "chainId": 42161,
       "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
-      "name": "usdx money Staked USDX",
-      "symbol": "SUSDX",
+      "name": "Staked USDX",
+      "symbol": "sUSDX",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/42161/0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "9a88d6c8bdf39bd41fab9090c8e0d0b7"
+        "cacheHash": "121e5cba6af3482631872c1b539557e7"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x77b7787a09818502305C95d68A2571F090abb135",
+      "name": "Derive",
+      "symbol": "DRV",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x77b7787a09818502305C95d68A2571F090abb135.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "25b45b2ebdbf14df6a21377e90f6c2c4"
       }
     },
     {
@@ -6486,6 +6546,18 @@
     },
     {
       "chainId": 42161,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "name": "HeyAnon",
+      "symbol": "ANON",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "75e426d9f4d123905c8b585e053bdf36"
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x79EaD7a012D97eD8DeEcE279f9bC39e264d7Eef9",
       "name": "Bonsai",
       "symbol": "BONSAI",
@@ -6494,6 +6566,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "d331e7fb02c05a77653070afc0f13916"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7",
+      "name": "Eywa",
+      "symbol": "EYWA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x7A10F506E4c7658e6AD15Fdf0443d450B7FA80D7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9e9ec2871b7e0e171b2ada2e2a92564e"
       }
     },
     {
@@ -7598,6 +7682,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "98768ed8fcc51878109efc89f3387737"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809",
+      "name": "Flourishing AI",
+      "symbol": "AI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "871010da8d0d13cee747f5345f03df69"
       }
     },
     {
@@ -10842,6 +10938,30 @@
     },
     {
       "chainId": 42161,
+      "address": "0xCBeb19549054CC0a6257A77736FC78C367216cE7",
+      "name": "Spiko EU T Bills Money Market Fund",
+      "symbol": "EUTBL",
+      "decimals": 5,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0xCBeb19549054CC0a6257A77736FC78C367216cE7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8281fcc43080a9709bdedd5c589fa4e0"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "name": "SolvBTC Babylon",
+      "symbol": "SolvBTC.BBN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0xCC0966D8418d412c599A6421b760a847eB169A8c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a01b19e6430284a573d5ac7d628a005d"
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f",
       "name": "ANIMA",
       "symbol": "ANIMA",
@@ -11850,6 +11970,18 @@
     },
     {
       "chainId": 42161,
+      "address": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
+      "name": "Wrapped Accumulate",
+      "symbol": "WACME",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ea1b8eb077bb0e18e56c918f2879c2f9"
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xdf8F0c63D9335A0AbD89F9F752d293A98EA977d8",
       "name": "Ethena",
       "symbol": "ENA",
@@ -12302,6 +12434,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "df71040c2b161de4bb6948b82f1f306e"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xE8B201BE5357c07F0Aa58693F98FB048323777f9",
+      "name": "Blade",
+      "symbol": "BLADE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42161/0xE8B201BE5357c07F0Aa58693F98FB048323777f9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "64853eb1536f2e63cb8966590046e8a8"
       }
     },
     {
@@ -13011,13 +13155,13 @@
     {
       "chainId": 42161,
       "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
-      "name": "usdx money USDX",
+      "name": "USDX",
       "symbol": "USDX",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/42161/0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ff6a40e126b8bce4de8823f835880147"
+        "cacheHash": "42a5b10cdf0d5ef69c5a2e5e7f3320c9"
       }
     },
     {

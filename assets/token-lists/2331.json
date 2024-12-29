@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.820Z",
+  "timestamp": "2024-12-29T17:12:04.910Z",
   "tokens": [
     {
       "chainId": 2331,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "2c38b69b1cb94de53ac03de47cab6ba5"
       }
+    },
+    {
+      "name": "RSS3",
+      "symbol": "RSS3",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 2331,
+      "logoURI": "https://assets.citrus.finance/token-logos/2331/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xAd1a18d7e792DF42Af26ba85438Fc751Cdfa9578",
+        "cacheHash": "cda16675d6f99c10b4fe01f81a71dd3c"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

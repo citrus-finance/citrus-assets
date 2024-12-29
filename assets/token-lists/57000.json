@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:53.550Z",
+  "timestamp": "2024-12-29T17:14:08.390Z",
   "tokens": [
     {
       "chainId": 57000,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "ddfbba2ca4ebf8baff7900d82ec5c811"
       }
+    },
+    {
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 57000,
+      "logoURI": "https://assets.citrus.finance/token-logos/57000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xcAc0759160d57A33D332Ed36a555C10957694407",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.610Z",
+  "timestamp": "2024-12-29T17:12:00.350Z",
   "tokens": [
     {
       "chainId": 1559,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "86248125409f6203a4df509ebab5e64a"
       }
+    },
+    {
+      "name": "TENET",
+      "symbol": "TENET",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1559,
+      "logoURI": "https://assets.citrus.finance/token-logos/1559/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe",
+        "cacheHash": "e5f9f3e7130799b8cd97b9a0dd87ac4f"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

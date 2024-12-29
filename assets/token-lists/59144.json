@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:10.103Z",
+  "timestamp": "2024-12-29T17:14:11.669Z",
   "tokens": [
     {
       "chainId": 59144,
@@ -357,6 +357,18 @@
     },
     {
       "chainId": 59144,
+      "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+      "name": "Bridged FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ec5e331d9bd94d55fe15d54567887b3c"
+      }
+    },
+    {
+      "chainId": 59144,
       "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
       "name": "LayerZero Bridged rsETH  Linea ",
       "symbol": "RSETH",
@@ -377,6 +389,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "e37506d7d485c7025dfb88cdf889cc02"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0x45229ac791C56cb86Fc1972F3082dAb19385dfA2",
+      "name": "Foxx Of Linea",
+      "symbol": "FOXX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0x45229ac791C56cb86Fc1972F3082dAb19385dfA2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a49c86109b195b61a6e1098b80c6dec0"
       }
     },
     {
@@ -957,6 +981,18 @@
     },
     {
       "chainId": 59144,
+      "address": "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1a1127efaa036370b578ffef3721513f"
+      }
+    },
+    {
+      "chainId": 59144,
       "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
       "name": "Inception stETH",
       "symbol": "INSTETH",
@@ -1013,6 +1049,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "d05adb3ef1c2b274da0b0055f5883211"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+      "name": "GODDOG",
+      "symbol": "OOOOOO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xDDf7d080C82b8048BAAe54e376a3406572429b4e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b431b0e33c808c1473da3b69fbb161f6"
       }
     },
     {
@@ -1120,7 +1168,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/59144/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
         "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+        "cacheHash": "ae419ba77f2bcdd5ed351aad2e4ba445"
       },
       "tags": [
         "Top"
@@ -1136,6 +1184,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "c79726f42c3d77092a82dbd2456cbfe0"
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xF3df0A31ec5EA438150987805e841F960b9471b6",
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/59144/0xF3df0A31ec5EA438150987805e841F960b9471b6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "15ada03296c5ee841b45eb0f49e67da1"
       }
     },
     {

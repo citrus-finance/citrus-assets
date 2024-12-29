@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.253Z",
+  "timestamp": "2024-12-29T17:10:32.909Z",
   "tokens": [
     {
       "chainId": 31,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "d0c1706d24473b97346f9f091bf5390d"
       }
+    },
+    {
+      "name": "Rootstock Bitcoin",
+      "symbol": "tRBTC",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 31,
+      "logoURI": "https://assets.citrus.finance/token-logos/31/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xA274d994F698Dd09256674960d86aBa22C086669",
+        "cacheHash": "d9ec426a51d682d00959f859aa770627"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

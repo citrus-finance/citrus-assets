@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.873Z",
+  "timestamp": "2024-12-29T17:13:55.897Z",
   "tokens": [
     {
       "chainId": 11235,
@@ -126,6 +126,21 @@
       "extensions": {
         "cacheHash": "eaef27adaa10ed014a418b2c79ce8b25"
       }
+    },
+    {
+      "name": "Islamic Coin",
+      "symbol": "ISLM",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 11235,
+      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 11235,

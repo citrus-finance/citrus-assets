@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:22.396Z",
+  "timestamp": "2024-12-29T17:12:10.804Z",
   "tokens": [
     {
       "chainId": 5000,
@@ -137,6 +137,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "3bce4db8c8cd32e6ff740f374a7dedb4"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+      "name": "Bridged FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4a9f437f277f8e7fcd813c2196152d56"
       }
     },
     {
@@ -621,6 +633,18 @@
     },
     {
       "chainId": 5000,
+      "address": "0xE8B201BE5357c07F0Aa58693F98FB048323777f9",
+      "name": "Blade",
+      "symbol": "BLADE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xE8B201BE5357c07F0Aa58693F98FB048323777f9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b7998df94418a10e64a0f5d12e27f39d"
+      }
+    },
+    {
+      "chainId": 5000,
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
@@ -637,14 +661,26 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 5000,
-      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "cacheHash": "269c553e97e2fe5b02a22842bb238297"
+        "cacheHash": "deab22a815ed2b4414c5d3d1f0a6c092"
       },
       "tags": [
         "Top"
       ]
+    },
+    {
+      "chainId": 5000,
+      "address": "0xF3df0A31ec5EA438150987805e841F960b9471b6",
+      "name": "WOO",
+      "symbol": "WOO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xF3df0A31ec5EA438150987805e841F960b9471b6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a83c7ab36e4b1be77754daf7a49e971b"
+      }
     },
     {
       "chainId": 5000,

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.100Z",
+  "timestamp": "2024-12-29T17:11:58.693Z",
   "tokens": [
     {
       "chainId": 1285,
@@ -306,6 +306,21 @@
       "extensions": {
         "cacheHash": "a63f00f0a26e0b3d6351681206b8cf9a"
       }
+    },
+    {
+      "name": "MOVR",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1285,
+      "logoURI": "https://assets.citrus.finance/token-logos/1285/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+        "cacheHash": "d1489f8eaeec40362e6d21a54dc8f00a"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 1285,

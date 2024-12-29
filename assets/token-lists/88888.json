@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:41.753Z",
+  "timestamp": "2024-12-29T17:14:18.789Z",
   "tokens": [
     {
       "chainId": 88888,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "4984c30956b7fe19e8e5be93b1aec6b4"
       }
+    },
+    {
+      "name": "CHZ",
+      "symbol": "CHZ",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 88888,
+      "logoURI": "https://assets.citrus.finance/token-logos/88888/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x677F7e16C7Dd57be1D4C8aD1244883214953DC47",
+        "cacheHash": "c0aa5450d4a0431c79aaa62c54cf6e6f"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

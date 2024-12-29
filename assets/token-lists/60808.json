@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:12.254Z",
+  "timestamp": "2024-12-29T17:14:12.339Z",
   "tokens": [
     {
       "chainId": 60808,
@@ -105,6 +105,18 @@
     },
     {
       "chainId": 60808,
+      "address": "0xA45d4121b3D47719FF57a947A9d961539Ba33204",
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xA45d4121b3D47719FF57a947A9d961539Ba33204.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d5cd45803ba36820bfc65daec82a8817"
+      }
+    },
+    {
+      "chainId": 60808,
       "address": "0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2",
       "name": "tBTC v2",
       "symbol": "tBTC",
@@ -160,7 +172,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/60808/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
         "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+        "cacheHash": "d6fbb4c04e714ecce83dedc8deddb863"
       },
       "tags": [
         "Top"

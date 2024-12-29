@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.875Z",
+  "timestamp": "2024-12-29T17:13:59.543Z",
   "tokens": [
     {
       "chainId": 18233,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
       }
+    },
+    {
+      "name": "reETH",
+      "symbol": "reETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 18233,
+      "logoURI": "https://assets.citrus.finance/token-logos/18233/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x0C68a3C11FB3550e50a4ed8403e873D367A8E361",
+        "cacheHash": "a561a04d1aaeb1e87f8468969765b367"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

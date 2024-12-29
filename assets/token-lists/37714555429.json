@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:53.519Z",
+  "timestamp": "2024-12-29T17:14:29.811Z",
   "tokens": [
     {
       "chainId": 37714555429,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "434672a74255f37078cc72949790aab1"
       }
+    },
+    {
+      "name": "sXai",
+      "symbol": "sXAI",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 37714555429,
+      "logoURI": "https://assets.citrus.finance/token-logos/37714555429/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

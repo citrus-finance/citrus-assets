@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.585Z",
+  "timestamp": "2024-12-29T17:13:51.453Z",
   "tokens": [
     {
       "chainId": 8822,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "ecf0cff6c58300d473f618e1e823de70"
       }
+    },
+    {
+      "name": "IOTA",
+      "symbol": "IOTA",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 8822,
+      "logoURI": "https://assets.citrus.finance/token-logos/8822/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
+        "cacheHash": "6334daa9afae8afc34afc4fe8ddd7832"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

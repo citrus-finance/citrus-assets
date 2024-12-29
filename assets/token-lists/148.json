@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:26.149Z",
+  "timestamp": "2024-12-29T17:11:24.928Z",
   "tokens": [
     {
       "chainId": 148,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "86f5f4b78a651373c433666851efeb5d"
       }
+    },
+    {
+      "name": "Shimmer",
+      "symbol": "SMR",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 148,
+      "logoURI": "https://assets.citrus.finance/token-logos/148/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x1074010000000000000000000000000000000000",
+        "cacheHash": "d77d929f5f1828a3cfc7503dedc25357"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

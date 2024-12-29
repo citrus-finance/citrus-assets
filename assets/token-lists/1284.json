@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:08.743Z",
+  "timestamp": "2024-12-29T17:11:52.570Z",
   "tokens": [
     {
       "chainId": 1284,
@@ -594,6 +594,21 @@
       "extensions": {
         "cacheHash": "52356b84cdbbd493e3f389e45ce7b9f7"
       }
+    },
+    {
+      "name": "GLMR",
+      "symbol": "GLMR",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1284,
+      "logoURI": "https://assets.citrus.finance/token-logos/1284/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xAcc15dC74880C9944775448304B263D191c6077F",
+        "cacheHash": "2b0e575be0d19f1c62f3d677df196dfb"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 1284,

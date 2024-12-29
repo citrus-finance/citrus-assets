@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.875Z",
+  "timestamp": "2024-12-29T17:14:00.158Z",
   "tokens": [
     {
       "chainId": 23294,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "67d079a3f4d2d56ebfd2fecef688fbdd"
       }
+    },
+    {
+      "name": "Sapphire Rose",
+      "symbol": "ROSE",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 23294,
+      "logoURI": "https://assets.citrus.finance/token-logos/23294/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3",
+        "cacheHash": "43d09a8fe3c4fd6c74809a6244e5f439"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

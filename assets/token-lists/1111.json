@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:59.116Z",
+  "timestamp": "2024-12-29T17:11:49.934Z",
   "tokens": [
     {
       "chainId": 1111,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "891a17cf03ed4120d19ba6f625dda3a5"
       }
+    },
+    {
+      "name": "WEMIX",
+      "symbol": "WEMIX",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1111,
+      "logoURI": "https://assets.citrus.finance/token-logos/1111/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

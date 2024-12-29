@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:39:38.872Z",
+  "timestamp": "2024-12-29T17:11:11.267Z",
   "tokens": [
     {
       "chainId": 97,
@@ -42,6 +42,21 @@
       "extensions": {
         "cacheHash": "ab01d95add7c0f4dbb0a27e60916deb3"
       }
+    },
+    {
+      "name": "BNB",
+      "symbol": "tBNB",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 97,
+      "logoURI": "https://assets.citrus.finance/token-logos/97/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:39:38.872Z",
+  "timestamp": "2024-12-29T17:11:11.238Z",
   "tokens": [
     {
       "chainId": 88,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "181eabb24cbd2bcc2817fab3cc21095b"
       }
+    },
+    {
+      "name": "Viction",
+      "symbol": "VIC",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 88,
+      "logoURI": "https://assets.citrus.finance/token-logos/88/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

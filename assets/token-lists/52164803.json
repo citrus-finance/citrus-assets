@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:49.636Z",
+  "timestamp": "2024-12-29T17:14:24.368Z",
   "tokens": [
     {
       "chainId": 52164803,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "67034870479bd8e8dc1ddbff00d83486"
       }
+    },
+    {
+      "name": "tFLT",
+      "symbol": "tFLT",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 52164803,
+      "logoURI": "https://assets.citrus.finance/token-logos/52164803/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

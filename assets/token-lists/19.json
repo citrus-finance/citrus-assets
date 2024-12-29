@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.250Z",
+  "timestamp": "2024-12-29T17:10:32.080Z",
   "tokens": [
     {
       "chainId": 19,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
       }
+    },
+    {
+      "name": "Songbird",
+      "symbol": "SGB",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 19,
+      "logoURI": "https://assets.citrus.finance/token-logos/19/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+        "cacheHash": "4d1f60022a668cd035c682e0024fe7bb"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

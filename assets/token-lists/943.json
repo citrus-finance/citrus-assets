@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:52.571Z",
+  "timestamp": "2024-12-29T17:11:47.629Z",
   "tokens": [
     {
       "chainId": 943,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "6831c96fe33f084ea88a534e98824257"
       }
+    },
+    {
+      "name": "V4 Pulse",
+      "symbol": "v4PLS",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 943,
+      "logoURI": "https://assets.citrus.finance/token-logos/943/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "cacheHash": "5c737b9d3118871bfd30e62e6895d813"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

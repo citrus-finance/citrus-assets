@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:48.193Z",
+  "timestamp": "2024-12-29T17:14:20.976Z",
   "tokens": [
     {
       "chainId": 713715,
@@ -42,6 +42,21 @@
       "extensions": {
         "cacheHash": "69d0bec95f9ad3d1659d22fdd70f9c05"
       }
+    },
+    {
+      "name": "Sei",
+      "symbol": "SEI",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 713715,
+      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+        "cacheHash": "dc7dbc97555f41c00b014bca5f87bbdc"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

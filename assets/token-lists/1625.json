@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.611Z",
+  "timestamp": "2024-12-29T17:12:00.677Z",
   "tokens": [
     {
       "chainId": 1625,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "845fa2e1df4aa5d1f6dfdda32a7a3dc1"
       }
+    },
+    {
+      "name": "G",
+      "symbol": "G",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1625,
+      "logoURI": "https://assets.citrus.finance/token-logos/1625/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+        "cacheHash": "0f9b2ad7b55bf9889b487124ca1fa0bf"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

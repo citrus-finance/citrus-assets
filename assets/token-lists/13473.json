@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.874Z",
+  "timestamp": "2024-12-29T17:13:57.129Z",
   "tokens": [
     {
       "chainId": 13473,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "842f7ee52e4fee0a7a3f7b618e19442c"
       }
+    },
+    {
+      "name": "Immutable Coin",
+      "symbol": "IMX",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 13473,
+      "logoURI": "https://assets.citrus.finance/token-logos/13473/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x1CcCa691501174B4A623CeDA58cC8f1a76dc3439",
+        "cacheHash": "45c338a0efaa8a78b861904820531d94"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

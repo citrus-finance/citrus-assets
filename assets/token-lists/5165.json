@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:22.403Z",
+  "timestamp": "2024-12-29T17:12:12.308Z",
   "tokens": [
     {
       "chainId": 5165,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "4a1478181b9d6a45a396eda07b1ce21f"
       }
+    },
+    {
+      "name": "Fasttoken",
+      "symbol": "FTN",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 5165,
+      "logoURI": "https://assets.citrus.finance/token-logos/5165/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB",
+        "cacheHash": "c9b634a9a0313cb7f225c9ac4d400d70"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

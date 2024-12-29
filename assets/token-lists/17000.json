@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.874Z",
+  "timestamp": "2024-12-29T17:13:57.498Z",
   "tokens": [
     {
       "chainId": 17000,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
       }
+    },
+    {
+      "name": "Holesky Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 17000,
+      "logoURI": "https://assets.citrus.finance/token-logos/17000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x94373a4919B3240D86eA41593D5eBa789FEF3848",
+        "cacheHash": "beadbb284c3b7274ddd115069edb57a7"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

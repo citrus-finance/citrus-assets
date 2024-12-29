@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:53.518Z",
+  "timestamp": "2024-12-29T17:14:29.736Z",
   "tokens": [
     {
       "chainId": 1666600000,
@@ -474,6 +474,21 @@
       "extensions": {
         "cacheHash": "5c02262a39ecfccaaa7b0538bb0becca"
       }
+    },
+    {
+      "name": "Harmony",
+      "symbol": "ONE",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1666600000,
+      "logoURI": "https://assets.citrus.finance/token-logos/1666600000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 1666600000,

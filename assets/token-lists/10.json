@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.247Z",
+  "timestamp": "2024-12-29T17:10:30.195Z",
   "tokens": [
     {
       "chainId": 10,
@@ -197,6 +197,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "acf9aac5c17842c4b61391d7db01fcd2"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x0Af1580f49121d7a42b0F9125f5F7dc172f8a469",
+      "name": "BananaCat",
+      "symbol": "BCAT",
+      "decimals": 9,
+      "logoURI": "https://assets.citrus.finance/token-logos/10/0x0Af1580f49121d7a42b0F9125f5F7dc172f8a469.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9dd01cc704706c560ab19b8811e10365"
       }
     },
     {
@@ -693,6 +705,18 @@
     },
     {
       "chainId": 10,
+      "address": "0x248f43B622cE2F35A14dB3FC528284730b619cD5",
+      "name": "Spectra",
+      "symbol": "SPECTRA",
+      "decimals": 14,
+      "logoURI": "https://assets.citrus.finance/token-logos/10/0x248f43B622cE2F35A14dB3FC528284730b619cD5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "653f2d9075e9f68234e8858ec26ea168"
+      }
+    },
+    {
+      "chainId": 10,
       "address": "0x2513486f18eeE1498D7b6281f668B955181Dd0D9",
       "name": "OpenXSwap Gov  Token",
       "symbol": "XOPENX",
@@ -881,6 +905,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "4d05249a88a88e5b342786705dd13107"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x33800De7E817A70A694F31476313A7c572BBa100",
+      "name": "Derive",
+      "symbol": "DRV",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/10/0x33800De7E817A70A694F31476313A7c572BBa100.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d758662a369b5d28b9e3dcae728d87c7"
       }
     },
     {
@@ -4561,7 +4597,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/10/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
         "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+        "cacheHash": "8f4e245517abb9d608f113afb07d6855"
       },
       "tags": [
         "Top"

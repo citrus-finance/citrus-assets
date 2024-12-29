@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.250Z",
+  "timestamp": "2024-12-29T17:10:31.444Z",
   "tokens": [
     {
       "chainId": 16,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
       }
+    },
+    {
+      "name": "Coston Flare",
+      "symbol": "CFLR",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 16,
+      "logoURI": "https://assets.citrus.finance/token-logos/16/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
+        "cacheHash": "ee735ad7761ed78a8593c877644d519f"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

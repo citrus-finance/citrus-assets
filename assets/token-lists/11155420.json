@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:49.633Z",
+  "timestamp": "2024-12-29T17:14:23.949Z",
   "tokens": [
     {
       "chainId": 11155420,
@@ -114,6 +114,21 @@
       "extensions": {
         "cacheHash": "7e2b17c1532bfb4703a6c0e83cf6246a"
       }
+    },
+    {
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 11155420,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

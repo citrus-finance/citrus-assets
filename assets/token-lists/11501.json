@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.874Z",
+  "timestamp": "2024-12-29T17:13:56.277Z",
   "tokens": [
     {
       "chainId": 11501,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "3ad70420a1cd0747856083e18d359f8b"
       }
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 11501,
+      "logoURI": "https://assets.citrus.finance/token-logos/11501/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+        "cacheHash": "e339c55854b96f896b15fa05b1989794"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

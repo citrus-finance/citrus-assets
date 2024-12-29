@@ -5,8 +5,23 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:53.549Z",
+  "timestamp": "2024-12-29T17:14:07.626Z",
   "tokens": [
+    {
+      "name": "CELO",
+      "symbol": "A-CELO",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 44787,
+      "logoURI": "https://assets.citrus.finance/token-logos/44787/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
+    },
     {
       "chainId": 44787,
       "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",

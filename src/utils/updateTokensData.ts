@@ -1,12 +1,9 @@
 import { mkdir, writeFile } from "fs/promises";
-import { Token } from "../types/Token.js";
 import { TokenMap } from "../types/TokenMap.js";
 import { existsSync } from "fs";
-import { TokenList } from "../types/TokenList.js";
 import retrieveFile from "./retrieveFile.js";
 import { getViemChain } from "./viemChains.js";
 import { getAddress } from "viem";
-import { config } from "../../config.js";
 import { hash } from "crypto";
 import getCurrentTokensMap from "./getCurrentTokensMap.js";
 import { OutputToken, OutputTokenList } from "../types/OutputTokenList.js";
@@ -55,7 +52,7 @@ export default async function updateTokensData(newChainMap: TokenMap) {
 
     // NOTE: don't add native to Celo
     if (chainId !== CELO_ID) {
-      const chainConfig = config.chains[chainId];
+      const chainData = getChainData(chainId);
       const viemChain = getViemChain(chainId);
       const wrapped = getNativeWrappedToken(chainId);
 
@@ -63,12 +60,12 @@ export default async function updateTokensData(newChainMap: TokenMap) {
 
       if (
         viemChain &&
-        chainConfig &&
+        chainData &&
         wrappedAddress &&
         outputTokenMap.has(wrappedAddress)
       ) {
         const fileExt = await retrieveFile(
-          chainConfig.nativeLogoUrl,
+          chainData.logo,
           `assets/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE`,
         );
 
@@ -81,7 +78,7 @@ export default async function updateTokensData(newChainMap: TokenMap) {
           logoURI: `https://assets.citrus.finance/token-logos/${chainId}/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.${fileExt}`,
           extensions: {
             wrapped: wrappedAddress,
-            cacheHash: hash("md5", chainConfig.nativeLogoUrl),
+            cacheHash: hash("md5", chainData.logo),
           },
           tags: ["Top"],
         });

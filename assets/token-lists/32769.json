@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.875Z",
+  "timestamp": "2024-12-29T17:14:00.457Z",
   "tokens": [
     {
       "chainId": 32769,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "02a42bb0ed66a1288db4e121003905b4"
       }
+    },
+    {
+      "name": "Zilliqa",
+      "symbol": "ZIL",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 32769,
+      "logoURI": "https://assets.citrus.finance/token-logos/32769/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x94e18aE7dd5eE57B55f30c4B63E2760c09EFb192",
+        "cacheHash": "f3386a364150e54fe579fa49ac1df1c3"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

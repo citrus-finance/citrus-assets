@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:54.617Z",
+  "timestamp": "2024-12-29T17:11:48.540Z",
   "tokens": [
     {
       "chainId": 1088,
@@ -200,22 +200,6 @@
       "tags": [],
       "extensions": {
         "cacheHash": "8b0eeea21a04aa3be60ccddafdee8553"
-      }
-    },
-    {
-      "chainId": 1088,
-      "address": "0x45fe387103460494Eea1702e4f5021cE5bb2D28d",
-      "name": "DN404",
-      "symbol": "DN404",
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x45fe387103460494Eea1702e4f5021cE5bb2D28d.png",
-      "tags": [
-        "meme",
-        "dn404",
-        "development"
-      ],
-      "extensions": {
-        "cacheHash": "4a5d320e22ddacd8841427e2cf98e91a"
       }
     },
     {
@@ -701,7 +685,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
         "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "cacheHash": "892d1039fb9a66d701c01254c0f5bd2c"
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
       },
       "tags": [
         "Top"
@@ -731,6 +715,21 @@
       ],
       "extensions": {
         "cacheHash": "bcdee391f3db43dc4039537c67b56116"
+      }
+    },
+    {
+      "chainId": 1088,
+      "address": "0xFbe0F778e3c1168bc63d7b6F880Ec0d5F9E524E6",
+      "name": "gMetis",
+      "symbol": "gMetis",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xFbe0F778e3c1168bc63d7b6F880Ec0d5F9E524E6.png",
+      "tags": [
+        "meme",
+        "ai"
+      ],
+      "extensions": {
+        "cacheHash": "2e40b8fb1b5034ac756fd3b85a2dde97"
       }
     }
   ]

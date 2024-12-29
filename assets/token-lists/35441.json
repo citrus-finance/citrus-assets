@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.880Z",
+  "timestamp": "2024-12-29T17:14:01.598Z",
   "tokens": [
     {
       "chainId": 35441,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "402f754654138dfa735610c8493aa58a"
       }
+    },
+    {
+      "name": "Q",
+      "symbol": "Q",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 35441,
+      "logoURI": "https://assets.citrus.finance/token-logos/35441/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a",
+        "cacheHash": "a27a71fe2e687121859f91563cf9d5a2"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:52.506Z",
+  "timestamp": "2024-12-29T17:14:03.853Z",
   "tokens": [
     {
       "chainId": 43113,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "51930bb515efdc66b2950ebd60cdce16"
       }
+    },
+    {
+      "name": "Avalanche Fuji",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 43113,
+      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+        "cacheHash": "0738720d8facb6d73e4d62a4bf32fb3b"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

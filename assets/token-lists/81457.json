@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:41.747Z",
+  "timestamp": "2024-12-29T17:14:16.128Z",
   "tokens": [
     {
       "chainId": 81457,
@@ -801,6 +801,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x909DBdE1eBE906Af95660033e478D59EFe831fED",
+      "name": "Bridged FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x909DBdE1eBE906Af95660033e478D59EFe831fED.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "450fe2b7870cca7910f49f48f55b51c8"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x9306FC95b8becdC9166112Fd6cF86B39e2335f09",
       "name": "DigiCask Token",
       "symbol": "DCASK",
@@ -881,6 +893,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "dbbff81fa56210805ac3e0fd5786a1cb"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x9f04B6CEfd5BCd67d76aB708F17553Ce40188e6A",
+      "name": "Impermax",
+      "symbol": "IBEX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x9f04B6CEfd5BCd67d76aB708F17553Ce40188e6A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c05c1922d651ca2db833c3daaec04f55"
       }
     },
     {
@@ -1173,6 +1197,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
+      "name": "GODDOG",
+      "symbol": "OOOOOO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xDDf7d080C82b8048BAAe54e376a3406572429b4e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "38c42e09e3135e47aeb8afd31893c34e"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xdfDCdbC789b56F99B0d0692d14DBC61906D9Deed",
       "name": "Super Sushi Samurai",
       "symbol": "SSS",
@@ -1285,10 +1321,10 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 81457,
-      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x4300000000000000000000000000000000000004",
-        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+        "cacheHash": "4edb4efd8f79f23db9a7b76eeec6d685"
       },
       "tags": [
         "Top"

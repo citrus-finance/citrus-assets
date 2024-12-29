@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:39:38.872Z",
+  "timestamp": "2024-12-29T17:11:11.199Z",
   "tokens": [
     {
       "chainId": 71,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "7f1bc26e077331774f7ce3b7f3f72e77"
       }
+    },
+    {
+      "name": "Conflux",
+      "symbol": "CFX",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 71,
+      "logoURI": "https://assets.citrus.finance/token-logos/71/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x2ED3dddae5B2F321AF0806181FBFA6D049Be47d8",
+        "cacheHash": "e64d30f3325c70462a13b865c1e3f386"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

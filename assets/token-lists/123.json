@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:39:52.250Z",
+  "timestamp": "2024-12-29T17:11:16.984Z",
   "tokens": [
     {
       "chainId": 123,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "20239a94036dfca86c0539950819224d"
       }
+    },
+    {
+      "name": "Spark",
+      "symbol": "SPARK",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 123,
+      "logoURI": "https://assets.citrus.finance/token-logos/123/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

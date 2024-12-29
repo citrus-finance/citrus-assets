@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:52.357Z",
+  "timestamp": "2024-12-29T17:11:44.827Z",
   "tokens": [
     {
       "chainId": 338,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "f95752ea7642b8de66c1ca72401ffc48"
       }
+    },
+    {
+      "name": "CRO",
+      "symbol": "tCRO",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 338,
+      "logoURI": "https://assets.citrus.finance/token-logos/338/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x0728B93B969f84A248Df7e499358A6733834FD7b",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

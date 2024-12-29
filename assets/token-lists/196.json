@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:41.401Z",
+  "timestamp": "2024-12-29T17:11:27.761Z",
   "tokens": [
     {
       "chainId": 196,
@@ -153,6 +153,18 @@
     },
     {
       "chainId": 196,
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "name": "Bridged FRAX",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x80Eede496655FB9047dd39d9f418d5483ED600df.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "18e00aa5d883bca515fdb4f8c7138d03"
+      }
+    },
+    {
+      "chainId": 196,
       "address": "0x843D794eD4335b27d02184ca86787C14e6247074",
       "name": "ZeroLend",
       "symbol": "ZERO",
@@ -234,6 +246,21 @@
       "extensions": {
         "cacheHash": "10919689f94e075f6d61fb17c93e7686"
       }
+    },
+    {
+      "name": "OKB",
+      "symbol": "OKB",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 196,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+        "cacheHash": "765eb73f288bbc21d60dfab1c6eedfb8"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 196,

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.819Z",
+  "timestamp": "2024-12-29T17:12:03.632Z",
   "tokens": [
     {
       "chainId": 2000,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "36862087c991ab6319b2f132e858780c"
       }
+    },
+    {
+      "name": "Wrapped Dogecoin",
+      "symbol": "WDOGE",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 2000,
+      "logoURI": "https://assets.citrus.finance/token-logos/2000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+        "cacheHash": "ac7d137ca8f676f70b53736312a38f7d"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

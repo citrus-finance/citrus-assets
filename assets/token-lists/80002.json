@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:12.255Z",
+  "timestamp": "2024-12-29T17:14:13.267Z",
   "tokens": [
     {
       "chainId": 80002,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "023ab36bfba483d348ac7732a03dd4e4"
       }
+    },
+    {
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 80002,
+      "logoURI": "https://assets.citrus.finance/token-logos/80002/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xA5733b3A8e62A8faF43b0376d5fAF46E89B3033E",
+        "cacheHash": "c341e3a989b1ebefff4f16d050aca652"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

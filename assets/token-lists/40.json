@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:23:31.455Z",
+  "timestamp": "2024-12-29T17:10:33.953Z",
   "tokens": [
     {
       "chainId": 40,
@@ -162,6 +162,21 @@
       "extensions": {
         "cacheHash": "a23c73acc6894f28446e1efd1bfb7299"
       }
+    },
+    {
+      "name": "Telos",
+      "symbol": "TLOS",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 40,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 40,

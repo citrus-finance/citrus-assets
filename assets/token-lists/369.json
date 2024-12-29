@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:52.358Z",
+  "timestamp": "2024-12-29T17:11:45.227Z",
   "tokens": [
     {
       "chainId": 369,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "d59f19d5991fefa232d0f34a40237a6e"
       }
+    },
+    {
+      "name": "Pulse",
+      "symbol": "PLS",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 369,
+      "logoURI": "https://assets.citrus.finance/token-logos/369/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

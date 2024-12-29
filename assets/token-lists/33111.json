@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:51.875Z",
+  "timestamp": "2024-12-29T17:14:00.785Z",
   "tokens": [
     {
       "chainId": 33111,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "57901079f6cc9fcf6be07268b1a4308a"
       }
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 33111,
+      "logoURI": "https://assets.citrus.finance/token-logos/33111/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B",
+        "cacheHash": "7b5cbaef3f332514ed010bac97f2da4b"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

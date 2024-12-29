@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:49.638Z",
+  "timestamp": "2024-12-29T17:14:24.949Z",
   "tokens": [
     {
       "chainId": 245022934,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "f72e2d53bf23ee1c6e4b2ac5f6dd4449"
       }
+    },
+    {
+      "name": "NEON",
+      "symbol": "NEON",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 245022934,
+      "logoURI": "https://assets.citrus.finance/token-logos/245022934/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+        "cacheHash": "e012fc370cebac5ecd993e03d3099dfb"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

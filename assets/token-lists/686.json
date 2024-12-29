@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:52.565Z",
+  "timestamp": "2024-12-29T17:11:45.328Z",
   "tokens": [
     {
       "chainId": 686,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "3c23d21ec0cdc7e46634d89d4f65118b"
       }
+    },
+    {
+      "name": "Karura",
+      "symbol": "KAR",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 686,
+      "logoURI": "https://assets.citrus.finance/token-logos/686/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x0000000000000000000100000000000000000080",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

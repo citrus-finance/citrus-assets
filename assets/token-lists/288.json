@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:49.694Z",
+  "timestamp": "2024-12-29T17:11:42.568Z",
   "tokens": [
     {
       "chainId": 288,
@@ -81,6 +81,18 @@
     },
     {
       "chainId": 288,
+      "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/288/0x7562F525106F5d54E891e005867Bf489B5988CD9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2c85225619ac8537220957874d0e5b34"
+      }
+    },
+    {
+      "chainId": 288,
       "address": "0x96821b258955587069F680729cD77369C0892B40",
       "name": "Across Protocol",
       "symbol": "ACX",
@@ -150,6 +162,21 @@
       "extensions": {
         "cacheHash": "633ad94b1a4204776f34deab9cbcf3e8"
       }
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 288,
+      "logoURI": "https://assets.citrus.finance/token-logos/288/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 288,

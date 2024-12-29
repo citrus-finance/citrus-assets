@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.821Z",
+  "timestamp": "2024-12-29T17:12:06.711Z",
   "tokens": [
     {
       "chainId": 4201,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "1b96ed721ef75d5dd459df6e3da7aac4"
       }
+    },
+    {
+      "name": "LUKSO Testnet",
+      "symbol": "LYXt",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 4201,
+      "logoURI": "https://assets.citrus.finance/token-logos/4201/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe",
+        "cacheHash": "d38b4d94b118211d68c99498db6525d5"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

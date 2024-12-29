@@ -5,8 +5,23 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:22.406Z",
+  "timestamp": "2024-12-29T17:12:12.851Z",
   "tokens": [
+    {
+      "name": "BounceBit",
+      "symbol": "BB",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 6001,
+      "logoURI": "https://assets.citrus.finance/token-logos/6001/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
+        "cacheHash": "186cabe51065c78b5ba5660e51aec9f3"
+      },
+      "tags": [
+        "Top"
+      ]
+    },
     {
       "chainId": 6001,
       "address": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",

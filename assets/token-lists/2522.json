@@ -5,8 +5,23 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.821Z",
+  "timestamp": "2024-12-29T17:12:05.055Z",
   "tokens": [
+    {
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 2522,
+      "logoURI": "https://assets.citrus.finance/token-logos/2522/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0xFC00000000000000000000000000000000000006",
+        "cacheHash": "4a3dd66a04008ddf780fa241632009ab"
+      },
+      "tags": [
+        "Top"
+      ]
+    },
     {
       "chainId": 2522,
       "address": "0xFC00000000000000000000000000000000000006",

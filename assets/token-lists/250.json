@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:47.853Z",
+  "timestamp": "2024-12-29T17:11:39.569Z",
   "tokens": [
     {
       "chainId": 250,
@@ -2206,20 +2206,19 @@
       }
     },
     {
-      "chainId": 250,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "name": "Fantom Token",
+      "name": "Fantom",
       "symbol": "FTM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/250/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.png",
-      "tags": [
-        "GROUP:FTM",
-        "native",
-        "PEG:FTM"
-      ],
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 250,
+      "logoURI": "https://assets.citrus.finance/token-logos/250/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
       "extensions": {
-        "cacheHash": "abc43b731a477ff68eefc252f22b2fa5"
-      }
+        "wrapped": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 250,

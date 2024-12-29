@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:48.198Z",
+  "timestamp": "2024-12-29T17:14:23.301Z",
   "tokens": [
     {
       "chainId": 7777777,
@@ -37,10 +37,10 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 7777777,
-      "logoURI": "https://assets.citrus.finance/token-logos/7777777/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/7777777/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "94b2a054a29213143c47a5c06158f020"
+        "cacheHash": "6a98b1e5defd4819c80344d8d4ef4607"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:44:53.550Z",
+  "timestamp": "2024-12-29T17:14:08.769Z",
   "tokens": [
     {
       "chainId": 59141,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
       }
+    },
+    {
+      "name": "Linea Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 59141,
+      "logoURI": "https://assets.citrus.finance/token-logos/59141/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x10253594A832f967994b44f33411940533302ACb",
+        "cacheHash": "ae419ba77f2bcdd5ed351aad2e4ba445"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

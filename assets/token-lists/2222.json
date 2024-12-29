@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.819Z",
+  "timestamp": "2024-12-29T17:12:04.683Z",
   "tokens": [
     {
       "chainId": 2222,
@@ -162,6 +162,21 @@
       "extensions": {
         "cacheHash": "7bd8a783d4d4a45797f89e046a0a5cd7"
       }
+    },
+    {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 2222,
+      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+        "cacheHash": "9b38c455658e43e9b648649f2df18198"
+      },
+      "tags": [
+        "Top"
+      ]
     },
     {
       "chainId": 2222,

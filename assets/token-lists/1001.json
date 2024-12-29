@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:40:52.573Z",
+  "timestamp": "2024-12-29T17:11:48.231Z",
   "tokens": [
     {
       "chainId": 1001,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "0bcf35e3f99506b06a33f5b47c3a95b3"
       }
+    },
+    {
+      "name": "Kairos KAIA",
+      "symbol": "KAIA",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 1001,
+      "logoURI": "https://assets.citrus.finance/token-logos/1001/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0x043c471bEe060e00A56CcD02c0Ca286808a5A436",
+        "cacheHash": "20b26e782c278fdf19917680858e1989"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

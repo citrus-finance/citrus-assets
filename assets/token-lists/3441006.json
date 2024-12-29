@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:45:48.194Z",
+  "timestamp": "2024-12-29T17:14:22.541Z",
   "tokens": [
     {
       "chainId": 3441006,
@@ -18,6 +18,21 @@
       "extensions": {
         "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
       }
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 3441006,
+      "logoURI": "https://assets.citrus.finance/token-logos/3441006/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "extensions": {
+        "wrapped": "0x199d1a27684106dC3Deb673115fc0fc9cf6af287",
+        "cacheHash": "6d5898d1680beb4abc55283fa625aa3f"
+      },
+      "tags": [
+        "Top"
+      ]
     }
   ]
 }

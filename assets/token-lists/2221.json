@@ -5,8 +5,23 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-14T23:41:11.819Z",
+  "timestamp": "2024-12-29T17:12:04.651Z",
   "tokens": [
+    {
+      "name": "Kava",
+      "symbol": "KAVA",
+      "decimals": 18,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "chainId": 2221,
+      "logoURI": "https://assets.citrus.finance/token-logos/2221/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "extensions": {
+        "wrapped": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
+        "cacheHash": "9b38c455658e43e9b648649f2df18198"
+      },
+      "tags": [
+        "Top"
+      ]
+    },
     {
       "chainId": 2221,
       "address": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
