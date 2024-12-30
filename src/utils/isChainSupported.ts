@@ -35,28 +35,53 @@ export default async function isChainSupported(
   }
 
   try {
-    const response = await pRetry(() =>
-      fetch(chain.rpcUrls.default.http[0], {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
+    const code = await pRetry(
+      async () => {
+        const abortController = new AbortController();
+
+        const timeoutId = setTimeout(() => {
+          abortController.abort(new Error("Timeout"));
+        }, 10_000);
+
+        try {
+          const response = await fetch(chain.rpcUrls.default.http[0], {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              jsonrpc: "2.0",
+              method: "eth_getCode",
+              params: ["0x914d7fec6aac8cd542e72bca78b30650d45643d7", "latest"],
+              id: 1,
+            }),
+            signal: abortController.signal,
+          });
+
+          if (response.status !== 200) {
+            throw new Error(`Expected 200, got ${response.status}`);
+          }
+
+          const data = (await response.json()) as { result: Hex };
+
+          return data.result;
+        } finally {
+          clearTimeout(timeoutId);
+        }
+      },
+      {
+        minTimeout: 100,
+        maxTimeout: 1_000,
+        retries: 2,
+        onFailedAttempt(err) {
+          console.log(
+            `${chain.name} RPC call failed (${err.attemptNumber}/${3}): ${err}`,
+          );
         },
-        body: JSON.stringify({
-          jsonrpc: "2.0",
-          method: "eth_getCode",
-          params: ["0x914d7fec6aac8cd542e72bca78b30650d45643d7", "latest"],
-          id: 1,
-        }),
-      }),
+      },
     );
 
-    if (response.status !== 200) {
-      return false;
-    }
-
-    const data = (await response.json()) as { result: Hex };
-
-    return data.result !== "0x";
+    return code !== "0x";
   } catch {
     return false;
   }
