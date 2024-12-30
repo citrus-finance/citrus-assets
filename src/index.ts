@@ -6,7 +6,7 @@ import updateTokensData from "./utils/updateTokensData.js";
 import { config } from "../config.js";
 import addTokenList from "./utils/addTokenList.js";
 
-// await buildNetworks();
+await buildNetworks();
 
 const tokenMap: TokenMap = new Map();
 
