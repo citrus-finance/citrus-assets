@@ -20,6 +20,11 @@ type Chain = BaseChain<
   Record<string, unknown> & ChainCustom
 >;
 
+interface RainbowKitChain extends Chain {
+  iconUrl?: string | (() => Promise<string>) | null;
+  iconBackground?: string;
+}
+
 type CaipNetworkId = `${ChainNamespace}:${number}`;
 
 type ChainNamespace = "eip155" | "solana" | "polkadot";
@@ -112,6 +117,31 @@ export default async function buildNetworks() {
     };
   });
 
+  const rainbowkitChains = viemChains.map((chain): RainbowKitChain | null => {
+    const wrappedToken = getNativeWrappedToken(chain.id);
+    const defiLLamaProvider = getDefiLlamaProvider(chain.id);
+    const chainData = getChainData(chain.id);
+
+    if (!wrappedToken) {
+      return null;
+    }
+
+    if (!chainsSupportedSet.has(chain.id)) {
+      return null;
+    }
+
+    return {
+      ...chain,
+      iconUrl: chainData?.logo,
+      custom: {
+        ...chain.custom,
+        chainLogo: chainData?.logo,
+        wrapped: getAddress(wrappedToken.address),
+        defiLLamaChain: defiLLamaProvider?.name,
+      },
+    };
+  });
+
   if (!existsSync("assets/networks")) {
     await mkdir("assets/networks", {
       recursive: true,
@@ -133,6 +163,17 @@ export default async function buildNetworks() {
     `assets/networks/viem-chains.json`,
     JSON.stringify(
       viemCustomChains
+        .filter((x) => Boolean(x))
+        .sort((a, b) => (a!.id as number) - (b!.id as number)),
+      null,
+      2,
+    ),
+  );
+
+  await writeFile(
+    `assets/networks/rainbow-kit-chains.json`,
+    JSON.stringify(
+      rainbowkitChains
         .filter((x) => Boolean(x))
         .sort((a, b) => (a!.id as number) - (b!.id as number)),
       null,

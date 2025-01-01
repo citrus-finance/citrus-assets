@@ -34,12 +34,9 @@
         "blockCreated": 14353601
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/1.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/1.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/1.svg",
       "wrapped": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "defiLLamaChain": "ethereum"
     }
@@ -123,12 +120,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:10",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/10.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/10.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/10.svg",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "optimism"
     }
@@ -161,12 +155,9 @@
         "blockCreated": 3002461
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:14",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/flare.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/flare.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/flare.webp",
       "wrapped": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
       "defiLLamaChain": "flare"
     }
@@ -194,12 +185,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:16",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston.webp",
       "wrapped": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91"
     }
   },
@@ -225,12 +213,9 @@
         "apiUrl": "https://songbird-explorer.flare.network/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:19",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/songbird.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/songbird.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/songbird.webp",
       "wrapped": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
       "defiLLamaChain": "songbird"
     }
@@ -263,12 +248,9 @@
         "blockCreated": 1963112
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:25",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
       "defiLLamaChain": "cronos"
     }
@@ -296,12 +278,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:31",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rootstock.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rootstock.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rootstock.webp",
       "wrapped": "0xA274d994F698Dd09256674960d86aBa22C086669"
     }
   },
@@ -332,12 +311,9 @@
         "blockCreated": 246530709
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:40",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
       "defiLLamaChain": "telos"
     }
@@ -364,12 +340,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:41",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E"
     }
   },
@@ -403,12 +376,9 @@
         "blockCreated": 3032593
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:44",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x2D2b97EA380b0185e9fDF8271d1AFB5d2Bf18329",
       "defiLLamaChain": "crab"
     }
@@ -443,12 +413,9 @@
         "blockCreated": 69420
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:46",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/darwinia.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/darwinia.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/darwinia.svg",
       "wrapped": "0xE7578598Aac020abFB918f33A20faD5B71d670b4",
       "defiLLamaChain": "pgn"
     }
@@ -480,12 +447,9 @@
         "blockCreated": 75884020
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:50",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xdc.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xdc.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xdc.webp",
       "wrapped": "0x951857744785E80e2De051c32EE7b25f9c458C42",
       "defiLLamaChain": "xdc"
     }
@@ -518,12 +482,9 @@
         "blockCreated": 15921452
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:56",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg",
       "wrapped": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "defiLLamaChain": "bsc"
     }
@@ -559,12 +520,9 @@
         "blockCreated": 287139
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:57",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
       "defiLLamaChain": "syscoin"
     }
@@ -590,12 +548,9 @@
         "url": "https://blockscout.com/etc/mainnet"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:61",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereumclassic.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereumclassic.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereumclassic.webp",
       "wrapped": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
       "defiLLamaChain": "ethereumclassic"
     }
@@ -632,12 +587,9 @@
         "blockCreated": 117499050
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:71",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp",
       "wrapped": "0x2ED3dddae5B2F321AF0806181FBFA6D049Be47d8"
     }
   },
@@ -663,12 +615,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:88",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
       "defiLLamaChain": "tomochain"
     }
@@ -702,12 +651,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:97",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd"
     }
   },
@@ -742,12 +688,9 @@
         "blockCreated": 21022491
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:100",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/100.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/100.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/100.svg",
       "wrapped": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
       "defiLLamaChain": "xdai"
     }
@@ -780,12 +723,9 @@
         "blockCreated": 265900
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:109",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shibarium.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shibarium.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shibarium.webp",
       "wrapped": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
       "defiLLamaChain": "shibarium"
     }
@@ -813,12 +753,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:114",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston2.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston2.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston2.webp",
       "wrapped": "0xC67DCE33D7A8efA5FfEB961899C73fe01bCe9273"
     }
   },
@@ -850,12 +787,9 @@
         "blockCreated": 16146628
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:122",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fuse.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fuse.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fuse.webp",
       "wrapped": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
       "defiLLamaChain": "fuse"
     }
@@ -882,12 +816,9 @@
         "apiUrl": "https://explorer.fusespark.io/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:123",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B"
     }
   },
@@ -912,12 +843,9 @@
         "url": "https://hashkeychain-testnet-explorer.alt.technology"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:133",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x4937121cE9d6BBE48c2479FEead9EA27B3732331"
     }
   },
@@ -949,12 +877,9 @@
         "blockCreated": 25770160
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:137",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/137.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/137.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/137.svg",
       "wrapped": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "defiLLamaChain": "polygon"
     }
@@ -982,12 +907,9 @@
         "apiUrl": "https://explorer.evm.shimmer.network/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:148",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shimmerevm.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shimmerevm.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shimmerevm.webp",
       "wrapped": "0x1074010000000000000000000000000000000000",
       "defiLLamaChain": "shimmer_evm"
     }
@@ -1021,12 +943,9 @@
         "blockCreated": 332890
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:169",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
       "wrapped": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746"
     }
   },
@@ -1052,12 +971,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:185",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mint.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mint.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mint.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1089,12 +1005,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:195",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayerTestnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayerTestnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayerTestnet.webp",
       "wrapped": "0xa2aFfd8301BfB3c5b815829f2F509f053556D21B"
     }
   },
@@ -1126,12 +1039,9 @@
         "blockCreated": 47416
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:196",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayer.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayer.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayer.webp",
       "wrapped": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
       "defiLLamaChain": "xlayer"
     }
@@ -1198,12 +1108,9 @@
       }
     },
     "sourceId": 56,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:204",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "op_bnb"
     }
@@ -1236,12 +1143,9 @@
         "blockCreated": 33001987
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:250",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "defiLLamaChain": "fantom"
     }
@@ -1321,12 +1225,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:252",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
       "wrapped": "0xFC00000000000000000000000000000000000006",
       "defiLLamaChain": "fraxtal"
     }
@@ -1354,12 +1255,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:255",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
       "wrapped": "0x4200000000000000000000000000000000000001"
     }
   },
@@ -1390,12 +1288,9 @@
         "blockCreated": 446859
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:288",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "defiLLamaChain": "boba"
     }
@@ -1422,12 +1317,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:291",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/orderly.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/orderly.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/orderly.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1458,12 +1350,9 @@
         "blockCreated": 3328594
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:314",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/filecoin.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/filecoin.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/filecoin.webp",
       "wrapped": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A"
     }
   },
@@ -1495,12 +1384,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:338",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x0728B93B969f84A248Df7e499358A6733834FD7b"
     }
   },
@@ -1581,12 +1467,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:360",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shape.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shape.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shape.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1625,12 +1508,9 @@
         "blockCreated": 14353601
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:369",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "defiLLamaChain": "pulse"
     }
@@ -1721,12 +1601,9 @@
     },
     "testnet": false,
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:480",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1761,12 +1638,9 @@
         "blockCreated": 119222
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:570",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "rollux"
     }
@@ -1798,12 +1672,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:686",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x0000000000000000000100000000000000000080",
       "defiLLamaChain": "karura_evm"
     }
@@ -1886,12 +1757,9 @@
         "url": "https://explorer.redstone.xyz"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:690",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/redstone.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/redstone.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/redstone.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1926,12 +1794,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:701",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xec8406f4e6B1b853E50c53872648b7BD5e4a7b8a"
     }
   },
@@ -2013,12 +1878,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:919",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/modeTestnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/modeTestnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/modeTestnet.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -2057,12 +1919,9 @@
         "blockCreated": 14353601
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:943",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/pulsechain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/pulsechain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/pulsechain.webp",
       "wrapped": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
     }
   },
@@ -2094,12 +1953,9 @@
         "blockCreated": 1935198
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:957",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lyra.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lyra.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lyra.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -2132,12 +1988,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1001",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x043c471bEe060e00A56CcD02c0Ca286808a5A436"
     }
   },
@@ -2171,12 +2024,9 @@
         "blockCreated": 68602935
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1030",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp",
       "wrapped": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
       "defiLLamaChain": "conflux"
     }
@@ -2209,12 +2059,9 @@
         "blockCreated": 2338552
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1088",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "defiLLamaChain": "metis"
     }
@@ -2247,12 +2094,9 @@
         "blockCreated": 57746
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1101",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zkevm.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zkevm.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zkevm.webp",
       "wrapped": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
       "defiLLamaChain": "polygon_zkevm"
     }
@@ -2279,12 +2123,9 @@
         "url": "https://explorer.wemix.com"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1111",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
       "defiLLamaChain": "wemix"
     }
@@ -2313,12 +2154,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1112",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1"
     }
   },
@@ -2396,12 +2234,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1135",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -2437,12 +2272,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1284",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbeam.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbeam.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbeam.svg",
       "wrapped": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "defiLLamaChain": "moonbeam"
     }
@@ -2479,12 +2311,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1285",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonriver.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonriver.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonriver.svg",
       "wrapped": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
       "defiLLamaChain": "moonriver"
     }
@@ -2521,12 +2350,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1287",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbase-alpha-testnet.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbase-alpha-testnet.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbase-alpha-testnet.svg",
       "wrapped": "0xbd23fCD60bD2682dea6A3aad84b498c54d56c494"
     }
   },
@@ -2560,12 +2386,9 @@
         "address": "0xcA11bde05977b3631167028862bE2a173976CA11"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1329",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/seiv2.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/seiv2.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/seiv2.webp",
       "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
       "defiLLamaChain": "sei"
     }
@@ -2594,12 +2417,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1559",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/tenet.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/tenet.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/tenet.svg",
       "wrapped": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe"
     }
   },
@@ -2631,12 +2451,9 @@
         "blockCreated": 16851
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1625",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/gravity.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/gravity.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/gravity.webp",
       "wrapped": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD"
     }
   },
@@ -2717,12 +2534,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1750",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/metal.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/metal.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/metal.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -2749,12 +2563,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1891",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lightlink.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lightlink.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lightlink.webp",
       "wrapped": "0xF42991f02C07AB66cFEa282E7E482382aEB85461"
     }
   },
@@ -2840,12 +2651,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1946",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/minato.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/minato.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/minato.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -2872,12 +2680,9 @@
     },
     "testnet": true,
     "sourceId": 168587773,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1993",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/b3.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/b3.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/b3.svg",
       "wrapped": "0x3538f4C55893eDca690D1e4Cf9Fb61FB70cd0DD8"
     }
   },
@@ -2909,12 +2714,9 @@
         "blockCreated": 25384031
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dogechain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dogechain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dogechain.webp",
       "wrapped": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "defiLLamaChain": "dogechain"
     }
@@ -2949,12 +2751,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2221",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
       "wrapped": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449"
     }
   },
@@ -2988,12 +2787,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2222",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
       "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
       "defiLLamaChain": "kava"
     }
@@ -3074,12 +2870,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2331",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3-testnet.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3-testnet.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3-testnet.svg",
       "wrapped": "0xAd1a18d7e792DF42Af26ba85438Fc751Cdfa9578"
     }
   },
@@ -3105,12 +2898,9 @@
         "url": "https://scope.silicon.network"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2355",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xe66863B695A392507F5d68b6A7B8AA8218914059"
     }
   },
@@ -3137,12 +2927,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2358",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
       "wrapped": "0x4200000000000000000000000000000000000001"
     }
   },
@@ -3221,12 +3008,9 @@
       }
     },
     "sourceId": 17000,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2522",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
       "wrapped": "0xFC00000000000000000000000000000000000006"
     }
   },
@@ -3256,12 +3040,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:2810",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x5300000000000000000000000000000000000011"
     }
   },
@@ -3287,12 +3068,9 @@
         "apiUrl": "https://scan.merlinchain.io/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:4200",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/merlin.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/merlin.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/merlin.webp",
       "wrapped": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
       "defiLLamaChain": "merlin"
     }
@@ -3329,12 +3107,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:4201",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lukso.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lukso.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lukso.webp",
       "wrapped": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe"
     }
   },
@@ -3413,12 +3188,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:4202",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -3452,12 +3224,9 @@
         "blockCreated": 22163670
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:4689",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xA00744882684C3e4747faEFD68D283eA44099D03",
       "defiLLamaChain": "iotex"
     }
@@ -3552,12 +3321,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:4801",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -3589,12 +3355,9 @@
         "blockCreated": 304717
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:5000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mantle.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mantle.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mantle.webp",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "defiLLamaChain": "mantle"
     }
@@ -3629,12 +3392,9 @@
         "apiUrl": "https://www.ftnscan.com/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:5165",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bahamut.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bahamut.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bahamut.webp",
       "wrapped": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB"
     }
   },
@@ -3700,12 +3460,9 @@
     },
     "testnet": true,
     "sourceId": 97,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:5611",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp",
       "wrapped": "0x617d91847b74B70a3D3e3745445cb0d1b3c8560E"
     }
   },
@@ -3739,12 +3496,9 @@
         "blockCreated": 271288
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:5700",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35"
     }
   },
@@ -3770,12 +3524,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:6001",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bouncebit.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bouncebit.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bouncebit.webp",
       "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
       "defiLLamaChain": "bouncebit"
     }
@@ -3802,12 +3553,9 @@
       }
     },
     "contracts": {},
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:7332",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/eon.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/eon.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/eon.webp",
       "wrapped": "0xF5cB8652a84329A2016A386206761f455bCEDab6"
     }
   },
@@ -3839,12 +3587,9 @@
         "blockCreated": 0
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:7560",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -3929,12 +3674,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:8453",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/base.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/base.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/base.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "base"
     }
@@ -3971,12 +3713,9 @@
         "blockCreated": 25022
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:8822",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/iotaevm.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/iotaevm.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/iotaevm.webp",
       "wrapped": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c"
     }
   },
@@ -4010,12 +3749,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:8899",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/jbc.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/jbc.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/jbc.webp",
       "wrapped": "0x99999999990FC47611b74827486218f3398A4abD"
     }
   },
@@ -4079,12 +3815,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:11011",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shapeTestnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shapeTestnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shapeTestnet.webp",
       "wrapped": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4"
     }
   },
@@ -4110,12 +3843,9 @@
         "apiUrl": "https://explorer.haqq.network/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:11235",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54"
     }
   },
@@ -4141,12 +3871,9 @@
         "apiUrl": "https://scan-mainnet-api.bevm.io/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:11501",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bevm.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bevm.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bevm.webp",
       "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
     }
   },
@@ -4225,12 +3952,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:12553",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3.svg",
       "wrapped": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
       "defiLLamaChain": "rss3_vsl"
     }
@@ -4263,12 +3987,9 @@
         "blockCreated": 4335972
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:13371",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp",
       "wrapped": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D"
     }
   },
@@ -4300,12 +4021,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:13473",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp",
       "wrapped": "0x1CcCa691501174B4A623CeDA58cC8f1a76dc3439"
     }
   },
@@ -4346,12 +4064,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:17000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereum.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereum.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereum.webp",
       "wrapped": "0x94373a4919B3240D86eA41593D5eBa789FEF3848"
     }
   },
@@ -4434,12 +4149,9 @@
         "url": "https://explorer.garnetchain.com"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:17069",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/garnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/garnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/garnet.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -4472,12 +4184,9 @@
         "blockCreated": 1745
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:18233",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/unreal.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/unreal.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/unreal.webp",
       "wrapped": "0x0C68a3C11FB3550e50a4ed8403e873D367A8E361"
     }
   },
@@ -4512,12 +4221,9 @@
         "blockCreated": 734531
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:23294",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
       "wrapped": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3"
     }
   },
@@ -4547,12 +4253,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:23295",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
       "wrapped": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94"
     }
   },
@@ -4578,12 +4281,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:28882",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
     }
   },
@@ -4610,12 +4310,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:32769",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zilliqa.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zilliqa.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zilliqa.webp",
       "wrapped": "0x94e18aE7dd5eE57B55f30c4B63E2760c09EFb192",
       "defiLLamaChain": "zilliqa"
     }
@@ -4642,12 +4339,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:33111",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/curtis.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/curtis.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/curtis.webp",
       "wrapped": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B"
     }
   },
@@ -4724,12 +4418,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:34443",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mode.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mode.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mode.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "mode"
     }
@@ -4756,12 +4447,9 @@
         "apiUrl": "https://explorer.q.org/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:35441",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
       "wrapped": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a"
     }
   },
@@ -4788,12 +4476,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:35443",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
       "wrapped": "0x76F4f36CE4f1550D95BAd917ef05520Eca310685"
     }
   },
@@ -4839,12 +4524,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:42220",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x471EcE3750Da237f93B8E339c536989b8978a438",
       "defiLLamaChain": "celo"
     }
@@ -4876,12 +4558,9 @@
         "blockCreated": 33899
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:42793",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/etherlink.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/etherlink.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/etherlink.webp",
       "wrapped": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb"
     }
   },
@@ -4914,12 +4593,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:43113",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
       "wrapped": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c"
     }
   },
@@ -4951,12 +4627,9 @@
         "blockCreated": 11907934
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:43114",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
       "wrapped": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "defiLLamaChain": "avax"
     }
@@ -5045,12 +4718,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:44787",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9"
     }
   },
@@ -5110,12 +4780,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:48899",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zircuit.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zircuit.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zircuit.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -5144,12 +4811,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:53457",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dodochain_testnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dodochain_testnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dodochain_testnet.webp",
       "wrapped": "0x3a64Ec3606FF7310E8fAd6FcC008e39705fB496d"
     }
   },
@@ -5184,12 +4848,9 @@
         "blockCreated": 1813675
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:57000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xcAc0759160d57A33D332Ed36a555C10957694407"
     }
   },
@@ -5226,12 +4887,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:59141",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
       "wrapped": "0x10253594A832f967994b44f33411940533302ACb"
     }
   },
@@ -5268,12 +4926,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:59144",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
       "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
       "defiLLamaChain": "linea"
     }
@@ -5351,12 +5006,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:60808",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -5382,12 +5034,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:62049",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp",
       "wrapped": "0x98E1817244d130D8fE05591ba517d3f24Db035Ec"
     }
   },
@@ -5413,12 +5062,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:62050",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/optopia.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -5451,12 +5097,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:80002",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/polygon.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/polygon.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/polygon.webp",
       "wrapped": "0xA5733b3A8e62A8faF43b0376d5fAF46E89B3033E"
     }
   },
@@ -5488,12 +5131,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:80084",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/berachain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/berachain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/berachain.webp",
       "wrapped": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8"
     }
   },
@@ -5519,9 +5159,6 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:80085",
-    "assets": {},
     "custom": {
       "wrapped": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F"
     }
@@ -5555,12 +5192,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:81457",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp",
       "wrapped": "0x4300000000000000000000000000000000000004",
       "defiLLamaChain": "blast"
     }
@@ -5648,12 +5282,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:84532",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/baseTestnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/baseTestnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/baseTestnet.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -5686,12 +5317,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:88882",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizspicy.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizspicy.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizspicy.webp",
       "wrapped": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6"
     }
   },
@@ -5719,12 +5347,9 @@
         "apiUrl": "https://scan.chiliz.com/api"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:88888",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizchain.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizchain.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizchain.webp",
       "wrapped": "0x677F7e16C7Dd57be1D4C8aD1244883214953DC47",
       "defiLLamaChain": "chz"
     }
@@ -5751,12 +5376,9 @@
         "url": "https://explorer.stratisevm.com"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:105105",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/stratis.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/stratis.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/stratis.svg",
       "wrapped": "0xeA705D2DbD8DE7Dc70Db7B531D0F620d9CeE9d18"
     }
   },
@@ -5788,12 +5410,9 @@
         "blockCreated": 695
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:111188",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/real.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/real.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/real.webp",
       "wrapped": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
       "defiLLamaChain": "real"
     }
@@ -5828,12 +5447,9 @@
         "address": "0xcb2436774C3e191c85056d248EF4260ce5f27A9D"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:167000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
       "wrapped": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
       "defiLLamaChain": "taiko"
     }
@@ -5866,12 +5482,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:167009",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
       "wrapped": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9"
     }
   },
@@ -5898,12 +5511,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:205205",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/auroria.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/auroria.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/auroria.webp",
       "wrapped": "0x6f39A32C3E7A54164e1C6E201979aec276B0Da8E"
     }
   },
@@ -5936,12 +5546,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:534351",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x5300000000000000000000000000000000000004"
     }
   },
@@ -5977,12 +5584,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:534352",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x5300000000000000000000000000000000000004",
       "defiLLamaChain": "scroll"
     }
@@ -6015,12 +5619,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:660279",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
       "defiLLamaChain": "xai"
     }
@@ -6047,12 +5648,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:713715",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/sei.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/sei.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/sei.webp",
       "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7"
     }
   },
@@ -6130,12 +5728,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:808813",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bob.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bob.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bob.webp",
       "wrapped": "0x8CEc2719a2e896A11eA3f10406EfDb6Ad87281D9"
     }
   },
@@ -6199,12 +5794,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:3397901",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/funki.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/funki.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/funki.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -6238,12 +5830,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:3441006",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
       "wrapped": "0x199d1a27684106dC3Deb673115fc0fc9cf6af287"
     }
   },
@@ -6276,12 +5865,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:6038361",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/astarzk.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/astarzk.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/astarzk.webp",
       "wrapped": "0x441325a0e1D5aC0d64C9cc790FcAbf9c5416a4a1"
     }
   },
@@ -6362,12 +5948,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:7777777",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zora.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zora.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zora.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -6402,12 +5985,9 @@
         "blockCreated": 207583
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:9999999",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9"
     }
   },
@@ -6447,12 +6027,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:11155111",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/11155111.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/11155111.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/11155111.svg",
       "wrapped": "0xf531B8F309Be94191af87605CfBf600D71C2cFe0"
     }
   },
@@ -6536,12 +6113,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:11155420",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc"
     }
   },
@@ -6567,12 +6141,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:20241133",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9"
     }
   },
@@ -6648,12 +6219,9 @@
       }
     },
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:28122024",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -6689,12 +6257,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:52164803",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9"
     }
   },
@@ -6727,12 +6292,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:111557560",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -6766,12 +6328,9 @@
     },
     "testnet": true,
     "sourceId": 11155111,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:168587773",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp",
       "wrapped": "0x4200000000000000000000000000000000000023"
     }
   },
@@ -6804,12 +6363,9 @@
       }
     },
     "testnet": false,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:245022934",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/neon.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/neon.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/neon.webp",
       "wrapped": "0x202C35e517Fa803B537565c40F0a6965D7204609",
       "defiLLamaChain": "neon_evm"
     }
@@ -6839,12 +6395,9 @@
         "apiUrl": "https://explorer.degen.tips/api/v2"
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:666666666",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/degen.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/degen.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/degen.svg",
       "wrapped": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
       "defiLLamaChain": "degen"
     }
@@ -6921,12 +6474,9 @@
       }
     },
     "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:888888888",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -7009,12 +6559,9 @@
     },
     "sourceId": 11155111,
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:999999999",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zoraSepoliaTestnet.webp"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zoraSepoliaTestnet.webp",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zoraSepoliaTestnet.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -7046,12 +6593,9 @@
         "blockCreated": 62907816
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1313161554",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
       "defiLLamaChain": "aurora"
     }
@@ -7083,12 +6627,9 @@
         "blockCreated": 24185753
       }
     },
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1666600000",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
       "defiLLamaChain": "harmony"
     }
@@ -7116,12 +6657,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:1722641160",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x2f9cc2c11d5E10a5fd5C90c68f7FaD69f82ceD0b"
     }
   },
@@ -7147,12 +6685,9 @@
       }
     },
     "testnet": true,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:37714555429",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg"
-    },
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
     "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF"
     }
   }
