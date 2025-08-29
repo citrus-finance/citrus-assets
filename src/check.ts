@@ -42,13 +42,15 @@ const results = await Promise.all(
     }),
 );
 
-// @ts-expect-error
 results
   .filter((x) => Boolean(x))
   .sort((a, b) =>
+    // @ts-expect-error
     a.chainIsSupported === b.chainIsSupported
-      ? a.id - b.id
-      : b.chainIsSupported - a.chainIsSupported,
+      ? // @ts-expect-error
+        a.id - b.id
+      : // @ts-expect-error
+        b.chainIsSupported - a.chainIsSupported,
   )
   .forEach((x) => {
     // Don't display testnet
