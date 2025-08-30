@@ -1,10 +1,6 @@
 import ts from "typescript";
 import { type Chain } from "viem/chains";
-
-import { gitPull } from "./git.js";
-
-const { dir: viemDir } = await gitPull("git@github.com:wevm/viem.git");
-const chains = await import(`../../${viemDir}/src/chains`);
+import * as chains from "viem/chains";
 
 const deprecatedChains = getDeprecatedChains();
 
@@ -24,7 +20,7 @@ export function getViemChain(chainId: number): Chain | null {
 function getDeprecatedChains(): string[] {
   const deprecatedChains: string[] = [];
 
-  const filePath = `${viemDir}/src/chains/index.ts`;
+  const filePath = `node_modules/viem/chains/index.ts`;
 
   const program = ts.createProgram([filePath], {});
   const sourceFile = program.getSourceFile(filePath);

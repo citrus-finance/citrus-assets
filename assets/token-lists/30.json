@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:15:19.419Z",
+  "timestamp": "2025-08-30T21:10:13.519Z",
   "tokens": [
     {
       "chainId": 30,
@@ -21,6 +21,18 @@
     },
     {
       "chainId": 30,
+      "address": "0x0837f2C7763B77d7b3D1DE8616edFC42a05d3aC6",
+      "name": "Apple Inc Tokenized by Sailing",
+      "symbol": "AAPLs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x0837f2C7763B77d7b3D1DE8616edFC42a05d3aC6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8502a3cbd8445733b1ccefe0a99c0f69"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827",
       "name": "rLINK",
       "symbol": "rLINK",
@@ -29,6 +41,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "a80b027391c48ac036464a6f7572ff53"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x1BA24aFC90d41E86F7F722659F68F4b176e3116B",
+      "name": "The Walt Disney Company Tokenized by Sailing",
+      "symbol": "DISs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x1BA24aFC90d41E86F7F722659F68F4b176e3116B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5092355b02106d2969958be8c5f497dd"
       }
     },
     {
@@ -65,6 +89,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "f5fdff6685d882421474aafb2db0804d"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a3420d5e3d2b905cb97d5a102af6799d"
       }
     },
     {
@@ -117,6 +153,18 @@
     },
     {
       "chainId": 30,
+      "address": "0x47a663C082926d0d913cAcB89240c3f4bc409a88",
+      "name": "Nvidia Corporation Tokenized by Sailing",
+      "symbol": "NVDAs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x47a663C082926d0d913cAcB89240c3f4bc409a88.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ce254cd114dc3ca70cacb92c2dca33ea"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0x4991516DF6053121121274397a8C1dAD608Bc95B",
       "name": "rBUND",
       "symbol": "rBUND",
@@ -129,6 +177,30 @@
     },
     {
       "chainId": 30,
+      "address": "0x4e630f665A5e911EbA14b4e850375613D6A05C06",
+      "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
+      "symbol": "AMCs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x4e630f665A5e911EbA14b4e850375613D6A05C06.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d5ac3d2927ceb9fd73f254087e8c3ff0"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f30d1da4a6bba66613d1738424d1221e"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
       "name": "Wrapped BTC",
       "symbol": "WRBTC",
@@ -137,6 +209,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "6c5d3832cf51496e99d9b0ab4e1d7e26"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x5b0c93ED5e3Ab653CC5d1dD850c4bF8C0A1260c5",
+      "name": "MicroStrategy Inc Tokenized by Sailing",
+      "symbol": "MSTRs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x5b0c93ED5e3Ab653CC5d1dD850c4bF8C0A1260c5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "681ce48c876bce0b398ede26ae6af065"
       }
     },
     {
@@ -165,6 +249,18 @@
     },
     {
       "chainId": 30,
+      "address": "0x6cEED18bCEdB2e29cA8dD59C7874d98eaEC5ab3b",
+      "name": "Tesla Inc Tokenized by Sailing",
+      "symbol": "TSLAs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x6cEED18bCEdB2e29cA8dD59C7874d98eaEC5ab3b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "89b49e1a22c761e1d4afdda150e88ddb"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0x70566D8541BEaBE984C8BAbF8a816eD908514ba8",
       "name": "rUBI",
       "symbol": "rUBI",
@@ -185,6 +281,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "55f351804a9847047fdc6bbbc9d288ae"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x74c9f2b00581F1B11AA7ff05aa9F608B7389De67",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x74c9f2b00581F1B11AA7ff05aa9F608B7389De67.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e65ffba84c77a2fd7cce629394e36d88"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x779Ded0c9e1022225f8E0630b35a9b54bE713736.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "76e2ceaea7326bad43e160e83bdf2d43"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0x91B26F71D8b6F78b7BdaDd557c20727232C4bF2c",
+      "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
+      "symbol": "SPYs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0x91B26F71D8b6F78b7BdaDd557c20727232C4bF2c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6ab468530ef62bf0f786708a5709952b"
       }
     },
     {
@@ -213,6 +345,54 @@
     },
     {
       "chainId": 30,
+      "address": "0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xAf368c91793CB22739386DFCbBb2F1A9e4bCBeBf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ad367d45466077adbf71e0d0ceefe2f0"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xB314095f4Efd9cb0e800Fc72a85878d9E3a4109B",
+      "name": "Invesco QQQ Trust Tokenized by Sailing",
+      "symbol": "QQQs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xB314095f4Efd9cb0e800Fc72a85878d9E3a4109B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cc6efafaaf51d03b00eedc44944deb2c"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xB52E582263c1d0189b3cc1402c1B7205b7F2E9Ba",
+      "name": "syBTC",
+      "symbol": "syBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xB52E582263c1d0189b3cc1402c1B7205b7F2E9Ba.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "446467b46a155a34b2c3f518f1a95db1"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xb880773D2a4B2b2cD49E23AE3633d18644448C5D",
+      "name": "Airbnb Inc Tokenized by Sailing",
+      "symbol": "ABNBs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xb880773D2a4B2b2cD49E23AE3633d18644448C5D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1117f84e1bd853eecb5c87e8bd2dd8d9"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA",
       "name": "Sovryn Dollar",
       "symbol": "DLLR",
@@ -221,6 +401,126 @@
       "tags": [],
       "extensions": {
         "cacheHash": "852136903e8e2abfe741ac400be78ada"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xCC0966D8418d412c599A6421b760a847eB169A8c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "62a57b11ce5c9306a3bbd8e7db0ccb96"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d",
+      "name": "uniBTC",
+      "symbol": "uniBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xd3c8dA379d71a33BfEE8875F87Ac2748bEB1d58d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b58d990593f8c9da4bc8b325bd6b8d15"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xD85892243E7a4822AbaD3297AB8A44A733483aED",
+      "name": "Paramount Global Tokenized by Sailing",
+      "symbol": "PARAs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xD85892243E7a4822AbaD3297AB8A44A733483aED.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "767046a12b062b50c3a94237bde025d0"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xd9474AAa1DE26e2F2F6891e33C860C99E9D4c8A8",
+      "name": "DLocal Ltd Tokenized by Sailing",
+      "symbol": "DLOs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xd9474AAa1DE26e2F2F6891e33C860C99E9D4c8A8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "74f562cdfb0f793c117629a95405c7ed"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xdB5A8DA127B061b3f4244F1C34EaFfFff951E1Ce",
+      "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
+      "symbol": "AAAUs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xdB5A8DA127B061b3f4244F1C34EaFfFff951E1Ce.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f923948a323e8ebf64a8f90ccf0c42d8"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xDC661977F72973601621247B1F3c5E9eA624Fd38",
+      "name": "Grupo Supervielle SA Tokenized by Sailing",
+      "symbol": "SUPVs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xDC661977F72973601621247B1F3c5E9eA624Fd38.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "77535596fc61e0e0ed59b126b3f194c2"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xdE35d352E479643Dff75E2291144076Ce76497FB",
+      "name": "Meta Platforms Inc Tokenized by Sailing",
+      "symbol": "METAs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xdE35d352E479643Dff75E2291144076Ce76497FB.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "73819704703068762b1c690de1318fc2"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xDEde6fa58829D1d7cf03a2D32F4317588a6a7683",
+      "name": "GameStop Corp Tokenized by Sailing",
+      "symbol": "GMEs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xDEde6fa58829D1d7cf03a2D32F4317588a6a7683.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "727664250f20483b1c814f19da1df92f"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xDf12A17abf91C225e8074D2C38e9459A109DB82E",
+      "name": "Amazon.com Inc Tokenized by Sailing",
+      "symbol": "AMZNs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xDf12A17abf91C225e8074D2C38e9459A109DB82E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e7e005688a9d1fcdca2d087e2dc11da7"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xDF9A2DD609334a9c4a5E7abD6c333e6C8a724875",
+      "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+      "symbol": "DNAs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xDF9A2DD609334a9c4a5E7abD6c333e6C8a724875.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6fbe96d856ef782bac3336f4127293af"
       }
     },
     {
@@ -249,6 +549,30 @@
     },
     {
       "chainId": 30,
+      "address": "0xEF85254Aa4a8490bcC9C02Ae38513Cae8303FB53",
+      "name": "Midas BTC Yield Token",
+      "symbol": "mBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xEF85254Aa4a8490bcC9C02Ae38513Cae8303FB53.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8c09afd3490ecad088da24ef9fec5099"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4",
+      "name": "brBTC",
+      "symbol": "brBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xF1376bceF0f78459C0Ed0ba5ddce976F1ddF51F4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "189f092dae4599d02451a2b119dfe153"
+      }
+    },
+    {
+      "chainId": 30,
       "address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
       "name": "RIFPro",
       "symbol": "RIFP",
@@ -257,6 +581,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "45b4b54a40288ec4467cbfb50f1f600a"
+      }
+    },
+    {
+      "chainId": 30,
+      "address": "0xfd0f7ce53da7D6889e4d126E51a8E6160158E4f2",
+      "name": "Coinbase Global Inc Tokenized by Sailing",
+      "symbol": "COINs",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/30/0xfd0f7ce53da7D6889e4d126E51a8E6160158E4f2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "81ca6c6b9ccf885c1421b3508291a4ec"
       }
     },
     {

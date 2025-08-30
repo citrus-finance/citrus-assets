@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on chain:698",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:10:16.193Z",
+  "tokens": [
+    {
+      "chainId": 698,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/698/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "18f3e1856483fb8294fb67e26abaf946"
+      }
+    },
+    {
+      "chainId": 698,
+      "address": "0x44a83a012B926853DFc1BBE2ec5BEf37126067e8",
+      "name": "Matchain",
+      "symbol": "MAT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/698/0x44a83a012B926853DFc1BBE2ec5BEf37126067e8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "192d252ca4592f4a524abca556fe2f51"
+      }
+    },
+    {
+      "chainId": 698,
+      "address": "0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7",
+      "name": "Bridged USDC (Hyperlane)",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/698/0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "44053b4d420f2d51b2c10f59cf1cc976"
+      }
+    },
+    {
+      "chainId": 698,
+      "address": "0x9E8f9907541f5dF3383130B5D869d39f129BE259",
+      "name": "Staked MAT",
+      "symbol": "stMAT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/698/0x9E8f9907541f5dF3383130B5D869d39f129BE259.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "204542c4673bfb96c9c97efbc875c77e"
+      }
+    }
+  ]
+}

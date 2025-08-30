@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:48.540Z",
+  "timestamp": "2025-08-30T21:01:34.336Z",
   "tokens": [
     {
       "chainId": 1088,
@@ -93,6 +93,20 @@
       ],
       "extensions": {
         "cacheHash": "ab2a57278fc990f60df4af4af3451f19"
+      }
+    },
+    {
+      "chainId": 1088,
+      "address": "0x18A05C5d0B5787aaBE64d209997fbFfa3Df77283",
+      "name": "Regrettis",
+      "symbol": "REGRET",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x18A05C5d0B5787aaBE64d209997fbFfa3Df77283.png",
+      "tags": [
+        "meme"
+      ],
+      "extensions": {
+        "cacheHash": "18e67ca741b8fa504c259a9f30125e91"
       }
     },
     {
@@ -407,13 +421,15 @@
     {
       "chainId": 1088,
       "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
-      "name": "Wrapped Monkex",
-      "symbol": "WMONKEX",
+      "name": "Wrapped Monkex Token",
+      "symbol": "wMONKEX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
-      "tags": [],
+      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.png",
+      "tags": [
+        "meme"
+      ],
       "extensions": {
-        "cacheHash": "3cd2be811d4f98f27215fa5d233b35e9"
+        "cacheHash": "1b9d73a723265353ca21fd89b8b9bff3"
       }
     },
     {
@@ -606,6 +622,20 @@
     },
     {
       "chainId": 1088,
+      "address": "0xCb36d532a9995F4471C99868F8DA775B7a23eBB8",
+      "name": "PUMPe Meme",
+      "symbol": "PUMPE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xCb36d532a9995F4471C99868F8DA775B7a23eBB8.jpeg",
+      "tags": [
+        "meme"
+      ],
+      "extensions": {
+        "cacheHash": "a25901cf97d7177eb9cdadadfcefdcaf"
+      }
+    },
+    {
+      "chainId": 1088,
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "name": "Metis Token",
       "symbol": "Metis",
@@ -682,10 +712,10 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1088,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "cacheHash": "1531c6a4c421575c7f10eda62e1cf67a"
       },
       "tags": [
         "Top"

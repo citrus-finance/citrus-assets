@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:12:00.910Z",
+  "timestamp": "2025-08-30T21:01:55.658Z",
   "tokens": [
     {
       "chainId": 1750,
@@ -29,6 +29,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "eee5e7b97313dd45d93e1d63d78e2d98"
+      }
+    },
+    {
+      "chainId": 1750,
+      "address": "0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9",
+      "name": "Metal DAO",
+      "symbol": "MTL",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4b5e5d69cc0b4b799c0a30410652ecc1"
       }
     },
     {

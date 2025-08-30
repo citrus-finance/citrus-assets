@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on chain:232",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:10:14.872Z",
+  "tokens": [
+    {
+      "chainId": 232,
+      "address": "0x6bDc36E20D267Ff0dd6097799f82e78907105e2F",
+      "name": "Wrapped GHO Token",
+      "symbol": "WGHO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/232/0x6bDc36E20D267Ff0dd6097799f82e78907105e2F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2c3db3015aef60d272e0e7c95cf2449f"
+      }
+    },
+    {
+      "chainId": 232,
+      "address": "0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/232/0x88F08E304EC4f90D644Cec3Fb69b8aD414acf884.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "db7ab7474f1da53a74e222b67c5d4a35"
+      }
+    },
+    {
+      "chainId": 232,
+      "address": "0xB0588f9A9cADe7CD5f194a5fe77AcD6A58250f82",
+      "name": "Bonsai Token",
+      "symbol": "BONSAI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/232/0xB0588f9A9cADe7CD5f194a5fe77AcD6A58250f82.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e94d79ad01a9dd14ae94f0a6af5ab666"
+      }
+    },
+    {
+      "chainId": 232,
+      "address": "0xE5ecd226b3032910CEaa43ba92EE8232f8237553",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/232/0xE5ecd226b3032910CEaa43ba92EE8232f8237553.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ba612f590ecbc6cd571593677d677372"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on LightLink Phoenix Mainnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:10:16.418Z",
+  "tokens": [
+    {
+      "chainId": 1890,
+      "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1890/0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d9ad42e9b3c6b6710ea8708df00a38f1"
+      }
+    },
+    {
+      "chainId": 1890,
+      "address": "0x808d7c71ad2ba3FA531b068a2417C63106BC0949",
+      "name": "Tether USD (Stargate Bridged)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1890/0x808d7c71ad2ba3FA531b068a2417C63106BC0949.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f7fb77bfc46de5cf3bbd192586c1b3c0"
+      }
+    },
+    {
+      "chainId": 1890,
+      "address": "0xbCF8C1B03bBDDA88D579330BDF236B58F8bb2cFd",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1890/0xbCF8C1B03bBDDA88D579330BDF236B58F8bb2cFd.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "31bfb2838c8657d9e80fe1fad00d2b66"
+      }
+    },
+    {
+      "chainId": 1890,
+      "address": "0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E",
+      "name": "LightLink",
+      "symbol": "LL.e",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1890/0xd9d7123552fA2bEdB2348bB562576D67f6E8e96E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c56e66b0f23f8ec81ce5c62415679927"
+      }
+    }
+  ]
+}

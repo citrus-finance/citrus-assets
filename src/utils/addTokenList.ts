@@ -18,8 +18,9 @@ export default async function addTokenList(
 
   const response = await fetch(url);
 
-  if (response.status !== 200) {
+  if (!response.ok) {
     console.error(`Failed to fetch ${url}`);
+    return;
   }
 
   const file = await response.json();

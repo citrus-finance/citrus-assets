@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:34.187Z",
+  "timestamp": "2025-08-30T21:07:32.124Z",
   "tokens": [
     {
       "chainId": 324,
@@ -17,6 +17,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "284ca8ff9a511cf746820191d309ce94"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x0469d9d1dE0ee58fA1153ef00836B9BbCb84c0B6",
+      "name": "Noon USN",
+      "symbol": "USN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x0469d9d1dE0ee58fA1153ef00836B9BbCb84c0B6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2248fe2d3901d699b522dbe1f1b3da63"
       }
     },
     {
@@ -117,6 +129,18 @@
     },
     {
       "chainId": 324,
+      "address": "0x18012CB9e1478EF458C8c996F99b8DcEcA60795c",
+      "name": "Tradable Singapore Fintech SSL",
+      "symbol": "PC0000077",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x18012CB9e1478EF458C8c996F99b8DcEcA60795c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "67766988582b3dac41e87c10cb621595"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
       "name": "USDC",
       "symbol": "USDC",
@@ -125,6 +149,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "47e9cd37dbbcf33802f7f44aab98c7a2"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x1F179A51Ab46252f469733DFcbD9115090A91f03",
+      "name": "Tradable North America PoS Lender SSTN",
+      "symbol": "PC0000019",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x1F179A51Ab46252f469733DFcbD9115090A91f03.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dbc7550b2708dc85fb432f841b748a9b"
       }
     },
     {
@@ -261,6 +297,18 @@
     },
     {
       "chainId": 324,
+      "address": "0x39Fe7a0DACcE31Bd90418e3e659fb0b5f0B3Db0d",
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x39Fe7a0DACcE31Bd90418e3e659fb0b5f0B3Db0d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f2ce44bf411a01a0ff54d03f3ee95daa"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD",
       "name": "PancakeSwap",
       "symbol": "CAKE",
@@ -317,6 +365,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "5489f5e7d3b47a33fa9ab92713b23908"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x3D19625Bb8E4B52Ac4ca28ecec2B5E243ae2EE81",
+      "name": "NA Post Settlement Legal Financing Rece",
+      "symbol": "PC0000101",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x3D19625Bb8E4B52Ac4ca28ecec2B5E243ae2EE81.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e3b67b2674a807665e1ad9210046a55c"
       }
     },
     {
@@ -441,6 +501,30 @@
     },
     {
       "chainId": 324,
+      "address": "0x53ACd3c88Ec04b8E22B8EF768EC4d928153d892E",
+      "name": "Tradable LatAm Charge Card SSN",
+      "symbol": "PC0000111",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x53ACd3c88Ec04b8E22B8EF768EC4d928153d892E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7b315a5448ff3716b3202022d4f0d0ab"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x5556fE72eb021f97D39ba704f3674f1731e1AcC4",
+      "name": "Tradable NA Residential Real Estate Bac",
+      "symbol": "PC0000113",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x5556fE72eb021f97D39ba704f3674f1731e1AcC4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "003edc755f8f510ae797ad92c3ac7457"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0x5756A28E2aAe01F600FC2C01358395F5C1f8ad3A",
       "name": "veSync",
       "symbol": "VS",
@@ -449,6 +533,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "69f7b376b24d3e105e02f4088a726b9b"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x57fD71a86522Dc06D6255537521886057c1772A3",
+      "name": "Blockchain Capital",
+      "symbol": "BCAP",
+      "decimals": 2,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x57fD71a86522Dc06D6255537521886057c1772A3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "be912ad37fdf42320928f8de1d51ad87"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x5895024c953bee18D5F026bfcf6259bb2d79E12D",
+      "name": "NA Music Royalties SSTL",
+      "symbol": "PC0000061",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x5895024c953bee18D5F026bfcf6259bb2d79E12D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1b3027d0240320f9fd2d2b638f6703b8"
       }
     },
     {
@@ -465,6 +573,18 @@
     },
     {
       "chainId": 324,
+      "address": "0x5aBe0a2ead1357F70E73F5b60E227dF64A54ddD5",
+      "name": "Tradable LatAm Fintech SSTN",
+      "symbol": "PC0000097",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x5aBe0a2ead1357F70E73F5b60E227dF64A54ddD5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9a7980f50a7a14c735ccf921c20d64c1"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
       "name": "Wrapped ETH",
       "symbol": "WETH",
@@ -473,6 +593,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "ce1e128e03d8ad9ac881f5e11e5aa3d0"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x5C8c39E167C604B036afd3FBB65426f9fe78Ce6d",
+      "name": "Tradable Singapore Fintech SSL",
+      "symbol": "PC0000023",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x5C8c39E167C604B036afd3FBB65426f9fe78Ce6d.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e4892f59071e4032334f2f7b990949a0"
       }
     },
     {
@@ -585,6 +717,18 @@
     },
     {
       "chainId": 324,
+      "address": "0x6FF4fAfD8D604614c704a5936D9146C0af19BD1E",
+      "name": "Tradable APAC Diversified Finance Provi",
+      "symbol": "PC0000033",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x6FF4fAfD8D604614c704a5936D9146C0af19BD1E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "965058fd68cdc2dfcdf1ee724cfabe0e"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0x703b52F2b28fEbcB60E1372858AF5b18849FE867",
       "name": "Wrapped stETH",
       "symbol": "WSTETH",
@@ -605,6 +749,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "4671897fccb0b3d651f8647c46c88463"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x74eD17608cc2B5f30a59d6aF07C9aD1B1aB3A5b1",
+      "name": "Solv Protocol SolvBTC",
+      "symbol": "SOLVBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x74eD17608cc2B5f30a59d6aF07C9aD1B1aB3A5b1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c0c58866fbe4abdaec43e68b8ec54d8f"
       }
     },
     {
@@ -737,6 +893,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "eaffd7530e008f6736e66d70422ec8a8"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0x83547Ba6B1992F70aE7203dE4E95bB74B37cA3Ec",
+      "name": "NA Fintech Nonprime Lender SSTN",
+      "symbol": "PC0000037",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0x83547Ba6B1992F70aE7203dE4E95bB74B37cA3Ec.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c1cc8a37a683d49cb56af5b6338dd0c0"
       }
     },
     {
@@ -909,6 +1077,18 @@
     },
     {
       "chainId": 324,
+      "address": "0xA4b3dC5433EcAbDd1498cA7f3f4d890b185C0B0A",
+      "name": "Tradable NA Legal Receivables SSL",
+      "symbol": "PC0000081",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xA4b3dC5433EcAbDd1498cA7f3f4d890b185C0B0A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b27724aea786831ab32d0e777f81557a"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0xA4E4d9984366e74713737Cb5d646bbA0B7E070A4",
       "name": "Waifu by Velocore",
       "symbol": "WAIFU",
@@ -953,6 +1133,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "b1b469503f1b60067cedf2bfa45bb7c8"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xAc4DE1E9A9e83524F24af77972Dd39D588De8164",
+      "name": "Tradable NA Rent Financing Platform SST",
+      "symbol": "PC0000031",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xAc4DE1E9A9e83524F24af77972Dd39D588De8164.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "76143c785f1ea4a2eabb7572bdd3bbe6"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xAE0d8cad4cE522538AE34386c319C7ccD11FE428",
+      "name": "Tradable NA Neobank SSTL",
+      "symbol": "PC0000023",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xAE0d8cad4cE522538AE34386c319C7ccD11FE428.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8609a5cc72b2d792233fee3d467c8414"
       }
     },
     {
@@ -1013,6 +1217,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "7a04167bc0e8f72aa33e016a4f5ecd36"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xB6a09d426861c63722Aa0b333a9cE5d5a9B04c4f",
+      "name": "Staked USN",
+      "symbol": "SUSN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xB6a09d426861c63722Aa0b333a9cE5d5a9B04c4f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "741cf597caf4c0cc0090ff1f13e899b3"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xb72207E1FB50f341415999732A20B6D25d8127aa",
+      "name": "ZKsync Staked ETH",
+      "symbol": "ZKETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xb72207E1FB50f341415999732A20B6D25d8127aa.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "28b9f33ba767f52f09b2f0bcb67ded07"
       }
     },
     {
@@ -1121,6 +1349,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "4aaf4e3b489c8766895f83e64c5c18d1"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xC629D9E3d1A4325DBfAff85D5a61Da956cc5e32b",
+      "name": "Tradable LatAm BNPL SSTN",
+      "symbol": "PC0000027",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xC629D9E3d1A4325DBfAff85D5a61Da956cc5e32b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2ac9e6834e762ffb2e329019874c0f5d"
       }
     },
     {
@@ -1281,6 +1521,18 @@
     },
     {
       "chainId": 324,
+      "address": "0xd8916e15D351DC728414e99A4883c72010eE11f8",
+      "name": "Tradable NA Third Party Online Merchant",
+      "symbol": "PC0000015",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xd8916e15D351DC728414e99A4883c72010eE11f8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "feca0f3d8183f54ef2237632737f9e04"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0xDa562340A395ba2F5D72a5EE1B1b60c578768578",
       "name": "GORILLA ARMY",
       "symbol": "GORILLA",
@@ -1337,6 +1589,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "cbc49fd665e929cdd8278240d23f862a"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xe061Aa40Be525A13296CB4Bf69f513242349D708",
+      "name": "XVGZKE",
+      "symbol": "XVGZKE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xe061Aa40Be525A13296CB4Bf69f513242349D708.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "036faeb8006c71920d5ccc5abda5aca7"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xe3D53AdDadb3F87ADC38B4192171aAf5A07A3738",
+      "name": "NA Capital as a Service SSTN",
+      "symbol": "PC0016245",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xe3D53AdDadb3F87ADC38B4192171aAf5A07A3738.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "820cc72be74f6d9137a41b37575e1289"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xe53dBcEf6F700536a912c51CAEa4D0E2bE2b1388",
+      "name": "Tradable Eu LatAm PoS Financing SSTL",
+      "symbol": "PC0000049",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xe53dBcEf6F700536a912c51CAEa4D0E2bE2b1388.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "93d37330fd39634203cebc623e8a6986"
       }
     },
     {
@@ -1449,6 +1737,18 @@
     },
     {
       "chainId": 324,
+      "address": "0xfB3fCCdD38A96C3f769c62E578323f22c3BFCbEc",
+      "name": "LatAm Residential SSTL",
+      "symbol": "PC0000089",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xfB3fCCdD38A96C3f769c62E578323f22c3BFCbEc.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c820f75b7ef20b00aed848ca0374e36f"
+      }
+    },
+    {
+      "chainId": 324,
       "address": "0xfB4c64c144c2bD0E7F2A06da7d6aAc32d8cb2514",
       "name": "Archly Finance",
       "symbol": "ARC",
@@ -1469,6 +1769,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "ccfec38ba9b83af7b1ca94f38454d6b5"
+      }
+    },
+    {
+      "chainId": 324,
+      "address": "0xfeAfDE23fb2364896C297c3Fa6628f04601a035b",
+      "name": "Tradable LatAm Middle Market Lender SST",
+      "symbol": "PC0000085",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/324/0xfeAfDE23fb2364896C297c3Fa6628f04601a035b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8fc51bf54d705861f1b867ab2a4cc1f3"
       }
     }
   ]

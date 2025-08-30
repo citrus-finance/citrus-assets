@@ -7,6 +7,7 @@
       "symbol": "ETH",
       "decimals": 18
     },
+    "blockTime": 12000,
     "rpcUrls": {
       "default": {
         "http": [
@@ -22,12 +23,9 @@
       }
     },
     "contracts": {
-      "ensRegistry": {
-        "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
-      },
       "ensUniversalResolver": {
-        "address": "0xce01f8eee7E479C928F8919abD53E553a36CeF67",
-        "blockCreated": 19258213
+        "address": "0xeeeeeeee14d718c2b47d9923deab1335e144eeee",
+        "blockCreated": 23085558
       },
       "multicall3": {
         "address": "0xca11bde05977b3631167028862be2a173976ca11",
@@ -53,6 +51,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -154,65 +153,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/flare.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/14.webp",
       "wrapped": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
       "defiLLamaChain": "flare"
-    }
-  },
-  {
-    "id": 16,
-    "name": "Songbird Testnet Coston",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Coston Flare",
-      "symbol": "CFLR"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://coston-api.flare.network/ext/C/rpc"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Coston Explorer",
-        "url": "https://coston-explorer.flare.network",
-        "apiUrl": "https://coston-explorer.flare.network/api"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston.webp",
-      "wrapped": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91"
-    }
-  },
-  {
-    "id": 19,
-    "name": "Songbird Canary-Network",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Songbird",
-      "symbol": "SGB"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://songbird-api.flare.network/ext/C/rpc"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Songbird Explorer",
-        "url": "https://songbird-explorer.flare.network",
-        "apiUrl": "https://songbird-explorer.flare.network/api"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/songbird.webp",
-      "wrapped": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
-      "defiLLamaChain": "songbird"
     }
   },
   {
@@ -244,7 +187,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/25.webp",
       "wrapped": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
       "defiLLamaChain": "cronos"
     }
@@ -271,70 +214,16 @@
         "url": "https://explorer.testnet.rootstock.io"
       }
     },
+    "contracts": {
+      "multicall3": {
+        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
+        "blockCreated": 2771150
+      }
+    },
     "testnet": true,
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rootstock.webp",
       "wrapped": "0xA274d994F698Dd09256674960d86aBa22C086669"
-    }
-  },
-  {
-    "id": 40,
-    "name": "Telos",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Telos",
-      "symbol": "TLOS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://mainnet.telos.net/evm"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Teloscan",
-        "url": "https://www.teloscan.io/"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 246530709
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-      "defiLLamaChain": "telos"
-    }
-  },
-  {
-    "id": 41,
-    "name": "Telos",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Telos",
-      "symbol": "TLOS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://testnet.telos.net/evm"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Teloscan (testnet)",
-        "url": "https://testnet.teloscan.io/"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E"
     }
   },
   {
@@ -410,41 +299,9 @@
     }
   },
   {
-    "id": 50,
-    "name": "XinFin Network",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "XDC",
-      "symbol": "XDC"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.xdcrpc.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "XDCScan",
-        "url": "https://xdcscan.com"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0x0B1795ccA8E4eC4df02346a082df54D437F8D9aF",
-        "blockCreated": 75884020
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xdc.webp",
-      "wrapped": "0x951857744785E80e2De051c32EE7b25f9c458C42",
-      "defiLLamaChain": "xdc"
-    }
-  },
-  {
     "id": 56,
     "name": "BNB Smart Chain",
+    "blockTime": 750,
     "nativeCurrency": {
       "decimals": 18,
       "name": "BNB",
@@ -453,7 +310,7 @@
     "rpcUrls": {
       "default": {
         "http": [
-          "https://rpc.ankr.com/bsc"
+          "https://56.rpc.thirdweb.com"
         ]
       }
     },
@@ -474,43 +331,6 @@
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg",
       "wrapped": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "defiLLamaChain": "bsc"
-    }
-  },
-  {
-    "id": 57,
-    "name": "Syscoin Mainnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Syscoin",
-      "symbol": "SYS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.syscoin.org"
-        ],
-        "webSocket": [
-          "wss://rpc.syscoin.org/wss"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "SyscoinExplorer",
-        "url": "https://explorer.syscoin.org",
-        "apiUrl": "https://explorer.syscoin.org/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 287139
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
-      "defiLLamaChain": "syscoin"
     }
   },
   {
@@ -535,7 +355,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereumclassic.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/61.webp",
       "wrapped": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
       "defiLLamaChain": "ethereumclassic"
     }
@@ -563,7 +383,7 @@
     "blockExplorers": {
       "default": {
         "name": "ConfluxScan",
-        "url": "https://evmtestnet.confluxscan.io"
+        "url": "https://evmtestnet.confluxscan.org"
       }
     },
     "contracts": {
@@ -578,36 +398,8 @@
     }
   },
   {
-    "id": 88,
-    "name": "Viction",
-    "nativeCurrency": {
-      "name": "Viction",
-      "symbol": "VIC",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.viction.xyz"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "VIC Scan",
-        "url": "https://vicscan.xyz"
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
-      "defiLLamaChain": "tomochain"
-    }
-  },
-  {
     "id": 97,
-    "name": "Binance Smart Chain Testnet",
+    "name": "BNB Smart Chain Testnet",
     "nativeCurrency": {
       "decimals": 18,
       "name": "BNB",
@@ -677,40 +469,6 @@
     }
   },
   {
-    "id": 109,
-    "name": "Shibarium",
-    "network": "shibarium",
-    "nativeCurrency": {
-      "name": "Bone",
-      "symbol": "BONE",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.shibrpc.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://shibariumscan.io"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0x864Bf681ADD6052395188A89101A1B37d3B4C961",
-        "blockCreated": 265900
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shibarium.webp",
-      "wrapped": "0xC76F4c819D820369Fb2d7C1531aB3Bb18e6fE8d8",
-      "defiLLamaChain": "shibarium"
-    }
-  },
-  {
     "id": 114,
     "name": "Flare Testnet Coston2",
     "nativeCurrency": {
@@ -767,9 +525,8 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fuse.webp",
-      "wrapped": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
-      "defiLLamaChain": "fuse"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/122.webp",
+      "wrapped": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629"
     }
   },
   {
@@ -797,32 +554,6 @@
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B"
-    }
-  },
-  {
-    "id": 133,
-    "name": "HashKey Chain Testnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "HashKey EcoPoints",
-      "symbol": "HSK"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://hashkeychain-testnet.alt.technology"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "HashKey Chain Explorer",
-        "url": "https://hashkeychain-testnet-explorer.alt.technology"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x4937121cE9d6BBE48c2479FEead9EA27B3732331"
     }
   },
   {
@@ -860,35 +591,6 @@
     }
   },
   {
-    "id": 148,
-    "name": "Shimmer",
-    "network": "shimmer",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Shimmer",
-      "symbol": "SMR"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://json-rpc.evm.shimmer.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Shimmer Network Explorer",
-        "url": "https://explorer.evm.shimmer.network",
-        "apiUrl": "https://explorer.evm.shimmer.network/api"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shimmerevm.webp",
-      "wrapped": "0x1074010000000000000000000000000000000000",
-      "defiLLamaChain": "shimmer_evm"
-    }
-  },
-  {
     "id": 169,
     "name": "Manta Pacific Mainnet",
     "network": "manta",
@@ -918,7 +620,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/169.webp",
       "wrapped": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746"
     }
   },
@@ -945,75 +647,8 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mint.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/185.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
-    "id": 195,
-    "name": "X1 Testnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "OKB",
-      "symbol": "OKB"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://xlayertestrpc.okx.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "OKLink",
-        "url": "https://www.oklink.com/xlayer-test"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 624344
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayerTestnet.webp",
-      "wrapped": "0xa2aFfd8301BfB3c5b815829f2F509f053556D21B"
-    }
-  },
-  {
-    "id": 196,
-    "name": "X Layer Mainnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "OKB",
-      "symbol": "OKB"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.xlayer.tech"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "OKLink",
-        "url": "https://www.oklink.com/xlayer",
-        "apiUrl": "https://www.oklink.com/api/v5/explorer/xlayer/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 47416
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayer.webp",
-      "wrapped": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
-      "defiLLamaChain": "xlayer"
     }
   },
   {
@@ -1079,7 +714,7 @@
     },
     "sourceId": 56,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bnbchain.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/204.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "op_bnb"
     }
@@ -1095,7 +730,7 @@
     "rpcUrls": {
       "default": {
         "http": [
-          "https://rpc.ankr.com/fantom"
+          "https://250.rpc.thirdweb.com"
         ]
       }
     },
@@ -1113,7 +748,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/250.webp",
       "wrapped": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "defiLLamaChain": "fantom"
     }
@@ -1131,6 +766,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -1174,8 +810,8 @@
     "id": 252,
     "name": "Fraxtal",
     "nativeCurrency": {
-      "name": "Frax Ether",
-      "symbol": "frxETH",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18
     },
     "rpcUrls": {
@@ -1194,37 +830,8 @@
     },
     "sourceId": 1,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
-      "wrapped": "0xFC00000000000000000000000000000000000006",
-      "defiLLamaChain": "fraxtal"
-    }
-  },
-  {
-    "id": 255,
-    "name": "Kroma",
-    "nativeCurrency": {
-      "name": "ETH",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://api.kroma.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Kroma Explorer",
-        "url": "https://blockscout.kroma.network",
-        "apiUrl": "https://blockscout.kroma.network/api"
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
-      "wrapped": "0x4200000000000000000000000000000000000001"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/252.webp",
+      "wrapped": "0xFC00000000000000000000000000000000000006"
     }
   },
   {
@@ -1255,7 +862,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/288.webp",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "defiLLamaChain": "boba"
     }
@@ -1315,7 +922,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/filecoin.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/314.webp",
       "wrapped": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A"
     }
   },
@@ -1336,8 +943,8 @@
     },
     "blockExplorers": {
       "default": {
-        "name": "Cronos Explorer",
-        "url": "https://cronos.org/explorer/testnet3"
+        "name": "Cronos Explorer (Testnet)",
+        "url": "https://explorer.cronos.org/testnet"
       }
     },
     "contracts": {
@@ -1350,88 +957,6 @@
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0x0728B93B969f84A248Df7e499358A6733834FD7b"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "l2OutputOracle": {
-        "1": {
-          "address": "0x6Ef8c69CfE4635d866e3E02732068022c06e724D",
-          "blockCreated": 20369940
-        }
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 1
-      },
-      "portal": {
-        "1": {
-          "address": "0xEB06fFa16011B5628BaB98E29776361c83741dd3",
-          "blockCreated": 20369933
-        }
-      },
-      "l1StandardBridge": {
-        "1": {
-          "address": "0x62Edd5f4930Ea92dCa3fB81689bDD9b9d076b57B",
-          "blockCreated": 20369935
-        }
-      }
-    },
-    "id": 360,
-    "name": "Shape",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://mainnet.shape.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "shapescan",
-        "url": "https://shapescan.xyz",
-        "apiUrl": "https://shapescan.xyz/api"
-      }
-    },
-    "sourceId": 1,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shape.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -1456,7 +981,7 @@
     "blockExplorers": {
       "default": {
         "name": "PulseScan",
-        "url": "https://scan.pulsechain.com",
+        "url": "https://ipfs.scan.pulsechain.com",
         "apiUrl": "https://api.scan.pulsechain.com/api"
       }
     },
@@ -1470,100 +995,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/369.webp",
       "wrapped": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "defiLLamaChain": "pulse"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 0
-      },
-      "disputeGameFactory": {
-        "1": {
-          "address": "0x0E90dCAFBC242D2C861A20Bb20EC8E7182965a52"
-        }
-      },
-      "l2OutputOracle": {
-        "1": {
-          "address": "0x19A6d1E9034596196295CF148509796978343c5D"
-        }
-      },
-      "portal": {
-        "1": {
-          "address": "0xd5ec14a83B7d95BE1E2Ac12523e2dEE12Cbeea6C"
-        }
-      },
-      "l1StandardBridge": {
-        "1": {
-          "address": "0x470458C91978D2d929704489Ad730DC3E3001113"
-        }
-      }
-    },
-    "id": 480,
-    "name": "World Chain",
-    "network": "worldchain",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://worldchain-mainnet.g.alchemy.com/public"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Worldscan",
-        "url": "https://worldscan.org",
-        "apiUrl": "https://api.worldscan.org/api"
-      },
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://worldchain-mainnet.explorer.alchemy.com",
-        "apiUrl": "https://worldchain-mainnet.explorer.alchemy.com/api"
-      }
-    },
-    "testnet": false,
-    "sourceId": 1,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -1598,7 +1032,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/570.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "rollux"
     }
@@ -1649,6 +1083,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -1715,44 +1150,8 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/redstone.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/690.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
-    "id": 701,
-    "name": "Koi Network",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Koi Network Native Token",
-      "symbol": "KRING"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://koi-rpc.darwinia.network"
-        ],
-        "webSocket": [
-          "wss://koi-rpc.darwinia.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://koi-scan.darwinia.network"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 180001
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xec8406f4e6B1b853E50c53872648b7BD5e4a7b8a"
     }
   },
   {
@@ -1768,6 +1167,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -1966,7 +1366,7 @@
     "blockExplorers": {
       "default": {
         "name": "ConfluxScan",
-        "url": "https://evm.confluxscan.io"
+        "url": "https://evm.confluxscan.org"
       }
     },
     "contracts": {
@@ -1976,43 +1376,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/conflux.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1030.webp",
       "wrapped": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
       "defiLLamaChain": "conflux"
-    }
-  },
-  {
-    "id": 1088,
-    "name": "Metis",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Metis",
-      "symbol": "METIS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://andromeda.metis.io/?owner=1088"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Metis Explorer",
-        "url": "https://explorer.metis.io",
-        "apiUrl": "https://api.routescan.io/v2/network/mainnet/evm/1088/etherscan/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 2338552
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "defiLLamaChain": "metis"
     }
   },
   {
@@ -2044,66 +1410,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zkevm.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1101.webp",
       "wrapped": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
       "defiLLamaChain": "polygon_zkevm"
-    }
-  },
-  {
-    "id": 1111,
-    "name": "WEMIX",
-    "network": "wemix-mainnet",
-    "nativeCurrency": {
-      "name": "WEMIX",
-      "symbol": "WEMIX",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://api.wemix.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "wemixExplorer",
-        "url": "https://explorer.wemix.com"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
-      "defiLLamaChain": "wemix"
-    }
-  },
-  {
-    "id": 1112,
-    "name": "WEMIX Testnet",
-    "network": "wemix-testnet",
-    "nativeCurrency": {
-      "name": "WEMIX",
-      "symbol": "tWEMIX",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://api.test.wemix.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "wemixExplorer",
-        "url": "https://testnet.wemixscan.com",
-        "apiUrl": "https://testnet.wemixscan.com/api"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1"
     }
   },
   {
@@ -2119,6 +1428,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -2181,84 +1491,8 @@
     },
     "sourceId": 1,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1135.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
-    "id": 1284,
-    "name": "Moonbeam",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "GLMR",
-      "symbol": "GLMR"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://moonbeam.public.blastapi.io"
-        ],
-        "webSocket": [
-          "wss://moonbeam.public.blastapi.io"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Moonscan",
-        "url": "https://moonscan.io",
-        "apiUrl": "https://api-moonbeam.moonscan.io/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 609002
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonbeam.svg",
-      "wrapped": "0xAcc15dC74880C9944775448304B263D191c6077F",
-      "defiLLamaChain": "moonbeam"
-    }
-  },
-  {
-    "id": 1285,
-    "name": "Moonriver",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "MOVR",
-      "symbol": "MOVR"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://moonriver.public.blastapi.io"
-        ],
-        "webSocket": [
-          "wss://moonriver.public.blastapi.io"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Moonscan",
-        "url": "https://moonriver.moonscan.io",
-        "apiUrl": "https://api-moonriver.moonscan.io/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 1597904
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/moonriver.svg",
-      "wrapped": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
-      "defiLLamaChain": "moonriver"
     }
   },
   {
@@ -2299,71 +1533,6 @@
     }
   },
   {
-    "id": 1329,
-    "name": "Sei Network",
-    "nativeCurrency": {
-      "name": "Sei",
-      "symbol": "SEI",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://evm-rpc.sei-apis.com/"
-        ],
-        "webSocket": [
-          "wss://evm-ws.sei-apis.com/"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Seitrace",
-        "url": "https://seitrace.com",
-        "apiUrl": "https://seitrace.com/pacific-1/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/seiv2.webp",
-      "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
-      "defiLLamaChain": "sei"
-    }
-  },
-  {
-    "id": 1559,
-    "name": "Tenet",
-    "network": "tenet-mainnet",
-    "nativeCurrency": {
-      "name": "TENET",
-      "symbol": "TENET",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.tenet.org"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "TenetScan Mainnet",
-        "url": "https://tenetscan.io",
-        "apiUrl": "https://tenetscan.io/api"
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/tenet.svg",
-      "wrapped": "0xd6cb8a253e12893b0cF39Ca78F7d858652cCa1fe"
-    }
-  },
-  {
     "id": 1625,
     "name": "Gravity Alpha Mainnet",
     "nativeCurrency": {
@@ -2392,7 +1561,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/gravity.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1625.webp",
       "wrapped": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD"
     }
   },
@@ -2409,6 +1578,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -2500,97 +1670,16 @@
         "url": "https://pegasus.lightlink.io"
       }
     },
+    "contracts": {
+      "multicall3": {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11",
+        "blockCreated": 127188532
+      }
+    },
     "testnet": true,
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lightlink.webp",
       "wrapped": "0xF42991f02C07AB66cFEa282E7E482382aEB85461"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "disputeGameFactory": {
-        "11155111": {
-          "address": "0xB3Ad2c38E6e0640d7ce6aA952AB3A60E81bf7a01"
-        }
-      },
-      "l2OutputOracle": {
-        "11155111": {
-          "address": "0x710e5286C746eC38beeB7538d0146f60D27be343"
-        }
-      },
-      "portal": {
-        "11155111": {
-          "address": "0x65ea1489741A5D72fFdD8e6485B216bBdcC15Af3",
-          "blockCreated": 6466136
-        }
-      },
-      "l1StandardBridge": {
-        "11155111": {
-          "address": "0x5f5a404A5edabcDD80DB05E8e54A78c9EBF000C2",
-          "blockCreated": 6466136
-        }
-      },
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 1
-      }
-    },
-    "id": 1946,
-    "name": "Soneium Minato Testnet",
-    "nativeCurrency": {
-      "name": "Sepolia Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.minato.soneium.org"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://soneium-minato.blockscout.com",
-        "apiUrl": "https://soneium-minato.blockscout.com/api"
-      }
-    },
-    "testnet": true,
-    "sourceId": 11155111,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/minato.svg",
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -2612,6 +1701,12 @@
       "default": {
         "name": "Blockscout",
         "url": "https://sepolia.explorer.b3.fun"
+      }
+    },
+    "contracts": {
+      "multicall3": {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11",
+        "blockCreated": 0
       }
     },
     "testnet": true,
@@ -2650,7 +1745,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dogechain.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/2000.webp",
       "wrapped": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
       "defiLLamaChain": "dogechain"
     }
@@ -2721,9 +1816,8 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
-      "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-      "defiLLamaChain": "kava"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/2222.webp",
+      "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b"
     }
   },
   {
@@ -2739,142 +1833,7 @@
       }
     },
     "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "l2OutputOracle": {
-        "11155111": {
-          "address": "0xDb5c46C3Eaa6Ed6aE8b2379785DF7dd029C0dC81"
-        }
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 55697
-      },
-      "portal": {
-        "11155111": {
-          "address": "0xcBD77E8E1E7F06B25baDe67142cdE82652Da7b57",
-          "blockCreated": 5345035
-        }
-      },
-      "l1StandardBridge": {
-        "11155111": {
-          "address": "0xdDD29bb63B0839FB1cE0eE439Ff027738595D07B"
-        }
-      }
-    },
-    "id": 2331,
-    "name": "RSS3 VSL Sepolia Testnet",
-    "nativeCurrency": {
-      "name": "RSS3",
-      "symbol": "RSS3",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.testnet.rss3.io"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "RSS3 VSL Sepolia Testnet Scan",
-        "url": "https://scan.testnet.rss3.io",
-        "apiUrl": "https://scan.testnet.rss3.io/api"
-      }
-    },
-    "testnet": true,
-    "sourceId": 11155111,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3-testnet.svg",
-      "wrapped": "0xAd1a18d7e792DF42Af26ba85438Fc751Cdfa9578"
-    }
-  },
-  {
-    "id": 2355,
-    "name": "Silicon zkEVM",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.silicon.network",
-          "https://silicon-mainnet.nodeinfra.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "SiliconScope",
-        "url": "https://scope.silicon.network"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xe66863B695A392507F5d68b6A7B8AA8218914059"
-    }
-  },
-  {
-    "id": 2358,
-    "name": "Kroma Sepolia",
-    "nativeCurrency": {
-      "name": "Sepolia Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://api.sepolia.kroma.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Kroma Sepolia Explorer",
-        "url": "https://blockscout.sepolia.kroma.network",
-        "apiUrl": "https://blockscout.sepolia.kroma.network/api"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kroma.svg",
-      "wrapped": "0x4200000000000000000000000000000000000001"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -2918,8 +1877,8 @@
     "id": 2522,
     "name": "Fraxtal Testnet",
     "nativeCurrency": {
-      "name": "Frax Ether",
-      "symbol": "frxETH",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18
     },
     "rpcUrls": {
@@ -2996,7 +1955,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/merlin.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/4200.webp",
       "wrapped": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
       "defiLLamaChain": "merlin"
     }
@@ -3051,6 +2010,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -3149,104 +2109,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/4689.webp",
       "wrapped": "0xA00744882684C3e4747faEFD68D283eA44099D03",
       "defiLLamaChain": "iotex"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 0
-      },
-      "disputeGameFactory": {
-        "11155111": {
-          "address": "0x8cF97Ee616C986a070F5020d973b456D0120C253"
-        }
-      },
-      "l2OutputOracle": {
-        "11155111": {
-          "address": "0xc8886f8BAb6Eaeb215aDB5f1c686BF699248300e"
-        }
-      },
-      "portal": {
-        "11155111": {
-          "address": "0xFf6EBa109271fe6d4237EeeD4bAb1dD9A77dD1A4"
-        }
-      },
-      "l1StandardBridge": {
-        "11155111": {
-          "address": "0xd7DF54b3989855eb66497301a4aAEc33Dbb3F8DE"
-        }
-      }
-    },
-    "id": 4801,
-    "name": "World Chain Sepolia",
-    "network": "worldchain-sepolia",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://worldchain-sepolia.g.alchemy.com/public"
-        ]
-      },
-      "public": {
-        "http": [
-          "https://worldchain-sepolia.g.alchemy.com/public"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Worldscan Sepolia",
-        "url": "https://sepolia.worldscan.org"
-      },
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://worldchain-sepolia.explorer.alchemy.com",
-        "apiUrl": "https://worldchain-sepolia.explorer.alchemy.com/api"
-      }
-    },
-    "testnet": true,
-    "sourceId": 11155111,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -3278,7 +2143,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mantle.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/5000.webp",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "defiLLamaChain": "mantle"
     }
@@ -3314,7 +2179,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bahamut.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/5165.webp",
       "wrapped": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB"
     }
   },
@@ -3386,41 +2251,6 @@
     }
   },
   {
-    "id": 5700,
-    "name": "Syscoin Tanenbaum Testnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Syscoin",
-      "symbol": "SYS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.tanenbaum.io"
-        ],
-        "webSocket": [
-          "wss://rpc.tanenbaum.io/wss"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "SyscoinTestnetExplorer",
-        "url": "https://tanenbaum.io"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 271288
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xa66b2E50c2b805F31712beA422D0D9e7D0Fd0F35"
-    }
-  },
-  {
     "id": 6001,
     "name": "BounceBit Mainnet",
     "nativeCurrency": {
@@ -3443,7 +2273,7 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bouncebit.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/6001.webp",
       "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
       "defiLLamaChain": "bouncebit"
     }
@@ -3504,7 +2334,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/cyber.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/7560.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -3521,6 +2351,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -3596,6 +2427,95 @@
     }
   },
   {
+    "formatters": {
+      "block": {
+        "type": "block"
+      },
+      "transaction": {
+        "type": "transaction"
+      },
+      "transactionReceipt": {
+        "type": "transactionReceipt"
+      }
+    },
+    "serializers": {},
+    "blockTime": 2000,
+    "contracts": {
+      "gasPriceOracle": {
+        "address": "0x420000000000000000000000000000000000000F"
+      },
+      "l1Block": {
+        "address": "0x4200000000000000000000000000000000000015"
+      },
+      "l2CrossDomainMessenger": {
+        "address": "0x4200000000000000000000000000000000000007"
+      },
+      "l2Erc721Bridge": {
+        "address": "0x4200000000000000000000000000000000000014"
+      },
+      "l2StandardBridge": {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      "l2ToL1MessagePasser": {
+        "address": "0x4200000000000000000000000000000000000016"
+      },
+      "disputeGameFactory": {
+        "1": {
+          "address": "0x43edB88C4B80fDD2AdFF2412A7BebF9dF42cB40e"
+        }
+      },
+      "l2OutputOracle": {
+        "1": {
+          "address": "0x56315b90c40730925ec5485cf004d835058518A0"
+        }
+      },
+      "multicall3": {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11",
+        "blockCreated": 5022
+      },
+      "portal": {
+        "1": {
+          "address": "0x49048044D57e1C92A77f79988d21Fa8fAF74E97e",
+          "blockCreated": 17482143
+        }
+      },
+      "l1StandardBridge": {
+        "1": {
+          "address": "0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
+          "blockCreated": 17482143
+        }
+      }
+    },
+    "id": 8453,
+    "name": "Base",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpcUrls": {
+      "default": {
+        "http": [
+          "https://mainnet-preconf.base.org"
+        ]
+      }
+    },
+    "blockExplorers": {
+      "default": {
+        "name": "Basescan",
+        "url": "https://basescan.org",
+        "apiUrl": "https://api.basescan.org/api"
+      }
+    },
+    "sourceId": 1,
+    "experimental_preconfirmationTime": 200,
+    "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/base.webp",
+      "wrapped": "0x4200000000000000000000000000000000000006",
+      "defiLLamaChain": "base"
+    }
+  },
+  {
     "id": 8822,
     "name": "IOTA EVM",
     "network": "iotaevm",
@@ -3628,13 +2548,13 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/iotaevm.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/8822.webp",
       "wrapped": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c"
     }
   },
   {
     "id": 8899,
-    "name": "JIBCHAIN L1",
+    "name": "JB Chain",
     "network": "jbc",
     "nativeCurrency": {
       "name": "JBC",
@@ -3663,73 +2583,8 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/jbc.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/8899.webp",
       "wrapped": "0x99999999990FC47611b74827486218f3398A4abD"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 1
-      }
-    },
-    "id": 11011,
-    "name": "Shape Sepolia Testnet",
-    "nativeCurrency": {
-      "name": "Sepolia Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://sepolia.shape.network"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "blockscout",
-        "url": "https://explorer-sepolia.shape.network/",
-        "apiUrl": "https://explorer-sepolia.shape.network/api/v2"
-      }
-    },
-    "testnet": true,
-    "sourceId": 11155111,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shapeTestnet.webp",
-      "wrapped": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4"
     }
   },
   {
@@ -3755,7 +2610,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/11235.webp",
       "wrapped": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54"
     }
   },
@@ -3782,89 +2637,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/bevm.webp",
-      "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "l2OutputOracle": {
-        "1": {
-          "address": "0xE6f24d2C32B3109B18ed33cF08eFb490b1e09C10"
-        }
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 14193
-      },
-      "portal": {
-        "1": {
-          "address": "0x6A12432491bbbE8d3babf75F759766774C778Db4",
-          "blockCreated": 19387057
-        }
-      },
-      "l1StandardBridge": {
-        "1": {
-          "address": "0x4cbab69108Aa72151EDa5A3c164eA86845f18438"
-        }
-      }
-    },
-    "id": 12553,
-    "name": "RSS3 VSL Mainnet",
-    "nativeCurrency": {
-      "name": "RSS3",
-      "symbol": "RSS3",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.rss3.io"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "RSS3 VSL Mainnet Scan",
-        "url": "https://scan.rss3.io",
-        "apiUrl": "https://scan.rss3.io/api"
-      }
-    },
-    "sourceId": 1,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rss3.svg",
-      "wrapped": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
-      "defiLLamaChain": "rss3_vsl"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/11501.webp",
+      "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
+      "defiLLamaChain": "bevm"
     }
   },
   {
@@ -3896,7 +2671,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/immutable.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/13371.webp",
       "wrapped": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D"
     }
   },
@@ -3960,13 +2735,9 @@
         "address": "0xca11bde05977b3631167028862be2a173976ca11",
         "blockCreated": 77
       },
-      "ensRegistry": {
-        "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
-        "blockCreated": 801613
-      },
       "ensUniversalResolver": {
-        "address": "0xa6AC935D4971E3CD133b950aE053bECD16fE7f3b",
-        "blockCreated": 973484
+        "address": "0xeeeeeeee14d718c2b47d9923deab1335e144eeee",
+        "blockCreated": 4295055
       }
     },
     "testnet": true,
@@ -3988,6 +2759,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -4060,107 +2832,6 @@
     }
   },
   {
-    "id": 18233,
-    "name": "Unreal",
-    "nativeCurrency": {
-      "name": "reETH",
-      "decimals": 18,
-      "symbol": "reETH"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.unreal-orbit.gelato.digital"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Unreal Explorer",
-        "url": "https://unreal.blockscout.com",
-        "apiUrl": "https://unreal.blockscout.com/api/v2"
-      }
-    },
-    "testnet": true,
-    "contracts": {
-      "multicall3": {
-        "address": "0x8b6B0e60D8CD84898Ea8b981065A12F876eA5677",
-        "blockCreated": 1745
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/unreal.webp",
-      "wrapped": "0x0C68a3C11FB3550e50a4ed8403e873D367A8E361"
-    }
-  },
-  {
-    "id": 23294,
-    "name": "Oasis Sapphire",
-    "network": "sapphire",
-    "nativeCurrency": {
-      "name": "Sapphire Rose",
-      "symbol": "ROSE",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://sapphire.oasis.io"
-        ],
-        "webSocket": [
-          "wss://sapphire.oasis.io/ws"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Oasis Explorer",
-        "url": "https://explorer.oasis.io/mainnet/sapphire"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 734531
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
-      "wrapped": "0x8Bc2B030b299964eEfb5e1e0b36991352E56D2D3"
-    }
-  },
-  {
-    "id": 23295,
-    "name": "Oasis Sapphire Testnet",
-    "network": "sapphire-testnet",
-    "nativeCurrency": {
-      "name": "Sapphire Test Rose",
-      "symbol": "TEST",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://testnet.sapphire.oasis.dev"
-        ],
-        "webSocket": [
-          "wss://testnet.sapphire.oasis.dev/ws"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Oasis Explorer",
-        "url": "https://explorer.oasis.io/testnet/sapphire"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
-      "wrapped": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94"
-    }
-  },
-  {
     "id": 28882,
     "name": "Boba Sepolia",
     "nativeCurrency": {
@@ -4185,35 +2856,6 @@
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
-    }
-  },
-  {
-    "id": 32769,
-    "name": "Zilliqa",
-    "network": "zilliqa",
-    "nativeCurrency": {
-      "name": "Zilliqa",
-      "symbol": "ZIL",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://api.zilliqa.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Ethernal",
-        "url": "https://evmx.zilliqa.com"
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zilliqa.webp",
-      "wrapped": "0x94e18aE7dd5eE57B55f30c4B63E2760c09EFb192",
-      "defiLLamaChain": "zilliqa"
     }
   },
   {
@@ -4256,6 +2898,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -4317,9 +2960,8 @@
     },
     "sourceId": 1,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/mode.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006",
-      "defiLLamaChain": "mode"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/34443.webp",
+      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -4345,7 +2987,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/35441.webp",
       "wrapped": "0xd07178e3eCbC78De110Df84fe1A979D5f349784a"
     }
   },
@@ -4391,6 +3033,7 @@
     },
     "fees": {},
     "serializers": {},
+    "blockTime": 1000,
     "contracts": {
       "multicall3": {
         "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
@@ -4420,14 +3063,14 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x471EcE3750Da237f93B8E339c536989b8978a438",
-      "defiLLamaChain": "celo"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/42220.webp",
+      "wrapped": "0x471EcE3750Da237f93B8E339c536989b8978a438"
     }
   },
   {
     "id": 42793,
     "name": "Etherlink",
+    "blockTime": 4830,
     "nativeCurrency": {
       "decimals": 18,
       "name": "Tez",
@@ -4453,8 +3096,9 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/etherlink.webp",
-      "wrapped": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/42793.webp",
+      "wrapped": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+      "defiLLamaChain": "etlk"
     }
   },
   {
@@ -4494,6 +3138,7 @@
   {
     "id": 43114,
     "name": "Avalanche",
+    "blockTime": 1700,
     "nativeCurrency": {
       "decimals": 18,
       "name": "Avalanche",
@@ -4520,9 +3165,8 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
-      "wrapped": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "defiLLamaChain": "avax"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/43114.webp",
+      "wrapped": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
     }
   },
   {
@@ -4539,6 +3183,7 @@
     },
     "fees": {},
     "serializers": {},
+    "blockTime": 1000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -4615,67 +3260,6 @@
     }
   },
   {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 6040287
-      },
-      "l2OutputOracle": {
-        "11155111": {
-          "address": "0x740C2dac453aEf7140809F80b72bf0e647af8148"
-        }
-      },
-      "portal": {
-        "11155111": {
-          "address": "0x787f1C8c5924178689E0560a43D848bF8E54b23e"
-        }
-      },
-      "l1StandardBridge": {
-        "11155111": {
-          "address": "0x0545c5fe980098C16fcD0eCB5E79753afa6d9af9"
-        }
-      }
-    },
-    "id": 48899,
-    "name": "Zircuit Testnet",
-    "nativeCurrency": {
-      "name": "ETH",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://zircuit1-testnet.p2pify.com",
-          "https://zircuit1-testnet.liquify.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Zircuit Testnet Explorer",
-        "url": "https://explorer.testnet.zircuit.com"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zircuit.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
     "id": 53457,
     "name": "DODOchain Testnet",
     "nativeCurrency": {
@@ -4703,42 +3287,6 @@
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/dodochain_testnet.webp",
       "wrapped": "0x3a64Ec3606FF7310E8fAd6FcC008e39705fB496d"
-    }
-  },
-  {
-    "id": 57000,
-    "name": "Rollux Testnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Syscoin",
-      "symbol": "SYS"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc-tanenbaum.rollux.com/"
-        ],
-        "webSocket": [
-          "wss://rpc-tanenbaum.rollux.com/wss"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "RolluxTestnetExplorer",
-        "url": "https://rollux.tanenbaum.io",
-        "apiUrl": "https://rollux.tanenbaum.io/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 1813675
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xcAc0759160d57A33D332Ed36a555C10957694407"
     }
   },
   {
@@ -4771,8 +3319,19 @@
       "multicall3": {
         "address": "0xca11bde05977b3631167028862be2a173976ca11",
         "blockCreated": 227427
+      },
+      "ensRegistry": {
+        "address": "0x5B2636F0f2137B4aE722C01dd5122D7d3e9541f7",
+        "blockCreated": 2395094
+      },
+      "ensUniversalResolver": {
+        "address": "0x4D41762915F83c76EcaF6776d9b08076aA32b492",
+        "blockCreated": 17168484
       }
     },
+    "ensTlds": [
+      ".linea.eth"
+    ],
     "testnet": true,
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
@@ -4809,13 +3368,23 @@
       "multicall3": {
         "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
         "blockCreated": 42
+      },
+      "ensRegistry": {
+        "address": "0x50130b669B28C339991d8676FA73CF122a121267",
+        "blockCreated": 6682888
+      },
+      "ensUniversalResolver": {
+        "address": "0x4D41762915F83c76EcaF6776d9b08076aA32b492",
+        "blockCreated": 22222151
       }
     },
+    "ensTlds": [
+      ".linea.eth"
+    ],
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/linea.svg",
-      "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
-      "defiLLamaChain": "linea"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/59144.webp",
+      "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
     }
   },
   {
@@ -4831,6 +3400,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -4985,65 +3555,61 @@
     }
   },
   {
-    "id": 80084,
-    "name": "Berachain bArtio",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "BERA Token",
-      "symbol": "BERA"
+    "formatters": {
+      "block": {
+        "type": "block"
+      },
+      "transaction": {
+        "type": "transaction"
+      },
+      "transactionReceipt": {
+        "type": "transactionReceipt"
+      }
     },
+    "serializers": {},
+    "blockTime": 2000,
     "contracts": {
+      "gasPriceOracle": {
+        "address": "0x420000000000000000000000000000000000000F"
+      },
+      "l1Block": {
+        "address": "0x4200000000000000000000000000000000000015"
+      },
+      "l2CrossDomainMessenger": {
+        "address": "0x4200000000000000000000000000000000000007"
+      },
+      "l2Erc721Bridge": {
+        "address": "0x4200000000000000000000000000000000000014"
+      },
+      "l2StandardBridge": {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      "l2ToL1MessagePasser": {
+        "address": "0x4200000000000000000000000000000000000016"
+      },
       "multicall3": {
         "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 109269
+        "blockCreated": 212929
+      },
+      "l2OutputOracle": {
+        "1": {
+          "address": "0x826D1B0D4111Ad9146Eb8941D7Ca2B6a44215c76",
+          "blockCreated": 19300358
+        }
+      },
+      "portal": {
+        "1": {
+          "address": "0x0Ec68c5B10F21EFFb74f2A5C61DFe6b08C0Db6Cb",
+          "blockCreated": 19300357
+        }
+      },
+      "l1StandardBridge": {
+        "1": {
+          "address": "0x697402166Fbf2F22E970df8a6486Ef171dbfc524",
+          "blockCreated": 19300360
+        }
       }
     },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://bartio.rpc.berachain.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Berachain bArtio Beratrail",
-        "url": "https://bartio.beratrail.io"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/berachain.webp",
-      "wrapped": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8"
-    }
-  },
-  {
-    "id": 80085,
-    "name": "Berachain Artio",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "BERA Token",
-      "symbol": "BERA"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://artio.rpc.berachain.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Berachain",
-        "url": "https://artio.beratrail.io"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "wrapped": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F"
-    }
-  },
-  {
     "id": 81457,
     "name": "Blast",
     "nativeCurrency": {
@@ -5065,15 +3631,9 @@
         "apiUrl": "https://api.blastscan.io/api"
       }
     },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 212929
-      }
-    },
     "sourceId": 1,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/blast.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/81457.webp",
       "wrapped": "0x4300000000000000000000000000000000000004",
       "defiLLamaChain": "blast"
     }
@@ -5091,6 +3651,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -5167,37 +3728,93 @@
     }
   },
   {
-    "id": 88882,
-    "name": "Chiliz Spicy Testnet",
-    "network": "chiliz-spicy-Testnet",
+    "formatters": {
+      "block": {
+        "type": "block"
+      },
+      "transaction": {
+        "type": "transaction"
+      },
+      "transactionReceipt": {
+        "type": "transactionReceipt"
+      }
+    },
+    "serializers": {},
+    "blockTime": 2000,
+    "contracts": {
+      "gasPriceOracle": {
+        "address": "0x420000000000000000000000000000000000000F"
+      },
+      "l1Block": {
+        "address": "0x4200000000000000000000000000000000000015"
+      },
+      "l2CrossDomainMessenger": {
+        "address": "0x4200000000000000000000000000000000000007"
+      },
+      "l2Erc721Bridge": {
+        "address": "0x4200000000000000000000000000000000000014"
+      },
+      "l2StandardBridge": {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      "l2ToL1MessagePasser": {
+        "address": "0x4200000000000000000000000000000000000016"
+      },
+      "disputeGameFactory": {
+        "11155111": {
+          "address": "0xd6E6dBf4F7EA0ac412fD8b65ED297e64BB7a06E1"
+        }
+      },
+      "l2OutputOracle": {
+        "11155111": {
+          "address": "0x84457ca9D0163FbC4bbfe4Dfbb20ba46e48DF254"
+        }
+      },
+      "portal": {
+        "11155111": {
+          "address": "0x49f53e41452c74589e85ca1677426ba426459e85",
+          "blockCreated": 4446677
+        }
+      },
+      "l1StandardBridge": {
+        "11155111": {
+          "address": "0xfd0Bf71F60660E2f608ed56e1659C450eB113120",
+          "blockCreated": 4446677
+        }
+      },
+      "multicall3": {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11",
+        "blockCreated": 1059647
+      }
+    },
+    "id": 84532,
+    "network": "base-sepolia",
+    "name": "Base Sepolia",
     "nativeCurrency": {
-      "decimals": 18,
-      "name": "CHZ",
-      "symbol": "CHZ"
+      "name": "Sepolia Ether",
+      "symbol": "ETH",
+      "decimals": 18
     },
     "rpcUrls": {
       "default": {
         "http": [
-          "https://spicy-rpc.chiliz.com",
-          "https://chiliz-spicy-rpc.publicnode.com"
-        ],
-        "webSocket": [
-          "wss://spicy-rpc-ws.chiliz.com",
-          "wss://chiliz-spicy-rpc.publicnode.com"
+          "https://sepolia-preconf.base.org"
         ]
       }
     },
     "blockExplorers": {
       "default": {
-        "name": "Chiliz Explorer",
-        "url": "http://spicy-explorer.chiliz.com",
-        "apiUrl": "http://spicy-explorer.chiliz.com/api"
+        "name": "Basescan",
+        "url": "https://sepolia.basescan.org",
+        "apiUrl": "https://api-sepolia.basescan.org/api"
       }
     },
     "testnet": true,
+    "sourceId": 11155111,
+    "experimental_preconfirmationTime": 200,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizspicy.webp",
-      "wrapped": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/baseTestnet.webp",
+      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -5212,8 +3829,7 @@
     "rpcUrls": {
       "default": {
         "http": [
-          "https://rpc.ankr.com/chiliz",
-          "https://chiliz-rpc.publicnode.com"
+          "https://rpc.chiliz.com"
         ]
       }
     },
@@ -5224,140 +3840,16 @@
         "apiUrl": "https://scan.chiliz.com/api"
       }
     },
+    "contracts": {
+      "multicall3": {
+        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
+        "blockCreated": 8080847
+      }
+    },
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizchain.webp",
       "wrapped": "0x677F7e16C7Dd57be1D4C8aD1244883214953DC47",
       "defiLLamaChain": "chz"
-    }
-  },
-  {
-    "id": 105105,
-    "name": "Stratis Mainnet",
-    "network": "stratis",
-    "nativeCurrency": {
-      "name": "Stratis",
-      "symbol": "STRAX",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.stratisevm.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Stratis Explorer",
-        "url": "https://explorer.stratisevm.com"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/stratis.svg",
-      "wrapped": "0xeA705D2DbD8DE7Dc70Db7B531D0F620d9CeE9d18"
-    }
-  },
-  {
-    "id": 111188,
-    "name": "re.al",
-    "nativeCurrency": {
-      "name": "reETH",
-      "decimals": 18,
-      "symbol": "reETH"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://real.drpc.org"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "re.al Explorer",
-        "url": "https://explorer.re.al",
-        "apiUrl": "https://explorer.re.al/api/v2"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 695
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/real.webp",
-      "wrapped": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
-      "defiLLamaChain": "real"
-    }
-  },
-  {
-    "id": 167000,
-    "name": "Taiko Mainnet",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Ether",
-      "symbol": "ETH"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.mainnet.taiko.xyz"
-        ],
-        "webSocket": [
-          "wss://ws.mainnet.taiko.xyz"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Taikoscan",
-        "url": "https://taikoscan.io",
-        "apiUrl": "https://api.taikoscan.io/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xcb2436774C3e191c85056d248EF4260ce5f27A9D"
-      }
-    },
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
-      "wrapped": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
-      "defiLLamaChain": "taiko"
-    }
-  },
-  {
-    "id": 167009,
-    "name": "Taiko Hekla L2",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.hekla.taiko.xyz"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Taikoscan",
-        "url": "https://hekla.taikoscan.network"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 59757
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
-      "wrapped": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9"
     }
   },
   {
@@ -5389,139 +3881,6 @@
     }
   },
   {
-    "id": 534351,
-    "name": "Scroll Sepolia",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://sepolia-rpc.scroll.io"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Scrollscan",
-        "url": "https://sepolia.scrollscan.com",
-        "apiUrl": "https://api-sepolia.scrollscan.com/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 9473
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x5300000000000000000000000000000000000004"
-    }
-  },
-  {
-    "id": 534352,
-    "name": "Scroll",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.scroll.io"
-        ],
-        "webSocket": [
-          "wss://wss-rpc.scroll.io/ws"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Scrollscan",
-        "url": "https://scrollscan.com",
-        "apiUrl": "https://api.scrollscan.com/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 14
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x5300000000000000000000000000000000000004",
-      "defiLLamaChain": "scroll"
-    }
-  },
-  {
-    "id": 660279,
-    "name": "Xai Mainnet",
-    "nativeCurrency": {
-      "name": "Xai",
-      "symbol": "XAI",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://xai-chain.net/rpc"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Blockscout",
-        "url": "https://explorer.xai-chain.net"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 222549
-      }
-    },
-    "testnet": false,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
-      "defiLLamaChain": "xai"
-    }
-  },
-  {
-    "id": 713715,
-    "name": "Sei Devnet",
-    "nativeCurrency": {
-      "name": "Sei",
-      "symbol": "SEI",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://evm-rpc-arctic-1.sei-apis.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Seitrace",
-        "url": "https://seitrace.com"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/sei.webp",
-      "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7"
-    }
-  },
-  {
     "formatters": {
       "block": {
         "type": "block"
@@ -5534,6 +3893,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -5601,71 +3961,6 @@
     }
   },
   {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 1620204
-      }
-    },
-    "id": 3397901,
-    "network": "funkiSepolia",
-    "name": "Funki Sepolia Sandbox",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://funki-testnet.alt.technology"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Funki Sepolia Sandbox Explorer",
-        "url": "https://sepolia-sandbox.funkichain.com/"
-      }
-    },
-    "testnet": true,
-    "sourceId": 11155111,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/funki.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
     "id": 3441006,
     "name": "Manta Pacific Sepolia Testnet",
     "network": "manta-sepolia",
@@ -5698,122 +3993,6 @@
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/manta.webp",
       "wrapped": "0x199d1a27684106dC3Deb673115fc0fc9cf6af287"
-    }
-  },
-  {
-    "id": 6038361,
-    "name": "Astar zkEVM Testnet zKyoto",
-    "network": "zKyoto",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.startale.com/zkyoto"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "zKyoto Explorer",
-        "url": "https://zkyoto.explorer.startale.com"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 196153
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/astarzk.webp",
-      "wrapped": "0x441325a0e1D5aC0d64C9cc790FcAbf9c5416a4a1"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "l2OutputOracle": {
-        "1": {
-          "address": "0x9E6204F750cD866b299594e2aC9eA824E2e5f95c"
-        }
-      },
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 5882
-      },
-      "portal": {
-        "1": {
-          "address": "0x1a0ad011913A150f69f6A19DF447A0CfD9551054"
-        }
-      },
-      "l1StandardBridge": {
-        "1": {
-          "address": "0x3e2Ea9B92B7E48A52296fD261dc26fd995284631"
-        }
-      }
-    },
-    "id": 7777777,
-    "name": "Zora",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Ether",
-      "symbol": "ETH"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc.zora.energy"
-        ],
-        "webSocket": [
-          "wss://rpc.zora.energy"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Explorer",
-        "url": "https://explorer.zora.energy",
-        "apiUrl": "https://explorer.zora.energy/api"
-      }
-    },
-    "sourceId": 1,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zora.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {
@@ -5853,47 +4032,6 @@
     }
   },
   {
-    "id": 11155111,
-    "name": "Sepolia",
-    "nativeCurrency": {
-      "name": "Sepolia Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://sepolia.drpc.org"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Etherscan",
-        "url": "https://sepolia.etherscan.io",
-        "apiUrl": "https://api-sepolia.etherscan.io/api"
-      }
-    },
-    "contracts": {
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 751532
-      },
-      "ensRegistry": {
-        "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
-      },
-      "ensUniversalResolver": {
-        "address": "0xc8Af999e38273D658BE1b921b88A9Ddf005769cC",
-        "blockCreated": 5317080
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/11155111.svg",
-      "wrapped": "0xf531B8F309Be94191af87605CfBf600D71C2cFe0"
-    }
-  },
-  {
     "formatters": {
       "block": {
         "type": "block"
@@ -5906,6 +4044,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -5979,33 +4118,6 @@
     }
   },
   {
-    "id": 20241133,
-    "name": "Swan Proxima Testnet",
-    "nativeCurrency": {
-      "name": "Swan Ether",
-      "symbol": "sETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://rpc-proxima.swanchain.io\t"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Swan Explorer",
-        "url": "https://proxima-explorer.swanchain.io"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9"
-    }
-  },
-  {
     "formatters": {
       "block": {
         "type": "block"
@@ -6018,6 +4130,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -6218,7 +4331,7 @@
     },
     "testnet": false,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/neon.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/245022934.webp",
       "wrapped": "0x202C35e517Fa803B537565c40F0a6965D7204609",
       "defiLLamaChain": "neon_evm"
     }
@@ -6249,7 +4362,7 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/degen.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/666666666.webp",
       "wrapped": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
       "defiLLamaChain": "degen"
     }
@@ -6267,6 +4380,7 @@
       }
     },
     "serializers": {},
+    "blockTime": 2000,
     "contracts": {
       "gasPriceOracle": {
         "address": "0x420000000000000000000000000000000000000F"
@@ -6327,91 +4441,7 @@
     },
     "sourceId": 1,
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ancient8.webp",
-      "wrapped": "0x4200000000000000000000000000000000000006"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "l2OutputOracle": {
-        "11155111": {
-          "address": "0x2615B481Bd3E5A1C0C7Ca3Da1bdc663E8615Ade9"
-        }
-      },
-      "multicall3": {
-        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
-        "blockCreated": 83160
-      },
-      "portal": {
-        "11155111": {
-          "address": "0xeffE2C6cA9Ab797D418f0D91eA60807713f3536f"
-        }
-      },
-      "l1StandardBridge": {
-        "11155111": {
-          "address": "0x5376f1D543dcbB5BD416c56C189e4cB7399fCcCB"
-        }
-      }
-    },
-    "id": 999999999,
-    "name": "Zora Sepolia",
-    "network": "zora-sepolia",
-    "nativeCurrency": {
-      "decimals": 18,
-      "name": "Zora Sepolia",
-      "symbol": "ETH"
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://sepolia.rpc.zora.energy"
-        ],
-        "webSocket": [
-          "wss://sepolia.rpc.zora.energy"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Zora Sepolia Explorer",
-        "url": "https://sepolia.explorer.zora.energy/",
-        "apiUrl": "https://sepolia.explorer.zora.energy/api"
-      }
-    },
-    "sourceId": 11155111,
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/zoraSepoliaTestnet.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/888888888.webp",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -6444,9 +4474,8 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
-      "defiLLamaChain": "aurora"
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1313161554.webp",
+      "wrapped": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB"
     }
   },
   {
@@ -6460,7 +4489,7 @@
     "rpcUrls": {
       "default": {
         "http": [
-          "https://rpc.ankr.com/harmony"
+          "https://1666600000.rpc.thirdweb.com"
         ]
       }
     },
@@ -6477,64 +4506,46 @@
       }
     },
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1666600000.webp",
       "wrapped": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
       "defiLLamaChain": "harmony"
     }
   },
   {
-    "id": 1722641160,
-    "name": "Silicon Sepolia zkEVM",
+    "id": 123420000220,
+    "name": "Fluence Stage",
     "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
+      "name": "tFLT",
+      "symbol": "tFLT",
       "decimals": 18
     },
     "rpcUrls": {
       "default": {
         "http": [
-          "https://rpc-sepolia.silicon.network",
-          "https://silicon-testnet.nodeinfra.com"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "SiliconSepoliaScope",
-        "url": "https://scope-sepolia.silicon.network"
-      }
-    },
-    "testnet": true,
-    "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x2f9cc2c11d5E10a5fd5C90c68f7FaD69f82ceD0b"
-    }
-  },
-  {
-    "id": 37714555429,
-    "name": "Xai Testnet",
-    "nativeCurrency": {
-      "name": "sXai",
-      "symbol": "sXAI",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://testnet-v2.xai-chain.net/rpc"
+          "https://rpc.stage.fluence.dev"
+        ],
+        "webSocket": [
+          "wss://ws.stage.fluence.dev"
         ]
       }
     },
     "blockExplorers": {
       "default": {
         "name": "Blockscout",
-        "url": "https://testnet-explorer-v2.xai-chain.net"
+        "url": "https://blockscout.stage.fluence.dev",
+        "apiUrl": "https://blockscout.stage.fluence.dev/api"
+      }
+    },
+    "contracts": {
+      "multicall3": {
+        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
+        "blockCreated": 83227
       }
     },
     "testnet": true,
     "custom": {
       "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
-      "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF"
+      "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9"
     }
   }
 ]

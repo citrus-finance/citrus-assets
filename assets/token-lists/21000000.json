@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:15:22.278Z",
+  "timestamp": "2025-08-30T21:10:31.910Z",
   "tokens": [
     {
       "chainId": 21000000,
@@ -29,6 +29,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "59506f720592dbf649d1fc6d5fce4f39"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6",
+      "name": "Corn",
+      "symbol": "CORN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f028d0deab5eca784cd2659ef2a6f021"
       }
     },
     {
@@ -81,6 +93,30 @@
     },
     {
       "chainId": 21000000,
+      "address": "0x9Cf9F00F3498c2ac856097087e041523dfdD71fF",
+      "name": "popCORN",
+      "symbol": "POPCORN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x9Cf9F00F3498c2ac856097087e041523dfdD71fF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "293bc479b55bb6e9aef8a04968023c55"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b2ea86191c5fd39dad1cce74246db32c"
+      }
+    },
+    {
+      "chainId": 21000000,
       "address": "0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2",
       "name": "Wrapped Bitcorn",
       "symbol": "WBTCN",
@@ -101,6 +137,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "463ed27cc794e8f9ae6cc2e192cfbf57"
+      }
+    },
+    {
+      "chainId": 21000000,
+      "address": "0xe53dCec07d16D88e386AE0710E86d9a400f83c31",
+      "name": "Babylon",
+      "symbol": "BABY",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xe53dCec07d16D88e386AE0710E86d9a400f83c31.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "50ce3f03d3924f0a470133fc6d7d8395"
       }
     },
     {

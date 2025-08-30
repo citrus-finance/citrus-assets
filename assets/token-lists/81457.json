@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:16.128Z",
+  "timestamp": "2025-08-30T21:07:04.101Z",
   "tokens": [
     {
       "chainId": 81457,
@@ -33,6 +33,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x00d7dD69A18e346CB5050eBff7529c11A57cac7F",
+      "name": "Dinari BA",
+      "symbol": "BAD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x00d7dD69A18e346CB5050eBff7529c11A57cac7F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "fe82b8b011fe548a914e96f1420a9e00"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x010392305558d58e1Cb0Eec5529a65bf3545f82e",
       "name": "MACHI",
       "symbol": "MACHI",
@@ -41,6 +53,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "7938f0993684edfee81feacfdf51dc1f"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x01E8bD212f5F319E7126b62aA020831b92e19cD9",
+      "name": "Dinari HODL",
+      "symbol": "HODLD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x01E8bD212f5F319E7126b62aA020831b92e19cD9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "99cded60b9edd1e38ed3ef8dbf10adff"
       }
     },
     {
@@ -69,6 +93,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0x04d4fd245aCD3d7b3a1126ae27173FCa354f658B",
+      "name": "Few Wrapped Duo USD",
+      "symbol": "FWDUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x04d4fd245aCD3d7b3a1126ae27173FCa354f658B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "eccf5183d2877a5a603738a35ab70771"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x08a51D066c12f5b020C3B34817fEb6f200aA3Ed1",
+      "name": "Dinari HUT",
+      "symbol": "HUTD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x08a51D066c12f5b020C3B34817fEb6f200aA3Ed1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "893daa852da97b1af33f84d8c8417791"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x08Ccb86a31270Fd97D927A4e17934C6262A68b7E",
       "name": "SquadSwap",
       "symbol": "SQUAD",
@@ -81,6 +129,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0x098dBFd917F59495FDFc30628c0a5dAD4Bda2b1e",
+      "name": "Dinari ETHE",
+      "symbol": "ETHED",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x098dBFd917F59495FDFc30628c0a5dAD4Bda2b1e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d9c85d9417e879daf643c4f5f49f7b4d"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x09Bc998f64D32B83d4a534Bb2D5a4806a04C855D",
+      "name": "Dinari SPWO",
+      "symbol": "SPWOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x09Bc998f64D32B83d4a534Bb2D5a4806a04C855D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14b44bc9712b82dce949046c52f0c3da"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x0B4d0ee29857c3961b380d4ec138EA5814E346b9",
       "name": "P@cman Blastoff",
       "symbol": "$PACM",
@@ -89,6 +161,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "a86af557d22a2732478eefab6e4b9f76"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x0B96517fB729C6F6C00Ab15ABb3d72aE708d5960",
+      "name": "Dinari TQQQ",
+      "symbol": "TQQQD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x0B96517fB729C6F6C00Ab15ABb3d72aE708d5960.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c9819d79087f43cae3c748f734eb1dde"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x0E576B0C554FbAef9893A2Cd7B866Af516Bab581",
+      "name": "Dinari SPSK",
+      "symbol": "SPSKD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x0E576B0C554FbAef9893A2Cd7B866Af516Bab581.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4fa2f2ad4303060af1028ec92b21100e"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x0e8C94ce5f658B52a8d4E30933520B2106A9397c",
+      "name": "Dinari USHY",
+      "symbol": "USHYD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x0e8C94ce5f658B52a8d4E30933520B2106A9397c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "12f842711f172c311d82ce16981f188a"
       }
     },
     {
@@ -153,6 +261,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x179004Cb725a4D94BfCdFfa5eeCE3B9df0eFFFe6",
+      "name": "Dinari MARA",
+      "symbol": "MARAD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x179004Cb725a4D94BfCdFfa5eeCE3B9df0eFFFe6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9c9d588fca889d54fbd4d0f0fd3a4d9a"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x1a49351bdB4BE48C0009b661765D01ed58E8C2d8",
       "name": "YES Money",
       "symbol": "YES",
@@ -165,6 +285,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x1B91EB087e128A0514b9eB8d0804B586641a0849",
+      "name": "Dinari TJX",
+      "symbol": "TJXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x1B91EB087e128A0514b9eB8d0804B586641a0849.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "33dd768d4e9d7f0a2eea824fd3e6444e"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x1ba52A63ADF7e9425DDd85b378DdA25e3818E596",
       "name": "Duckie The Meme Token",
       "symbol": "DUCKIE",
@@ -173,6 +305,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "0b99f2f15c46ea249b0c906c32fc2997"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x1EA5625399565Fa0c3c2499ebF960eB9d9224212",
+      "name": "Dinari V",
+      "symbol": "VD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x1EA5625399565Fa0c3c2499ebF960eB9d9224212.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0f670efd49e7961bd9e2e3f5afc09ba1"
       }
     },
     {
@@ -261,6 +405,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0x28215D9e6444116E194405E93CcF68afDE544D5C",
+      "name": "Dinari IBIT",
+      "symbol": "IBITD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x28215D9e6444116E194405E93CcF68afDE544D5C.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ae1d9a2a2b5701820f59bff0b59e31d"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x296c2186948712D66bEf4778567c4d2f734BFF3c",
+      "name": "Dinari ARKB",
+      "symbol": "ARKBD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x296c2186948712D66bEf4778567c4d2f734BFF3c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cbf689ed9c2703a57b02b26073bea287"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49",
       "name": "Dog Wif Blast",
       "symbol": "WIF",
@@ -281,6 +449,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "8da14e3aa0675321bb2c87ddf752b470"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x30c7b9F4CD589203d250aD165651e82E338CB5bB",
+      "name": "Few Wrapped Juice",
+      "symbol": "FWJUICE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x30c7b9F4CD589203d250aD165651e82E338CB5bB.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6941678328f64aa3eeee36a474964c31"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x32cBB8CdAcd90DbEc250F9B1E8b06232c6F3297b",
+      "name": "Dinari VXX",
+      "symbol": "VXXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x32cBB8CdAcd90DbEc250F9B1E8b06232c6F3297b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4f04b87c3ee8573e64c384cd1b7caad1"
       }
     },
     {
@@ -333,6 +525,66 @@
     },
     {
       "chainId": 81457,
+      "address": "0x35b1cd11B684C7A9e1aA8d34e6B2a500310Ec35c",
+      "name": "Few Wrapped Orbit Protocol",
+      "symbol": "FWORBIT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x35b1cd11B684C7A9e1aA8d34e6B2a500310Ec35c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ef4180bb3dbfb76c5bfcaefda1a9ac8c"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x399351786aFd19Dc7524B6Af87aAD8339f641494",
+      "name": "Dinari DAL",
+      "symbol": "DALD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x399351786aFd19Dc7524B6Af87aAD8339f641494.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e1c58b27680022619d8a46a900c80007"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x3fAda70ea1251bec1e87C2fF9CD5bB72a818C350",
+      "name": "Dinari ADBE",
+      "symbol": "ADBED",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x3fAda70ea1251bec1e87C2fF9CD5bB72a818C350.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "97e39f067c7e68e4d191b88b0a4b140b"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x4040fe823164384d2B719546557f01136990395B",
+      "name": "Dinari CSCO",
+      "symbol": "CSCOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x4040fe823164384d2B719546557f01136990395B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "26331e3e9b3c485b5202dc8319876a34"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x413e5687814841D65146c062C506c73992a57692",
+      "name": "Dinari VWO",
+      "symbol": "VWOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x413e5687814841D65146c062C506c73992a57692.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e62b54f4d614427ce7b1c779b726456d"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
       "name": "KelpDAO Bridged rsETH  Blast ",
       "symbol": "RSETH",
@@ -357,6 +609,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x42e4981De9bC8FD4726775f62066CAbbE78DEAB8",
+      "name": "Dinari WOOD",
+      "symbol": "WOODD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x42e4981De9bC8FD4726775f62066CAbbE78DEAB8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3c2e9a81b3c53b79b11e3178e526e5ab"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x4300000000000000000000000000000000000003",
       "name": "USDB",
       "symbol": "USDB",
@@ -377,6 +641,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "81ef0b24543a45365b3f5de1c1ed8d79"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x44BA66F8ad159f8f400c7D9E06f670C018BdD57c",
+      "name": "Dinari KO",
+      "symbol": "KOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x44BA66F8ad159f8f400c7D9E06f670C018BdD57c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "19a00cc2ac60ef7311ce43f789b6b83c"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x45907aCF1c9F45450DeD33E3F06F96DC298c5D70",
+      "name": "Dinari MELI",
+      "symbol": "MELID",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x45907aCF1c9F45450DeD33E3F06F96DC298c5D70.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b488d66d7dfbe29d2b9cdc3ef56b6a3e"
       }
     },
     {
@@ -441,6 +729,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x53ca87B939cFdBc90b6F28751E164E77165ae7d4",
+      "name": "Dinari WEAT",
+      "symbol": "WEATD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x53ca87B939cFdBc90b6F28751E164E77165ae7d4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3db8b825e656c8890651137e4ab2bb5d"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x548A6fE792015DD2A7827659D3Feb8Cf88cf1C79",
       "name": "Blast Hoge",
       "symbol": "HOGE",
@@ -461,6 +761,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "569aecd655287f88639b2fe3b738b202"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x56de5c6C56f92ECF2Da286Ea81a0Fb74b25f9579",
+      "name": "Dinari PALL",
+      "symbol": "PALLD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x56de5c6C56f92ECF2Da286Ea81a0Fb74b25f9579.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6b565d387aacbed0b7ef20e1fa6c120a"
       }
     },
     {
@@ -525,6 +837,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x5e9e14b2386A9cD3D2eD510285D3389B34D48640",
+      "name": "Dinari SPUS",
+      "symbol": "SPUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x5e9e14b2386A9cD3D2eD510285D3389B34D48640.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8b395cc50df3fb3f9aecd725e3519d29"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
       "name": "PacMoon",
       "symbol": "PAC",
@@ -545,6 +869,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "b220e33a24fb2e4264582f0fb7f510f7"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x64931990e69B55ff7aCaF0f20416D29B20855bE6",
+      "name": "Dinari DEFI",
+      "symbol": "DEFID",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x64931990e69B55ff7aCaF0f20416D29B20855bE6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b833ef472c96ad6dcee515242f3e5803"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x665b080aFfB4a7e0ceae3ce88Ba0401C864635d8",
+      "name": "Dinari EZBC",
+      "symbol": "EZBCD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x665b080aFfB4a7e0ceae3ce88Ba0401C864635d8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bee994be4fea34c964968453af221c89"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x66714DB8F3397c767d0A602458B5b4E3C0FE7dd1",
+      "name": "Few Wrapped Wrapped Ether",
+      "symbol": "FWWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x66714DB8F3397c767d0A602458B5b4E3C0FE7dd1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0fe04a43fa4b548b97086e32698939e8"
       }
     },
     {
@@ -573,6 +933,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x688a880AE19E766C6Ad4b749a315Ec25034a0645",
+      "name": "Dinari ERO",
+      "symbol": "EROD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x688a880AE19E766C6Ad4b749a315Ec25034a0645.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e77175673b8dd8d1a3d2ec77bdb076d0"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x6A661312938D22A2A0e27F585073E4406903990a",
       "name": "Maha",
       "symbol": "MAHA",
@@ -593,6 +965,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "c275a935799353d500c26b558dbe30d4"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x6C627B1E04edE1A6E0619727C70F69cB259d06f8",
+      "name": "Dinari SLX",
+      "symbol": "SLXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x6C627B1E04edE1A6E0619727C70F69cB259d06f8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ac18569d67b18b62c4ebb2b8d8582709"
       }
     },
     {
@@ -669,6 +1053,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x74798fd1a87E07c7b8bf89FaFc922E4BF10c35a9",
+      "name": "Dinari NLY",
+      "symbol": "NLYD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x74798fd1a87E07c7b8bf89FaFc922E4BF10c35a9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "755909bd5946cbb049c54eab7c633960"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x75483179a38d21F3608E71bbEdE5EC1314F0067D",
       "name": "NeptuneX",
       "symbol": "NPTX",
@@ -693,6 +1089,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x76b584C9d5d6c925C7d6768b8430d5FcCedbA83E",
+      "name": "Dinari ARKX",
+      "symbol": "ARKXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x76b584C9d5d6c925C7d6768b8430d5FcCedbA83E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "71be75b3e00bdf0cb9529e4b024ab2bf"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x76DA31D7C9CbEAE102aff34D3398bC450c8374c1",
       "name": "Magic Internet Money",
       "symbol": "MIM",
@@ -701,6 +1109,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "536ee6b1cf58a962aee8b61e2e5b0ddf"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x771952e0d7701f9D9eeeAF69C51bfdD57cBd6a6A",
+      "name": "Dinari RKLB",
+      "symbol": "RKLBD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x771952e0d7701f9D9eeeAF69C51bfdD57cBd6a6A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dac34260f643d35266e8dffe54a93cd6"
       }
     },
     {
@@ -753,6 +1173,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0x866f2C06B83Df2ed7Ca9C2D044940E7CD55a06d6",
+      "name": "Few Wrapped USDB",
+      "symbol": "FWUSDB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x866f2C06B83Df2ed7Ca9C2D044940E7CD55a06d6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bc440b8942a35d8775921ece7bd7abd2"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x87084c981709878e3C806aD45fb01e3522E08123",
+      "name": "Dinari ARKK",
+      "symbol": "ARKKD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x87084c981709878e3C806aD45fb01e3522E08123.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dd453913cf4607c4329718dfe302251d"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x870a8F46b62B8BDeda4c02530C1750CddF2ED32e",
       "name": "Overnight fi USDC ",
       "symbol": "USDC+",
@@ -777,6 +1221,42 @@
     },
     {
       "chainId": 81457,
+      "address": "0x87EC43715Cd54B97e3DA2bBebBEB919177Aa2f6D",
+      "name": "Dinari QQQ",
+      "symbol": "QQQD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x87EC43715Cd54B97e3DA2bBebBEB919177Aa2f6D.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1c094feff11a82177e50bf965f9c7b93"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x89D0A55a8c2d94c0d4a91C6e3de58DD131Ad87Fc",
+      "name": "Dinari SQ",
+      "symbol": "SQD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x89D0A55a8c2d94c0d4a91C6e3de58DD131Ad87Fc.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "706cbf2ac875656eed7b4021e22ab9a2"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x8Ad2B97B7FCa40af71bFef9857D10bc1bfE70175",
+      "name": "Dinari PG",
+      "symbol": "PGD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x8Ad2B97B7FCa40af71bFef9857D10bc1bfE70175.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "78b7588d4836044dbd5e521c33eaa2f8"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x8c3EDe5dB70719aB9191655994880b088DD03917",
       "name": "yYOLO",
       "symbol": "YYOLO",
@@ -785,6 +1265,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "e0f3959777cd55a2250fdfff48f0e1cf"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x8CE131C8C8b8d46ffe2a72aADC8eBb3D5686613a",
+      "name": "Dinari CAT",
+      "symbol": "CATD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x8CE131C8C8b8d46ffe2a72aADC8eBb3D5686613a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "793cd050b167003ee719c90881566c5a"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x8D7E838f2feaec8B6D7445bFa699F68fe8E97718",
+      "name": "Dinari SIVR",
+      "symbol": "SIVRD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x8D7E838f2feaec8B6D7445bFa699F68fe8E97718.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cd4dcb39a9e2e3d617efef2ebc68d1ed"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x8F6a976b6C7fe18e31870EadfaE09B3Cb447541A",
+      "name": "Dinari UFO",
+      "symbol": "UFOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x8F6a976b6C7fe18e31870EadfaE09B3Cb447541A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9fdf84f6a2165a696f790692f8b14980"
       }
     },
     {
@@ -825,6 +1341,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0x93202eC683288a9EA75BB829c6baCFb2BfeA9013",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x93202eC683288a9EA75BB829c6baCFb2BfeA9013.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "de38ca3acddc6eaea9febbb557c1f243"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x93A9F06576CFE91e8C408467CD684Df42CA23c23",
+      "name": "Dinari PHO",
+      "symbol": "PHOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x93A9F06576CFE91e8C408467CD684Df42CA23c23.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "419915f26e4f8430271c09798c1ecfe7"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x949185D3BE66775Ea648F4a306740EA9eFF9C567",
       "name": "Yel Finance",
       "symbol": "YEL",
@@ -833,6 +1373,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "8656357275d0f073021e426be699c9a9"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x9558e1217E0cB47Ade9B5F63Cc5ACA8D47691Ab7",
+      "name": "Dinari GBTC",
+      "symbol": "GBTCD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x9558e1217E0cB47Ade9B5F63Cc5ACA8D47691Ab7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9b7d84552c03675f227988e775a2d4f8"
       }
     },
     {
@@ -857,6 +1409,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "9d3da8cd61f324c36fb956b2bf8bd596"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x97dd837806EaB484B440f15e60F84c4f312f7CdD",
+      "name": "Dinari AVGO",
+      "symbol": "AVGOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x97dd837806EaB484B440f15e60F84c4f312f7CdD.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3ab4dc4702fe94af3a20e91288e613e3"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x97eCAD323F63060DF37FF0Cf05350803dB4D17Bd",
+      "name": "Few Wrapped Wrapped BTC",
+      "symbol": "FWWBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x97eCAD323F63060DF37FF0Cf05350803dB4D17Bd.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "86df80b4513a055b295cf72b375e56bf"
       }
     },
     {
@@ -897,6 +1473,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0x9E23da6c963D9CfC929F3bDA89e9E20984c008ef",
+      "name": "Dinari JNJ",
+      "symbol": "JNJD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0x9E23da6c963D9CfC929F3bDA89e9E20984c008ef.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "603c751323c2279eb548036eaba5363e"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0x9f04B6CEfd5BCd67d76aB708F17553Ce40188e6A",
       "name": "Impermax",
       "symbol": "IBEX",
@@ -933,6 +1521,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xa5d7512c6a3B87ad7bF2f597b93845950f738fDd",
+      "name": "Dinari IAU",
+      "symbol": "IAUD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xa5d7512c6a3B87ad7bF2f597b93845950f738fDd.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ae650c0938d955f6a12c2f4014ae5aa3"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xA5de16db7c14Cd87fb35042Ed8E7A6f4f00b7f26",
       "name": "Dinari RIOT",
       "symbol": "RIOTD",
@@ -945,6 +1545,66 @@
     },
     {
       "chainId": 81457,
+      "address": "0xA8EF52a9C4010E20f3811f0A8606C788FCcC7a2a",
+      "name": "Dinari CVX",
+      "symbol": "CVXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xA8EF52a9C4010E20f3811f0A8606C788FCcC7a2a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7fdf3eea9e212d3119f540bd1efe6279"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xA9053e91A9EA714023de577929C3E119264D80D6",
+      "name": "Dinari BITB",
+      "symbol": "BITBD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xA9053e91A9EA714023de577929C3E119264D80D6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "be68bb3a0dfd87b2d936148af5853c43"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xAc402DB779eEabcC6c88F0478bB381Cd2d0E15F7",
+      "name": "Dinari WALRF",
+      "symbol": "WALRFD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xAc402DB779eEabcC6c88F0478bB381Cd2d0E15F7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6cdb7a072b418fd010d6aed9aade1228"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xB0de93a54dA8a2cfCDe44a06F797aB2fb9d39fB8",
+      "name": "Few Wrapped Duo ETH",
+      "symbol": "FWDETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xB0de93a54dA8a2cfCDe44a06F797aB2fb9d39fB8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "572bb7c5b700e9c39256b622584593c3"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xb127e5d53Df0C2056CF337081EC56F01EFD5c8Bc",
+      "name": "Dinari SNOW",
+      "symbol": "SNOWD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xb127e5d53Df0C2056CF337081EC56F01EFD5c8Bc.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "50268597477c2bcfb2e2332f627e9214"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
       "name": "Blast",
       "symbol": "BLAST",
@@ -953,6 +1613,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "2170ec4a3948358d19698dada365e167"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xb1E4E8B433C76C1fD42Bd3099a5E5817fff69fE4",
+      "name": "Few Wrapped Blast",
+      "symbol": "FWBLAST",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xb1E4E8B433C76C1fD42Bd3099a5E5817fff69fE4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1d164a8a9699633b665dba6e4c5c13ca"
       }
     },
     {
@@ -1017,6 +1689,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xB85415A2e44d2911B265e578f9468fC300e78E49",
+      "name": "Dinari MSTR",
+      "symbol": "MSTRD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xB85415A2e44d2911B265e578f9468fC300e78E49.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d7798ffb9c3aa436d5fb52c3b3c5c961"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xb9dfCd4CF589bB8090569cb52FaC1b88Dbe4981F",
       "name": "Bag",
       "symbol": "BAG",
@@ -1041,6 +1725,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xbB4Ca8935EdCafBa90DaC55652Bb938Eb961cB36",
+      "name": "Dinari ITA",
+      "symbol": "ITAD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xbB4Ca8935EdCafBa90DaC55652Bb938Eb961cB36.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ecd5789dfb013d6cb7b67febe11aae68"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xbb4e01B8940E8E2b3a95cED7941969D033786FF7",
       "name": "Affine ultraETHs 2 0",
       "symbol": "ULTRAETHS",
@@ -1049,6 +1745,114 @@
       "tags": [],
       "extensions": {
         "cacheHash": "acdf58b8d78a6be4bafbd65b880113ad"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xBbA2b55370753E326e2fb68161C240e328218bCF",
+      "name": "Dinari GLD",
+      "symbol": "GLDD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xBbA2b55370753E326e2fb68161C240e328218bCF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "fa31611b549e57748c8bebbd2edb63a2"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xBe2019C75EbF9eAD0AB3513fd3c1733F2eB490E7",
+      "name": "Dinari BTCW",
+      "symbol": "BTCWD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xBe2019C75EbF9eAD0AB3513fd3c1733F2eB490E7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6b7711062dbf953dcfb4a2406b92a036"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xbf26ECE8626C30f6eFc6518aC93a773D24E6ff83",
+      "name": "Dinari FBTC",
+      "symbol": "FBTCD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xbf26ECE8626C30f6eFc6518aC93a773D24E6ff83.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6243056e41cf65d51440097a203c615a"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xbf286A9c026F02DD4D2e3fc3887e77e425D15A11",
+      "name": "Dinari BTCO",
+      "symbol": "BTCOD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xbf286A9c026F02DD4D2e3fc3887e77e425D15A11.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "acea584f73190cc42c76769fac1c7b44"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xbfDaA788366593D3C7D15f9abC0B1cab2B1694ba",
+      "name": "Dinari BLK",
+      "symbol": "BLKD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xbfDaA788366593D3C7D15f9abC0B1cab2B1694ba.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d877567e8fadacd97f69eb788b922570"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xBffaEA400b56DA7B7085a27676D4B72361217e35",
+      "name": "Dinari CCL",
+      "symbol": "CCLD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xBffaEA400b56DA7B7085a27676D4B72361217e35.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ff35432386f58ba0bc649c5647838d44"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+      "name": "Star",
+      "symbol": "STAR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xC19669A405067927865B40Ea045a2baabbbe57f5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ca0ad1997f3b61b9319469d9fa7db6b6"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xc6561Ff3100d8B3C33898DFBfeb6E695134E6957",
+      "name": "Dinari BAC",
+      "symbol": "BACD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xc6561Ff3100d8B3C33898DFBfeb6E695134E6957.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3d83940fb9ad707a8869a827ceb787a6"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xc6BBAf4D804327d84931310E49c863E63A2Bd868",
+      "name": "Dinari WEAT",
+      "symbol": "WEATD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xc6BBAf4D804327d84931310E49c863E63A2Bd868.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5e1e2ba0ca60103b014287978ea90305"
       }
     },
     {
@@ -1073,6 +1877,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "b570709259463b95cbaf59cf834982cd"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xca838b9437eb20aDa32703A8B912922088CF90B5",
+      "name": "Dinari SPTE",
+      "symbol": "SPTED",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xca838b9437eb20aDa32703A8B912922088CF90B5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "42a2530227294fe972751aa45986330e"
       }
     },
     {
@@ -1149,6 +1965,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xD2C500A8dd36EeE1082314d624A46b5AB37C426e",
+      "name": "Dinari SBUX",
+      "symbol": "SBUXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xD2C500A8dd36EeE1082314d624A46b5AB37C426e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f81150c6149bcc97011c15adc28453c2"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
       "name": "AndyERC",
       "symbol": "ANDY",
@@ -1185,6 +2013,30 @@
     },
     {
       "chainId": 81457,
+      "address": "0xd951722f5309479cDe8ed719fE3e13596290A324",
+      "name": "Dinari YUM",
+      "symbol": "YUMD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xd951722f5309479cDe8ed719fE3e13596290A324.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2964c6606ad5100a60c1dd204b2369c4"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xDa5AfFf979A356Af2cfA75Bd0054c2c8C505234A",
+      "name": "Dinari XOM",
+      "symbol": "XOMD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xDa5AfFf979A356Af2cfA75Bd0054c2c8C505234A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14ec0a5b27b7edfd6c0f444593d076c1"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xdB13dF2ea134e7dF2208D74b96db063837Db5B5c",
       "name": "LAMB by OPNX",
       "symbol": "LAMB",
@@ -1193,6 +2045,42 @@
       "tags": [],
       "extensions": {
         "cacheHash": "599db985322f66503db5ddc0ad4ce9d8"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xDd31c8B5C899c0f85FB4738accAc44180e4D7390",
+      "name": "Dinari SOXL",
+      "symbol": "SOXLD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xDd31c8B5C899c0f85FB4738accAc44180e4D7390.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dcf9602d82318e289231a4a3a7353742"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xDd6A4d44987fc974C4113eF403b941fe09D0068c",
+      "name": "Dinari AZN",
+      "symbol": "AZND",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xDd6A4d44987fc974C4113eF403b941fe09D0068c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "45d12af485620c5377643b7347e79fb1"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xddCd99775b70BeE3b1D06399b69E45465Dea010c",
+      "name": "Dinari HOOD",
+      "symbol": "HOODD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xddCd99775b70BeE3b1D06399b69E45465Dea010c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "080c997f5c2cc8899895b4491f244298"
       }
     },
     {
@@ -1233,6 +2121,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xE0CEd15bc8Ea1335bec573819f1813FFC5e38878",
+      "name": "Dinari BOXX",
+      "symbol": "BOXXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xE0CEd15bc8Ea1335bec573819f1813FFC5e38878.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "23c2a41612b00ad8104246bf612985b5"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xe20D45377370135C733876548de202040cfC0664",
       "name": "BAC Games",
       "symbol": "BACGAMES",
@@ -1241,6 +2141,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "aa36591a2017c76090d052b7d0866472"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xE231DB5F348d709239Ef1741EA30961B3B635a61.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8f7ab9bd3a42823779b95958dd35d22b"
       }
     },
     {
@@ -1269,6 +2181,18 @@
     },
     {
       "chainId": 81457,
+      "address": "0xE3fC0948bdCADA331014590987CC624015403874",
+      "name": "Dinari RBLX",
+      "symbol": "RBLXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xE3fC0948bdCADA331014590987CC624015403874.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "170d00b4349a5c95d245d73a66e93b7d"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
       "name": "Wrapped rsETH",
       "symbol": "WRSETH",
@@ -1277,6 +2201,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "002ab5d3a81bf2f01b66ae0d7db8f2bb"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xE99292Ca55f6e01765b900dAdd471c63136E6760",
+      "name": "Dinari EEM",
+      "symbol": "EEMD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xE99292Ca55f6e01765b900dAdd471c63136E6760.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "11361dac82b1a49aa886fd58fbf6d64f"
       }
     },
     {
@@ -1324,11 +2260,35 @@
       "logoURI": "https://assets.citrus.finance/token-logos/81457/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x4300000000000000000000000000000000000004",
-        "cacheHash": "4edb4efd8f79f23db9a7b76eeec6d685"
+        "cacheHash": "ab01b2b8c484aa6f3ea3a2fe1fa0f302"
       },
       "tags": [
         "Top"
       ]
+    },
+    {
+      "chainId": 81457,
+      "address": "0xF020A139d2346Cdd2C0E1523395346756F42aD7E",
+      "name": "Dinari HYMB",
+      "symbol": "HYMBD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xF020A139d2346Cdd2C0E1523395346756F42aD7E.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b4d1700137b7d0c5230e017e59c8a8f7"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xf0a23FD4a51e9c5055b912E41A6052b56E6108b8",
+      "name": "Dinari BRRR",
+      "symbol": "BRRRD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xf0a23FD4a51e9c5055b912E41A6052b56E6108b8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cde3cc6d5436b5d740cefaa615dd93c4"
+      }
     },
     {
       "chainId": 81457,
@@ -1368,6 +2328,42 @@
     },
     {
       "chainId": 81457,
+      "address": "0xFafDA868581cE31b7eF7fe0B146a24dbB4717A5f",
+      "name": "Dinari F",
+      "symbol": "FD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xFafDA868581cE31b7eF7fe0B146a24dbB4717A5f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "07892ea71e00698e9fc8440df64babdf"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xfB3bcDc42d0f884b0f1E53f74Ed152fF1Cb77dC8",
+      "name": "Dinari JPM",
+      "symbol": "JPMD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xfB3bcDc42d0f884b0f1E53f74Ed152fF1Cb77dC8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8ea505c09baf3d85d8d5fd3b431fd260"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xFcBe84B53fD3eD33b5Dfa82fB005603daa5204A7",
+      "name": "Dinari MCD",
+      "symbol": "MCDD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xFcBe84B53fD3eD33b5Dfa82fB005603daa5204A7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1f2b9a4fe71d118068018f3a772b74ce"
+      }
+    },
+    {
+      "chainId": 81457,
       "address": "0xfd4D19F9FBb9F730C3C88a21755832BD2455144e",
       "name": "Super Sushi Samurai",
       "symbol": "SSS",
@@ -1376,6 +2372,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "b0d9582eb26ba307ff68d85816fac3af"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xfDC1901E40C708e72661af607a8A027740a08676",
+      "name": "Dinari COST",
+      "symbol": "COSTD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xfDC1901E40C708e72661af607a8A027740a08676.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "deb14d3d8e5309f135c8fc13aa48a81d"
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0xFECf117cE579ACb96e89872af6CC9525980C397c",
+      "name": "Dinari SONY",
+      "symbol": "SONYD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/81457/0xFECf117cE579ACb96e89872af6CC9525980C397c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0fe6b4eeeb3930f739ea44e20a5d815b"
       }
     }
   ]

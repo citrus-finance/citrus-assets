@@ -3,7 +3,7 @@ import { TokenMap } from "./types/TokenMap.js";
 import addManyTokenLists from "./utils/addManyTokenLists.js";
 import updateTokensData from "./utils/updateTokensData.js";
 
-import { config } from "../config.js";
+import { config } from "./config.js";
 import addTokenList from "./utils/addTokenList.js";
 
 await buildNetworks();

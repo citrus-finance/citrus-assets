@@ -5,8 +5,20 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:58.892Z",
+  "timestamp": "2025-08-30T21:01:55.147Z",
   "tokens": [
+    {
+      "chainId": 1329,
+      "address": "0x059A6b0bA116c63191182a0956cF697d0d2213eC",
+      "name": "Synnax Stablecoin",
+      "symbol": "syUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x059A6b0bA116c63191182a0956cF697d0d2213eC.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "81f33672011b4045f11de2399dbed17a"
+      }
+    },
     {
       "chainId": 1329,
       "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
@@ -33,6 +45,54 @@
     },
     {
       "chainId": 1329,
+      "address": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+      "name": "iSEI",
+      "symbol": "iSEI",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3d5a1267b06d742f3984b1da05106ccc"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598",
+      "name": "SEIYAN",
+      "symbol": "SEIYAN",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0571a8a1b410dc95ffeaa87225d9a84a"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+      "name": "USDT0",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x9151434b16b9763660705744891fA906F660EcC5.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "60973ab88a04c7a1d27b868580382baa"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+      "name": "MILLI",
+      "symbol": "MILLI",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "55998c6f4ae3f432de1688fc38f419e9"
+      }
+    },
+    {
+      "chainId": 1329,
       "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
       "name": "USDT",
       "symbol": "USDT",
@@ -41,6 +101,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "a94e5735f6cc61be95f156cb0ef3071f"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF",
+      "name": "POCHITA",
+      "symbol": "POCHITA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "73a1cb560c8efaa1453f7b984b515cde"
+      }
+    },
+    {
+      "chainId": 1329,
+      "address": "0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "de356bc9a8650491160601c106c00afd"
       }
     },
     {
@@ -64,7 +148,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/1329/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
-        "cacheHash": "9f099a5a9f2239869333324f01577de2"
+        "cacheHash": "ed3fceb4e93a0bf026ad91c6a3291458"
       },
       "tags": [
         "Top"

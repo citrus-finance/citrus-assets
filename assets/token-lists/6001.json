@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:12:12.851Z",
+  "timestamp": "2025-08-30T21:02:04.524Z",
   "tokens": [
     {
       "name": "BounceBit",
@@ -16,7 +16,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/6001/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
-        "cacheHash": "186cabe51065c78b5ba5660e51aec9f3"
+        "cacheHash": "95a05dcd869bc6b2706bfb08b8ad5968"
       },
       "tags": [
         "Top"

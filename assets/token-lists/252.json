@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:40.282Z",
+  "timestamp": "2025-08-30T21:01:29.858Z",
   "tokens": [
     {
       "chainId": 252,
@@ -100,7 +100,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/252/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xFC00000000000000000000000000000000000006",
-        "cacheHash": "4a3dd66a04008ddf780fa241632009ab"
+        "cacheHash": "b46464fa14cf5f0357b2dd8d4ff6bf46"
       },
       "tags": [
         "Top"
@@ -121,13 +121,13 @@
     {
       "chainId": 252,
       "address": "0xFc00000000000000000000000000000000000001",
-      "name": "Frax",
-      "symbol": "FRAX",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
       "decimals": 18,
       "logoURI": "https://assets.citrus.finance/token-logos/252/0xFc00000000000000000000000000000000000001.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "01bce86cfd1bc4b08cf75dc8f843fa57"
+        "cacheHash": "1d3fbb5691ddd159ac7953db9bc19118"
       }
     },
     {

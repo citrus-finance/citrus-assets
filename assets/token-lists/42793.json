@@ -5,8 +5,164 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:03.025Z",
+  "timestamp": "2025-08-30T21:06:30.527Z",
   "tokens": [
+    {
+      "chainId": 42793,
+      "address": "0x01F07f4d78d47A64F4C3B2b65f513f15Be6E1854",
+      "name": "Stacy Staked XTZ",
+      "symbol": "STXTZ",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x01F07f4d78d47A64F4C3B2b65f513f15Be6E1854.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7c704883254be25bd5b2e2c65f30b867"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22",
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "decimals": 2,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "57e749bfb630e3f525f0c224d948a2d2"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x19418d0af0F36865cDfbB2437dFEd29BA34d3190",
+      "name": "Lyzi",
+      "symbol": "LYZI",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x19418d0af0F36865cDfbB2437dFEd29BA34d3190.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cd51064ece85f1334d5ae30ff00c7c10"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x2247B5A46BB79421a314aB0f0b67fFd11dd37Ee4",
+      "name": "Midas mBASIS",
+      "symbol": "MBASIS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x2247B5A46BB79421a314aB0f0b67fFd11dd37Ee4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "60254fe9cd7b916c2042a311bae50723"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x2C03058C8AFC06713be23e58D2febC8337dbfE6A.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "79d5ea6831af6405d854669ad6bc6fdc"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B",
+      "name": "Sugarverse",
+      "symbol": "CNDY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x6b43732a9AE9F8654d496c0A075Aa4Aa43057A0B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e1d7c165114afb865678be9a2488ea32"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD",
+      "name": "Uranium",
+      "symbol": "XU3O8",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x79052Ab3C166D4899a1e0DD033aC3b379AF0B1fD.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "b84b1788049b979e6d93986f6af14426"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x790C6FCc916db20Ab180D3D3666d51A6662A1A3c",
+      "name": "Temple Key",
+      "symbol": "TKEY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x790C6FCc916db20Ab180D3D3666d51A6662A1A3c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f6cdb0234af9ecdee3469d9006554a5a"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8dca9974cc4b9233b02c21514c6a9841"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x8ce7618E8f8E514d13889283F58FF03B794e6CC3",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x8ce7618E8f8E514d13889283F58FF03B794e6CC3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "009549254af16cbf239c546380b8031e"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0x9121B153bbCF8C23F20eE43b494F08760B91aD64",
+      "name": "Tezos Pepe",
+      "symbol": "TZPEPE",
+      "decimals": 2,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0x9121B153bbCF8C23F20eE43b494F08760B91aD64.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1b068a82ada1b39021aaea166aec2c43"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80",
+      "name": "Spiko EU T Bills Money Market Fund",
+      "symbol": "EUTBL",
+      "decimals": 5,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xa0769f7A8fC65e47dE93797b4e21C073c117Fc80.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "010ecf4766e4bcadccebfb03d93b6f99"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "900faf27c2004790c7f3d3aeafd784be"
+      }
+    },
     {
       "chainId": 42793,
       "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
@@ -20,6 +176,42 @@
       }
     },
     {
+      "chainId": 42793,
+      "address": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+      "name": "Midas mTBILL",
+      "symbol": "MTBILL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xDD629E5241CbC5919847783e6C96B2De4754e438.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "dc55ab6b1a4d4fb6114936febdc18138"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0xe4880249745eAc5F1eD9d8F7DF844792D560e750",
+      "name": "Spiko US T Bills Money Market Fund",
+      "symbol": "USTBL",
+      "decimals": 5,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xe4880249745eAc5F1eD9d8F7DF844792D560e750.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6e898491b8226000e325183eed1271a5"
+      }
+    },
+    {
+      "chainId": 42793,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ac638eab789a85a32da906acfbf68173"
+      }
+    },
+    {
       "name": "Tez",
       "symbol": "XTZ",
       "decimals": 18,
@@ -28,11 +220,23 @@
       "logoURI": "https://assets.citrus.finance/token-logos/42793/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
-        "cacheHash": "c777efbf37082d876c76507228a28a13"
+        "cacheHash": "7c6759be7b95feb908a5815774d58148"
       },
       "tags": [
         "Top"
       ]
+    },
+    {
+      "chainId": 42793,
+      "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/42793/0xfc24f770F94edBca6D6f885E12d4317320BcB401.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1964a3aa4a82070a7dfa4bde5ece707d"
+      }
     }
   ]
 }

@@ -5,8 +5,20 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:52.570Z",
+  "timestamp": "2025-08-30T21:01:51.032Z",
   "tokens": [
+    {
+      "chainId": 1284,
+      "address": "0x012414A392F9FA442a3109f1320c439C45518aC3",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1284/0x012414A392F9FA442a3109f1320c439C45518aC3.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6a817d975f4d04d35f7c7bc179545f00"
+      }
+    },
     {
       "chainId": 1284,
       "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
@@ -569,6 +581,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "47e3b6fd31cc140d44bd206b8fa73cdb"
+      }
+    },
+    {
+      "chainId": 1284,
+      "address": "0xe8E8BD89a429526561e1283cb789719864fFd0B4",
+      "name": "Gu",
+      "symbol": "GU",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1284/0xe8E8BD89a429526561e1283cb789719864fFd0B4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3b0e42c4180097b83699b64180eb7dc0"
       }
     },
     {

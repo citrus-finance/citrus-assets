@@ -5,8 +5,32 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:01.182Z",
+  "timestamp": "2025-08-30T21:06:16.863Z",
   "tokens": [
+    {
+      "chainId": 34443,
+      "address": "0x06d6a7BDFFAFa3c953d7B9842f7F414a6e0bEb4A",
+      "name": "Swarm Markets",
+      "symbol": "SMT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x06d6a7BDFFAFa3c953d7B9842f7F414a6e0bEb4A.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d538ad020b66334a61a4b24476861711"
+      }
+    },
+    {
+      "chainId": 34443,
+      "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+      }
+    },
     {
       "chainId": 34443,
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
@@ -153,6 +177,18 @@
     },
     {
       "chainId": 34443,
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "name": "Burn Wrapped AJNA",
+      "symbol": "bwAJNA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0c20b752b2eb446805704720c0acec95"
+      }
+    },
+    {
+      "chainId": 34443,
       "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
       "name": "Synthetix",
       "symbol": "SNX",
@@ -237,6 +273,18 @@
     },
     {
       "chainId": 34443,
+      "address": "0xe3C0FF176eF92FC225096C6d1788cCB818808b35",
+      "name": "Obelisk BTC",
+      "symbol": "oBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xe3C0FF176eF92FC225096C6d1788cCB818808b35.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7ee0499beb1b69efc0f5b8d5c807b5ab"
+      }
+    },
+    {
+      "chainId": 34443,
       "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
@@ -256,7 +304,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/34443/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "bfb168ceaac1604bd86840c291c83c72"
+        "cacheHash": "29e67ecf1504205c7c1e021eaf99110c"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:20.735Z",
+  "timestamp": "2025-08-30T21:07:07.137Z",
   "tokens": [
     {
       "chainId": 534352,
@@ -17,6 +17,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "dd0bfc040a56492428c71aab3c54defe"
+      }
+    },
+    {
+      "chainId": 534352,
+      "address": "0x17a60bB4649A7Bb885d05c008D7118a5E513d895",
+      "name": "BAGGOR",
+      "symbol": "BAGGOR",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/534352/0x17a60bB4649A7Bb885d05c008D7118a5E513d895.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "212348310107ce94f55b34edf1bd0ba2"
       }
     },
     {
@@ -253,10 +265,10 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 534352,
-      "logoURI": "https://assets.citrus.finance/token-logos/534352/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/534352/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x5300000000000000000000000000000000000004",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "cacheHash": "cdc9da13b3686d749bda948d16076cb6"
       },
       "tags": [
         "Top"

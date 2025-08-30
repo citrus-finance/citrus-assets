@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:39.569Z",
+  "timestamp": "2025-08-30T21:01:29.461Z",
   "tokens": [
     {
       "chainId": 250,
@@ -140,7 +140,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0x08d70A47D3f28BbF755ae050a783844b40ae5761.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "12288e99bc70ee9a7c7aeeb53b94fe55"
+        "cacheHash": "a73f4c29a723a83b8312fb3fc0af9f3d"
       }
     },
     {
@@ -884,7 +884,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0x4f76664105ba7E35dD4904eC70F2042fc17563d9.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "711cf461cf2dcf7e5d2746cc5627aeae"
+        "cacheHash": "d6c7114d55dcdd5756c7a1d7cda74056"
       }
     },
     {
@@ -1011,7 +1011,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0x5Be1789a6928f8659305BF86aD3054530501f424.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d7a1b2ab79e7f906dce5f1136d868ab6"
+        "cacheHash": "8592d679f4fb1c8a92df17abe6e490d7"
       }
     },
     {
@@ -1062,18 +1062,6 @@
       "tags": [],
       "extensions": {
         "cacheHash": "f1621de6cd7fe7c815a0d864ec967058"
-      }
-    },
-    {
-      "chainId": 250,
-      "address": "0x62227c75908b7d358a9d70eA4670F57f8b012Ccc",
-      "name": "FTM Liquid-Staked via Millenium Club",
-      "symbol": "mFTM",
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/250/0x62227c75908b7d358a9d70eA4670F57f8b012Ccc.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0ca321126904714a5eb2689ff214dc58"
       }
     },
     {
@@ -1146,10 +1134,10 @@
       "name": "Goat Milk",
       "symbol": "GoatM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/250/0x677079211f6C82E34096153E6cEa0d2c26b4b7dc.jpeg",
+      "logoURI": "https://assets.citrus.finance/token-logos/250/0x677079211f6C82E34096153E6cEa0d2c26b4b7dc.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f5847eb8c7f70d876132f5ade9995fb8"
+        "cacheHash": "b36cdd1b3e1f62cb80b4700e3b0e15d2"
       }
     },
     {
@@ -1429,7 +1417,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3a5f05f75667c233c98a4a6cd467aa86"
+        "cacheHash": "0d8ec1746cce7dc49032d08133adfae0"
       }
     },
     {
@@ -1712,7 +1700,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0xbF07093ccd6adFC3dEB259C557b61E94c1F66945.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "17bb88e5d9d398b15cb1e412d94bc8cc"
+        "cacheHash": "e09161b9b73cf3881798b4d8142404e5"
       }
     },
     {
@@ -1788,7 +1776,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0xc5713B6a0F26bf0fdC1c52B90cd184D950be515C.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ea24160b87fb1716f22e7f5a7c9e1a37"
+        "cacheHash": "24a0bf4d95702740f548eaa25adfab38"
       }
     },
     {
@@ -1874,7 +1862,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0xcdE5a11a4ACB4eE4c805352Cec57E236bdBC3837.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "4949f1cbe00efbda66c0183092550131"
+        "cacheHash": "1c8cae3e964cff12668b3911fcfe828d"
       }
     },
     {
@@ -1973,6 +1961,23 @@
       "tags": [],
       "extensions": {
         "cacheHash": "7c2b532bd39131ac9e94571f5a3e2b9c"
+      }
+    },
+    {
+      "chainId": 250,
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "name": "Binance",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/250/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454.png",
+      "tags": [
+        "GROUP:BNB",
+        "PEG:BNB",
+        "RISK:malicious",
+        "tokens"
+      ],
+      "extensions": {
+        "cacheHash": "e45604c8ec6d87798d97e7f78979c702"
       }
     },
     {
@@ -2178,7 +2183,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0xE5586582E1a60E302a53e73E4FaDccAF868b459a.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d6589e4df143b40d63a4d3b1f6f87e70"
+        "cacheHash": "8b839ad91c10eee250ecf0953398a928"
       }
     },
     {
@@ -2211,10 +2216,10 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 250,
-      "logoURI": "https://assets.citrus.finance/token-logos/250/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/250/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "cacheHash": "178a20feb26c3caf83955cfff271b79e"
       },
       "tags": [
         "Top"
@@ -2250,10 +2255,15 @@
       "name": "IceToken",
       "symbol": "ICE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/250/0xf16e81dce15B08F326220742020379B855B87DF9.jpg",
-      "tags": [],
+      "logoURI": "https://assets.citrus.finance/token-logos/250/0xf16e81dce15B08F326220742020379B855B87DF9.webp",
+      "tags": [
+        "crosschain",
+        "GROUP:ICE",
+        "RISK:unverified",
+        "tokens"
+      ],
       "extensions": {
-        "cacheHash": "2e0dc3f8aa4475836f84aab1ba894f76"
+        "cacheHash": "9dcf348674ae9cb1a382413212e58d78"
       }
     },
     {
@@ -2328,7 +2338,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/250/0xfcef8a994209d6916EB2C86cDD2AFD60Aa6F54b1.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "6e0cbd30fcee1f4d2c0c145595de567c"
+        "cacheHash": "584eb294e644b383dd50cc057b430d04"
       }
     },
     {

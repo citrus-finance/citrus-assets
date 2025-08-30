@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:12:10.804Z",
+  "timestamp": "2025-08-30T21:02:04.088Z",
   "tokens": [
     {
       "chainId": 5000,
@@ -89,6 +89,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "94798ded7554b91feb89d96bee45aa12"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Mantle Bridged sUSDE  Mantle ",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0f945a0e894b3bf41ad21a269ab1f30d"
       }
     },
     {
@@ -293,6 +305,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "a46a266c351fc2cf316b2869b658385e"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x671642Ac281C760e34251d51bC9eEF27026F3B7a",
+      "name": "Mantle Index Four Fund",
+      "symbol": "MI4",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0x671642Ac281C760e34251d51bC9eEF27026F3B7a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d326fc1eb424d9f41870a2ba4dbb2187"
       }
     },
     {
@@ -537,6 +561,18 @@
     },
     {
       "chainId": 5000,
+      "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7953aba5bfa4852c8f27b469b42f91ad"
+      }
+    },
+    {
+      "chainId": 5000,
       "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
       "name": "Ignition FBTC",
       "symbol": "FBTC",
@@ -585,6 +621,18 @@
     },
     {
       "chainId": 5000,
+      "address": "0xd0728F5b1F53A834F8dcd1B86f62CeB8726eb0a0",
+      "name": "Vertex",
+      "symbol": "VRTX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xd0728F5b1F53A834F8dcd1B86f62CeB8726eb0a0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ef437e74bc2b0d78e99ca35792dbb75e"
+      }
+    },
+    {
+      "chainId": 5000,
       "address": "0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79",
       "name": "Aurelius USD",
       "symbol": "AUSD",
@@ -617,6 +665,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "cc1bf51020c33088296ee36bdf0c18f2"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xE231DB5F348d709239Ef1741EA30961B3B635a61",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xE231DB5F348d709239Ef1741EA30961B3B635a61.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9caa654da4298f2967d4152f66225e4f"
       }
     },
     {
@@ -664,7 +724,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/5000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "cacheHash": "deab22a815ed2b4414c5d3d1f0a6c092"
+        "cacheHash": "35d924a68bdf009580ff2a431cbaa16f"
       },
       "tags": [
         "Top"
@@ -692,6 +752,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "637654164150f5937b71c310163c13e1"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xfe36cF0B43aAe49fBc5cFC5c0AF22a623114E043",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/5000/0xfe36cF0B43aAe49fBc5cFC5c0AF22a623114E043.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "9733e5544c72fe839ba9f40b44e1e0cf"
       }
     }
   ]

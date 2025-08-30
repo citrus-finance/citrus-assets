@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:14.088Z",
+  "timestamp": "2025-08-30T21:06:40.122Z",
   "tokens": [
     {
       "chainId": 80084,
@@ -18,21 +18,6 @@
       "extensions": {
         "cacheHash": "a1ac85f33c892d64cb1c861c4b12dc2e"
       }
-    },
-    {
-      "name": "BERA Token",
-      "symbol": "BERA",
-      "decimals": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 80084,
-      "logoURI": "https://assets.citrus.finance/token-logos/80084/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
-      "extensions": {
-        "wrapped": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
-        "cacheHash": "f46cf581addeac7503c5f6f59fdedcec"
-      },
-      "tags": [
-        "Top"
-      ]
     }
   ]
 }

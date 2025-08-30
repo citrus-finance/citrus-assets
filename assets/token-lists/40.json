@@ -5,8 +5,20 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:10:33.953Z",
+  "timestamp": "2025-08-30T20:56:49.739Z",
   "tokens": [
+    {
+      "chainId": 40,
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "fa247c0a75ab68ad132666862e15b9d5"
+      }
+    },
     {
       "chainId": 40,
       "address": "0x26Ed0F16e777C94A6FE798F9E20298034930Bae8",
@@ -41,6 +53,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "60fc183bb1c7167e23790c69d904bc11"
+      }
+    },
+    {
+      "chainId": 40,
+      "address": "0x568524DA340579887db50Ecf602Cd1BA8451b243",
+      "name": "MST",
+      "symbol": "MST",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0x568524DA340579887db50Ecf602Cd1BA8451b243.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "efd552c9dfbe3b5627b05e6f160ad2ef"
+      }
+    },
+    {
+      "chainId": 40,
+      "address": "0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8",
+      "name": "Bridged stgUSDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0x674843C06FF83502ddb4D37c2E09C01cdA38cbc8.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4c1360309ee8724e10da1d44aea2ad24"
       }
     },
     {
@@ -85,10 +121,22 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/40/0x8D97Cea50351Fb4329d591682b148D43a0C3611b.jpg",
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0x8D97Cea50351Fb4329d591682b148D43a0C3611b.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "71f08a01ed7d1760e628e4e69c9155c2"
+        "cacheHash": "afd5b51a49bdc8b121f1305a6d3c8458"
+      }
+    },
+    {
+      "chainId": 40,
+      "address": "0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9",
+      "name": "USDM Stablecoin",
+      "symbol": "USDM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0x8f7D64ea96D729EF24a0F30b4526D47b80d877B9.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3d076d4730303e687a34d5c8058dab4a"
       }
     },
     {
@@ -129,14 +177,38 @@
     },
     {
       "chainId": 40,
+      "address": "0xaf89115201AE5E89E77cd21E2960546f4f82A3Cf",
+      "name": "DEFLATION, BABY.",
+      "symbol": "DEFLATION",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xaf89115201AE5E89E77cd21E2960546f4f82A3Cf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ccb4e407d28958d5bcd4dfebb95e08e9"
+      }
+    },
+    {
+      "chainId": 40,
       "address": "0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905",
       "name": "Staked TLOS",
       "symbol": "STLOS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.jpg",
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e33e7d5581ea5ddfa9c62a1a5a0e8477"
+        "cacheHash": "d16a3736cbab2608028a7619b9bb8ce8"
+      }
+    },
+    {
+      "chainId": 40,
+      "address": "0xBAb93B7ad7fE8692A878B95a8e689423437cc500",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xBAb93B7ad7fE8692A878B95a8e689423437cc500.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "0a22be0badd28327f332aff8e9b840f9"
       }
     },
     {
@@ -164,15 +236,27 @@
       }
     },
     {
+      "chainId": 40,
+      "address": "0xee327F30dA53B42cCF80A6b86f818702365ef954",
+      "name": "GM",
+      "symbol": "GM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xee327F30dA53B42cCF80A6b86f818702365ef954.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "5d7d8818118135af059eb3ecbaf59bdf"
+      }
+    },
+    {
       "name": "Telos",
       "symbol": "TLOS",
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 40,
-      "logoURI": "https://assets.citrus.finance/token-logos/40/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "cacheHash": "819b7a1234ed7f58b42300e50d671f50"
       },
       "tags": [
         "Top"
@@ -188,6 +272,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "39a90ffc6f404a07bedab4beb454d5fe"
+      }
+    },
+    {
+      "chainId": 40,
+      "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/40/0xF1815bd50389c46847f0Bda824eC8da914045D14.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "397d78db80c19bc8e7a0fd73d43258b1"
       }
     },
     {

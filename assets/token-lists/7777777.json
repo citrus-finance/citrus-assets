@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:23.301Z",
+  "timestamp": "2025-08-30T21:07:07.923Z",
   "tokens": [
     {
       "chainId": 7777777,
@@ -40,7 +40,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/7777777/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "6a98b1e5defd4819c80344d8d4ef4607"
+        "cacheHash": "25434a85013e8760b019d1b37eef2436"
       },
       "tags": [
         "Top"

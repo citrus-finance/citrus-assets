@@ -5,8 +5,151 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:10:34.608Z",
+  "timestamp": "2025-08-30T20:56:53.043Z",
   "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
+      "name": "XSwap Treasury Token",
+      "symbol": "XTT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D.png",
+      "tags": [
+        "farming",
+        "xdcpad",
+        "launchpad"
+      ],
+      "extensions": {
+        "cacheHash": "fd30e1a915d2b88bb1b19847e56f0ece"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
+      "name": "STASIS EURO",
+      "symbol": "EURS",
+      "decimals": 2,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F.png",
+      "tags": [
+        "stable"
+      ],
+      "extensions": {
+        "cacheHash": "ce81ab26359fae3788e93fee22feca34"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x2A8E898b6242355c290E1f4Fc966b8788729A4D4",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x2A8E898b6242355c290E1f4Fc966b8788729A4D4.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4cd2c963c811a1067a006a40ff01ed7a"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
+      "name": "Fathom Protocol Token",
+      "symbol": "FTHM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c.png",
+      "tags": [
+        "core"
+      ],
+      "extensions": {
+        "cacheHash": "d5ca07ae27419336161652215067ca4f"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+      "name": "XSP Token",
+      "symbol": "XSP",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68.png",
+      "tags": [
+        "dex",
+        "swap"
+      ],
+      "extensions": {
+        "cacheHash": "e54562ebccf885441d4d9f3c3f9f5ca5"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
+      "name": "Fathom USD",
+      "symbol": "FXD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x49d3f7543335cf38Fa10889CCFF10207e22110B5.png",
+      "tags": [
+        "core",
+        "stable"
+      ],
+      "extensions": {
+        "cacheHash": "347f23365486d3d6c9be3fda1ff12d10"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
+      "name": "Storx",
+      "symbol": "SRX",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd.png",
+      "tags": [
+        "core"
+      ],
+      "extensions": {
+        "cacheHash": "755509f097585c954bf5e7446b76869f"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169",
+      "name": "0xFútbol",
+      "symbol": "FUTBOL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x6168664FFc0a22CC4e9DF7cB7247Dcbb0C066169.png",
+      "tags": [
+        "game"
+      ],
+      "extensions": {
+        "cacheHash": "4f758abf4ecdd2f7d9638236b9b767a4"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6",
+      "name": "Gama Coin",
+      "symbol": "GAMA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x678adF7955d8f6dCaa9e2fcC1C5BA70bCcC464E6.png",
+      "tags": [
+        "gamefi"
+      ],
+      "extensions": {
+        "cacheHash": "d60dbf5d9f092bcb33d37fc6219c9a61"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+      "name": "Comtech Gold",
+      "symbol": "CGO",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x8f9920283470F52128bF11B0c14E798bE704fD15.png",
+      "tags": [
+        "core",
+        "stable"
+      ],
+      "extensions": {
+        "cacheHash": "107244bbe0a884e0a683d77cf3cd80a4"
+      }
+    },
     {
       "chainId": 50,
       "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
@@ -20,6 +163,95 @@
       }
     },
     {
+      "chainId": 50,
+      "address": "0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6",
+      "name": "PrimeStakedXDC",
+      "symbol": "psXDC",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0x9B8e12b0BAC165B86967E771d98B520Ec3F665A6.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6f3eef156b27494f001b314d9462e4c0"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xa7348290de5cf01772479c48D50dec791c3fC212",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xa7348290de5cf01772479c48D50dec791c3fC212.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "6ccc79fe9ff25dc0e82abc9c5606263e"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb",
+      "name": "EquitEdge ERC20 Token",
+      "symbol": "EEG",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xAec5Eaf63402BF842D8642d917685e5ad3BA14bb.png",
+      "tags": [
+        "rwa"
+      ],
+      "extensions": {
+        "cacheHash": "a9110769ba76919e2731cd34dc54e5ed"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf",
+      "name": "USDC@xinfin",
+      "symbol": "xUSDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "67925a64944a16fd4b3f24ec0722e9ca"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xCc0587aeBDa397146cc828b445dB130a94486e74",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xCc0587aeBDa397146cc828b445dB130a94486e74.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "065a48830596fa834df9a8a4ead6b6f1"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
+      "name": "Bridged stgUSDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e6fdb0b5b15394486240fdbfd6e17027"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+      "name": "Bridged USDT",
+      "symbol": "xUSDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437.png",
+      "tags": [
+        "wanchain",
+        "stable"
+      ],
+      "extensions": {
+        "cacheHash": "6d832e81d2b09cfdd16e6043a021aa98"
+      }
+    },
+    {
       "name": "XDC",
       "symbol": "XDC",
       "decimals": 18,
@@ -28,11 +260,37 @@
       "logoURI": "https://assets.citrus.finance/token-logos/50/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x951857744785E80e2De051c32EE7b25f9c458C42",
-        "cacheHash": "94f3305141ab2c3f0f6a8d013829c622"
+        "cacheHash": "443f4906f33402a0616a58cbff16e68e"
       },
       "tags": [
         "Top"
       ]
+    },
+    {
+      "chainId": 50,
+      "address": "0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1",
+      "name": "Beny Bad Boy",
+      "symbol": "BBB",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "27b043adb143a3762899e8e54139d4e7"
+      }
+    },
+    {
+      "chainId": 50,
+      "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/50/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391.png",
+      "tags": [
+        "core"
+      ],
+      "extensions": {
+        "cacheHash": "053820ee75645efdef8ed76322775886"
+      }
     }
   ]
 }

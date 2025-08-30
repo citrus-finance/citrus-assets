@@ -1,0 +1,107 @@
+{
+  "name": "Citrus Finance on chain:1868",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:07:32.663Z",
+  "tokens": [
+    {
+      "chainId": 1868,
+      "address": "0x102d758f688a4C1C5a80b116bD945d4455460282",
+      "name": "Stargate USD₮0 (Bridged)",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d236883caf5f2a9602e9156f36001fa1"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x4200000000000000000000000000000000000006.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0x6ef08F42C936f5d101B76160c816D3c8181C9867",
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x6ef08F42C936f5d101B76160c816D3c8181C9867.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "db62fdc66c6712fa52703f65daa3e70c"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c8c8ec5eb6880886b8bde0fa7940838b"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0xBC63230d1C4d0Cd241D66F5AaE75f3D1d6C0949a",
+      "name": "ELYSIA",
+      "symbol": "EL",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xBC63230d1C4d0Cd241D66F5AaE75f3D1d6C0949a.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "8f5d5bc74a7a77f715c1c1a2b287423d"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0xF765356C901a064A74Fa4560622f21C91048c3D7",
+      "name": "SuperVerse",
+      "symbol": "SUPER",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xF765356C901a064A74Fa4560622f21C91048c3D7.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "ecdfc58bfb26ae3c2337f15d452a54b2"
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0xf93322688ddfE432c21c0B4E709d77DEab7e923F",
+      "name": "TRALA TOKEN",
+      "symbol": "TRALA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xf93322688ddfE432c21c0B4E709d77DEab7e923F.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "14c9e89756ceb69880858d6758a61871"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Citrus Finance on chain:6900",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:10:19.196Z",
+  "tokens": [
+    {
+      "chainId": 6900,
+      "address": "0x0829F361A05D993d5CEb035cA6DF3446b060970b",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x0829F361A05D993d5CEb035cA6DF3446b060970b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "7856d2d8a8121f25ed5594976d32cbe1"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
+      "name": "Wrapped NIBI",
+      "symbol": "WNIBI",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3fc73b30c83e99544181932db112f45b"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0x43F2376D5D03553aE72F4A8093bbe9de4336EB08",
+      "name": "Bridged USDT (Stargate)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x43F2376D5D03553aE72F4A8093bbe9de4336EB08.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3369ae57e431cd1e906bc4906f3304df"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0x84f682626302EA7BCA2A7c338b84863292131319",
+      "name": "USDa saving token",
+      "symbol": "sUSDa",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x84f682626302EA7BCA2A7c338b84863292131319.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "1ff0f6ce4226ac8bcef9be8d0b078d2a"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b",
+      "name": "Liquid Staked Nibiru",
+      "symbol": "stNIBI",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "296363f4c4c869992b7a253f62303799"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f567d784f393873e6c6913fd5e77691f"
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0xf4e097E36d2064E2bDCA96e60439f3A369522003",
+      "name": "USDa",
+      "symbol": "USDa",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xf4e097E36d2064E2bDCA96e60439f3A369522003.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "aee02432d9dbe0fc4fa153e372616a7b"
+      }
+    }
+  ]
+}

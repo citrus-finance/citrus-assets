@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:25.346Z",
+  "timestamp": "2025-08-30T21:01:20.663Z",
   "tokens": [
     {
       "chainId": 169,
@@ -89,6 +89,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "84b4c0ff95a6bc6f6cb122b8985dc526"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+      "name": "Ethena Staked USDe",
+      "symbol": "SUSDE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c6a3ca94d6c11a8f4653a78f3411d5a1"
       }
     },
     {
@@ -189,6 +201,18 @@
     },
     {
       "chainId": 169,
+      "address": "0x6745CF7A0aAca457F451a4b8c60c8504320F69d0",
+      "name": "Calamari Network",
+      "symbol": "KMA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x6745CF7A0aAca457F451a4b8c60c8504320F69d0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "22ec5145c56f694767e4b72ea9c54e0b"
+      }
+    },
+    {
+      "chainId": 169,
       "address": "0x6E9655611b42C10b9aF25B6ca08bE349Df45c370",
       "name": "Bridged Rocket Pool ETH  Manta Pacific ",
       "symbol": "RETH",
@@ -221,6 +245,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "e00c85c99d449fa864a13c880c98007b"
+      }
+    },
+    {
+      "chainId": 169,
+      "address": "0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761",
+      "name": "ZeUSD",
+      "symbol": "ZEUSD",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/169/0x7DC9748DA8E762e569F9269f48F69A1a9F8Ea761.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "3c28322d0b2b9ef35ee528bc3d290695"
       }
     },
     {
@@ -472,7 +508,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/169/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
-        "cacheHash": "6d5898d1680beb4abc55283fa625aa3f"
+        "cacheHash": "d6d28e34c33527efa8252293426fc611"
       },
       "tags": [
         "Top"

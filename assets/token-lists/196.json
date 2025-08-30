@@ -5,8 +5,44 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:11:27.761Z",
+  "timestamp": "2025-08-30T21:01:23.459Z",
   "tokens": [
+    {
+      "chainId": 196,
+      "address": "0x069f3bb2A286Ec9ce9F4DADba5E1E9e1d80BA27f",
+      "name": "ZenAI",
+      "symbol": "ZEN",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x069f3bb2A286Ec9ce9F4DADba5E1E9e1d80BA27f.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c51bfb7927194ae8c44442966a4fdfe1"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x095c1a875b985be6e2c86b2caE0b66A3df702E6a",
+      "name": "Xwawa",
+      "symbol": "XWAWA",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x095c1a875b985be6e2c86b2caE0b66A3df702E6a.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "2748d3fe424b6c012e79e8f26f8eb8e7"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x0cc24c51BF89c00c5afFBfCf5E856C25ecBdb48e",
+      "name": "XDOG",
+      "symbol": "XDOG",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x0cc24c51BF89c00c5afFBfCf5E856C25ecBdb48e.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "fad97d13432575dfae12280de4bb8406"
+      }
+    },
     {
       "chainId": 196,
       "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
@@ -41,6 +77,30 @@
       "tags": [],
       "extensions": {
         "cacheHash": "eb430ce545e99a4313660dc80dbe4c7f"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x4122A43daecD13CfB2543Ad339470fD87bc11111",
+      "name": "OKIE",
+      "symbol": "OKIE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x4122A43daecD13CfB2543Ad339470fD87bc11111.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "bcf1e41e2760a0294e5127b617f45fe1"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x42AA33FA0377341407283BFD2A284736C5eB74E7",
+      "name": "OKBOK",
+      "symbol": "OKBOK",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x42AA33FA0377341407283BFD2A284736C5eB74E7.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "f3f1bf4ebfa7d7008dfee1dc34c1ecbf"
       }
     },
     {
@@ -101,6 +161,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "ef565fae13ff981e5a9747aab8293abf"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "SFRXUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "72b63e2ca678bf743c6576288dc5dcb7"
       }
     },
     {
@@ -177,6 +249,18 @@
     },
     {
       "chainId": 196,
+      "address": "0x8854b281Cdf5940Ebd4a753F8D37f49775058e03",
+      "name": "Okay fun",
+      "symbol": "OKAY",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0x8854b281Cdf5940Ebd4a753F8D37f49775058e03.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "a5369143469793a6f8d3aa28dd3949da"
+      }
+    },
+    {
+      "chainId": 196,
       "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
       "name": "X Layer Bridged USDC  X Layer ",
       "symbol": "USDCE",
@@ -197,6 +281,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "585eaffe4c364e8dcff611a1e1fcb549"
+      }
+    },
+    {
+      "chainId": 196,
+      "address": "0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf",
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/196/0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cc90880dd34de7bd44414a323dbb1995"
       }
     },
     {
@@ -256,7 +352,7 @@
       "logoURI": "https://assets.citrus.finance/token-logos/196/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
       "extensions": {
         "wrapped": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
-        "cacheHash": "765eb73f288bbc21d60dfab1c6eedfb8"
+        "cacheHash": "aa85e2296b9886314acd75b8e1beab3b"
       },
       "tags": [
         "Top"

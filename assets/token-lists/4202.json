@@ -5,8 +5,20 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:12:06.743Z",
+  "timestamp": "2025-08-30T21:02:03.093Z",
   "tokens": [
+    {
+      "chainId": 4202,
+      "address": "0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "4663dbe54bec02f96555f75ce0199594"
+      }
+    },
     {
       "chainId": 4202,
       "address": "0x4200000000000000000000000000000000000006",
@@ -21,6 +33,18 @@
     },
     {
       "chainId": 4202,
+      "address": "0x4b82a31EBCD41fD4b98123cF141853aCD1166875",
+      "name": "UTUCoinMock",
+      "symbol": "UTUM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x4b82a31EBCD41fD4b98123cF141853aCD1166875.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d17fda9bf62027e1852e0c6292684c08"
+      }
+    },
+    {
+      "chainId": 4202,
       "address": "0x8a21CF9Ba08Ae709D64Cb25AfAA951183EC9FF6D",
       "name": "Lisk",
       "symbol": "LSK",
@@ -29,6 +53,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "7f256ed3b46b51f7995366c6445a55ca"
+      }
+    },
+    {
+      "chainId": 4202,
+      "address": "0xD63029C1a3dA68b51c67c6D1DeC3DEe50D681661",
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "decimals": 2,
+      "logoURI": "https://assets.citrus.finance/token-logos/4202/0xD63029C1a3dA68b51c67c6D1DeC3DEe50D681661.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "e632cb076141ba10af9afcdab695e1d5"
       }
     },
     {

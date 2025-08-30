@@ -1,0 +1,59 @@
+{
+  "name": "Citrus Finance on chain:151",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:10:14.226Z",
+  "tokens": [
+    {
+      "chainId": 151,
+      "address": "0x5501A36b1313aC5d27e85418acd2AA4564f50b44",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.citrus.finance/token-logos/151/0x5501A36b1313aC5d27e85418acd2AA4564f50b44.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "62b8034a1c2e7d3c40e72dedc251bb6a"
+      }
+    },
+    {
+      "chainId": 151,
+      "address": "0x6ed1F491e2d31536D6561f6bdB2AdC8F092a6076",
+      "name": "Wrapped RBNT",
+      "symbol": "WRBNT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/151/0x6ed1F491e2d31536D6561f6bdB2AdC8F092a6076.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "c3de9a41b0e00d0c269fd4eb0c3b58c2"
+      }
+    },
+    {
+      "chainId": 151,
+      "address": "0x8201c02d4AB2214471E8C3AD6475C8b0CD9F2D06",
+      "name": "USD Coin",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/151/0x8201c02d4AB2214471E8C3AD6475C8b0CD9F2D06.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "48ad78325bfc251ae88404aea0992002"
+      }
+    },
+    {
+      "chainId": 151,
+      "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/151/0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "10eebf3e8969a5c10f9d042fcb479de9"
+      }
+    }
+  ]
+}

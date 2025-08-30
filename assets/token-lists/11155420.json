@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:23.949Z",
+  "timestamp": "2025-08-30T21:07:08.994Z",
   "tokens": [
     {
       "chainId": 11155420,
@@ -93,6 +93,18 @@
     },
     {
       "chainId": 11155420,
+      "address": "0x7E5A0b6C5c32883AE8E5b830c05688Eff317c3fb",
+      "name": "BTREE",
+      "symbol": "BTREE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x7E5A0b6C5c32883AE8E5b830c05688Eff317c3fb.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "282ed97de6cb3b655e04081e9f908710"
+      }
+    },
+    {
+      "chainId": 11155420,
       "address": "0x819845b60A192167Ed1139040B4F8ecA31834f27",
       "name": "IRARA Token",
       "symbol": "IRARA",
@@ -129,6 +141,18 @@
       "tags": [
         "Top"
       ]
+    },
+    {
+      "chainId": 11155420,
+      "address": "0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014",
+      "name": "Wrapped WIT",
+      "symbol": "WIT",
+      "decimals": 9,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "09a4c27cfb8d84f3565ec594fe8c556b"
+      }
     }
   ]
 }

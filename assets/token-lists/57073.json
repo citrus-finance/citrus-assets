@@ -1,0 +1,23 @@
+{
+  "name": "Citrus Finance on chain:57073",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-08-30T21:09:24.515Z",
+  "tokens": [
+    {
+      "chainId": 57073,
+      "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+      "name": "USD₮0",
+      "symbol": "USD₮0",
+      "decimals": 6,
+      "logoURI": "https://assets.citrus.finance/token-logos/57073/0x0200C29006150606B650577BBE7B6248F58470c1.png",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+      }
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2024-12-29T17:14:23.915Z",
+  "timestamp": "2025-08-30T21:07:08.779Z",
   "tokens": [
     {
       "chainId": 11155111,
@@ -153,14 +153,14 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43",
-      "name": "Morpho Token",
-      "symbol": "MORPHO",
+      "address": "0x3cf4ccf7Ec4Bb094d1504D1315057A46005d5065",
+      "name": "Massive Vehicle Ledger",
+      "symbol": "MVL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0x3CF66a662390e37ff260D0cBAa8Af6d426D60D43.ico",
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0x3cf4ccf7Ec4Bb094d1504D1315057A46005d5065.ico",
       "tags": [],
       "extensions": {
-        "cacheHash": "e7cb044e4620fdbb2e7530154a8c5399"
+        "cacheHash": "1c5d452cddb91cfc01871f21bceb7843"
       }
     },
     {
@@ -297,6 +297,30 @@
     },
     {
       "chainId": 11155111,
+      "address": "0x8389eFa79EF27De249AF63f034D7A94dFBdd4cBE",
+      "name": "BTREE",
+      "symbol": "BTREE",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0x8389eFa79EF27De249AF63f034D7A94dFBdd4cBE.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "282ed97de6cb3b655e04081e9f908710"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x8a4CB9e34335e0D432CCa9b7199DC99aF5eD20EB",
+      "name": "Impossible Cloud Network Token (Testnet)",
+      "symbol": "tICNT",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0x8a4CB9e34335e0D432CCa9b7199DC99aF5eD20EB.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "891e8ac14efa1c892ddc143663746fab"
+      }
+    },
+    {
+      "chainId": 11155111,
       "address": "0x90C9155EC3c2C4aD624Db896864fC62eb3D62626",
       "name": "True",
       "symbol": "TRUE",
@@ -317,6 +341,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "dc67a5cd63e21fbd0dc8b5577cd31dd1"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xa5939298bc1905E3a1047dd50a3459084BB4E7C8",
+      "name": "Polemos",
+      "symbol": "PLMS",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0xa5939298bc1905E3a1047dd50a3459084BB4E7C8.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "cde7b3e8cef8dfc0ec7431b9ade6ef0b"
       }
     },
     {
@@ -389,6 +425,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "dbb36b1e8b538a9f27eee161fd00e027"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xC3586558ddb1Cc6C7c5338691842b8d5F47D253d",
+      "name": "UTUCoinMock",
+      "symbol": "UTUM",
+      "decimals": 18,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0xC3586558ddb1Cc6C7c5338691842b8d5F47D253d.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "d17fda9bf62027e1852e0c6292684c08"
       }
     },
     {
@@ -512,6 +560,18 @@
       "tags": [],
       "extensions": {
         "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014",
+      "name": "Wrapped WIT",
+      "symbol": "WIT",
+      "decimals": 9,
+      "logoURI": "https://assets.citrus.finance/token-logos/11155111/0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014.ico",
+      "tags": [],
+      "extensions": {
+        "cacheHash": "09a4c27cfb8d84f3565ec594fe8c556b"
       }
     },
     {
