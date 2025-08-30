@@ -6,10 +6,10 @@
   "license": "MIT",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^22.7.4",
+    "@types/node": "^24.3.0",
     "husky": "^9.1.6",
     "prettier": "3.3.3",
-    "typescript": "^5.6.2"
+    "typescript": "^5.9.2"
   },
   "scripts": {
     "build": "yarn add viem && tsc --outDir build",

@@ -1,3 +1,5 @@
+process.loadEnvFile();
+
 import buildNetworks from "./buildNetworks.js";
 import { TokenMap } from "./types/TokenMap.js";
 import addManyTokenLists from "./utils/addManyTokenLists.js";

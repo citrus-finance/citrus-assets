@@ -1,0 +1,4469 @@
+[
+  {
+    "result": {
+      "data": {
+        "dataMap": {
+          "avalanche": {
+            "value": "avalanche",
+            "label": "Avalanche",
+            "networks": [
+              {
+                "network": "avalanche",
+                "blockchain": "avalanche",
+                "network_label": "Mainnet",
+                "blockchain_label": "Avalanche",
+                "priority": 100,
+                "explorers": ["https://snowscan.xyz", "https://snowtrace.io"],
+                "currency": {
+                  "name": "Avalanche",
+                  "symbol": "AVAX",
+                  "decimals": 18
+                },
+                "chain_id": "0xa86a",
+                "chain_grpc_id": 1013,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "avalanche-fuji",
+                "blockchain": "avalanche",
+                "network_label": "Fuji",
+                "blockchain_label": "Avalanche",
+                "priority": 1,
+                "explorers": [
+                  "https://testnet.snowscan.xyz",
+                  "https://testnet.snowtrace.io"
+                ],
+                "currency": {
+                  "name": "Avalanche",
+                  "symbol": "AVAX",
+                  "decimals": 18
+                },
+                "chain_id": "0xa869",
+                "chain_grpc_id": 10018,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "polygon": {
+            "value": "polygon",
+            "label": "Polygon",
+            "networks": [
+              {
+                "network": "polygon",
+                "blockchain": "polygon",
+                "network_label": "Mainnet",
+                "blockchain_label": "Polygon",
+                "priority": 100,
+                "explorers": ["https://polygon.blockscout.com"],
+                "currency": {
+                  "name": "POL",
+                  "symbol": "POL",
+                  "decimals": 18
+                },
+                "chain_id": "0x89",
+                "chain_grpc_id": 1002,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "polygon-amoy",
+                "blockchain": "polygon",
+                "network_label": "Amoy",
+                "blockchain_label": "Polygon",
+                "priority": 10,
+                "explorers": [
+                  "https://amoy.polygonscan.com",
+                  "https://www.oklink.com/amoy"
+                ],
+                "currency": {
+                  "name": "POL",
+                  "symbol": "POL",
+                  "decimals": 18
+                },
+                "chain_id": "0x13882",
+                "chain_grpc_id": 10048,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": true,
+            "public": true
+          },
+          "gnosis": {
+            "value": "gnosis",
+            "label": "Gnosis",
+            "networks": [
+              {
+                "network": "gnosis",
+                "blockchain": "gnosis",
+                "network_label": "Mainnet",
+                "blockchain_label": "Gnosis",
+                "priority": 100,
+                "explorers": ["https://gnosis.blockscout.com"],
+                "currency": {
+                  "name": "xDAI",
+                  "symbol": "XDAI",
+                  "decimals": 18
+                },
+                "chain_id": "0x64",
+                "chain_grpc_id": 1012,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "gnosis-chiado",
+                "blockchain": "gnosis",
+                "network_label": "Chiado",
+                "blockchain_label": "Gnosis",
+                "priority": 1,
+                "explorers": [
+                  "https://blockscout.chiadochain.net",
+                  "https://gnosis-chiado.blockscout.com"
+                ],
+                "currency": {
+                  "name": "Chiado xDAI",
+                  "symbol": "XDAI",
+                  "decimals": 18
+                },
+                "chain_id": "0x27d8",
+                "chain_grpc_id": 10017,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "base": {
+            "value": "base",
+            "label": "Base",
+            "networks": [
+              {
+                "network": "base-sepolia",
+                "blockchain": "base",
+                "network_label": "Sepolia",
+                "blockchain_label": "Base",
+                "priority": 2,
+                "explorers": ["https://base-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x14a34",
+                "chain_grpc_id": 10040,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "base",
+                "blockchain": "base",
+                "network_label": "Mainnet",
+                "blockchain_label": "Base",
+                "priority": 100,
+                "explorers": ["https://base.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x2105",
+                "chain_grpc_id": 1010,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": true,
+            "public": true
+          },
+          "eth-beacon-chain": {
+            "value": "eth-beacon-chain",
+            "label": "Ethereum Beacon Chain",
+            "networks": [
+              {
+                "network": "eth-beacon-chain",
+                "blockchain": "eth-beacon-chain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ethereum Beacon Chain",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 1053,
+                "api_type": "rest",
+                "blockchain_type": "eth-beacon-chain",
+                "public": true
+              },
+              {
+                "network": "eth-beacon-chain-sepolia",
+                "blockchain": "eth-beacon-chain",
+                "network_label": "Sepolia",
+                "blockchain_label": "Ethereum Beacon Chain",
+                "priority": 5,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10070,
+                "api_type": "rest",
+                "blockchain_type": "eth-beacon-chain",
+                "public": true
+              },
+              {
+                "network": "eth-beacon-chain-holesky",
+                "blockchain": "eth-beacon-chain",
+                "network_label": "Holesky",
+                "blockchain_label": "Ethereum Beacon Chain",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10071,
+                "api_type": "rest",
+                "blockchain_type": "eth-beacon-chain",
+                "public": true
+              },
+              {
+                "network": "eth-beacon-chain-hoodi",
+                "blockchain": "eth-beacon-chain",
+                "network_label": "Hoodi",
+                "blockchain_label": "Ethereum Beacon Chain",
+                "priority": 15,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10132,
+                "api_type": "rest",
+                "blockchain_type": "eth-beacon-chain",
+                "public": true
+              }
+            ],
+            "api_type": "rest",
+            "blockchain_type": "eth-beacon-chain",
+            "mev": false,
+            "public": true
+          },
+          "optimism": {
+            "value": "optimism",
+            "label": "Optimism",
+            "networks": [
+              {
+                "network": "optimism",
+                "blockchain": "optimism",
+                "network_label": "Mainnet",
+                "blockchain_label": "Optimism",
+                "priority": 100,
+                "explorers": ["https://optimism.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa",
+                "chain_grpc_id": 1005,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "optimism-sepolia",
+                "blockchain": "optimism",
+                "network_label": "Sepolia",
+                "blockchain_label": "Optimism",
+                "priority": 10,
+                "explorers": ["https://optimism-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xaa37dc",
+                "chain_grpc_id": 10038,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "ronin": {
+            "value": "ronin",
+            "label": "Ronin",
+            "networks": [
+              {
+                "network": "ronin-saigon",
+                "blockchain": "ronin",
+                "network_label": "Saigon",
+                "blockchain_label": "Ronin",
+                "priority": 1,
+                "explorers": ["https://saigon-app.roninchain.com"],
+                "currency": {
+                  "name": "Ronin",
+                  "symbol": "RON",
+                  "decimals": 18
+                },
+                "chain_id": "0x7e5",
+                "chain_grpc_id": 10102,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "ronin",
+                "blockchain": "ronin",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ronin",
+                "priority": 100,
+                "explorers": ["https://app.roninchain.com/"],
+                "currency": {
+                  "name": "Ronin",
+                  "symbol": "RON",
+                  "decimals": 18
+                },
+                "chain_id": "0x7e4",
+                "chain_grpc_id": 1043,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "blast": {
+            "value": "blast",
+            "label": "Blast",
+            "networks": [
+              {
+                "network": "blast",
+                "blockchain": "blast",
+                "network_label": "Mainnet",
+                "blockchain_label": "Blast",
+                "priority": 100,
+                "explorers": ["https://blast.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x13e31",
+                "chain_grpc_id": 1051,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "blast-sepolia",
+                "blockchain": "blast",
+                "network_label": "Sepolia",
+                "blockchain_label": "Blast",
+                "priority": 10,
+                "explorers": ["https://blast-testnet.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa0c71fd",
+                "chain_grpc_id": 10049,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "bsc": {
+            "value": "bsc",
+            "label": "BNB Smart Chain",
+            "networks": [
+              {
+                "network": "bsc",
+                "blockchain": "bsc",
+                "network_label": "Mainnet",
+                "blockchain_label": "BNB Smart Chain",
+                "priority": 100,
+                "explorers": ["https://bscscan.com", "https://bnb.dex.guru"],
+                "currency": {
+                  "name": "BNB Chain Native Token",
+                  "symbol": "BNB",
+                  "decimals": 18
+                },
+                "chain_id": "0x38",
+                "chain_grpc_id": 1006,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "bsc-testnet",
+                "blockchain": "bsc",
+                "network_label": "Testnet",
+                "blockchain_label": "BNB Smart Chain",
+                "priority": 1,
+                "explorers": ["https://testnet.bscscan.com"],
+                "currency": {
+                  "name": "BNB Chain Native Token",
+                  "symbol": "tBNB",
+                  "decimals": 18
+                },
+                "chain_id": "0x61",
+                "chain_grpc_id": 10026,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": true,
+            "public": true
+          },
+          "linea": {
+            "value": "linea",
+            "label": "Linea",
+            "networks": [
+              {
+                "network": "linea",
+                "blockchain": "linea",
+                "network_label": "Mainnet",
+                "blockchain_label": "Linea",
+                "priority": 100,
+                "explorers": [
+                  "https://lineascan.build",
+                  "https://explorer.linea.build",
+                  "https://linea.l2scan.co"
+                ],
+                "currency": {
+                  "name": "Linea Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xe708",
+                "chain_grpc_id": 1011,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "linea-sepolia",
+                "blockchain": "linea",
+                "network_label": "Sepolia",
+                "blockchain_label": "Linea",
+                "priority": 2,
+                "explorers": [
+                  "https://sepolia.lineascan.build",
+                  "https://explorer.sepolia.linea.build"
+                ],
+                "currency": {
+                  "name": "Linea Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xe705",
+                "chain_grpc_id": 10074,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "celo": {
+            "value": "celo",
+            "label": "Celo",
+            "networks": [
+              {
+                "network": "celo",
+                "blockchain": "celo",
+                "network_label": "Mainnet",
+                "blockchain_label": "Celo",
+                "priority": 100,
+                "explorers": [
+                  "https://celoscan.io",
+                  "https://explorer.celo.org"
+                ],
+                "currency": {
+                  "name": "CELO",
+                  "symbol": "CELO",
+                  "decimals": 18
+                },
+                "chain_id": "0xa4ec",
+                "chain_grpc_id": 1019,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "celo-alfajores",
+                "blockchain": "celo",
+                "network_label": "Alfajores",
+                "blockchain_label": "Celo",
+                "priority": 1,
+                "explorers": ["https://celo-alfajores.blockscout.com"],
+                "currency": {
+                  "name": "CELO",
+                  "symbol": "CELO",
+                  "decimals": 18
+                },
+                "chain_id": "0xaef3",
+                "chain_grpc_id": 10028,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "celo-sepolia",
+                "blockchain": "celo",
+                "network_label": "Sepolia",
+                "blockchain_label": "Celo",
+                "priority": 10,
+                "explorers": ["https://celo-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "CELO",
+                  "symbol": "CELO",
+                  "decimals": 18
+                },
+                "chain_id": "0xaa044c",
+                "chain_grpc_id": 10139,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "mantle": {
+            "value": "mantle",
+            "label": "Mantle",
+            "networks": [
+              {
+                "network": "mantle",
+                "blockchain": "mantle",
+                "network_label": "Mainnet",
+                "blockchain_label": "Mantle",
+                "priority": 100,
+                "explorers": [
+                  "https://mantlescan.xyz",
+                  "https://explorer.mantle.xyz"
+                ],
+                "currency": {
+                  "name": "Mantle",
+                  "symbol": "MNT",
+                  "decimals": 18
+                },
+                "chain_id": "0x1388",
+                "chain_grpc_id": 1017,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "mantle-sepolia",
+                "blockchain": "mantle",
+                "network_label": "Sepolia",
+                "blockchain_label": "Mantle",
+                "priority": 10,
+                "explorers": ["https://explorer.sepolia.mantle.xyz"],
+                "currency": {
+                  "name": "Sepolia Mantle",
+                  "symbol": "MNT",
+                  "decimals": 18
+                },
+                "chain_id": "0x138b",
+                "chain_grpc_id": 10066,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "ethereum": {
+            "value": "ethereum",
+            "label": "Ethereum",
+            "networks": [
+              {
+                "network": "holesky",
+                "blockchain": "ethereum",
+                "network_label": "Holesky",
+                "blockchain_label": "Ethereum",
+                "priority": 10,
+                "explorers": ["https://eth-holesky.blockscout.com"],
+                "currency": {
+                  "name": "Testnet ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x4268",
+                "chain_grpc_id": 10027,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "sepolia",
+                "blockchain": "ethereum",
+                "network_label": "Sepolia",
+                "blockchain_label": "Ethereum",
+                "priority": 5,
+                "explorers": ["https://eth-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xaa36a7",
+                "chain_grpc_id": 10008,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "ethereum",
+                "blockchain": "ethereum",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ethereum",
+                "priority": 100,
+                "explorers": ["https://eth.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x1",
+                "chain_grpc_id": 100,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "hoodi",
+                "blockchain": "ethereum",
+                "network_label": "Hoodi",
+                "blockchain_label": "Ethereum",
+                "priority": 15,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x88bb0",
+                "chain_grpc_id": 10131,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": true,
+            "public": true
+          },
+          "arbitrum": {
+            "value": "arbitrum",
+            "label": "Arbitrum One",
+            "networks": [
+              {
+                "network": "arbitrum-sepolia",
+                "blockchain": "arbitrum",
+                "network_label": "Sepolia",
+                "blockchain_label": "Arbitrum One",
+                "priority": 10,
+                "explorers": ["https://arbitrum-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x66eee",
+                "chain_grpc_id": 10051,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "arbitrum",
+                "blockchain": "arbitrum",
+                "network_label": "Mainnet",
+                "blockchain_label": "Arbitrum One",
+                "priority": 100,
+                "explorers": ["https://arbitrum.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa4b1",
+                "chain_grpc_id": 1004,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "ink": {
+            "value": "ink",
+            "label": "Ink",
+            "networks": [
+              {
+                "network": "ink",
+                "blockchain": "ink",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ink",
+                "priority": 100,
+                "explorers": ["https://explorer.inkonchain.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xdef1",
+                "chain_grpc_id": 1089,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "ink-sepolia",
+                "blockchain": "ink",
+                "network_label": "Sepolia",
+                "blockchain_label": "Ink",
+                "priority": 1,
+                "explorers": ["https://explorer-sepolia.inkonchain.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xba5ed",
+                "chain_grpc_id": 10115,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "zora": {
+            "value": "zora",
+            "label": "Zora",
+            "networks": [
+              {
+                "network": "zora",
+                "blockchain": "zora",
+                "network_label": "Mainnet",
+                "blockchain_label": "Zora",
+                "priority": 100,
+                "explorers": ["https://explorer.zora.energy"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x76adf1",
+                "chain_grpc_id": 1037,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "zora-sepolia",
+                "blockchain": "zora",
+                "network_label": "Sepolia",
+                "blockchain_label": "Zora",
+                "priority": 10,
+                "explorers": ["https://sepolia.explorer.zora.energy"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x3b9ac9ff",
+                "chain_grpc_id": 10053,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "manta": {
+            "value": "manta",
+            "label": "Manta Network",
+            "networks": [
+              {
+                "network": "manta-pacific",
+                "blockchain": "manta",
+                "network_label": "Manta Pacific Mainnet",
+                "blockchain_label": "Manta Network",
+                "priority": 100,
+                "explorers": ["https://pacific-explorer.manta.network"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa9",
+                "chain_grpc_id": 1033,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "manta-pacific-sepolia",
+                "blockchain": "manta",
+                "network_label": "Manta Pacific Sepolia",
+                "blockchain_label": "Manta Network",
+                "priority": 2,
+                "explorers": [
+                  "https://pacific-explorer.sepolia-testnet.manta.network"
+                ],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x34816e",
+                "chain_grpc_id": 10076,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "sonic": {
+            "value": "sonic",
+            "label": "Sonic",
+            "networks": [
+              {
+                "network": "sonic",
+                "blockchain": "sonic",
+                "network_label": "Mainnet",
+                "blockchain_label": "Sonic",
+                "priority": 100,
+                "explorers": ["https://sonicscan.org"],
+                "currency": {
+                  "name": "Sonic Mainnet",
+                  "symbol": "S",
+                  "decimals": 18
+                },
+                "chain_id": "0x92",
+                "chain_grpc_id": 1087,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "sonic-testnet-v2",
+                "blockchain": "sonic",
+                "network_label": "Testnet",
+                "blockchain_label": "Sonic",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x3909",
+                "chain_grpc_id": 10140,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "sonic-testnet",
+                "blockchain": "sonic",
+                "network_label": "Blaze Testnet",
+                "blockchain_label": "Sonic",
+                "priority": 1,
+                "explorers": ["https://testnet.sonicscan.org"],
+                "currency": {
+                  "name": "Sonic Blaze Testnet",
+                  "symbol": "S",
+                  "decimals": 18
+                },
+                "chain_id": "0xdede",
+                "chain_grpc_id": 10103,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "unichain": {
+            "value": "unichain",
+            "label": "Unichain",
+            "networks": [
+              {
+                "network": "unichain",
+                "blockchain": "unichain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Unichain",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x82",
+                "chain_grpc_id": 1081,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "unichain-sepolia",
+                "blockchain": "unichain",
+                "network_label": "Sepolia",
+                "blockchain_label": "Unichain",
+                "priority": 1,
+                "explorers": ["https://unichain-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x515",
+                "chain_grpc_id": 10105,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": true,
+            "public": true
+          },
+          "mode": {
+            "value": "mode",
+            "label": "Mode",
+            "networks": [
+              {
+                "network": "mode",
+                "blockchain": "mode",
+                "network_label": "Mainnet",
+                "blockchain_label": "Mode",
+                "priority": 100,
+                "explorers": ["https://explorer.mode.network"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x868b",
+                "chain_grpc_id": 1038,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "mode-testnet",
+                "blockchain": "mode",
+                "network_label": "Testnet",
+                "blockchain_label": "Mode",
+                "priority": 1,
+                "explorers": ["https://modescan.io"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x397",
+                "chain_grpc_id": 10054,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "fantom": {
+            "value": "fantom",
+            "label": "Fantom",
+            "networks": [
+              {
+                "network": "fantom",
+                "blockchain": "fantom",
+                "network_label": "Mainnet",
+                "blockchain_label": "Fantom",
+                "priority": 100,
+                "explorers": ["https://ftmscan.com", "https://fantom.dex.guru"],
+                "currency": {
+                  "name": "Fantom",
+                  "symbol": "FTM",
+                  "decimals": 18
+                },
+                "chain_id": "0xfa",
+                "chain_grpc_id": 102,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "fantom-testnet",
+                "blockchain": "fantom",
+                "network_label": "Testnet",
+                "blockchain_label": "Fantom",
+                "priority": 1,
+                "explorers": ["https://testnet.ftmscan.com"],
+                "currency": {
+                  "name": "Fantom",
+                  "symbol": "FTM",
+                  "decimals": 18
+                },
+                "chain_id": "0xfa2",
+                "chain_grpc_id": 10016,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "soneium": {
+            "value": "soneium",
+            "label": "Soneium",
+            "networks": [
+              {
+                "network": "soneium",
+                "blockchain": "soneium",
+                "network_label": "Mainnet",
+                "blockchain_label": "Soneium",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x74c",
+                "chain_grpc_id": 1095,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "soneium-minato",
+                "blockchain": "soneium",
+                "network_label": "Minato",
+                "blockchain_label": "Soneium",
+                "priority": 1,
+                "explorers": ["https://soneium-minato.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x79a",
+                "chain_grpc_id": 10107,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "metis": {
+            "value": "metis",
+            "label": "Metis",
+            "networks": [
+              {
+                "network": "metis",
+                "blockchain": "metis",
+                "network_label": "Mainnet",
+                "blockchain_label": "Metis",
+                "priority": 100,
+                "explorers": ["https://andromeda-explorer.metis.io"],
+                "currency": {
+                  "name": "Metis",
+                  "symbol": "METIS",
+                  "decimals": 18
+                },
+                "chain_id": "0x440",
+                "chain_grpc_id": 1023,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "haqq": {
+            "value": "haqq",
+            "label": "HAQQ",
+            "networks": [
+              {
+                "network": "haqq",
+                "blockchain": "haqq",
+                "network_label": "Mainnet",
+                "blockchain_label": "HAQQ",
+                "priority": 100,
+                "explorers": ["https://explorer.haqq.network"],
+                "currency": {
+                  "name": "Islamic Coin",
+                  "symbol": "ISLM",
+                  "decimals": 18
+                },
+                "chain_id": "0x2be3",
+                "chain_grpc_id": 1029,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "haqq-testnet",
+                "blockchain": "haqq",
+                "network_label": "Testnet",
+                "blockchain_label": "HAQQ",
+                "priority": 10,
+                "explorers": ["https://explorer.testedge2.haqq.network"],
+                "currency": {
+                  "name": "Islamic Coin",
+                  "symbol": "ISLMT",
+                  "decimals": 18
+                },
+                "chain_id": "0xd3c3",
+                "chain_grpc_id": 10041,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "sei": {
+            "value": "sei",
+            "label": "Sei",
+            "networks": [
+              {
+                "network": "sei",
+                "blockchain": "sei",
+                "network_label": "Mainnet",
+                "blockchain_label": "Sei",
+                "priority": 100,
+                "explorers": ["https://seitrace.com"],
+                "currency": {
+                  "name": "Sei",
+                  "symbol": "SEI",
+                  "decimals": 18
+                },
+                "chain_id": "0x531",
+                "chain_grpc_id": 1079,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "sei-devnet",
+                "blockchain": "sei",
+                "network_label": "Devnet",
+                "blockchain_label": "Sei",
+                "priority": 2,
+                "explorers": ["https://seistream.app", "https://seitrace.com"],
+                "currency": {
+                  "name": "Sei",
+                  "symbol": "SEI",
+                  "decimals": 18
+                },
+                "chain_id": "0xae3f3",
+                "chain_grpc_id": 10101,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "sei-testnet",
+                "blockchain": "sei",
+                "network_label": "Testnet",
+                "blockchain_label": "Sei",
+                "priority": 1,
+                "explorers": ["https://seitrace.com"],
+                "currency": {
+                  "name": "Sei",
+                  "symbol": "SEI",
+                  "decimals": 18
+                },
+                "chain_id": "0x530",
+                "chain_grpc_id": 10100,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "osmosis": {
+            "value": "osmosis",
+            "label": "Osmosis",
+            "networks": [
+              {
+                "network": "osmosis",
+                "blockchain": "osmosis",
+                "network_label": "Mainnet",
+                "blockchain_label": "Osmosis",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "osmosis-1",
+                "chain_grpc_id": 1060,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": true
+              },
+              {
+                "network": "osmosis-testnet",
+                "blockchain": "osmosis",
+                "network_label": "Testnet",
+                "blockchain_label": "Osmosis",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "osmo-test-5",
+                "chain_grpc_id": 10082,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "cosmos",
+            "mev": false,
+            "public": true
+          },
+          "cosmos-hub": {
+            "value": "cosmos-hub",
+            "label": "Cosmos Hub",
+            "networks": [
+              {
+                "network": "cosmos-hub",
+                "blockchain": "cosmos-hub",
+                "network_label": "Mainnet",
+                "blockchain_label": "Cosmos Hub",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "cosmoshub-4",
+                "chain_grpc_id": 1057,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": true
+              },
+              {
+                "network": "cosmos-hub-testnet",
+                "blockchain": "cosmos-hub",
+                "network_label": "Testnet",
+                "blockchain_label": "Cosmos Hub",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "provider",
+                "chain_grpc_id": 10079,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "cosmos",
+            "mev": false,
+            "public": true
+          },
+          "axelar": {
+            "value": "axelar",
+            "label": "Axelar",
+            "networks": [
+              {
+                "network": "axelar",
+                "blockchain": "axelar",
+                "network_label": "Mainnet",
+                "blockchain_label": "Axelar",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "axelar-dojo-1",
+                "chain_grpc_id": 1059,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": false
+              },
+              {
+                "network": "axelar-testnet",
+                "blockchain": "axelar",
+                "network_label": "Testnet",
+                "blockchain_label": "Axelar",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "axelar-testnet-lisbon-3",
+                "chain_grpc_id": 10081,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "cosmos",
+            "mev": false,
+            "public": true
+          },
+          "berachain": {
+            "value": "berachain",
+            "label": "Berachain",
+            "networks": [
+              {
+                "network": "berachain",
+                "blockchain": "berachain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Berachain",
+                "priority": 100,
+                "explorers": ["https://berascan.com/"],
+                "currency": {
+                  "name": "BERA Token",
+                  "symbol": "BERA",
+                  "decimals": 18
+                },
+                "chain_id": "0x138de",
+                "chain_grpc_id": 1099,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "bartio",
+                "blockchain": "berachain",
+                "network_label": "bArtio",
+                "blockchain_label": "Berachain",
+                "priority": 10,
+                "explorers": ["https://bartio.beratrail.io"],
+                "currency": {
+                  "name": "BERA Token",
+                  "symbol": "BERA",
+                  "decimals": 18
+                },
+                "chain_id": "0x138d4",
+                "chain_grpc_id": 10047,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": false
+              },
+              {
+                "network": "berachain-bepolia",
+                "blockchain": "berachain",
+                "network_label": "Bepolia",
+                "blockchain_label": "Berachain",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x138c5",
+                "chain_grpc_id": 10133,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "0g": {
+            "value": "0g",
+            "label": "0G",
+            "networks": [
+              {
+                "network": "0g-galileo-testnet",
+                "blockchain": "0g",
+                "network_label": "Galileo Testnet",
+                "blockchain_label": "0G",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x40D9",
+                "chain_grpc_id": 10136,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "everclear": {
+            "value": "everclear",
+            "label": "Everclear",
+            "networks": [
+              {
+                "network": "everclear-sepolia",
+                "blockchain": "everclear",
+                "network_label": "Sepolia",
+                "blockchain_label": "Everclear",
+                "priority": 2,
+                "explorers": ["https://connext-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x18fe",
+                "chain_grpc_id": 10077,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "everclear",
+                "blockchain": "everclear",
+                "network_label": "Mainnet",
+                "blockchain_label": "Everclear",
+                "priority": 100,
+                "explorers": ["https://scan.everclear.org"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x62ef",
+                "chain_grpc_id": 1076,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "near": {
+            "value": "near",
+            "label": "Near",
+            "networks": [
+              {
+                "network": "near",
+                "blockchain": "near",
+                "network_label": "Mainnet",
+                "blockchain_label": "Near",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "mainnet",
+                "chain_grpc_id": 1050,
+                "api_type": "jsonrpc",
+                "blockchain_type": "near",
+                "public": true
+              },
+              {
+                "network": "near-testnet",
+                "blockchain": "near",
+                "network_label": "Testnet",
+                "blockchain_label": "Near",
+                "priority": 5,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "testnet",
+                "chain_grpc_id": 10064,
+                "api_type": "jsonrpc",
+                "blockchain_type": "near",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "near",
+            "mev": false,
+            "public": true
+          },
+          "zksync": {
+            "value": "zksync",
+            "label": "zkSync Era",
+            "networks": [
+              {
+                "network": "zksync",
+                "blockchain": "zksync",
+                "network_label": "Mainnet",
+                "blockchain_label": "zkSync Era",
+                "priority": 100,
+                "explorers": ["https://zksync.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x144",
+                "chain_grpc_id": 1009,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "zksync-sepolia",
+                "blockchain": "zksync",
+                "network_label": "Sepolia",
+                "blockchain_label": "zkSync Era",
+                "priority": 1,
+                "explorers": ["https://zksync-sepolia.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x12c",
+                "chain_grpc_id": 10046,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "ripple": {
+            "value": "ripple",
+            "label": "Ripple",
+            "networks": [
+              {
+                "network": "ripple-testnet",
+                "blockchain": "ripple",
+                "network_label": "Testnet",
+                "blockchain_label": "Ripple",
+                "priority": 5,
+                "explorers": ["https://eth.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "1",
+                "chain_grpc_id": 10128,
+                "api_type": "jsonrpc",
+                "blockchain_type": "ripple",
+                "public": true
+              },
+              {
+                "network": "ripple",
+                "blockchain": "ripple",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ripple",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0",
+                "chain_grpc_id": 1100,
+                "api_type": "jsonrpc",
+                "blockchain_type": "ripple",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "ripple",
+            "mev": false,
+            "public": true
+          },
+          "neutron": {
+            "value": "neutron",
+            "label": "Neutron",
+            "networks": [
+              {
+                "network": "neutron-testnet",
+                "blockchain": "neutron",
+                "network_label": "Testnet",
+                "blockchain_label": "Neutron",
+                "priority": 10,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "pion-1",
+                "chain_grpc_id": 10083,
+                "api_type": "jsonrpc",
+                "blockchain_type": "cosmos",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "cosmos",
+            "mev": false,
+            "public": true
+          },
+          "kusama": {
+            "value": "kusama",
+            "label": "Kusama",
+            "networks": [
+              {
+                "network": "kusama",
+                "blockchain": "kusama",
+                "network_label": "Mainnet",
+                "blockchain_label": "Kusama",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "Kusama",
+                "chain_grpc_id": 1072,
+                "api_type": "jsonrpc",
+                "blockchain_type": "polkadot",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "polkadot",
+            "mev": false,
+            "public": true
+          },
+          "starknet": {
+            "value": "starknet",
+            "label": "Starknet",
+            "networks": [
+              {
+                "network": "starknet-sepolia",
+                "blockchain": "starknet",
+                "network_label": "Sepolia",
+                "blockchain_label": "Starknet",
+                "priority": 2,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x534e5f5345504f4c4941",
+                "chain_grpc_id": 10075,
+                "api_type": "jsonrpc",
+                "blockchain_type": "starknet",
+                "public": true
+              },
+              {
+                "network": "starknet",
+                "blockchain": "starknet",
+                "network_label": "Mainnet",
+                "blockchain_label": "Starknet",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x534e5f4d41494e",
+                "chain_grpc_id": 1014,
+                "api_type": "jsonrpc",
+                "blockchain_type": "starknet",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "starknet",
+            "mev": false,
+            "public": true
+          },
+          "zircuit": {
+            "value": "zircuit",
+            "label": "Zircuit",
+            "networks": [
+              {
+                "network": "zircuit-garfield-testnet",
+                "blockchain": "zircuit",
+                "network_label": "Garfield",
+                "blockchain_label": "Zircuit",
+                "priority": 11,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0xbf02",
+                "chain_grpc_id": 10130,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "zircuit-mainnet",
+                "blockchain": "zircuit",
+                "network_label": "Mainnet",
+                "blockchain_label": "Zircuit",
+                "priority": 100,
+                "explorers": ["https://explorer.zircuit.com/"],
+                "currency": {
+                  "name": "Zircuit",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xbf04",
+                "chain_grpc_id": 1063,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "bittorrent": {
+            "value": "bittorrent",
+            "label": "BitTorrent",
+            "networks": [
+              {
+                "network": "bittorrent",
+                "blockchain": "bittorrent",
+                "network_label": "Mainnet",
+                "blockchain_label": "BitTorrent",
+                "priority": 100,
+                "explorers": ["https://bttcscan.com"],
+                "currency": {
+                  "name": "BitTorrent",
+                  "symbol": "BTT",
+                  "decimals": 18
+                },
+                "chain_id": "0xc7",
+                "chain_grpc_id": 1046,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "klaytn": {
+            "value": "klaytn",
+            "label": "Kaia",
+            "networks": [
+              {
+                "network": "klaytn-baobab",
+                "blockchain": "klaytn",
+                "network_label": "Baobab",
+                "blockchain_label": "Kaia",
+                "priority": 1,
+                "explorers": [
+                  "https://kairos.kaiascope.com",
+                  "https://kairos.kaiascan.io"
+                ],
+                "currency": {
+                  "name": "KAIA",
+                  "symbol": "KAIA",
+                  "decimals": 18
+                },
+                "chain_id": "0x3e9",
+                "chain_grpc_id": 10024,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "klaytn",
+                "blockchain": "klaytn",
+                "network_label": "Mainnet",
+                "blockchain_label": "Kaia",
+                "priority": 100,
+                "explorers": ["https://kaiascope.com", "https://kaiascan.io"],
+                "currency": {
+                  "name": "KAIA",
+                  "symbol": "KAIA",
+                  "decimals": 18
+                },
+                "chain_id": "0x2019",
+                "chain_grpc_id": 1018,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "moonbeam": {
+            "value": "moonbeam",
+            "label": "Moonbeam",
+            "networks": [
+              {
+                "network": "moonbase-alpha",
+                "blockchain": "moonbeam",
+                "network_label": "Moonbase Alpha",
+                "blockchain_label": "Moonbeam",
+                "priority": 1,
+                "explorers": ["https://moonbase.moonscan.io"],
+                "currency": {
+                  "name": "Dev",
+                  "symbol": "DEV",
+                  "decimals": 18
+                },
+                "chain_id": "0x507",
+                "chain_grpc_id": 10029,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "moonbeam",
+                "blockchain": "moonbeam",
+                "network_label": "Mainnet",
+                "blockchain_label": "Moonbeam",
+                "priority": 100,
+                "explorers": ["https://moonbeam.moonscan.io"],
+                "currency": {
+                  "name": "Glimmer",
+                  "symbol": "GLMR",
+                  "decimals": 18
+                },
+                "chain_id": "0x504",
+                "chain_grpc_id": 1020,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "zeta-chain": {
+            "value": "zeta-chain",
+            "label": "ZetaChain",
+            "networks": [
+              {
+                "network": "zeta-chain",
+                "blockchain": "zeta-chain",
+                "network_label": "Mainnet",
+                "blockchain_label": "ZetaChain",
+                "priority": 100,
+                "explorers": ["https://zetachain.blockscout.com"],
+                "currency": {
+                  "name": "ZetaChain",
+                  "symbol": "ZETA",
+                  "decimals": 18
+                },
+                "chain_id": "0x1b58",
+                "chain_grpc_id": 1045,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "zeta-chain-testnet",
+                "blockchain": "zeta-chain",
+                "network_label": "Testnet",
+                "blockchain_label": "ZetaChain",
+                "priority": 1,
+                "explorers": ["https://zetachain-athens-3.blockscout.com"],
+                "currency": {
+                  "name": "Zeta",
+                  "symbol": "ZETA",
+                  "decimals": 18
+                },
+                "chain_id": "0x1b59",
+                "chain_grpc_id": 10087,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "swell": {
+            "value": "swell",
+            "label": "Swell",
+            "networks": [
+              {
+                "network": "swell-testnet",
+                "blockchain": "swell",
+                "network_label": "Testnet",
+                "blockchain_label": "Swell",
+                "priority": 5,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x784",
+                "chain_grpc_id": 10129,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "swell",
+                "blockchain": "swell",
+                "network_label": "Mainnet",
+                "blockchain_label": "Swell",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x783",
+                "chain_grpc_id": 1101,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "plume": {
+            "value": "plume",
+            "label": "Plume",
+            "networks": [
+              {
+                "network": "plume",
+                "blockchain": "plume",
+                "network_label": "Mainnet",
+                "blockchain_label": "Plume",
+                "priority": 100,
+                "explorers": ["https://explorer.plumenetwork.xyz"],
+                "currency": {
+                  "name": "Plume Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x18231",
+                "chain_grpc_id": 1094,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "filecoin": {
+            "value": "filecoin",
+            "label": "Filecoin",
+            "networks": [
+              {
+                "network": "filecoin-calibration",
+                "blockchain": "filecoin",
+                "network_label": "Calibration Testnet",
+                "blockchain_label": "Filecoin",
+                "priority": 10,
+                "explorers": [
+                  "https://calibration.filscan.io",
+                  "https://calibration.filscout.com/en",
+                  "https://calibration.filfox.info",
+                  "https://explorer.glif.io/?network=calibration",
+                  "https://beryx.zondax.ch"
+                ],
+                "currency": {
+                  "name": "testnet filecoin",
+                  "symbol": "tFIL",
+                  "decimals": 18
+                },
+                "chain_id": "0x4cb2f",
+                "chain_grpc_id": 10042,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "filecoin",
+                "blockchain": "filecoin",
+                "network_label": "Mainnet",
+                "blockchain_label": "Filecoin",
+                "priority": 100,
+                "explorers": ["https://filecoin.blockscout.com"],
+                "currency": {
+                  "name": "filecoin",
+                  "symbol": "FIL",
+                  "decimals": 18
+                },
+                "chain_id": "0x13a",
+                "chain_grpc_id": 1030,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "lens": {
+            "value": "lens",
+            "label": "Lens Network",
+            "networks": [
+              {
+                "network": "lens-testnet",
+                "blockchain": "lens",
+                "network_label": "Testnet",
+                "blockchain_label": "Lens Network",
+                "priority": 1,
+                "explorers": ["https://block-explorer.testnet.lens.dev"],
+                "currency": {
+                  "name": "GRASS",
+                  "symbol": "GRASS",
+                  "decimals": 18
+                },
+                "chain_id": "0x90f7",
+                "chain_grpc_id": 10104,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "lens",
+                "blockchain": "lens",
+                "network_label": "Mainnet",
+                "blockchain_label": "Lens Network",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0xe8",
+                "chain_grpc_id": 1102,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "xlayer": {
+            "value": "xlayer",
+            "label": "XLayer",
+            "networks": [
+              {
+                "network": "xlayer",
+                "blockchain": "xlayer",
+                "network_label": "Mainnet",
+                "blockchain_label": "XLayer",
+                "priority": 100,
+                "explorers": ["https://www.oklink.com/xlayer"],
+                "currency": {
+                  "name": "X Layer Global Utility Token",
+                  "symbol": "OKB",
+                  "decimals": 18
+                },
+                "chain_id": "0xC4",
+                "chain_grpc_id": 1078,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "xlayer-testnet",
+                "blockchain": "xlayer",
+                "network_label": "Testnet",
+                "blockchain_label": "XLayer",
+                "priority": 1,
+                "explorers": ["https://www.oklink.com/xlayer-test"],
+                "currency": {
+                  "name": "X Layer Global Utility Token in testnet",
+                  "symbol": "OKB",
+                  "decimals": 18
+                },
+                "chain_id": "0xC3",
+                "chain_grpc_id": 10099,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "dymension": {
+            "value": "dymension",
+            "label": "Dymension",
+            "networks": [
+              {
+                "network": "dymension",
+                "blockchain": "dymension",
+                "network_label": "Mainnet",
+                "blockchain_label": "Dymension",
+                "priority": 100,
+                "explorers": ["https://dym.fyi"],
+                "currency": {
+                  "name": "DYM",
+                  "symbol": "DYM",
+                  "decimals": 18
+                },
+                "chain_id": "0x44c",
+                "chain_grpc_id": 1052,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "fraxtal": {
+            "value": "fraxtal",
+            "label": "Fraxtal",
+            "networks": [
+              {
+                "network": "fraxtal-testnet",
+                "blockchain": "fraxtal",
+                "network_label": "Testnet",
+                "blockchain_label": "Fraxtal",
+                "priority": 1,
+                "explorers": ["https://holesky.fraxscan.com"],
+                "currency": {
+                  "name": "Frax Ether",
+                  "symbol": "frxETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x9da",
+                "chain_grpc_id": 10090,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "fraxtal",
+                "blockchain": "fraxtal",
+                "network_label": "Mainnet",
+                "blockchain_label": "Fraxtal",
+                "priority": 100,
+                "explorers": ["https://fraxscan.com"],
+                "currency": {
+                  "name": "Frax Ether",
+                  "symbol": "frxETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xfc",
+                "chain_grpc_id": 1065,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "open-campus-codex": {
+            "value": "open-campus-codex",
+            "label": "Open Campus Codex",
+            "networks": [
+              {
+                "network": "open-campus-codex-sepolia",
+                "blockchain": "open-campus-codex",
+                "network_label": "Sepolia",
+                "blockchain_label": "Open Campus Codex",
+                "priority": 2,
+                "explorers": ["https://opencampus-codex.blockscout.com"],
+                "currency": {
+                  "name": "EDU",
+                  "symbol": "EDU",
+                  "decimals": 18
+                },
+                "chain_id": "0xa045c",
+                "chain_grpc_id": 10085,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "wemix": {
+            "value": "wemix",
+            "label": "Wemix",
+            "networks": [
+              {
+                "network": "wemix",
+                "blockchain": "wemix",
+                "network_label": "Mainnet",
+                "blockchain_label": "Wemix",
+                "priority": 100,
+                "explorers": ["https://explorer.wemix.com"],
+                "currency": {
+                  "name": "WEMIX",
+                  "symbol": "WEMIX",
+                  "decimals": 18
+                },
+                "chain_id": "0x457",
+                "chain_grpc_id": 1069,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "wemix-testnet",
+                "blockchain": "wemix",
+                "network_label": "Testnet",
+                "blockchain_label": "Wemix",
+                "priority": 1,
+                "explorers": ["https://microscope.test.wemix.com"],
+                "currency": {
+                  "name": "TestnetWEMIX",
+                  "symbol": "tWEMIX",
+                  "decimals": 18
+                },
+                "chain_id": "0x458",
+                "chain_grpc_id": 10094,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "harmony": {
+            "value": "harmony",
+            "label": "Harmony",
+            "networks": [
+              {
+                "network": "harmony-0",
+                "blockchain": "harmony",
+                "network_label": "Mainnet Shard 0",
+                "blockchain_label": "Harmony",
+                "priority": 100,
+                "explorers": ["https://explorer.harmony.one"],
+                "currency": {
+                  "name": "ONE",
+                  "symbol": "ONE",
+                  "decimals": 18
+                },
+                "chain_id": "0x63564c40",
+                "chain_grpc_id": 1034,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "harmony-1",
+                "blockchain": "harmony",
+                "network_label": "Mainnet Shard 1",
+                "blockchain_label": "Harmony",
+                "priority": 10,
+                "explorers": ["https://explorer.harmony.one/blocks/shard/1"],
+                "currency": {
+                  "name": "ONE",
+                  "symbol": "ONE",
+                  "decimals": 18
+                },
+                "chain_id": "0x63564c41",
+                "chain_grpc_id": 1035,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "superseed": {
+            "value": "superseed",
+            "label": "Superseed",
+            "networks": [
+              {
+                "network": "superseed",
+                "blockchain": "superseed",
+                "network_label": "Mainnet",
+                "blockchain_label": "Superseed",
+                "priority": 100,
+                "explorers": ["https://explorer.superseed.xyz"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x14d2",
+                "chain_grpc_id": 1088,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "superseed-sepolia",
+                "blockchain": "superseed",
+                "network_label": "Sepolia",
+                "blockchain_label": "Superseed",
+                "priority": 1,
+                "explorers": ["https://sepolia-explorer.superseed.xyz"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xd036",
+                "chain_grpc_id": 10114,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "arbitrum-nova": {
+            "value": "arbitrum-nova",
+            "label": "Arbitrum Nova",
+            "networks": [
+              {
+                "network": "arbitrum-nova",
+                "blockchain": "arbitrum-nova",
+                "network_label": "Mainnet",
+                "blockchain_label": "Arbitrum Nova",
+                "priority": 100,
+                "explorers": ["https://arbitrum-nova.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa4ba",
+                "chain_grpc_id": 1008,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "boba-ethereum": {
+            "value": "boba-ethereum",
+            "label": "Boba Ethereum",
+            "networks": [
+              {
+                "network": "boba-eth",
+                "blockchain": "boba-ethereum",
+                "network_label": "Mainnet",
+                "blockchain_label": "Boba Ethereum",
+                "priority": 100,
+                "explorers": ["https://bobascan.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x120",
+                "chain_grpc_id": 1041,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "viction": {
+            "value": "viction",
+            "label": "Viction",
+            "networks": [
+              {
+                "network": "viction",
+                "blockchain": "viction",
+                "network_label": "Mainnet",
+                "blockchain_label": "Viction",
+                "priority": 100,
+                "explorers": ["https://www.vicscan.xyz/"],
+                "currency": {
+                  "name": "Viction",
+                  "symbol": "VIC",
+                  "decimals": 18
+                },
+                "chain_id": "0x58",
+                "chain_grpc_id": 1086,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "viction-testnet",
+                "blockchain": "viction",
+                "network_label": "Testnet",
+                "blockchain_label": "Viction",
+                "priority": 1,
+                "explorers": ["https://testnet.vicscan.xyz"],
+                "currency": {
+                  "name": "Viction Testnet",
+                  "symbol": "VIC",
+                  "decimals": 18
+                },
+                "chain_id": "0x59",
+                "chain_grpc_id": 10112,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "thundercore": {
+            "value": "thundercore",
+            "label": "Thundercore",
+            "networks": [
+              {
+                "network": "thundercore",
+                "blockchain": "thundercore",
+                "network_label": "Mainnet",
+                "blockchain_label": "Thundercore",
+                "priority": 100,
+                "explorers": ["https://viewblock.io/thundercore"],
+                "currency": {
+                  "name": "ThunderCore Token",
+                  "symbol": "TT",
+                  "decimals": 18
+                },
+                "chain_id": "0x6c",
+                "chain_grpc_id": 1047,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "thundercore-testnet",
+                "blockchain": "thundercore",
+                "network_label": "Testnet",
+                "blockchain_label": "Thundercore",
+                "priority": 1,
+                "explorers": ["https://explorer-testnet.thundercore.com"],
+                "currency": {
+                  "name": "ThunderCore Testnet Token",
+                  "symbol": "TST",
+                  "decimals": 18
+                },
+                "chain_id": "0x12",
+                "chain_grpc_id": 10061,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "telos": {
+            "value": "telos",
+            "label": "Telos",
+            "networks": [
+              {
+                "network": "telos",
+                "blockchain": "telos",
+                "network_label": "Mainnet",
+                "blockchain_label": "Telos",
+                "priority": 100,
+                "explorers": ["https://teloscan.io"],
+                "currency": {
+                  "name": "Telos",
+                  "symbol": "TLOS",
+                  "decimals": 18
+                },
+                "chain_id": "0x28",
+                "chain_grpc_id": 1049,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "rootstock": {
+            "value": "rootstock",
+            "label": "Rootstock",
+            "networks": [
+              {
+                "network": "rootstock-testnet",
+                "blockchain": "rootstock",
+                "network_label": "Testnet",
+                "blockchain_label": "Rootstock",
+                "priority": 10,
+                "explorers": ["https://explorer.testnet.rsk.co"],
+                "currency": {
+                  "name": "Testnet Smart Bitcoin",
+                  "symbol": "tRBTC",
+                  "decimals": 18
+                },
+                "chain_id": "0x1f",
+                "chain_grpc_id": 10084,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "rootstock",
+                "blockchain": "rootstock",
+                "network_label": "Mainnet",
+                "blockchain_label": "Rootstock",
+                "priority": 100,
+                "explorers": [
+                  "https://explorer.rsk.co",
+                  "https://rootstock.blockscout.com"
+                ],
+                "currency": {
+                  "name": "Smart Bitcoin",
+                  "symbol": "RBTC",
+                  "decimals": 18
+                },
+                "chain_id": "0x1e",
+                "chain_grpc_id": 1062,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "arb-blueberry": {
+            "value": "arb-blueberry",
+            "label": "Arbitrum Blueberry",
+            "networks": [
+              {
+                "network": "arb-blueberry-testnet",
+                "blockchain": "arb-blueberry",
+                "network_label": "Testnet",
+                "blockchain_label": "Arbitrum Blueberry",
+                "priority": 10,
+                "explorers": ["https://arb-blueberry.gelatoscout.com"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x14865d0f05",
+                "chain_grpc_id": 10068,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "scroll": {
+            "value": "scroll",
+            "label": "Scroll",
+            "networks": [
+              {
+                "network": "scroll-sepolia",
+                "blockchain": "scroll",
+                "network_label": "Sepolia",
+                "blockchain_label": "Scroll",
+                "priority": 10,
+                "explorers": ["https://sepolia.scrollscan.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x8274f",
+                "chain_grpc_id": 10025,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "scroll",
+                "blockchain": "scroll",
+                "network_label": "Mainnet",
+                "blockchain_label": "Scroll",
+                "priority": 100,
+                "explorers": ["https://scrollscan.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x82750",
+                "chain_grpc_id": 1016,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "opbnb": {
+            "value": "opbnb",
+            "label": "opBNB",
+            "networks": [
+              {
+                "network": "opbnb-testnet",
+                "blockchain": "opbnb",
+                "network_label": "Testnet",
+                "blockchain_label": "opBNB",
+                "priority": 1,
+                "explorers": [
+                  "https://opbnb-testnet.bscscan.com",
+                  "https://opbnbscan.com"
+                ],
+                "currency": {
+                  "name": "BNB Chain Native Token",
+                  "symbol": "tBNB",
+                  "decimals": 18
+                },
+                "chain_id": "0x15eb",
+                "chain_grpc_id": 10032,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "opbnb",
+                "blockchain": "opbnb",
+                "network_label": "Mainnet",
+                "blockchain_label": "opBNB",
+                "priority": 100,
+                "explorers": ["https://mainnet.opbnbscan.com"],
+                "currency": {
+                  "name": "BNB Chain Native Token",
+                  "symbol": "BNB",
+                  "decimals": 18
+                },
+                "chain_id": "0xcc",
+                "chain_grpc_id": 1024,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "tron": {
+            "value": "tron",
+            "label": "Tron",
+            "networks": [
+              {
+                "network": "tron",
+                "blockchain": "tron",
+                "network_label": "Mainnet",
+                "blockchain_label": "Tron",
+                "priority": 100,
+                "explorers": ["https://tronscan.org"],
+                "currency": {
+                  "name": "Tron",
+                  "symbol": "TRX",
+                  "decimals": 6
+                },
+                "chain_id": "0x2b6653dc",
+                "chain_grpc_id": 1066,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "abstract": {
+            "value": "abstract",
+            "label": "Abstract",
+            "networks": [
+              {
+                "network": "abstract-sepolia",
+                "blockchain": "abstract",
+                "network_label": "Sepolia",
+                "blockchain_label": "Abstract",
+                "priority": 1,
+                "explorers": ["https://sepolia.abscan.org"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x2b74",
+                "chain_grpc_id": 10116,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "abstract",
+                "blockchain": "abstract",
+                "network_label": "Mainnet",
+                "blockchain_label": "Abstract",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0xab5",
+                "chain_grpc_id": 1090,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "polygon-zkevm": {
+            "value": "polygon-zkevm",
+            "label": "Polygon zkEVM",
+            "networks": [
+              {
+                "network": "polygon-zkevm-cardona",
+                "blockchain": "polygon-zkevm",
+                "network_label": "Cardona",
+                "blockchain_label": "Polygon zkEVM",
+                "priority": 2,
+                "explorers": ["https://cardona-zkevm.polygonscan.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x98a",
+                "chain_grpc_id": 10073,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "polygon-zkevm",
+                "blockchain": "polygon-zkevm",
+                "network_label": "Mainnet",
+                "blockchain_label": "Polygon zkEVM",
+                "priority": 100,
+                "explorers": ["https://zkevm.blockscout.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x44d",
+                "chain_grpc_id": 1007,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "evmos": {
+            "value": "evmos",
+            "label": "Evmos",
+            "networks": [
+              {
+                "network": "evmos-testnet",
+                "blockchain": "evmos",
+                "network_label": "Testnet",
+                "blockchain_label": "Evmos",
+                "priority": 1,
+                "explorers": ["https://testnet.escan.live"],
+                "currency": {
+                  "name": "test-Evmos",
+                  "symbol": "tEVMOS",
+                  "decimals": 18
+                },
+                "chain_id": "0x2328",
+                "chain_grpc_id": 10055,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "evmos",
+                "blockchain": "evmos",
+                "network_label": "Mainnet",
+                "blockchain_label": "Evmos",
+                "priority": 100,
+                "explorers": ["https://escan.live"],
+                "currency": {
+                  "name": "Evmos",
+                  "symbol": "EVMOS",
+                  "decimals": 18
+                },
+                "chain_id": "0x2329",
+                "chain_grpc_id": 1039,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "snaxchain": {
+            "value": "snaxchain",
+            "label": "Snaxchain",
+            "networks": [
+              {
+                "network": "snaxchain",
+                "blockchain": "snaxchain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Snaxchain",
+                "priority": 100,
+                "explorers": ["https://explorer.snaxchain.io"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x890",
+                "chain_grpc_id": 1077,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "apechain": {
+            "value": "apechain",
+            "label": "Apechain",
+            "networks": [
+              {
+                "network": "apechain-curtis",
+                "blockchain": "apechain",
+                "network_label": "Curtis",
+                "blockchain_label": "Apechain",
+                "priority": 1,
+                "explorers": ["https://explorer.curtis.apechain.com"],
+                "currency": {
+                  "name": "ApeCoin",
+                  "symbol": "APE",
+                  "decimals": 18
+                },
+                "chain_id": "0x8157",
+                "chain_grpc_id": 10106,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "apechain",
+                "blockchain": "apechain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Apechain",
+                "priority": 100,
+                "explorers": ["https://apescan.io"],
+                "currency": {
+                  "name": "ApeCoin",
+                  "symbol": "APE",
+                  "decimals": 18
+                },
+                "chain_id": "0x8173",
+                "chain_grpc_id": 1082,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "bob": {
+            "value": "bob",
+            "label": "BOB",
+            "networks": [
+              {
+                "network": "bob",
+                "blockchain": "bob",
+                "network_label": "Mainnet",
+                "blockchain_label": "BOB",
+                "priority": 100,
+                "explorers": ["https://explorer.gobob.xyz"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xed88",
+                "chain_grpc_id": 1074,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "bob-testnet",
+                "blockchain": "bob",
+                "network_label": "Testnet",
+                "blockchain_label": "BOB",
+                "priority": 1,
+                "explorers": ["https://bob-sepolia.explorer.gobob.xyz"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xc576d",
+                "chain_grpc_id": 10096,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "neon-evm": {
+            "value": "neon-evm",
+            "label": "Neon EVM",
+            "networks": [
+              {
+                "network": "neon-evm-devnet",
+                "blockchain": "neon-evm",
+                "network_label": "Devnet",
+                "blockchain_label": "Neon EVM",
+                "priority": 1,
+                "explorers": ["https://neon-devnet.blockscout.com"],
+                "currency": {
+                  "name": "Neon",
+                  "symbol": "NEON",
+                  "decimals": 18
+                },
+                "chain_id": "0xe9ac0ce",
+                "chain_grpc_id": 10056,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "neon-evm",
+                "blockchain": "neon-evm",
+                "network_label": "Mainnet",
+                "blockchain_label": "Neon EVM",
+                "priority": 100,
+                "explorers": ["https://neon.blockscout.com"],
+                "currency": {
+                  "name": "Neon",
+                  "symbol": "NEON",
+                  "decimals": 18
+                },
+                "chain_id": "0xe9ac0d6",
+                "chain_grpc_id": 1040,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "immutable-zkevm": {
+            "value": "immutable-zkevm",
+            "label": "Immutable zkEVM",
+            "networks": [
+              {
+                "network": "immutable-zkevm",
+                "blockchain": "immutable-zkevm",
+                "network_label": "Mainnet",
+                "blockchain_label": "Immutable zkEVM",
+                "priority": 100,
+                "explorers": ["https://explorer.immutable.com"],
+                "currency": {
+                  "name": "IMX",
+                  "symbol": "IMX",
+                  "decimals": 18
+                },
+                "chain_id": "0x343b",
+                "chain_grpc_id": 1036,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "immutable-zkevm-testnet",
+                "blockchain": "immutable-zkevm",
+                "network_label": "Testnet",
+                "blockchain_label": "Immutable zkEVM",
+                "priority": 1,
+                "explorers": ["https://explorer.testnet.immutable.com"],
+                "currency": {
+                  "name": "Test IMX",
+                  "symbol": "tIMX",
+                  "decimals": 18
+                },
+                "chain_id": "0x34a1",
+                "chain_grpc_id": 10034,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "hemi": {
+            "value": "hemi",
+            "label": "Hemi",
+            "networks": [
+              {
+                "network": "hemi",
+                "blockchain": "hemi",
+                "network_label": "Mainnet",
+                "blockchain_label": "Hemi",
+                "priority": 100,
+                "explorers": ["https://explorer.hemi.xyz"],
+                "currency": {
+                  "name": "Hemi Mainnet",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xa867",
+                "chain_grpc_id": 1105,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "hemi-testnet",
+                "blockchain": "hemi",
+                "network_label": "Testnet",
+                "blockchain_label": "Hemi",
+                "priority": 5,
+                "explorers": ["https://testnet.explorer.hemi.xyz"],
+                "currency": {
+                  "name": "Hemi Testnet",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xb56c7",
+                "chain_grpc_id": 10138,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "cronos": {
+            "value": "cronos",
+            "label": "Cronos",
+            "networks": [
+              {
+                "network": "cronos-testnet",
+                "blockchain": "cronos",
+                "network_label": "Testnet",
+                "blockchain_label": "Cronos",
+                "priority": 1,
+                "explorers": ["https://explorer.cronos.org/testnet"],
+                "currency": {
+                  "name": "Cronos Test Coin",
+                  "symbol": "TCRO",
+                  "decimals": 18
+                },
+                "chain_id": "0x152",
+                "chain_grpc_id": 10030,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "cronos",
+                "blockchain": "cronos",
+                "network_label": "Mainnet",
+                "blockchain_label": "Cronos",
+                "priority": 100,
+                "explorers": ["https://explorer.cronos.org"],
+                "currency": {
+                  "name": "Cronos",
+                  "symbol": "CRO",
+                  "decimals": 18
+                },
+                "chain_id": "0x19",
+                "chain_grpc_id": 1022,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "lisk": {
+            "value": "lisk",
+            "label": "Lisk",
+            "networks": [
+              {
+                "network": "lisk",
+                "blockchain": "lisk",
+                "network_label": "Mainnet",
+                "blockchain_label": "Lisk",
+                "priority": 100,
+                "explorers": ["https://blockscout.lisk.com"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x46f",
+                "chain_grpc_id": 1056,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "lisk-sepolia",
+                "blockchain": "lisk",
+                "network_label": "Sepolia",
+                "blockchain_label": "Lisk",
+                "priority": 1,
+                "explorers": ["https://sepolia-blockscout.lisk.com"],
+                "currency": {
+                  "name": "Sepolia Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x106a",
+                "chain_grpc_id": 10050,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "gravity": {
+            "value": "gravity",
+            "label": "Gravity Alpha",
+            "networks": [
+              {
+                "network": "gravity-alpha-sepolia",
+                "blockchain": "gravity",
+                "network_label": "Sepolia",
+                "blockchain_label": "Gravity Alpha",
+                "priority": 1,
+                "explorers": ["https://explorer-sepolia.gravity.xyz"],
+                "currency": {
+                  "name": "Sepolia Gravity",
+                  "symbol": "G",
+                  "decimals": 18
+                },
+                "chain_id": "0x34c1",
+                "chain_grpc_id": 10118,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "gravity-alpha",
+                "blockchain": "gravity",
+                "network_label": "Mainnet",
+                "blockchain_label": "Gravity Alpha",
+                "priority": 100,
+                "explorers": [
+                  "https://explorer.gravity.xyz",
+                  "https://gscan.xyz",
+                  "https://www.oklink.com/gravity-alpha"
+                ],
+                "currency": {
+                  "name": "Gravity",
+                  "symbol": "G",
+                  "decimals": 18
+                },
+                "chain_id": "0x659",
+                "chain_grpc_id": 1092,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "worldchain": {
+            "value": "worldchain",
+            "label": "Worldchain",
+            "networks": [
+              {
+                "network": "worldchain-sepolia",
+                "blockchain": "worldchain",
+                "network_label": "Sepolia",
+                "blockchain_label": "Worldchain",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x12c1",
+                "chain_grpc_id": 10110,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "worldchain",
+                "blockchain": "worldchain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Worldchain",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x1e0",
+                "chain_grpc_id": 1084,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "core": {
+            "value": "core",
+            "label": "Core",
+            "networks": [
+              {
+                "network": "core-testnet",
+                "blockchain": "core",
+                "network_label": "Testnet",
+                "blockchain_label": "Core",
+                "priority": 1,
+                "explorers": ["https://scan.test.btcs.network"],
+                "currency": {
+                  "name": "Core Blockchain Testnet Native Token",
+                  "symbol": "tCORE",
+                  "decimals": 18
+                },
+                "chain_id": "0x45b",
+                "chain_grpc_id": 10062,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "core",
+                "blockchain": "core",
+                "network_label": "Mainnet",
+                "blockchain_label": "Core",
+                "priority": 100,
+                "explorers": ["https://scan.coredao.org"],
+                "currency": {
+                  "name": "Core Blockchain Native Token",
+                  "symbol": "CORE",
+                  "decimals": 18
+                },
+                "chain_id": "0x45c",
+                "chain_grpc_id": 1048,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "okt": {
+            "value": "okt",
+            "label": "OKT Chain",
+            "networks": [
+              {
+                "network": "oktc",
+                "blockchain": "okt",
+                "network_label": "Mainnet",
+                "blockchain_label": "OKT Chain",
+                "priority": 100,
+                "explorers": ["https://www.oklink.com/en/okc"],
+                "currency": {
+                  "name": "OKXChain Global Utility Token",
+                  "symbol": "OKT",
+                  "decimals": 18
+                },
+                "chain_id": "0x42",
+                "chain_grpc_id": 1032,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "goat": {
+            "value": "goat",
+            "label": "GOAT Network",
+            "networks": [
+              {
+                "network": "goat-mainnet-alpha",
+                "blockchain": "goat",
+                "network_label": "Mainnet Alpha",
+                "blockchain_label": "GOAT Network",
+                "priority": 100,
+                "explorers": ["https://explorer.goat.network"],
+                "currency": {
+                  "name": "GOAT Mainnet Alpha",
+                  "symbol": "BTC",
+                  "decimals": 18
+                },
+                "chain_id": "0x929",
+                "chain_grpc_id": 1075,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "goat-testnet3",
+                "blockchain": "goat",
+                "network_label": "Testnet3",
+                "blockchain_label": "GOAT Network",
+                "priority": 50,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0xbeb0",
+                "chain_grpc_id": 10109,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "metall2": {
+            "value": "metall2",
+            "label": "Metal L2",
+            "networks": [
+              {
+                "network": "metall2",
+                "blockchain": "metall2",
+                "network_label": "Mainnet",
+                "blockchain_label": "Metal L2",
+                "priority": 100,
+                "explorers": ["https://explorer.metall2.com"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x6d6",
+                "chain_grpc_id": 1073,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "metall2-testnet",
+                "blockchain": "metall2",
+                "network_label": "Testnet",
+                "blockchain_label": "Metal L2",
+                "priority": 1,
+                "explorers": ["https://testnet.explorer.metall2.com"],
+                "currency": {
+                  "name": "ETH",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x6cc",
+                "chain_grpc_id": 10095,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "moonriver": {
+            "value": "moonriver",
+            "label": "Moonriver",
+            "networks": [
+              {
+                "network": "moonriver",
+                "blockchain": "moonriver",
+                "network_label": "Moonriver",
+                "blockchain_label": "Moonriver",
+                "priority": 50,
+                "explorers": ["https://moonriver.moonscan.io"],
+                "currency": {
+                  "name": "Moonriver",
+                  "symbol": "MOVR",
+                  "decimals": 18
+                },
+                "chain_id": "0x505",
+                "chain_grpc_id": 1021,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "cronos-zkevm": {
+            "value": "cronos-zkevm",
+            "label": "Cronos zkEVM",
+            "networks": [
+              {
+                "network": "cronos-zkevm",
+                "blockchain": "cronos-zkevm",
+                "network_label": "Mainnet",
+                "blockchain_label": "Cronos zkEVM",
+                "priority": 100,
+                "explorers": ["https://explorer.zkevm.cronos.org/"],
+                "currency": {
+                  "name": "Cronos zkEVM Mainnet",
+                  "symbol": "zkCRO",
+                  "decimals": 18
+                },
+                "chain_id": "0x184",
+                "chain_grpc_id": 1085,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "cronos-zkevm-testnet",
+                "blockchain": "cronos-zkevm",
+                "network_label": "Testnet",
+                "blockchain_label": "Cronos zkEVM",
+                "priority": 1,
+                "explorers": ["https://explorer.zkevm.cronos.org/testnet/"],
+                "currency": {
+                  "name": "Cronos zkEVM Testnet",
+                  "symbol": "zkTCRO",
+                  "decimals": 18
+                },
+                "chain_id": "0xf0",
+                "chain_grpc_id": 10111,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "alephzero": {
+            "value": "alephzero",
+            "label": "Aleph Zero Network",
+            "networks": [
+              {
+                "network": "alephzero",
+                "blockchain": "alephzero",
+                "network_label": "Mainnet",
+                "blockchain_label": "Aleph Zero Network",
+                "priority": 100,
+                "explorers": ["https://evm-explorer.alephzero.org"],
+                "currency": {
+                  "name": "Aleph Zero",
+                  "symbol": "AZERO",
+                  "decimals": 18
+                },
+                "chain_id": "0xa1ef",
+                "chain_grpc_id": 1070,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "alephzero-sepolia",
+                "blockchain": "alephzero",
+                "network_label": "Sepolia",
+                "blockchain_label": "Aleph Zero Network",
+                "priority": 2,
+                "explorers": ["https://evm-explorer-testnet.alephzero.org"],
+                "currency": {
+                  "name": "TZERO",
+                  "symbol": "TZERO",
+                  "decimals": 18
+                },
+                "chain_id": "0x7f7",
+                "chain_grpc_id": 10078,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "zero": {
+            "value": "zero",
+            "label": "Zero Network",
+            "networks": [
+              {
+                "network": "zero",
+                "blockchain": "zero",
+                "network_label": "Mainnet",
+                "blockchain_label": "Zero Network",
+                "priority": 100,
+                "explorers": ["https://explorer.zero.network"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x849ea",
+                "chain_grpc_id": 1083,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "mezo": {
+            "value": "mezo",
+            "label": "Mezo",
+            "networks": [
+              {
+                "network": "mezo-testnet",
+                "blockchain": "mezo",
+                "network_label": "Testnet",
+                "blockchain_label": "Mezo",
+                "priority": 1,
+                "explorers": ["https://explorer.test.mezo.org"],
+                "currency": {
+                  "name": "Bitcoin",
+                  "symbol": "BTC",
+                  "decimals": 18
+                },
+                "chain_id": "0x7b7b",
+                "chain_grpc_id": 10121,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "kroma": {
+            "value": "kroma",
+            "label": "Kroma",
+            "networks": [
+              {
+                "network": "kroma",
+                "blockchain": "kroma",
+                "network_label": "Mainnet",
+                "blockchain_label": "Kroma",
+                "priority": 100,
+                "explorers": ["https://blockscout.kroma.network"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0xff",
+                "chain_grpc_id": 1068,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "kava": {
+            "value": "kava",
+            "label": "Kava",
+            "networks": [
+              {
+                "network": "kava-testnet",
+                "blockchain": "kava",
+                "network_label": "Testnet",
+                "blockchain_label": "Kava",
+                "priority": 10,
+                "explorers": ["http://testnet.kavascan.com"],
+                "currency": {
+                  "name": "TKava",
+                  "symbol": "TKAVA",
+                  "decimals": 18
+                },
+                "chain_id": "0x8ad",
+                "chain_grpc_id": 10033,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "kava",
+                "blockchain": "kava",
+                "network_label": "Mainnet",
+                "blockchain_label": "Kava",
+                "priority": 100,
+                "explorers": ["https://kavascan.com"],
+                "currency": {
+                  "name": "Kava",
+                  "symbol": "KAVA",
+                  "decimals": 18
+                },
+                "chain_id": "0x8ae",
+                "chain_grpc_id": 1025,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "aurora": {
+            "value": "aurora",
+            "label": "Aurora",
+            "networks": [
+              {
+                "network": "aurora-testnet",
+                "blockchain": "aurora",
+                "network_label": "Testnet",
+                "blockchain_label": "Aurora",
+                "priority": 1,
+                "explorers": ["https://explorer.testnet.aurora.dev"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x4e454153",
+                "chain_grpc_id": 10021,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "aurora",
+                "blockchain": "aurora",
+                "network_label": "Mainnet",
+                "blockchain_label": "Aurora",
+                "priority": 100,
+                "explorers": ["https://explorer.aurora.dev"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x4e454152",
+                "chain_grpc_id": 1015,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "fuse": {
+            "value": "fuse",
+            "label": "Fuse",
+            "networks": [
+              {
+                "network": "fuse",
+                "blockchain": "fuse",
+                "network_label": "Mainnet",
+                "blockchain_label": "Fuse",
+                "priority": 100,
+                "explorers": ["https://explorer.fuse.io"],
+                "currency": {
+                  "name": "Fuse",
+                  "symbol": "FUSE",
+                  "decimals": 18
+                },
+                "chain_id": "0x7a",
+                "chain_grpc_id": 1031,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "playnance": {
+            "value": "playnance",
+            "label": "Playnance",
+            "networks": [
+              {
+                "network": "playnance",
+                "blockchain": "playnance",
+                "network_label": "Mainnet",
+                "blockchain_label": "Playnance",
+                "priority": 100,
+                "explorers": ["https://explorer.playblock.io"],
+                "currency": {
+                  "name": "PBG",
+                  "symbol": "PBG",
+                  "decimals": 18
+                },
+                "chain_id": "0x725",
+                "chain_grpc_id": 1054,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "boba-bnb": {
+            "value": "boba-bnb",
+            "label": "Boba BNB",
+            "networks": [
+              {
+                "network": "boba-bnb",
+                "blockchain": "boba-bnb",
+                "network_label": "Mainnet",
+                "blockchain_label": "Boba BNB",
+                "priority": 100,
+                "explorers": ["https://bobascan.com"],
+                "currency": {
+                  "name": "Boba Token",
+                  "symbol": "BOBA",
+                  "decimals": 18
+                },
+                "chain_id": "0xdbe0",
+                "chain_grpc_id": 1044,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "hashkey": {
+            "value": "hashkey",
+            "label": "HashKey",
+            "networks": [
+              {
+                "network": "hashkey",
+                "blockchain": "hashkey",
+                "network_label": "Mainnet",
+                "blockchain_label": "HashKey",
+                "priority": 100,
+                "explorers": [
+                  "https://hashkey.blockscout.com",
+                  "https://explorer.hsk.xyz"
+                ],
+                "currency": {
+                  "name": "HashKey EcoPoints",
+                  "symbol": "HSK",
+                  "decimals": 18
+                },
+                "chain_id": "0xb1",
+                "chain_grpc_id": 1091,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "hashkey-testnet",
+                "blockchain": "hashkey",
+                "network_label": "Testnet",
+                "blockchain_label": "HashKey",
+                "priority": 1,
+                "explorers": [
+                  "https://hashkeychain-testnet-explorer.alt.technology"
+                ],
+                "currency": {
+                  "name": "HashKey EcoPoints",
+                  "symbol": "HSK",
+                  "decimals": 18
+                },
+                "chain_id": "0x85",
+                "chain_grpc_id": 10117,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "merlin": {
+            "value": "merlin",
+            "label": "Merlin",
+            "networks": [
+              {
+                "network": "merlin",
+                "blockchain": "merlin",
+                "network_label": "Mainnet",
+                "blockchain_label": "Merlin",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x1068",
+                "chain_grpc_id": 1093,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "taiko": {
+            "value": "taiko",
+            "label": "Taiko",
+            "networks": [
+              {
+                "network": "taiko-hekla",
+                "blockchain": "taiko",
+                "network_label": "Hekla",
+                "blockchain_label": "Taiko",
+                "priority": 20,
+                "explorers": [
+                  "https://blockscoutapi.hekla.taiko.xyz",
+                  "https://hekla.taikoscan.network"
+                ],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x28c61",
+                "chain_grpc_id": 10080,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "taiko",
+                "blockchain": "taiko",
+                "network_label": "Mainnet",
+                "blockchain_label": "Taiko",
+                "priority": 100,
+                "explorers": ["https://taikoscan.io"],
+                "currency": {
+                  "name": "Ether",
+                  "symbol": "ETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x28c58",
+                "chain_grpc_id": 1058,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "monad": {
+            "value": "monad",
+            "label": "Monad",
+            "networks": [
+              {
+                "network": "monad-testnet",
+                "blockchain": "monad",
+                "network_label": "Testnet",
+                "blockchain_label": "Monad",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x279f",
+                "chain_grpc_id": 10124,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "gnosis-beacon-chain": {
+            "value": "gnosis-beacon-chain",
+            "label": "Gnosis Beacon Chain",
+            "networks": [
+              {
+                "network": "gnosis-beacon-chain",
+                "blockchain": "gnosis-beacon-chain",
+                "network_label": "Mainnet",
+                "blockchain_label": "Gnosis Beacon Chain",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 1106,
+                "api_type": "rest",
+                "blockchain_type": "eth-beacon-chain",
+                "public": true
+              }
+            ],
+            "api_type": "rest",
+            "blockchain_type": "eth-beacon-chain",
+            "mev": false,
+            "public": true
+          },
+          "solana": {
+            "value": "solana",
+            "label": "Solana",
+            "networks": [
+              {
+                "network": "solana",
+                "blockchain": "solana",
+                "network_label": "Mainnet",
+                "blockchain_label": "Solana",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 1028,
+                "api_type": "jsonrpc",
+                "blockchain_type": "solana",
+                "public": true
+              },
+              {
+                "network": "solana-devnet",
+                "blockchain": "solana",
+                "network_label": "Devnet",
+                "blockchain_label": "Solana",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10039,
+                "api_type": "jsonrpc",
+                "blockchain_type": "solana",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "solana",
+            "mev": false,
+            "public": true
+          },
+          "hyperliquid": {
+            "value": "hyperliquid",
+            "label": "HyperLiquid",
+            "networks": [
+              {
+                "network": "hyperliquid-testnet",
+                "blockchain": "hyperliquid",
+                "network_label": "Testnet",
+                "blockchain_label": "HyperLiquid",
+                "priority": 1,
+                "explorers": [],
+                "currency": {
+                  "name": "HYPE",
+                  "symbol": "HYPE",
+                  "decimals": 18
+                },
+                "chain_id": "0x3e6",
+                "chain_grpc_id": 10119,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              },
+              {
+                "network": "hyperliquid",
+                "blockchain": "hyperliquid",
+                "network_label": "Mainnet",
+                "blockchain_label": "HyperLiquid",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x3e7",
+                "chain_grpc_id": 1103,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "ozean": {
+            "value": "ozean",
+            "label": "Ozean",
+            "networks": [
+              {
+                "network": "ozean-poseidon-testnet",
+                "blockchain": "ozean",
+                "network_label": "Ozean Poseidon Testnet",
+                "blockchain_label": "Ozean",
+                "priority": 5,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x7ca7",
+                "chain_grpc_id": 10135,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": true
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": true
+          },
+          "real": {
+            "value": "real",
+            "label": "re.al",
+            "networks": [
+              {
+                "network": "real",
+                "blockchain": "real",
+                "network_label": "Mainnet",
+                "blockchain_label": "re.al",
+                "priority": 100,
+                "explorers": ["https://explorer.re.al"],
+                "currency": {
+                  "name": "reETH",
+                  "symbol": "reETH",
+                  "decimals": 18
+                },
+                "chain_id": "0x1b254",
+                "chain_grpc_id": 1055,
+                "api_type": "jsonrpc",
+                "blockchain_type": "eth",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "eth",
+            "mev": false,
+            "public": false
+          },
+          "dogecoin": {
+            "value": "dogecoin",
+            "label": "Dogecoin",
+            "networks": [
+              {
+                "network": "dogecoin-testnet",
+                "blockchain": "dogecoin",
+                "network_label": "Testnet",
+                "blockchain_label": "Dogecoin",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10125,
+                "api_type": "jsonrpc",
+                "blockchain_type": "bitcoin",
+                "public": false
+              },
+              {
+                "network": "dogecoin",
+                "blockchain": "dogecoin",
+                "network_label": "Mainnet",
+                "blockchain_label": "Dogecoin",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 1096,
+                "api_type": "jsonrpc",
+                "blockchain_type": "bitcoin",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "bitcoin",
+            "mev": false,
+            "public": false
+          },
+          "polkadot": {
+            "value": "polkadot",
+            "label": "Polkadot",
+            "networks": [
+              {
+                "network": "polkadot",
+                "blockchain": "polkadot",
+                "network_label": "Mainnet",
+                "blockchain_label": "Polkadot",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "Polkadot",
+                "chain_grpc_id": 1071,
+                "api_type": "jsonrpc",
+                "blockchain_type": "polkadot",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "polkadot",
+            "mev": false,
+            "public": false
+          },
+          "bitcoin": {
+            "value": "bitcoin",
+            "label": "Bitcoin",
+            "networks": [
+              {
+                "network": "bitcoin",
+                "blockchain": "bitcoin",
+                "network_label": "Mainnet",
+                "blockchain_label": "Bitcoin",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 1,
+                "api_type": "jsonrpc",
+                "blockchain_type": "bitcoin",
+                "public": false
+              },
+              {
+                "network": "bitcoin-testnet",
+                "blockchain": "bitcoin",
+                "network_label": "Testnet",
+                "blockchain_label": "Bitcoin",
+                "priority": 1,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "0x0",
+                "chain_grpc_id": 10003,
+                "api_type": "jsonrpc",
+                "blockchain_type": "bitcoin",
+                "public": false
+              }
+            ],
+            "api_type": "jsonrpc",
+            "blockchain_type": "bitcoin",
+            "mev": false,
+            "public": false
+          },
+          "ton": {
+            "value": "ton",
+            "label": "Ton",
+            "networks": [
+              {
+                "network": "ton",
+                "blockchain": "ton",
+                "network_label": "Mainnet",
+                "blockchain_label": "Ton",
+                "priority": 100,
+                "explorers": null,
+                "currency": {
+                  "name": "",
+                  "symbol": "",
+                  "decimals": 0
+                },
+                "chain_id": "-239",
+                "chain_grpc_id": 1080,
+                "api_type": "rest",
+                "blockchain_type": "ton",
+                "public": false
+              }
+            ],
+            "api_type": "rest",
+            "blockchain_type": "ton",
+            "mev": false,
+            "public": false
+          }
+        },
+        "totalNetworks": 187,
+        "totalBlockchains": 104
+      }
+    }
+  }
+]

@@ -1,8 +1,8 @@
 // From https://docs.pimlico.io/infra/platform/supported-chains except ethereum
 
 import { Hex } from "viem";
-import { getViemChain } from "./viemChains.js";
 import pRetry from "p-retry";
+import { unsafeGetRpcUrl } from "./rpc.js";
 
 // import { citrusChainsMap } from "../constants/chains.js";
 
@@ -28,11 +28,7 @@ import pRetry from "p-retry";
 export default async function isChainSupported(
   chainId: number,
 ): Promise<boolean> {
-  const chain = getViemChain(chainId);
-
-  if (chain == null) {
-    return false;
-  }
+  const rpcUrl = unsafeGetRpcUrl(chainId);
 
   try {
     const code = await pRetry(
@@ -44,7 +40,7 @@ export default async function isChainSupported(
         }, 10_000);
 
         try {
-          const response = await fetch(chain.rpcUrls.default.http[0], {
+          const response = await fetch(rpcUrl, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
@@ -75,7 +71,7 @@ export default async function isChainSupported(
         retries: 2,
         onFailedAttempt(err) {
           console.log(
-            `${chain.name} RPC call failed (${err.attemptNumber}/${3}): ${err}`,
+            `${chainId} RPC call failed (${err.attemptNumber}/${3}): ${err}`,
           );
         },
       },

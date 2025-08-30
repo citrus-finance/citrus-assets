@@ -1,5 +1,5 @@
 import { writeFile } from "fs/promises";
-import { viemChains } from "./utils/viemChains.js";
+import { getViemChain } from "./utils/viemChains.js";
 import isChainSupported from "./utils/isChainSupported.js";
 import { existsSync } from "fs";
 import { mkdir } from "fs/promises";
@@ -8,6 +8,11 @@ import type { Chain as BaseChain } from "viem/chains";
 import { getNativeWrappedToken } from "./utils/wrapped.js";
 import { getDefiLlamaProvider } from "./utils/defiLlama.js";
 import { getChainData } from "./utils/talisman.js";
+import {
+  getDRpcChainIds,
+  getDRpcChainRpcHttpUrl,
+  getDRpcChainRpcWsUrl,
+} from "./utils/drpc.js";
 
 interface ChainCustom {
   wrapped: string;
@@ -45,42 +50,63 @@ export default async function buildNetworks() {
 
   const chainsSupportedSet = new Set<number>();
 
+  const drpcChainIds = getDRpcChainIds();
+
   await Promise.all(
-    viemChains.map(async (chain): Promise<void> => {
-      const wrappedToken = getNativeWrappedToken(chain.id);
+    drpcChainIds.map(async (chainId): Promise<void> => {
+      const wrappedToken = getNativeWrappedToken(chainId);
 
       if (wrappedToken) {
-        const supportsCitrus = await isChainSupported(chain.id);
+        const supportsCitrus = await isChainSupported(chainId);
 
         if (supportsCitrus) {
-          chainsSupportedSet.add(chain.id);
+          chainsSupportedSet.add(chainId);
         }
       }
 
       completed++;
-      if (completed % 10 === 0 || completed === viemChains.length) {
-        console.log(`networks: ${completed}/${viemChains.length}`);
+      if (completed % 10 === 0 || completed === drpcChainIds.length) {
+        console.log(`networks: ${completed}/${drpcChainIds.length}`);
       }
     }),
   );
 
-  const appKitNetworks = viemChains.map((chain): CaipNetwork | null => {
-    const wrappedToken = getNativeWrappedToken(chain.id);
-    const defiLLamaProvider = getDefiLlamaProvider(chain.id);
-    const chainData = getChainData(chain.id);
+  const appKitNetworks = drpcChainIds.map((chainId): CaipNetwork | null => {
+    const wrappedToken = getNativeWrappedToken(chainId);
+    const defiLLamaProvider = getDefiLlamaProvider(chainId);
+    const chainData = getChainData(chainId);
 
     if (!wrappedToken) {
       return null;
     }
 
-    if (!chainsSupportedSet.has(chain.id)) {
+    if (!chainsSupportedSet.has(chainId)) {
+      return null;
+    }
+
+    const httpRpcUrl = getDRpcChainRpcHttpUrl(chainId);
+    const wsRpcUrl = getDRpcChainRpcWsUrl(chainId);
+
+    if (!httpRpcUrl || !wsRpcUrl) {
+      return null;
+    }
+
+    const chain = getViemChain(chainId);
+
+    if (!chain) {
       return null;
     }
 
     return {
       ...chain,
+      rpcUrls: {
+        default: {
+          http: [httpRpcUrl],
+          webSocket: [wsRpcUrl],
+        },
+      },
       chainNamespace: "eip155",
-      caipNetworkId: `eip155:${chain.id}`,
+      caipNetworkId: `eip155:${chainId}`,
       assets: {
         imageId: undefined,
         imageUrl: chainData?.logo,
@@ -93,21 +119,40 @@ export default async function buildNetworks() {
     };
   });
 
-  const viemCustomChains = viemChains.map((chain): Chain | null => {
-    const wrappedToken = getNativeWrappedToken(chain.id);
-    const defiLLamaProvider = getDefiLlamaProvider(chain.id);
-    const chainData = getChainData(chain.id);
+  const viemCustomChains = drpcChainIds.map((chainId): Chain | null => {
+    const wrappedToken = getNativeWrappedToken(chainId);
+    const defiLLamaProvider = getDefiLlamaProvider(chainId);
+    const chainData = getChainData(chainId);
 
     if (!wrappedToken) {
       return null;
     }
 
-    if (!chainsSupportedSet.has(chain.id)) {
+    if (!chainsSupportedSet.has(chainId)) {
+      return null;
+    }
+
+    const httpRpcUrl = getDRpcChainRpcHttpUrl(chainId);
+    const wsRpcUrl = getDRpcChainRpcWsUrl(chainId);
+
+    if (!httpRpcUrl || !wsRpcUrl) {
+      return null;
+    }
+
+    const chain = getViemChain(chainId);
+
+    if (!chain) {
       return null;
     }
 
     return {
       ...chain,
+      rpcUrls: {
+        default: {
+          http: [httpRpcUrl],
+          webSocket: [wsRpcUrl],
+        },
+      },
       custom: {
         ...chain.custom,
         chainLogo: chainData?.logo,
@@ -117,30 +162,51 @@ export default async function buildNetworks() {
     };
   });
 
-  const rainbowkitChains = viemChains.map((chain): RainbowKitChain | null => {
-    const wrappedToken = getNativeWrappedToken(chain.id);
-    const defiLLamaProvider = getDefiLlamaProvider(chain.id);
-    const chainData = getChainData(chain.id);
+  const rainbowkitChains = drpcChainIds.map(
+    (chainId): RainbowKitChain | null => {
+      const wrappedToken = getNativeWrappedToken(chainId);
+      const defiLLamaProvider = getDefiLlamaProvider(chainId);
+      const chainData = getChainData(chainId);
 
-    if (!wrappedToken) {
-      return null;
-    }
+      if (!wrappedToken) {
+        return null;
+      }
 
-    if (!chainsSupportedSet.has(chain.id)) {
-      return null;
-    }
+      if (!chainsSupportedSet.has(chainId)) {
+        return null;
+      }
 
-    return {
-      ...chain,
-      iconUrl: chainData?.logo,
-      custom: {
-        ...chain.custom,
-        chainLogo: chainData?.logo,
-        wrapped: getAddress(wrappedToken.address),
-        defiLLamaChain: defiLLamaProvider?.name,
-      },
-    };
-  });
+      const httpRpcUrl = getDRpcChainRpcHttpUrl(chainId);
+      const wsRpcUrl = getDRpcChainRpcWsUrl(chainId);
+
+      if (!httpRpcUrl || !wsRpcUrl) {
+        return null;
+      }
+
+      const chain = getViemChain(chainId);
+
+      if (!chain) {
+        return null;
+      }
+
+      return {
+        ...chain,
+        rpcUrls: {
+          default: {
+            http: [httpRpcUrl],
+            webSocket: [wsRpcUrl],
+          },
+        },
+        iconUrl: chainData?.logo,
+        custom: {
+          ...chain.custom,
+          chainLogo: chainData?.logo,
+          wrapped: getAddress(wrappedToken.address),
+          defiLLamaChain: defiLLamaProvider?.name,
+        },
+      };
+    },
+  );
 
   if (!existsSync("assets/networks")) {
     await mkdir("assets/networks", {
