@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:5464",
+  "name": "Citrus Finance on Saga",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:18.116Z",
+  "timestamp": "2025-10-06T22:07:42.638Z",
   "tokens": [
     {
       "chainId": 5464,
@@ -13,11 +13,8 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0x4E33613adD93463E82A14080021f2FfaF1e062CF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "33bb252077ea11f8fa9d752f159c315a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0x4e33613add93463e82a14080021f2ffaf1e062cf.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -25,11 +22,8 @@
       "name": "Saga",
       "symbol": "SAGA",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xA19377761FED745723B90993988E04d641c2CfFE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cf3bff45b3f6b57b0a28a45b0d05a266"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xa19377761fed745723b90993988e04d641c2cffe.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -37,11 +31,17 @@
       "name": "Akira",
       "symbol": "AKIR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xad0cdFdBB8621977Fa787cDc33a00141A0ce9Ef4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40bef3a8ec3d228d85433d4b89d03e7a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xad0cdfdbb8621977fa787cdc33a00141a0ce9ef4.png",
+      "tags": []
+    },
+    {
+      "chainId": 5464,
+      "address": "0xB76144F87DF95816e8c55C240F874C554B4553C3",
+      "name": "Saga Dollar",
+      "symbol": "D",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xb76144f87df95816e8c55c240f874c554b4553c3.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -49,11 +49,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xC8fe3C1de344854f4429bB333AFFAeF97eF88CEa.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a662b2d4496cbb2da3dab6f9d4d3a3cc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xc8fe3c1de344854f4429bb333affaef97ef88cea.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -61,11 +58,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xeb41D53F14Cb9a67907f2b8b5DBc223944158cCb.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1f479fadddf58f98b4f81b68c68b22a2"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xeb41d53f14cb9a67907f2b8b5dbc223944158ccb.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -73,11 +67,8 @@
       "name": "Cluster",
       "symbol": "CLSTR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xF11a9b22EA9D241607474C924561B39a1FF0BEe3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5df913ad017ea52c94767f4442310381"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xf11a9b22ea9d241607474c924561b39a1ff0bee3.png",
+      "tags": []
     },
     {
       "chainId": 5464,
@@ -85,11 +76,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/5464/0xfc960C233B8E98e0Cf282e29BDE8d3f105fc24d5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "debc1b7d2056002b3bc519f8d187ec5d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/5464/0xfc960c233b8e98e0cf282e29bde8d3f105fc24d5.png",
+      "tags": []
     }
   ]
 }

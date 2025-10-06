@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:32.946Z",
+  "timestamp": "2025-10-06T22:06:42.397Z",
   "tokens": [
     {
       "chainId": 480,
@@ -13,11 +13,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d0722c21249c657aac4397d5d87a014a"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1696507857",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -25,11 +22,8 @@
       "name": "Reservoir rUSD",
       "symbol": "RUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x09D4214C03D01F49544C0448DBE3A27f768F2b34.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea1936201706f0dde47671bf186cd9a9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x09d4214c03d01f49544c0448dbe3a27f768f2b34.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -37,10 +31,11 @@
       "name": "Stargate USD₮0 (Bridged)",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     },
     {
@@ -49,11 +44,8 @@
       "name": "Wrapped DOGE  Universal ",
       "symbol": "UDOGE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e1838e53f9599d750adbc08122893524"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x12e96c2bfea6e835cf8dd38a5834fa61cf723736.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -61,11 +53,8 @@
       "name": "IDRX",
       "symbol": "IDRX",
       "decimals": 2,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7de9afcfb4492a3a8c31e6ba1a668a9b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -73,11 +62,8 @@
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8a4aee985c590fc25a958691ee3a4a26"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x2416092f143378750bb29b79ed961ab195cceea5.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -85,11 +71,8 @@
       "name": "Wrapped XRP  Universal ",
       "symbol": "UXRP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "63118fa541f982536d853a1dead6f5db"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x2615a94df961278dcbc41fb0a54fec5f10a693ae.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -97,11 +80,8 @@
       "name": "Worldcoin",
       "symbol": "WLD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x2cFc85d8E48F8EAB294be644d9E25C3030863003.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "02b64149c52ca1f963b58dc1cf73d26b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x2cfc85d8e48f8eab294be644d9e25c3030863003.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -109,11 +89,8 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x3d63825B0d8669307366E6c8202f656b9E91D368.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "04b75f1e93f95a5dbe1c309296473e40"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x3d63825b0d8669307366e6c8202f656b9e91d368.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -121,11 +98,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "92eab55c31987c2444877933d35c2bbd"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/50790/small/wETH_32.png?1729214345",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -133,11 +107,8 @@
       "name": "Wrapped Savings rUSD",
       "symbol": "WSRUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x4809010926aec940b550D34a46A52739f996D75D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "539ce64e73f2738452cd93919e80ec6c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x4809010926aec940b550d34a46a52739f996d75d.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -145,11 +116,17 @@
       "name": "World Cat",
       "symbol": "WORLDCAT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x6770A7133bD0d74f95e4c9e9B7735bb4cd5653A6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "713997e8e6a36fce8f15b7f75fab77b5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x6770a7133bd0d74f95e4c9e9b7735bb4cd5653a6.png",
+      "tags": []
+    },
+    {
+      "chainId": 480,
+      "address": "0x6fb9DF9530E302BE9Dc126363Bd7529b807f7167",
+      "name": "CrazyFootball token",
+      "symbol": "FOOTBALL",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x6fb9df9530e302be9dc126363bd7529b807f7167.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -157,11 +134,8 @@
       "name": "Bowser",
       "symbol": "BOWSER",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x7047b80cb47527e864029d3CFe1899534DC15402.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "295895c5cdcae63662eb5820ad2846f7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x7047b80cb47527e864029d3cfe1899534dc15402.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -169,11 +143,8 @@
       "name": "PoolTogether",
       "symbol": "POOL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x7077C71B4AF70737a08287E279B717Dcf64fdC57.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f5c50b7d3b51649ffc035b316f496cd1"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x7077c71b4af70737a08287e279b717dcf64fdc57.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -181,11 +152,17 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x79A02482A880bCE3F13e09Da970dC34db4CD24d1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ac2b7c0b1d64af319b4310845cf41165"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
+      "tags": []
+    },
+    {
+      "chainId": 480,
+      "address": "0x915b648e994d5f31059B38223b9fbe98ae185473",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x915b648e994d5f31059b38223b9fbe98ae185473.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -193,11 +170,8 @@
       "name": "Wrapped Solana  Universal ",
       "symbol": "USOL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7ad3f32c80da92b6ea636a069065baef"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0x9b8df6e244526ab5f6e6400d331db28c8fdddb55.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -205,11 +179,8 @@
       "name": "Wrapped SUI  Universal ",
       "symbol": "USUI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e60b1f2d385ca4db5c2f89c1a6a25229"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0xb0505e5a99abd03d94a1169e638b78edfed26ea4.png",
+      "tags": []
     },
     {
       "chainId": 480,
@@ -217,11 +188,8 @@
       "name": "DNA Token",
       "symbol": "DNA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0xED49fE44fD4249A09843C2Ba4bba7e50BECa7113.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7c2f01eed9a6327c04b869854b742d77"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/480/0xed49fe44fd4249a09843c2ba4bba7e50beca7113.png",
+      "tags": []
     },
     {
       "name": "Ether",
@@ -229,10 +197,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 480,
-      "logoURI": "https://assets.citrus.finance/token-logos/480/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/480.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "16fcb4908c29bd3494ca788ed729e97c"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

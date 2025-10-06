@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:09:24.471Z",
+  "timestamp": "2025-10-06T22:07:34.797Z",
   "tokens": [
     {
       "chainId": 80001,
@@ -13,11 +13,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x3813e82e6f7098b9583FC0F33a962D02018B6803.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea5475e69a3f74b622083a4fba8595d2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -25,11 +22,8 @@
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x5B67676a984807a212b1c59eBFc9B3568a474F0a.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9a2a6cf1cf4f3902c0074ee79b743539"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -37,11 +31,8 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -49,11 +40,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x742DfA5Aa70a8212857966D491D67B09Ce7D6ec7.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -61,11 +49,8 @@
       "name": "Wrapped Matic",
       "symbol": "WMATIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "88ca0790f807a102c7554753eba1640d"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -73,11 +58,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
-      }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -85,11 +67,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "tags": []
     },
     {
       "chainId": 80001,
@@ -97,11 +76,8 @@
       "name": "The Sandbox",
       "symbol": "SAND",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/80001/0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b3d8c3348037f40b50f9a0099e1d5de8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sand.jpg",
+      "tags": []
     }
   ]
 }

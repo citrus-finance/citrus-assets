@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on SKALE | Europa Liquidity Hub",
+  "name": "Citrus Finance on SKALE Europa Hub",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:18:47.437Z",
+  "timestamp": "2025-10-06T22:08:07.236Z",
   "tokens": [
     {
       "chainId": 2046399126,
@@ -13,11 +13,8 @@
       "name": "Block Brawlers BRAWL",
       "symbol": "BRAWL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "102d2ac2e3009a1389fa326cf37bb2b4"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x28c6ac22aB738BB01FC6CBA75804dC088aae6193.jpg",
+      "tags": []
     },
     {
       "chainId": 2046399126,
@@ -25,11 +22,8 @@
       "name": "RubyToken",
       "symbol": "RUBY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fe0f711dfe354464d322f7268418c5cc"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x2B4e4899b53E8b7958c4591a6d02f9C0b5c50F8f.jpg",
+      "tags": []
     },
     {
       "chainId": 2046399126,
@@ -37,11 +31,8 @@
       "name": "Europa HITMAKR",
       "symbol": "HMKR",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "02d9658560dd292bddd5a4c5f6f53d66"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0x57A3d5FAa172F5984cdcd4885fd4F0baAC88e558.jpg",
+      "tags": []
     },
     {
       "chainId": 2046399126,
@@ -49,11 +40,8 @@
       "name": "ForLootAndGlory",
       "symbol": "FLAG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3c82914784d6adbae105fd89e18cdab6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xcdF030a3E65f917DFa8d74555A64a5eC5303c88e.jpg",
+      "tags": []
     },
     {
       "chainId": 2046399126,
@@ -61,11 +49,8 @@
       "name": "Europa SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0xCEC20381ac92D610AC444f6D73c1D40726650259.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c5302a07a04637d3498524013a7beeef"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCEC20381ac92D610AC444f6D73c1D40726650259.jpg",
+      "tags": []
     },
     {
       "chainId": 2046399126,
@@ -73,11 +58,8 @@
       "name": "Exorde Network Token",
       "symbol": "EXD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2046399126/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cdf54e5ade73f5cc58e9f651f958b442"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/skale-europa/0xCfEBA92BD362B2F76fC30a89C433DE50a1D62BcA.jpg",
+      "tags": []
     }
   ]
 }

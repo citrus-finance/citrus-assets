@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:16.863Z",
+  "timestamp": "2025-10-06T22:07:09.365Z",
   "tokens": [
     {
       "chainId": 34443,
@@ -13,10 +13,12 @@
       "name": "Swarm Markets",
       "symbol": "SMT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x06d6a7BDFFAFa3c953d7B9842f7F414a6e0bEb4A.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d538ad020b66334a61a4b24476861711"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "SMT"
       }
     },
     {
@@ -25,10 +27,11 @@
       "name": "Stargate USD₮0 (Bridged)",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     },
     {
@@ -37,11 +40,8 @@
       "name": "Renzo Restaked ETH",
       "symbol": "ezETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3855a19624ce8609dfa4b7280432709d"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2416092f143378750bb29b79ed961ab195cceea5.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -49,10 +49,12 @@
       "name": "Savings Dai",
       "symbol": "sDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x3390108E913824B8eaD638444cc52B9aBdF63798.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "e316cfde18d91d03e5abc87bc6eb66b4"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "sDAI"
       }
     },
     {
@@ -61,10 +63,12 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x3e7eF8f50246f725885102E8238CBba33F276747.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "15e900f4b8a5b32582ad0290827e7dbd"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "UNI"
       }
     },
     {
@@ -73,11 +77,8 @@
       "name": "Mode Savings Dai",
       "symbol": "msDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x3f51c6c5927B88CDEc4b61e2787F9BD0f5249138.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aa78dd7942b2efba9a383961b737c341"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3f51c6c5927b88cdec4b61e2787f9bd0f5249138.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -85,11 +86,8 @@
       "name": "KelpDao Restaked ETH",
       "symbol": "rsETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x4186BFC76E2E237523CBC30FD220FE055156b41F.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0f56c7255108c4e1674a2b4a5d06e1fc"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4186bfc76e2e237523cbc30fd220fe055156b41f.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -97,11 +95,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x4200000000000000000000000000000000000006.avif",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b295c5a6187d636ad7d41c40adefb27f"
-      }
+      "logoURI": "https://cdn.routescan.io/cdn/chains/modescan/modescan_32.avif",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -109,10 +104,12 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "89dfeb6a02e4ceb7d72986b1f8763479"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LINK"
       }
     },
     {
@@ -121,11 +118,8 @@
       "name": "Merlin BTC",
       "symbol": "M-BTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x59889b7021243dB5B1e065385F918316cD90D46c.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "739baad309f347a4efff52e8ceea162e"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/36566/large/photo_2024-03-25_22-04-42.jpg?1711936162",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -133,11 +127,8 @@
       "name": "uniBTC",
       "symbol": "uniBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c300acc6934c6ef584fee5a7591da449"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -145,11 +136,8 @@
       "name": "aBTC",
       "symbol": "aBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x7A087e75807F2E5143C161a817E64dF6dC5EAFe0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f0353608632c2c4f8cd0869440bb2327"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7a087e75807f2e5143c161a817e64df6dc5eafe0.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -157,10 +145,12 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "14317204a0c5daa46813ca9ddbaa307c"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "AAVE"
       }
     },
     {
@@ -169,11 +159,8 @@
       "name": "StakeStone Ether",
       "symbol": "STONE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x80137510979822322193FC997d400D5A6C747bf7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d738a3e4056bde9208113b63effaf184"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33103/large/200_200.png?1702602672",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -181,10 +168,12 @@
       "name": "Burn Wrapped AJNA",
       "symbol": "bwAJNA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x9e1028F5F1D5eDE59748FFceE5532509976840E0.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "0c20b752b2eb446805704720c0acec95"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "bwAJNA"
       }
     },
     {
@@ -193,10 +182,12 @@
       "name": "Synthetix",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "2ba4de13e065f2b9280cb48422bd118c"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "SNX"
       }
     },
     {
@@ -205,10 +196,12 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "9c0f8eaa38ca4f67efb8f7a14535e1ac"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WBTC"
       }
     },
     {
@@ -217,11 +210,8 @@
       "name": "Autonolas",
       "symbol": "OLAS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4fa08bf31dcde57927284dbd772bc6ec"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9.png",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -229,10 +219,12 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xD08a2917653d4E460893203471f0000826fb4034.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/BAL/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "80c47021597b28131ebf9c35bf7e76b1"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "BAL"
       }
     },
     {
@@ -241,10 +233,10 @@
       "name": "uBTC",
       "symbol": "uBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xd0d1b59CA62cE194E882455Fd36632d6277b192a.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0d1b59ca62ce194e882455fd36632d6277b192a.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3af9ea0c340adec8b4c71f5fb03574d4"
+        "coingeckoId": "wrapped-bitcoin"
       }
     },
     {
@@ -253,10 +245,11 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xd988097fb8612cc24eeC14542bC03424c656005f.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ab8bfd2cb1499b2fc9b9d75620ee1c48"
+        "opListId": "default",
+        "opTokenId": "USDC"
       }
     },
     {
@@ -265,11 +258,8 @@
       "name": "Mode",
       "symbol": "MODE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xDfc7C877a950e49D2610114102175A06C2e3167a.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b811607a9686b1b3c3b3a4d8b3fa4799"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/large/MODE.jpg?1714561871",
+      "tags": []
     },
     {
       "chainId": 34443,
@@ -277,10 +267,10 @@
       "name": "Obelisk BTC",
       "symbol": "oBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xe3C0FF176eF92FC225096C6d1788cCB818808b35.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe3c0ff176ef92fc225096c6d1788ccb818808b35.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "7ee0499beb1b69efc0f5b8d5c807b5ab"
+        "coingeckoId": "wrapped-bitcoin"
       }
     },
     {
@@ -289,10 +279,12 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "1ae4e0a71cefa01a7a13160664f9afac"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "DAI"
       }
     },
     {
@@ -301,10 +293,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 34443,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/34443.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "29e67ecf1504205c7c1e021eaf99110c"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"
@@ -316,10 +307,12 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/34443/0xf0F161fDA2712DB8b566946122a5af183995e2eD.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1ec57654ae2b3c91302d3b68c1470b5a"
+        "modeBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "USDT"
       }
     }
   ]

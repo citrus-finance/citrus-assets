@@ -5,19 +5,16 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:39.851Z",
+  "timestamp": "2025-10-06T22:07:18.072Z",
   "tokens": [
     {
       "chainId": 60808,
       "address": "0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
+      "name": "Wrapped BTC (OLD)",
+      "symbol": "WBTC.OLD",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea56502e3fca2adcee7877f781ac4dcd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -25,11 +22,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7dc251cafd52afaee86ca3c62c26397f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -37,11 +31,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x05D032ac25d322df992303dCa074EE7392C117b9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "80cc7e0675f2c0899b78cae442e60016"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x05d032ac25d322df992303dca074ee7392c117b9.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -49,11 +40,8 @@
       "name": "OpenUSDT",
       "symbol": "oUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x1217BfE6c773EEC6cc4A38b5Dc45B92292B6E189.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "91ada36e53666198031378be5b2ac667"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -61,11 +49,8 @@
       "name": "Universal BTC",
       "symbol": "uniBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x236f8c0a61dA474dB21B693fB2ea7AAB0c803894.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e936718fab2c24e0734a67f55dc4d277"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x236f8c0a61da474db21b693fb2ea7aab0c803894.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -73,11 +58,8 @@
       "name": "PepeBOB",
       "symbol": "PEBOB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x2D1Da9A6A23724Cbd65188B3f9a6758f2A57C059.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7ea57bd2e40f3cb9a7110ee95bef6a60"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x2d1da9a6a23724cbd65188b3f9a6758f2a57c059.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -85,11 +67,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -97,11 +76,8 @@
       "name": "SatLayer uniBTC",
       "symbol": "satUniBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x4CBE838E2BD3B46247f80519B6aC79363298aa09.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aa5ad890ed902d13be812ae397dc937c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x4cbe838e2bd3b46247f80519b6ac79363298aa09.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -109,11 +85,8 @@
       "name": "Solv Protocol SolvBTC",
       "symbol": "SolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "732c503f7b48973b6dba16e47a3d35ba"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -121,11 +94,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x6c851F501a3F24E29A8E39a29591cddf09369080.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "824a21a7322f810f8a5856b15325e98f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x6c851f501a3f24e29a8e39a29591cddf09369080.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -133,11 +103,8 @@
       "name": "Satoshi Stablecoin",
       "symbol": "satUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x78Fea795cBFcC5fFD6Fb5B845a4f53d25C283bDB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3a7fc5c70dcf52c94c6dd03128a3b5e9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -145,11 +112,8 @@
       "name": "Hybrid Bitcoin",
       "symbol": "HybridBTC.pendle",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0x9998e05030Aee3Af9AD3df35A34F5C51e1628779.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "62b8d9b4408e32d9dd42399188988bb4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0x9998e05030aee3af9ad3df35a34f5c51e1628779.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -157,11 +121,8 @@
       "name": "Lombard Staked Bitcoin",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xA45d4121b3D47719FF57a947A9d961539Ba33204.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d5cd45803ba36820bfc65daec82a8817"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xa45d4121b3d47719ff57a947a9d961539ba33204.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -169,11 +130,8 @@
       "name": "tBTC v2",
       "symbol": "tBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e1e9291a58554a467cd3e50455d8070b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -181,23 +139,17 @@
       "name": "Fire Bitcoin",
       "symbol": "FBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xC96dE26018A54D51c097160568752c4E3BD6C364.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "757f06a22871f1bf0fc4f1b2447ac70b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xc96de26018a54d51c097160568752c4e3bd6c364.png",
+      "tags": []
     },
     {
       "chainId": 60808,
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-      "name": "SolvBTC Babylon",
-      "symbol": "SolvBTC.BBN",
+      "name": "xSolvBTC",
+      "symbol": "xSolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xCC0966D8418d412c599A6421b760a847eB169A8c.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "18679d67e29129018ce004a6711b51a9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xcc0966d8418d412c599a6421b760a847eb169a8c.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -205,11 +157,8 @@
       "name": "Babylon",
       "symbol": "BABY",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xe53dCec07d16D88e386AE0710E86d9a400f83c31.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2b0efdc2f7c68a94a903700cb8e3327a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xe53dcec07d16d88e386ae0710e86d9a400f83c31.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -217,11 +166,8 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xe75D0fB2C24A55cA1e3F96781a2bCC7bdba058F0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cb8f3df8a5864167c24f0daa8db5e87a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0.png",
+      "tags": []
     },
     {
       "chainId": 60808,
@@ -229,11 +175,8 @@
       "name": "Satoshi Stablecoin V2",
       "symbol": "satUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xecf21b335B41f9d5A89f6186A99c19a3c467871f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "236bc17b6180b855bafb086824a9bb9d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/60808/0xecf21b335b41f9d5a89f6186a99c19a3c467871f.png",
+      "tags": []
     },
     {
       "name": "ETH",
@@ -241,10 +184,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 60808,
-      "logoURI": "https://assets.citrus.finance/token-logos/60808/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "d6fbb4c04e714ecce83dedc8deddb863"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

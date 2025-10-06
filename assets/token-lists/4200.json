@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:02.412Z",
+  "timestamp": "2025-10-06T22:06:53.515Z",
   "tokens": [
     {
       "name": "BTC",
@@ -13,10 +13,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 4200,
-      "logoURI": "https://assets.citrus.finance/token-logos/4200/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/4200.webp",
       "extensions": {
-        "wrapped": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA",
-        "cacheHash": "a03622324f52cdefd34aec8c5ca11bf9"
+        "wrapped": "0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA"
       },
       "tags": [
         "Top"
@@ -28,11 +27,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4200/0xF6D226f9Dc15d9bB51182815b320D3fBE324e1bA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "869fd2e480051b5004953c9efc200005"
-      }
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/btc.png",
+      "tags": []
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:698",
+  "name": "Citrus Finance on Matchain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:16.193Z",
+  "timestamp": "2025-10-06T22:07:42.404Z",
   "tokens": [
     {
       "chainId": 698,
@@ -13,11 +13,8 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/698/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "18f3e1856483fb8294fb67e26abaf946"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/698/0x4200000000000000000000000000000000000006.png",
+      "tags": []
     },
     {
       "chainId": 698,
@@ -25,11 +22,8 @@
       "name": "Matchain",
       "symbol": "MAT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/698/0x44a83a012B926853DFc1BBE2ec5BEf37126067e8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "192d252ca4592f4a524abca556fe2f51"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/698/0x44a83a012b926853dfc1bbe2ec5bef37126067e8.png",
+      "tags": []
     },
     {
       "chainId": 698,
@@ -37,11 +31,8 @@
       "name": "Bridged USDC (Hyperlane)",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/698/0x679Dc08cC3A4acFeea2f7CAFAa37561aE0b41Ce7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "44053b4d420f2d51b2c10f59cf1cc976"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/698/0x679dc08cc3a4acfeea2f7cafaa37561ae0b41ce7.png",
+      "tags": []
     },
     {
       "chainId": 698,
@@ -49,11 +40,17 @@
       "name": "Staked MAT",
       "symbol": "stMAT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/698/0x9E8f9907541f5dF3383130B5D869d39f129BE259.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "204542c4673bfb96c9c97efbc875c77e"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/698/0x9e8f9907541f5df3383130b5d869d39f129be259.png",
+      "tags": []
+    },
+    {
+      "chainId": 698,
+      "address": "0xa0e73E30945B80010503E68e53AbFd0B6B6a6ed9",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/698/0xa0e73e30945b80010503e68e53abfd0b6b6a6ed9.png",
+      "tags": []
     }
   ]
 }

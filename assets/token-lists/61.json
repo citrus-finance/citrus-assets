@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:00:49.902Z",
+  "timestamp": "2025-10-06T22:06:31.109Z",
   "tokens": [
     {
       "chainId": 61,
@@ -13,11 +13,8 @@
       "name": "Wrapped ETC",
       "symbol": "WETC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/61/0x82A618305706B14e7bcf2592D4B9324A366b6dAd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f34e274a5a026c67dc4294fc05e3aaf0"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/27126/small/1321.png?1696526178",
+      "tags": []
     },
     {
       "name": "ETC",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 61,
-      "logoURI": "https://assets.citrus.finance/token-logos/61/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/61.webp",
       "extensions": {
-        "wrapped": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
-        "cacheHash": "c21f4ff3d3b2fa22c3c535a44d1976fe"
+        "wrapped": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd"
       },
       "tags": [
         "Top"

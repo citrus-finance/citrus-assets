@@ -5,34 +5,6 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:30.746Z",
-  "tokens": [
-    {
-      "chainId": 338,
-      "address": "0x0728B93B969f84A248Df7e499358A6733834FD7b",
-      "name": "Wrapped CRO",
-      "symbol": "WCRO",
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/338/0x0728B93B969f84A248Df7e499358A6733834FD7b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f95752ea7642b8de66c1ca72401ffc48"
-      }
-    },
-    {
-      "name": "CRO",
-      "symbol": "tCRO",
-      "decimals": 18,
-      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "chainId": 338,
-      "logoURI": "https://assets.citrus.finance/token-logos/338/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
-      "extensions": {
-        "wrapped": "0x0728B93B969f84A248Df7e499358A6733834FD7b",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
-      },
-      "tags": [
-        "Top"
-      ]
-    }
-  ]
+  "timestamp": "2025-10-06T22:06:41.671Z",
+  "tokens": []
 }

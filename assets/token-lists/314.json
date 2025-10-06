@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:30.723Z",
+  "timestamp": "2025-10-06T22:06:41.577Z",
   "tokens": [
     {
       "chainId": 314,
@@ -13,11 +13,8 @@
       "name": "Axelar Wrapped BTC",
       "symbol": "axlWBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5e7f0200b4e2fb43775961323e123a21"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -25,11 +22,8 @@
       "name": "Celer USDC",
       "symbol": "celerUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x2421db204968A367CC2C866CD057fA754Cb84EdF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b00c40f4054081ea47576e9aedf386bb"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0x2421db204968a367cc2c866cd057fa754cb84edf.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -37,11 +31,8 @@
       "name": "Celer Wrapped USDT",
       "symbol": "ceUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4f95f5c6fc01d7e4d62418cd238cf3f9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x422849B355039bC58F2780cc4854919fC9cfaF94.jpg",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -49,11 +40,8 @@
       "name": "Celer Wrapped ETH",
       "symbol": "celerWETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f3533634dafd965dec420141d3b747d2"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0x522b61755b5ff8176b2931da7bf1a5f9414eb710.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -61,11 +49,8 @@
       "name": "Wrapped PFIL Token",
       "symbol": "wpFIL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x57E3BB9F790185Cfe70Cc2C15Ed5d6B84dCf4aDb.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "503d0dbc5a65137537d56b3655ae59b9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0x57e3bb9f790185cfe70cc2c15ed5d6b84dcf4adb.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -73,11 +58,8 @@
       "name": "Axelar Wrapped DAI",
       "symbol": "axlDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0e17d1580694d65976f75617072471fb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -85,11 +67,8 @@
       "name": "Wrapped FIL",
       "symbol": "WFIL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "699c2d716a631ffa54438d09b32e4932"
-      }
+      "logoURI": "https://filfox.info/dist/img/wfil.803862d.svg",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -97,11 +76,8 @@
       "name": "Axelar USDT",
       "symbol": "axlUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6670a1bc5013be82eeecaa25d89536ac"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -109,11 +85,8 @@
       "name": "rSPD Token",
       "symbol": "rSPD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "15a23f69693ed40d63b518533e310881"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x97AAe66a1D2a41eAC573397B7a5656a9cF3E5616.jpg",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -121,11 +94,8 @@
       "name": "Axelar Wrapped ETH",
       "symbol": "axlWETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a79c82a8f40f9624145e66ffddbbdb8b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0xb829b68f57cc546da7e5806a929e53be32a4625d.png",
+      "tags": []
     },
     {
       "chainId": 314,
@@ -133,11 +103,8 @@
       "name": "Axelar USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6cdcfd12ef87390cd67aee209dd49232"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/314/0xeb466342c4d449bc9f53a865d5cb90586f405215.png",
+      "tags": []
     },
     {
       "name": "filecoin",
@@ -145,10 +112,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 314,
-      "logoURI": "https://assets.citrus.finance/token-logos/314/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/314.webp",
       "extensions": {
-        "wrapped": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A",
-        "cacheHash": "34f60298f0fab734f48bf4e5021ea6ba"
+        "wrapped": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A"
       },
       "tags": [
         "Top"

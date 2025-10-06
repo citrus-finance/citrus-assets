@@ -1,0 +1,24 @@
+{
+  "name": "Citrus Finance on Celo Sepolia Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-10-06T22:07:34.881Z",
+  "tokens": [
+    {
+      "chainId": 11142220,
+      "address": "0x2cE73DC897A3E10b3FF3F86470847c36ddB735cf",
+      "name": "Wrapped Ether (Celo native bridge)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+      "tags": [],
+      "extensions": {
+        "opListId": "default",
+        "opTokenId": "WETH"
+      }
+    }
+  ]
+}

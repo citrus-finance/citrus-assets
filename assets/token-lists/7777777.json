@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:07.923Z",
+  "timestamp": "2025-10-06T22:07:23.591Z",
   "tokens": [
     {
       "chainId": 7777777,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7777777/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 7777777,
@@ -25,11 +22,8 @@
       "name": "USD Coin (Bridged from Ethereum)",
       "symbol": "USDzC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/7777777/0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ac2b7c0b1d64af319b4310845cf41165"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
+      "tags": []
     },
     {
       "name": "Ether",
@@ -37,10 +31,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 7777777,
-      "logoURI": "https://assets.citrus.finance/token-logos/7777777/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/7777777.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "25434a85013e8760b019d1b37eef2436"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

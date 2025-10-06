@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:34.336Z",
+  "timestamp": "2025-10-06T22:06:45.072Z",
   "tokens": [
     {
       "chainId": 1088,
@@ -13,15 +13,12 @@
       "name": "ENKI Protocol",
       "symbol": "ENKI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x096A84536ab84E68ee210561FFD3A038E79736F1.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/enki.png",
       "tags": [
         "USD Stablecoin",
         "Circle",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "a350bac59994d3af78cd15028528aafa"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -29,13 +26,10 @@
       "name": "BARSIK Token",
       "symbol": "BARSIK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x0CF2F4Cb2FAAD0FE35eFF943452339c5699D1e5c.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/barsik.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "44781721488682cab234248cf00cdc0f"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -43,15 +37,12 @@
       "name": "Alchemix ETH",
       "symbol": "alETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x0E17934B9735D479B2388347fAeF0F4e58b9cc06.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/aleth.png",
       "tags": [
         "Synthetics",
         "Future Yield",
         "Tokenized"
-      ],
-      "extensions": {
-        "cacheHash": "76b354a4765f3bafd2b6a8736ffd3db3"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -59,15 +50,12 @@
       "name": "JEWEL Token",
       "symbol": "JEWEL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x17C09cfC96C865CF546d73365Cedb6dC66986963.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/jewel.png",
       "tags": [
         "Dex",
         "GameFi",
         "Liquidity Pools"
-      ],
-      "extensions": {
-        "cacheHash": "d85a1001e78d6961425fb09eb009a1ed"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -75,11 +63,8 @@
       "name": "SushiToken",
       "symbol": "m.SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "25158964d3c5c1ceb0a7db31e21d2283"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -87,13 +72,10 @@
       "name": "Monkex Token",
       "symbol": "MONKEX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/monkex.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "ab2a57278fc990f60df4af4af3451f19"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -101,13 +83,10 @@
       "name": "Regrettis",
       "symbol": "REGRET",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x18A05C5d0B5787aaBE64d209997fbFfa3Df77283.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/regrettis.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "18e67ca741b8fa504c259a9f30125e91"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -115,15 +94,12 @@
       "name": "Governance VEC Token",
       "symbol": "gVEC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x1Af9735E9a3658dF9fa51c4D5AEAc89d162C2bc8.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/gvec.png",
       "tags": [
         "LST",
         "LRT",
         "DAO"
-      ],
-      "extensions": {
-        "cacheHash": "4df89ccc7dc6897711d207edf56fafe1"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -131,15 +107,12 @@
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/sfrxeth.png",
       "tags": [
         "LRT",
         "LST",
         "DeFi"
-      ],
-      "extensions": {
-        "cacheHash": "6a29d480b62e799bfa77dd8e2aacf75c"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -147,15 +120,12 @@
       "name": "Frax Share",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x23432452B720C80553458496D4D9d7C5003280d0.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/fxs.png",
       "tags": [
         "Algo-Stable",
         "Governance",
         "Yield Farming"
-      ],
-      "extensions": {
-        "cacheHash": "cde4652c87514a1d7654f0a76423ad83"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -163,15 +133,12 @@
       "name": "Staked Metis Token",
       "symbol": "artMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x2583A2538272f31e9A15dD12A432B8C96Ab4821d.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/artMETIS.svg",
       "tags": [
         "LST",
         "Sequencer",
         "Governance"
-      ],
-      "extensions": {
-        "cacheHash": "2d30905df6010b2d6db917a775f1ae2e"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -179,15 +146,12 @@
       "name": "Alchemix USD",
       "symbol": "alUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/alusd.png",
       "tags": [
         "USD Stablecoin",
         "Circle",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "37c872c97c3c94ba0bf755a72ca61ebd"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -195,14 +159,11 @@
       "name": "Alchemix",
       "symbol": "ALCX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x303c4F39EA359155C698807168e9Dc3aA1dF2b95.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/alcx.svg",
       "tags": [
         "Governance",
         "DeFi"
-      ],
-      "extensions": {
-        "cacheHash": "6a04e89bea0e0848464c89db58bf9d04"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -210,11 +171,8 @@
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x420000000000000000000000000000000000000A.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8b0eeea21a04aa3be60ccddafdee8553"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/eth.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -222,15 +180,12 @@
       "name": "Hummus Token",
       "symbol": "HUM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/hummus.png",
       "tags": [
         "Stableswap",
         "Dex",
         "Yield Farming"
-      ],
-      "extensions": {
-        "cacheHash": "43a6a82aed480a48ef89d60d11dfa751"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -238,11 +193,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -250,15 +202,12 @@
       "name": "Pumpkin Token",
       "symbol": "PUMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x5C7c4E4b949c97EC82Ff93120928d911Bc4E0922.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/pumpkin.svg",
       "tags": [
         "CDP",
         "SSLP",
         "LP"
-      ],
-      "extensions": {
-        "cacheHash": "50131aa59de9fa0b30cf9467d1a98f1f"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -266,11 +215,8 @@
       "name": "MockToken2",
       "symbol": "MT2",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x5F1E2fb208C21E5Ff34C95d2Aa31855787573b34.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e8736c031d464e8df975c7a4f1062812"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/torch.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -278,15 +224,12 @@
       "name": "TETHYS Token",
       "symbol": "TETHYS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x69fdb77064ec5c84FA2F21072973eB28441F43F3.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/tethys.png",
       "tags": [
         "Perp Dex",
         "Trading",
         "DeFi"
-      ],
-      "extensions": {
-        "cacheHash": "17501b7bc0dd03611fb4b21086ca8692"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -294,15 +237,12 @@
       "name": "HERA Token",
       "symbol": "HERA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/hera.png",
       "tags": [
         "Dex",
         "Aggregator",
         "Multi-chain"
-      ],
-      "extensions": {
-        "cacheHash": "d57c7e74f1daa77c51b9a55b62a74c74"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -310,11 +250,8 @@
       "name": "oMETIS Token",
       "symbol": "oMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x70f61901658aAFB7aE57dA0C30695cE4417e72b9.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "da54fd9c8203c9d45d0c2fbf6b65f127"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/ometis.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -322,15 +259,12 @@
       "name": "Wrapped Metis",
       "symbol": "WMetis",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/metis.png",
       "tags": [
         "Governance",
         "Sequencer",
         "DeFi"
-      ],
-      "extensions": {
-        "cacheHash": "4f91e6b02905d6db6de19040f6a5ea9a"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -338,11 +272,8 @@
       "name": "rTHEA Token",
       "symbol": "rTHEA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x780D578f7C7d72233874155Ee63Aa5a595156237.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b89945b823920cab8294e595fad0f393"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/althea.png",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -350,14 +281,11 @@
       "name": "MEMAI",
       "symbol": "MEMAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x792061e79f9A016dd5b794c1250BeDbB2Fb0ff20.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/MEMAI.png",
       "tags": [
         "meme",
         "ai"
-      ],
-      "extensions": {
-        "cacheHash": "0987b53b4ba8a45e6c9dd9bd422e4118"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -365,15 +293,12 @@
       "name": "Vector METIS",
       "symbol": "vMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x824CCDb1f156188436dFC059320608133c057aB3.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/vmetis.png",
       "tags": [
         "LST",
         "LRT",
         "Sequencer"
-      ],
-      "extensions": {
-        "cacheHash": "c69c5f277efa842dc30029bd27ad8ba8"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -381,14 +306,11 @@
       "name": "VestaDAO",
       "symbol": "VESTA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x848E329d9C3FF5D3078C4670c773651155386C46.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/VESTA.png",
       "tags": [
         "Education",
         "DAO"
-      ],
-      "extensions": {
-        "cacheHash": "81e4a2f00bd51657813748e91a59e977"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -396,15 +318,12 @@
       "name": "AraFi Token",
       "symbol": "ARA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/arafi.png",
       "tags": [
         "Omnichain",
         "Governance",
         "Aggregator"
-      ],
-      "extensions": {
-        "cacheHash": "6ae800f534d06f915dc68e9bd968ace8"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -412,11 +331,8 @@
       "name": "Test-Metis",
       "symbol": "TMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x865b2784ca270Bb357828d5181149d30C0AC9b74.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4f91e6b02905d6db6de19040f6a5ea9a"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/metis.png",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -424,13 +340,10 @@
       "name": "Wrapped Monkex Token",
       "symbol": "wMONKEX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/wmonkex.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "1b9d73a723265353ca21fd89b8b9bff3"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -438,14 +351,11 @@
       "name": "Froska",
       "symbol": "FROSKA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x920912668fE3B30F2f286E913a5F3c974e002aEB.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/FROSKA.svg",
       "tags": [
         "meme",
         "gamblefi"
-      ],
-      "extensions": {
-        "cacheHash": "93331bbaae034388d8a6aed0b349e704"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -453,11 +363,8 @@
       "name": "Convertible Pumpkin Token",
       "symbol": "cPUMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x9395DD0b6dE5Ee28F83B3fDFD03e4dB72443C06f.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "50131aa59de9fa0b30cf9467d1a98f1f"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/pumpkin.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -465,11 +372,8 @@
       "name": "MockToken1",
       "symbol": "MT1",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x9641E6C6780591c07185d36066cD13A846Ac2D9f.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e8736c031d464e8df975c7a4f1062812"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/torch.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -477,14 +381,11 @@
       "name": "Revenant",
       "symbol": "GAMEFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/gamefi.png",
       "tags": [
         "GameFi",
         "Governance"
-      ],
-      "extensions": {
-        "cacheHash": "305da5a30903671d3b5a014c30fd4450"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -492,15 +393,12 @@
       "name": "ENKI Metis",
       "symbol": "eMetis",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0x97a2de3A09F4A4229369ee82c7F76be1a5564661.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/eMetis.png",
       "tags": [
         "LST",
         "Sequencer",
         "Governance"
-      ],
-      "extensions": {
-        "cacheHash": "9718b73a923f30afb99dded1083d1ae4"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -508,13 +406,10 @@
       "name": "MUTTIS",
       "symbol": "MUTTIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xa0E3E174e41A74ffFCCED8edc56c3a495abF3352.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/muttis-logo-1.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "44935fd0e28338637ca655f9f3e27cf9"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -522,15 +417,12 @@
       "name": "Athena Token",
       "symbol": "ATH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/ath.svg",
       "tags": [
         "USD Stablecoin",
         "Circle",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "af6225534b9a998366e5e36b18328140"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -538,11 +430,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0b374230ad4ad3a4c0738a1435b92cb1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.jpg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -550,15 +439,12 @@
       "name": "Wagmi Token",
       "symbol": "WAGMI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/wagmi.png",
       "tags": [
         "Dex",
         "Real Yield",
         "Leverage"
-      ],
-      "extensions": {
-        "cacheHash": "e2ec7d6a33d2b3e08fa7d9ce0f0038ed"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -566,15 +452,12 @@
       "name": "CERUS Token",
       "symbol": "CERUS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/cerus.png",
       "tags": [
         "USD Stablecoin",
         "Circle",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "d0e3c36a95f1e8260da34e318b95f1e0"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -582,15 +465,12 @@
       "name": "m.USDT",
       "symbol": "m.USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/usdt.svg",
       "tags": [
         "USD Stablecoin",
         "FTX Holding",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "53004fdadb65d0decb22358bd6f068f9"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -598,15 +478,12 @@
       "name": "Torch",
       "symbol": "TORCH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xbB1676046C36BCd2F6fD08d8f60672c7087d9aDF.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/torch.svg",
       "tags": [
         "Dex",
         "Yield Farming",
         "Farming"
-      ],
-      "extensions": {
-        "cacheHash": "e8736c031d464e8df975c7a4f1062812"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -614,11 +491,8 @@
       "name": "xMetis",
       "symbol": "xMETIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xcA042eA7E9AA901C85d5afA5247a79E935dB4996.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c6c97f2778b221a151b0226fde3b880b"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/xmetis.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -626,13 +500,10 @@
       "name": "PUMPe Meme",
       "symbol": "PUMPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xCb36d532a9995F4471C99868F8DA775B7a23eBB8.jpeg",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/pumpe.jpeg",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "a25901cf97d7177eb9cdadadfcefdcaf"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -640,11 +511,8 @@
       "name": "Metis Token",
       "symbol": "Metis",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "843c3570ed6c87a1eb007c2d00f1446f"
-      }
+      "logoURI": "https://imgproxy-mainnet.routescan.io/vr6_QOUlpcrJ-IMGMNGDLYk5bM_Z8Jw02w-Y36lP4Ic/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvbWV0aXMuOTdkZTU2YmFiMDMyLnN2Zw",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -652,15 +520,12 @@
       "name": "ZKE Token",
       "symbol": "ZKE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/zke.png",
       "tags": [
         "Perpetual Trading",
         "DeFi",
         "Real Yield"
-      ],
-      "extensions": {
-        "cacheHash": "ac5d2f2289e4187da32da166f6b990ac"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -668,11 +533,8 @@
       "name": "Mai Stablecoin",
       "symbol": "MAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xdFA46478F9e5EA86d57387849598dbFB2e964b02.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8db90ccc49e3e1c8dbd4aadebc5f433f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -680,15 +542,12 @@
       "name": "Staked FRAX",
       "symbol": "sFRAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/sfrax.svg",
       "tags": [
         "Stablecoin",
         "Yield",
         "RWA"
-      ],
-      "extensions": {
-        "cacheHash": "31c082982c34e7437004705d8ea5563c"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -696,15 +555,12 @@
       "name": "m.USDC",
       "symbol": "m.USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21.ico",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/usdc.svg",
       "tags": [
         "USD Stablecoin",
         "Circle",
         "Fiat-Backed"
-      ],
-      "extensions": {
-        "cacheHash": "c64c096f93bb5a35ac46e270542b16c7"
-      }
+      ]
     },
     {
       "name": "Metis",
@@ -712,10 +568,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1088,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1088.webp",
       "extensions": {
-        "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-        "cacheHash": "1531c6a4c421575c7f10eda62e1cf67a"
+        "wrapped": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
       },
       "tags": [
         "Top"
@@ -727,11 +582,8 @@
       "name": "xTorch",
       "symbol": "xTORCH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xF192897fC39bF766F1011a858dE964457bcA5832.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "130ae0e99aab97d769549ba3da35711a"
-      }
+      "logoURI": "https://tokens-list.hercules.exchange/assets/xtorch.svg",
+      "tags": []
     },
     {
       "chainId": 1088,
@@ -739,13 +591,10 @@
       "name": "Caca",
       "symbol": "CACA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xfBae1EAb52af0Ea3d35cB12F1221cE32D377D08E.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/caca-logo.png",
       "tags": [
         "meme"
-      ],
-      "extensions": {
-        "cacheHash": "bcdee391f3db43dc4039537c67b56116"
-      }
+      ]
     },
     {
       "chainId": 1088,
@@ -753,14 +602,11 @@
       "name": "gMetis",
       "symbol": "gMetis",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1088/0xFbe0F778e3c1168bc63d7b6F880Ec0d5F9E524E6.png",
+      "logoURI": "https://tokens-list.hercules.exchange/assets/gmetis.png",
       "tags": [
         "meme",
         "ai"
-      ],
-      "extensions": {
-        "cacheHash": "2e40b8fb1b5034ac756fd3b85a2dde97"
-      }
+      ]
     }
   ]
 }

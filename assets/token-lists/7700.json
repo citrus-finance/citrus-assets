@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:10.194Z",
+  "timestamp": "2025-10-06T22:07:41.466Z",
   "tokens": [
     {
       "chainId": 7700,
@@ -13,11 +13,8 @@
       "name": "CANTO MOON",
       "symbol": "CMOON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x0a79EB2C804e1e9f2A6a09768c03Ff9C1B2D8028.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "32cb0a92314c7e4a1b95695b549549eb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoMoon.png",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -25,11 +22,8 @@
       "name": "Note",
       "symbol": "NOTE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9f08f97e6e9e7719631fb5c0bb80da10"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -37,11 +31,8 @@
       "name": "ETH",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c37441503ec2493d2f084ead8d396849"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -49,11 +40,8 @@
       "name": "CANTO INU",
       "symbol": "cINU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "685c80808f0d78e853746e13a7119492"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -61,11 +49,8 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fc59e08f60b2b504c757d82a7ff074a1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -73,11 +58,8 @@
       "name": "wCanto",
       "symbol": "WCANTO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0x826551890Dc65655a0Aceca109aB11AbDbD7a07B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d511b2a0dd1ac9052ea5a71c28542ecb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -85,11 +67,8 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b75581b209d4ef1d2f53a48aa2bdfd34"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -97,11 +76,8 @@
       "name": "TATE COIN",
       "symbol": "TOPG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0xe350b49e52c9d865735BFD77c956f64585Be7583.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "35c5721de40123736cab850aa10050cb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/TopG.png",
+      "tags": []
     },
     {
       "chainId": 7700,
@@ -109,11 +85,8 @@
       "name": "Atom",
       "symbol": "ATOM",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/7700/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "15406c9575ec5568e061772e7cc8348d"
-      }
+      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ATOM.svg",
+      "tags": []
     }
   ]
 }

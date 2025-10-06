@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:29.989Z",
+  "timestamp": "2025-10-06T22:06:39.971Z",
   "tokens": [
     {
       "chainId": 255,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/255/0x4200000000000000000000000000000000000001.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "name": "ETH",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 255,
-      "logoURI": "https://assets.citrus.finance/token-logos/255/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/255.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000001",
-        "cacheHash": "5e2282fb7908995b2b10765d7c5ad480"
+        "wrapped": "0x4200000000000000000000000000000000000001"
       },
       "tags": [
         "Top"

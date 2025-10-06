@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:03.093Z",
+  "timestamp": "2025-10-06T22:06:53.924Z",
   "tokens": [
     {
       "chainId": 4202,
@@ -13,10 +13,12 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x03F1259b4986b8ae9040E250f958CEf09DaD8b6C.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "4663dbe54bec02f96555f75ce0199594"
+        "liskBridgeAddress": "0xb150759C71073Edf7D90d3D053aB5e67ea731Aa2",
+        "opListId": "default",
+        "opTokenId": "wstETH"
       }
     },
     {
@@ -25,11 +27,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 4202,
@@ -37,10 +36,12 @@
       "name": "UTUCoinMock",
       "symbol": "UTUM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x4b82a31EBCD41fD4b98123cF141853aCD1166875.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d17fda9bf62027e1852e0c6292684c08"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "UTU"
       }
     },
     {
@@ -49,10 +50,12 @@
       "name": "Lisk",
       "symbol": "LSK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0x8a21CF9Ba08Ae709D64Cb25AfAA951183EC9FF6D.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "7f256ed3b46b51f7995366c6445a55ca"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "LSK"
       }
     },
     {
@@ -61,10 +64,11 @@
       "name": "IDRX",
       "symbol": "IDRX",
       "decimals": 2,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0xD63029C1a3dA68b51c67c6D1DeC3DEe50D681661.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "e632cb076141ba10af9afcdab695e1d5"
+        "opListId": "extended",
+        "opTokenId": "IDRX"
       }
     },
     {
@@ -73,10 +77,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 4202,
-      "logoURI": "https://assets.citrus.finance/token-logos/4202/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lisk.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "de621276a625987273483c1bfca96977"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

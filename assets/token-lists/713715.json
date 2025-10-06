@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:07.428Z",
+  "timestamp": "2025-10-06T22:07:22.951Z",
   "tokens": [
     {
       "chainId": 713715,
@@ -13,11 +13,8 @@
       "name": "Wrapped SEI",
       "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/713715/0x57eE725BEeB991c70c53f9642f36755EC6eb2139.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b71d107da07d6f141f08245a8ca8652f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/713715/0x57ee725beeb991c70c53f9642f36755ec6eb2139.png",
+      "tags": []
     },
     {
       "chainId": 713715,
@@ -25,11 +22,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xA09F3386E05CEAC547b02f223bF500a728BE7d77.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "924f3668e09ea916c62cb86b8ca0cfd9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/713715/0xa09f3386e05ceac547b02f223bf500a728be7d77.png",
+      "tags": []
     },
     {
       "chainId": 713715,
@@ -37,11 +31,8 @@
       "name": "Wrapped SEI",
       "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69d0bec95f9ad3d1659d22fdd70f9c05"
-      }
+      "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7/logo.png",
+      "tags": []
     },
     {
       "name": "Sei",
@@ -49,10 +40,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 713715,
-      "logoURI": "https://assets.citrus.finance/token-logos/713715/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/sei.webp",
       "extensions": {
-        "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
-        "cacheHash": "dc7dbc97555f41c00b014bca5f87bbdc"
+        "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7"
       },
       "tags": [
         "Top"

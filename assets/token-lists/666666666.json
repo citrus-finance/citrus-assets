@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:09.665Z",
+  "timestamp": "2025-10-06T22:07:25.477Z",
   "tokens": [
     {
       "chainId": 666666666,
@@ -13,11 +13,8 @@
       "name": "Wrapped Degen",
       "symbol": "WDEGEN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/666666666/0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "257de0d3229335b2e9d0f261c66fbd74"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/36809/small/wdegen.jpeg?1712546442",
+      "tags": []
     },
     {
       "name": "Degen",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 666666666,
-      "logoURI": "https://assets.citrus.finance/token-logos/666666666/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/666666666.webp",
       "extensions": {
-        "wrapped": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387",
-        "cacheHash": "1eafffa6598507c1267c9fadad83b3a9"
+        "wrapped": "0xEb54dACB4C2ccb64F8074eceEa33b5eBb38E5387"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:14.824Z",
+  "timestamp": "2025-10-06T22:07:06.903Z",
   "tokens": [
     {
       "chainId": 11501,
@@ -13,11 +13,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11501/0xB5136FEba197f5fF4B765E5b50c74db717796dcD.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3ad70420a1cd0747856083e18d359f8b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/bridged-wrapped-btc-bevm.webp",
+      "tags": []
     },
     {
       "name": "Bitcoin",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 11501,
-      "logoURI": "https://assets.citrus.finance/token-logos/11501/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/11501.webp",
       "extensions": {
-        "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD",
-        "cacheHash": "08b04cad6ad6249436a0ac0900d9dafa"
+        "wrapped": "0xB5136FEba197f5fF4B765E5b50c74db717796dcD"
       },
       "tags": [
         "Top"

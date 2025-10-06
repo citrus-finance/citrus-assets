@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:33.482Z",
+  "timestamp": "2025-10-06T22:06:43.279Z",
   "tokens": [
     {
       "chainId": 943,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/943/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6831c96fe33f084ea88a534e98824257"
-      }
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+      "tags": []
     },
     {
       "name": "V4 Pulse",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 943,
-      "logoURI": "https://assets.citrus.finance/token-logos/943/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/pulsechain.webp",
       "extensions": {
-        "wrapped": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "cacheHash": "5c737b9d3118871bfd30e62e6895d813"
+        "wrapped": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       },
       "tags": [
         "Top"

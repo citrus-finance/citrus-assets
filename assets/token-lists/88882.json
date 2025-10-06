@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:04.979Z",
+  "timestamp": "2025-10-06T22:07:20.353Z",
   "tokens": [
     {
       "chainId": 88882,
@@ -13,11 +13,8 @@
       "name": "Wrapped Chiliz",
       "symbol": "wCHZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/88882/0x678c34581db0a7808d0aC669d7025f1408C9a3C6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4984c30956b7fe19e8e5be93b1aec6b4"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/8834/small/CHZ_Token_updated.png?1675848257",
+      "tags": []
     },
     {
       "name": "CHZ",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 88882,
-      "logoURI": "https://assets.citrus.finance/token-logos/88882/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/chilizspicy.webp",
       "extensions": {
-        "wrapped": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6",
-        "cacheHash": "a5d78c033cca648fc23372abd6de5e45"
+        "wrapped": "0x678c34581db0a7808d0aC669d7025f1408C9a3C6"
       },
       "tags": [
         "Top"

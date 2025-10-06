@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T20:56:50.086Z",
+  "timestamp": "2025-10-06T22:06:22.128Z",
   "tokens": [
     {
       "chainId": 41,
@@ -13,11 +13,8 @@
       "name": "Wrapped TLOS",
       "symbol": "WTLOS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/41/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a23c73acc6894f28446e1efd1bfb7299"
-      }
+      "logoURI": "https://raw.githubusercontent.com/telosnetwork/token-list/main/logos/wtlos.png",
+      "tags": []
     },
     {
       "name": "Telos",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 41,
-      "logoURI": "https://assets.citrus.finance/token-logos/41/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E"
       },
       "tags": [
         "Top"

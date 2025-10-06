@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:56.658Z",
+  "timestamp": "2025-10-06T22:06:51.263Z",
   "tokens": [
     {
       "name": "Kava",
@@ -13,10 +13,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 2221,
-      "logoURI": "https://assets.citrus.finance/token-logos/2221/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/kava.svg",
       "extensions": {
-        "wrapped": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
-        "cacheHash": "9b38c455658e43e9b648649f2df18198"
+        "wrapped": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449"
       },
       "tags": [
         "Top"
@@ -28,11 +27,8 @@
       "name": "Wrapped Kava",
       "symbol": "WKAVA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2221/0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1835ff5587eec80c20faff692330aef6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-kava.webp",
+      "tags": []
     }
   ]
 }

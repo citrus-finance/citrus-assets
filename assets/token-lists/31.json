@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T20:56:47.467Z",
+  "timestamp": "2025-10-06T22:06:21.712Z",
   "tokens": [
     {
       "chainId": 31,
@@ -13,11 +13,8 @@
       "name": "Wrapped RSK Bitcoin",
       "symbol": "WRBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/31/0xA274d994F698Dd09256674960d86aBa22C086669.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d0c1706d24473b97346f9f091bf5390d"
-      }
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32702.png",
+      "tags": []
     },
     {
       "name": "Rootstock Bitcoin",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 31,
-      "logoURI": "https://assets.citrus.finance/token-logos/31/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/rootstock.webp",
       "extensions": {
-        "wrapped": "0xA274d994F698Dd09256674960d86aBa22C086669",
-        "cacheHash": "d9ec426a51d682d00959f859aa770627"
+        "wrapped": "0xA274d994F698Dd09256674960d86aBa22C086669"
       },
       "tags": [
         "Top"

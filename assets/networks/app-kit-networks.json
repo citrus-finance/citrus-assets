@@ -304,6 +304,7 @@
       "name": "xDAI",
       "symbol": "XDAI"
     },
+    "blockTime": 5000,
     "rpcUrls": {
       "default": {
         "http": [
@@ -781,105 +782,6 @@
     },
     "custom": {
       "wrapped": "0x60E1773636CF5E4A227d9AC24F20fEca034ee25A"
-    }
-  },
-  {
-    "formatters": {
-      "block": {
-        "type": "block"
-      },
-      "transaction": {
-        "type": "transaction"
-      },
-      "transactionReceipt": {
-        "type": "transactionReceipt"
-      }
-    },
-    "serializers": {},
-    "blockTime": 2000,
-    "contracts": {
-      "gasPriceOracle": {
-        "address": "0x420000000000000000000000000000000000000F"
-      },
-      "l1Block": {
-        "address": "0x4200000000000000000000000000000000000015"
-      },
-      "l2CrossDomainMessenger": {
-        "address": "0x4200000000000000000000000000000000000007"
-      },
-      "l2Erc721Bridge": {
-        "address": "0x4200000000000000000000000000000000000014"
-      },
-      "l2StandardBridge": {
-        "address": "0x4200000000000000000000000000000000000010"
-      },
-      "l2ToL1MessagePasser": {
-        "address": "0x4200000000000000000000000000000000000016"
-      },
-      "multicall3": {
-        "address": "0xca11bde05977b3631167028862be2a173976ca11",
-        "blockCreated": 0
-      },
-      "disputeGameFactory": {
-        "1": {
-          "address": "0x069c4c579671f8c120b1327a73217D01Ea2EC5ea"
-        }
-      },
-      "l2OutputOracle": {
-        "1": {
-          "address": "0x19A6d1E9034596196295CF148509796978343c5D"
-        }
-      },
-      "portal": {
-        "1": {
-          "address": "0xd5ec14a83B7d95BE1E2Ac12523e2dEE12Cbeea6C"
-        }
-      },
-      "l1StandardBridge": {
-        "1": {
-          "address": "0x470458C91978D2d929704489Ad730DC3E3001113"
-        }
-      }
-    },
-    "id": 480,
-    "name": "World Chain",
-    "network": "worldchain",
-    "nativeCurrency": {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    "rpcUrls": {
-      "default": {
-        "http": [
-          "https://lb.drpc.org/worldchain/<DRPC_API_KEY>"
-        ],
-        "webSocket": [
-          "wss://lb.drpc.org/worldchain/<DRPC_API_KEY>"
-        ]
-      }
-    },
-    "blockExplorers": {
-      "default": {
-        "name": "Worldscan",
-        "url": "https://worldscan.org",
-        "apiUrl": "https://api.worldscan.org/api"
-      },
-      "blockscout": {
-        "name": "Blockscout",
-        "url": "https://worldchain-mainnet.explorer.alchemy.com",
-        "apiUrl": "https://worldchain-mainnet.explorer.alchemy.com/api"
-      }
-    },
-    "testnet": false,
-    "sourceId": 1,
-    "chainNamespace": "eip155",
-    "caipNetworkId": "eip155:480",
-    "assets": {
-      "imageUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/480.webp"
-    },
-    "custom": {
-      "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
   {

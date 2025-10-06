@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:33.086Z",
+  "timestamp": "2025-10-06T22:06:42.666Z",
   "tokens": [
     {
       "chainId": 686,
@@ -13,10 +13,10 @@
       "name": "Karura",
       "symbol": "KAR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/686/0x0000000000000000000100000000000000000080.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/kar.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "3c23d21ec0cdc7e46634d89d4f65118b"
+        "isNative": true
       }
     },
     {
@@ -25,10 +25,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 686,
-      "logoURI": "https://assets.citrus.finance/token-logos/686/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x0000000000000000000100000000000000000080",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x0000000000000000000100000000000000000080"
       },
       "tags": [
         "Top"

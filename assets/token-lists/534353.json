@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:31.563Z",
+  "timestamp": "2025-10-06T22:07:44.664Z",
   "tokens": [
     {
       "chainId": 534353,
@@ -13,10 +13,11 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/534353/0x67aE69Fd63b4fc8809ADc224A9b82Be976039509.png",
+      "logoURI": "https://token.nyc3.cdn.digitaloceanspaces.com/logos/5343530x67ae69fd63b4fc8809adc224a9b82be976039509.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f10f10964bc4d8cb8f2196ef5cd75045"
+        "scrollListId": "default",
+        "scrollTokenId": "USDC"
       }
     }
   ]

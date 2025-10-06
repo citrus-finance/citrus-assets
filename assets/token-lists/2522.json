@@ -5,18 +5,17 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:02.230Z",
+  "timestamp": "2025-10-06T22:06:52.226Z",
   "tokens": [
     {
-      "name": "Frax Ether",
-      "symbol": "frxETH",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 2522,
-      "logoURI": "https://assets.citrus.finance/token-logos/2522/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/fraxtal.webp",
       "extensions": {
-        "wrapped": "0xFC00000000000000000000000000000000000006",
-        "cacheHash": "4a3dd66a04008ddf780fa241632009ab"
+        "wrapped": "0xFC00000000000000000000000000000000000006"
       },
       "tags": [
         "Top"
@@ -28,11 +27,8 @@
       "name": "Wrapped Frax Ether",
       "symbol": "wfrxETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2522/0xFC00000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "627f0c548e59d0d23569d10b697db44e"
-      }
+      "logoURI": "https://fraxscan.com/token/images/wfrxeth_32.png",
+      "tags": []
     }
   ]
 }

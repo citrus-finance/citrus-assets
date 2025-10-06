@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:55.147Z",
+  "timestamp": "2025-10-06T22:06:49.685Z",
   "tokens": [
     {
       "chainId": 1329,
@@ -13,11 +13,8 @@
       "name": "Synnax Stablecoin",
       "symbol": "syUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x059A6b0bA116c63191182a0956cF697d0d2213eC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "81f33672011b4045f11de2399dbed17a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x059a6b0ba116c63191182a0956cf697d0d2213ec.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -25,23 +22,17 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9867ddc226ab55d96d13f8e528b0c5a6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x160345fc359604fc6e70e3c5facbde5f7a9342d8.png",
+      "tags": []
     },
     {
       "chainId": 1329,
       "address": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
-      "name": "USD Coin",
-      "symbol": "USDC",
+      "name": "USDC via Noble",
+      "symbol": "USDC.n",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d594e83c57eb21eb2d5c7e9c85ecb0f2"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -49,11 +40,8 @@
       "name": "iSEI",
       "symbol": "iSEI",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3d5a1267b06d742f3984b1da05106ccc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x5cf6826140c1c56ff49c808a1a75407cd1df9423.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -61,11 +49,8 @@
       "name": "SEIYAN",
       "symbol": "SEIYAN",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x5f0E07dFeE5832Faa00c63F2D33A0D79150E8598.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0571a8a1b410dc95ffeaa87225d9a84a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x5f0e07dfee5832faa00c63f2d33a0d79150e8598.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -73,11 +58,8 @@
       "name": "USDT0",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x9151434b16b9763660705744891fA906F660EcC5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "60973ab88a04c7a1d27b868580382baa"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x9151434b16b9763660705744891fa906f660ecc5.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -85,23 +67,17 @@
       "name": "MILLI",
       "symbol": "MILLI",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "55998c6f4ae3f432de1688fc38f419e9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0x95597eb8d227a7c4b4f5e807a815c5178ee6dbe1.png",
+      "tags": []
     },
     {
       "chainId": 1329,
       "address": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
-      "name": "USDT",
-      "symbol": "USDT",
+      "name": "IBC Bridged USDT",
+      "symbol": "kavaUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xB75D0B03c06A926e488e2659DF1A861F860bD3d1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a94e5735f6cc61be95f156cb0ef3071f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xb75d0b03c06a926e488e2659df1a861f860bd3d1.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -109,11 +85,8 @@
       "name": "POCHITA",
       "symbol": "POCHITA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xCF40ACBed3f6307C33bF00680c9eDaE8F7d789fF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "73a1cb560c8efaa1453f7b984b515cde"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xcf40acbed3f6307c33bf00680c9edae8f7d789ff.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -121,11 +94,8 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xe15fC38F6D8c56aF07bbCBe3BAf5708A2Bf42392.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de356bc9a8650491160601c106c00afd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1329/0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392.png",
+      "tags": []
     },
     {
       "chainId": 1329,
@@ -133,11 +103,8 @@
       "name": "Wrapped SEI",
       "symbol": "WSEI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69d0bec95f9ad3d1659d22fdd70f9c05"
-      }
+      "logoURI": "https://dzyb4dm7r8k8w.cloudfront.net/prod/logos/0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7/logo.png",
+      "tags": []
     },
     {
       "name": "Sei",
@@ -145,10 +112,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1329,
-      "logoURI": "https://assets.citrus.finance/token-logos/1329/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1329.webp",
       "extensions": {
-        "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
-        "cacheHash": "ed3fceb4e93a0bf026ad91c6a3291458"
+        "wrapped": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:02.583Z",
+  "timestamp": "2025-10-06T22:06:53.763Z",
   "tokens": [
     {
       "chainId": 4201,
@@ -13,11 +13,8 @@
       "name": "Wrapped LYX",
       "symbol": "WLYX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4201/0xB789fbA6532378151D2395f1171B1a7461BF6fBe.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1b96ed721ef75d5dd459df6e3da7aac4"
-      }
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/wlyx.webp",
+      "tags": []
     },
     {
       "name": "LUKSO Testnet",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 4201,
-      "logoURI": "https://assets.citrus.finance/token-logos/4201/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lukso.webp",
       "extensions": {
-        "wrapped": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe",
-        "cacheHash": "d38b4d94b118211d68c99498db6525d5"
+        "wrapped": "0xB789fbA6532378151D2395f1171B1a7461BF6fBe"
       },
       "tags": [
         "Top"

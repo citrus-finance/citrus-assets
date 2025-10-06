@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:57073",
+  "name": "Citrus Finance on Ink",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:09:24.515Z",
+  "timestamp": "2025-10-06T22:07:34.849Z",
   "tokens": [
     {
       "chainId": 57073,
@@ -13,10 +13,11 @@
       "name": "USD₮0",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/57073/0x0200C29006150606B650577BBE7B6248F58470c1.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     }
   ]

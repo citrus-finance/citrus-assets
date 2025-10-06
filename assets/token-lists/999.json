@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:10.193Z",
+  "timestamp": "2025-10-06T22:07:41.144Z",
   "tokens": [
     {
       "chainId": 999,
@@ -13,11 +13,8 @@
       "name": "Looping Collective",
       "symbol": "LOOP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x00fDBc53719604D924226215bc871D55e40a1009.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69325193ebcde51272164257177c96d1"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55979/large/LOOP.png?1747918773",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -25,10 +22,10 @@
       "name": "feUSD",
       "symbol": "feUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x02c6a2fA58cC01A18B8D9E00eA48d65E4dF26c70.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55068/large/feusd.jpg?1743581333",
       "tags": [],
       "extensions": {
-        "cacheHash": "e9204717c2feec99290e77576714e9f4"
+        "coingeckoId": "felix-feusd"
       }
     },
     {
@@ -37,11 +34,8 @@
       "name": "Gauntlet uETH Vault",
       "symbol": "gtuETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x0571362ba5EA9784a97605f57483f865A37dBEAA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "97b4de63b92006905b06cfc94b2c21c6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0571362ba5ea9784a97605f57483f865a37dbeaa.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -49,11 +43,8 @@
       "name": "Unit Solana",
       "symbol": "USOL",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x068f321Fa8Fb9f0D135f290Ef6a3e2813e1c8A29.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "105865cc149dc61e773d8e84a8a4b336"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67159/large/solana.jpg?1751940039",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -61,11 +52,8 @@
       "name": "Hyperlend Interest Bearing USD₮0 (Wrapped HLP)",
       "symbol": "hUSD₮0(WHLP)",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x06Fd9D03b3d0F18E4919919b72D30c582f0a97E5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5d2edbf9bde25bd8d3525dc936df6c60"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -73,10 +61,10 @@
       "name": "Resolv Liquidity Provider Token",
       "symbol": "RLP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x0a3d8466F5dE586FA5F6DE117301e2f90bCC5c48.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "07a8715c97e67ce5f5f0e7bbd8621abf"
+        "coingeckoId": "resolv-rlp"
       }
     },
     {
@@ -85,11 +73,8 @@
       "name": "HyperLend HyperEVM wstHYPE",
       "symbol": "hHyperEvmwstHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x0Ab8AAE3335Ed4B373A33D9023b6A6585b149D33.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c2607a875466d5bbc7811420de5eb102"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0ab8aae3335ed4b373a33d9023b6a6585b149d33.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -97,11 +82,8 @@
       "name": "Resolv USD",
       "symbol": "USR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x0aD339d66BF4AeD5ce31c64Bc37B3244b6394A77.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4884f8f251a7820e667f256a4ff8e307"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66152/large/usr.jpg?1748492157",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -109,11 +91,8 @@
       "name": "CATBAL",
       "symbol": "CATBAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x11735dBd0B97CfA7Accf47d005673BA185f7fd49.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aceabaf8f90f3e88d797f9a5609b946e"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51085/large/Catbal_Minilogo.png?1732046278",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -121,11 +100,8 @@
       "name": "Wrapped HLP",
       "symbol": "WHLP",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x1359b05241cA5076c9F59605214f4F84114c0dE8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c060f04e3f1a92b062aa4c5b0bd98052"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66783/large/image_%282%29.png?1750493063",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -133,11 +109,8 @@
       "name": "hyUSD₮0 (Looped HYPE) - 9",
       "symbol": "hyUSD₮0(LHYPE)-9",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x1C5164A764844356d57654ea83f9f1B72Cd10db5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a8ab1ba47e9e14b93b91df336a7c2dec"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1c5164a764844356d57654ea83f9f1b72cd10db5.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -145,11 +118,8 @@
       "name": "LiquidLaunch",
       "symbol": "LIQD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x1Ecd15865D7F8019D546f76d095d9c93cc34eDFa.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "dbf566c863c3051f6d69214f55c8de62"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53730/large/Logo.png?1737143175",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -157,11 +127,17 @@
       "name": "Staked USDe",
       "symbol": "sUSDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "32e5c76880e41fc247c672916844369d"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
+      "tags": []
+    },
+    {
+      "chainId": 999,
+      "address": "0x27eC642013bcB3D80CA3706599D3cdA04F6f4452",
+      "name": "Unit Pump",
+      "symbol": "UPUMP",
+      "decimals": 6,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67362/large/pump.jpg?1752548000",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -169,11 +145,8 @@
       "name": "Felix HYPE",
       "symbol": "feHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x2900ABd73631b2f60747e687095537B673c06A76.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c36389ec2db65e6ac19649361b3baff6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2900abd73631b2f60747e687095537b673c06a76.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -181,11 +154,8 @@
       "name": "hyUSD₮0 (hwHLP) - 11",
       "symbol": "hyUSD₮0(hwHLP)-11",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x2c910F67DbF81099e6f8e126E7265d7595DC20aD.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e1b0bff457f2df426d7da203c4b89566"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2c910f67dbf81099e6f8e126e7265d7595dc20ad.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -193,11 +163,8 @@
       "name": "MEV Capital USDT0",
       "symbol": "MC_USDT0",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x3Bcc0a5a66bB5BdCEEf5dd8a659a4eC75F3834d8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6ba413efb70b9a0de9af1b585d7b7c67"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -205,11 +172,8 @@
       "name": "Relend Network rUSDC",
       "symbol": "rerUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x4346C98E690c17eFbB999aE8e1dA96B089bE320b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c24f8c7023ac02cfb863c4b6e24d92c6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4346c98e690c17efbb999ae8e1da96b089be320b.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -217,11 +181,17 @@
       "name": "Liquid HYPE Yield",
       "symbol": "liquidHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x441794D6a8F9A3739F5D4E98a728937b33489D29.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a45bf36c7caede4297387f753542c83e"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68444/large/liquidhype.png?1755770963",
+      "tags": []
+    },
+    {
+      "chainId": 999,
+      "address": "0x4d0fF6a0DD9f7316b674Fb37993A3Ce28BEA340e",
+      "name": "Hyperdrive Liquid Staked Hype",
+      "symbol": "HYPED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -229,11 +199,8 @@
       "name": "Gauntlet USDT0 Vault",
       "symbol": "gtUSDT0",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x53A333e51E96FE288bC9aDd7cdC4B1EAD2CD2FfA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de044db7ce0463c1f50fde88a0338349"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -241,10 +208,10 @@
       "name": "Wrapped HYPE",
       "symbol": "WHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x5555555555555555555555555555555555555555.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920",
       "tags": [],
       "extensions": {
-        "cacheHash": "5153291152edfb2c204a7228be5f7caf"
+        "coingeckoId": "wrapped-hype"
       }
     },
     {
@@ -253,11 +220,8 @@
       "name": "Looped HYPE",
       "symbol": "LHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x5748ae796AE46A4F1348a1693de4b50560485562.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0726c1784f83444c436eb481ad0e26ef"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54816/large/loopedhype_logo_transparent.png?1741850425",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -265,11 +229,8 @@
       "name": "USDeOFT",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d6adf2abce21174e5bdfece19d58f9e2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -277,11 +238,8 @@
       "name": "Hyperbeat USDT",
       "symbol": "hbUSDT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x5e105266db42f78FA814322Bce7f388B4C2e61eb.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a003adb4b1cf4497638140f0a3d28d8e"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67161/large/hyperbeat_usdt.jpg?1751940634",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -289,11 +247,8 @@
       "name": "Gauntlet USDe Core",
       "symbol": "gtUSDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x5eEC795d919FA97688Fb9844eeB0072E6B846F9d.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "972413fca9192b9e87acf15fa4846e69"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5eec795d919fa97688fb9844eeb0072e6b846f9d.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -301,11 +256,8 @@
       "name": "Hyperdrive HYPE/LST Market",
       "symbol": "HD-MKT-HYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x6fCD93da1E2A288AE68bb1D4f856d8D598E8B861.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fcb1fc88279158e4069faa0474fa65b4"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6fcd93da1e2a288ae68bb1d4f856d8d598e8b861.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -313,11 +265,8 @@
       "name": "Hyperbeat LST Vault",
       "symbol": "lstHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x81e064d0eB539de7c3170EDF38C1A42CBd752A76.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2b977bf140eaf75b03fce38c718d23c1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x81e064d0eb539de7c3170edf38c1a42cbd752a76.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -325,11 +274,17 @@
       "name": "Felix USDe",
       "symbol": "feUSDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x835FEBF893c6DdDee5CF762B0f8e31C5B06938ab.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0da080fb398fb94ccc878322ec3d8a99"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x835febf893c6dddee5cf762b0f8e31c5b06938ab.png",
+      "tags": []
+    },
+    {
+      "chainId": 999,
+      "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
+      "name": "Hyperstable",
+      "symbol": "USH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55951/large/ushlogo.png?1747851688",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -337,11 +292,8 @@
       "name": "Staked HYPE Shares",
       "symbol": "wstHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x94e8396e0869c9F2200760aF0621aFd240E1CF38.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4799f725be684c0aa2dffdff29cfba2d"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54722/large/hyperliquid.png?1741232793",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -349,11 +301,8 @@
       "name": "Hyperbeat Ultra HYPE",
       "symbol": "hbHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x96C6cBB6251Ee1c257b2162ca0f39AA5Fa44B1FB.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ee8ff49fdb0b38b56cff7a01b265cd2e"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67160/large/hyperbeat_hype.jpg?1751940550",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -361,11 +310,17 @@
       "name": "Staked USDp",
       "symbol": "sUSDp",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x9B3a8f7CEC208e247d97dEE13313690977e24459.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "27e80867eff004cf2fef06c79b6182a5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg",
+      "tags": []
+    },
+    {
+      "chainId": 999,
+      "address": "0x9b498C3c8A0b8CD8BA1D9851d40D186F1872b44E",
+      "name": "Purr",
+      "symbol": "PURR",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/37125/large/PURR_CG.png?1713368828",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -373,11 +328,8 @@
       "name": "Felix USDhl",
       "symbol": "feUSDhl",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x9c59a9389D8f72DE2CdAf1126F36EA4790E2275e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9d8c7db6a4994632f58006425eb808f5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -385,11 +337,8 @@
       "name": "hwHLP",
       "symbol": "hwHLP",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x9FD7466f987Fd4C45a5BBDe22ED8aba5BC8D72d1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3e405c37453c762570626d421d5774dc"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -397,11 +346,8 @@
       "name": "Unit Bitcoin",
       "symbol": "UBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0x9FDBdA0A5e284c32744D2f17Ee5c74B284993463.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7faf1a5f141a5f6ed45f3702597f5359"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55066/large/ubtc.jpg?1743580113",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -409,11 +355,8 @@
       "name": "Hyperdrive Primary USD₮0 Market",
       "symbol": "HD-MKT-USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xa522572cF63E6CeEd49Db6C77Cd9Ec76c1d47d09.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "08d1c3924374ba58ebdcf89241afe77c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -421,11 +364,8 @@
       "name": "Hyper USD",
       "symbol": "USDHL",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xb50A96253aBDF803D85efcDce07Ad8becBc52BD5.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "447b4cf7cad4aa0ad9b88f3419b6c8dd"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66679/large/usdhl.jpg?1750242294",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -433,10 +373,10 @@
       "name": "USD₮0",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb.jpeg",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "994dacca6d9393ec02ae4073798aa318"
+        "coingeckoId": "usdt0"
       }
     },
     {
@@ -445,11 +385,8 @@
       "name": "USDp",
       "symbol": "USDp",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xBE65F0F410A72BeC163dC65d46c83699e957D588.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e43011e40b2c93aa358f51c9335db6d8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -457,10 +394,10 @@
       "name": "Unit Ethereum",
       "symbol": "UETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xBe6727B535545C67d5cAa73dEa54865B92CF7907.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55069/large/eth.jpg?1743582414",
       "tags": [],
       "extensions": {
-        "cacheHash": "068673e94c62ad4f4ef6f01abdfd0d07"
+        "coingeckoId": "unit-ethereum"
       }
     },
     {
@@ -469,11 +406,8 @@
       "name": "Last USD",
       "symbol": "USDXL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xca79db4B49f608eF54a5CB813FbEd3a6387bC645.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e8542ef71d8c70185fecea5d18469327"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/55083/large/usdxl.jpg?1743648438",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -481,11 +415,8 @@
       "name": "MEV Capital HYPE",
       "symbol": "mcHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xd19e3d00f8547f7d108abFD4bbb015486437B487.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7b9acd609ddf18ac11f64db5d4ba29e1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd19e3d00f8547f7d108abfd4bbb015486437b487.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -493,11 +424,8 @@
       "name": "MEV Capital USR",
       "symbol": "mcUSR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xD3A9Cb7312B9c29113290758f5ADFe12304cd16A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "35b090a780752d3521d5501a22bd11f8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd3a9cb7312b9c29113290758f5adfe12304cd16a.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -505,11 +433,8 @@
       "name": "Static HyperLend HyperEVM WHYPE v2",
       "symbol": "hlHype",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xD704254eb350E0D3BaeCD194d095862267897aE0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1236e16222c3edd166936f3a6941992b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd704254eb350e0d3baecd194d095862267897ae0.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -517,11 +442,8 @@
       "name": "Static USD₮0 Hypurr",
       "symbol": "stathyUSD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xDC6F4239C1D8D3b955C06CB8f1A6cF18EFfc5BFe.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "731d140eebef7cc95576d91f5f1a651a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -529,11 +451,8 @@
       "name": "Felix USDT0",
       "symbol": "feUSDT0",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xFc5126377F0efc0041C0969Ef9BA903Ce67d151e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a24beae1d226e2a0f973d8c6e09147b7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc5126377f0efc0041c0969ef9ba903ce67d151e.png",
+      "tags": []
     },
     {
       "chainId": 999,
@@ -541,11 +460,8 @@
       "name": "Kinetiq Staked HYPE",
       "symbol": "kHYPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/999/0xfD739d4e423301CE9385c1fb8850539D657C296D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "226c43f5336550d0d54558a2b3f3d2cf"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397",
+      "tags": []
     }
   ]
 }

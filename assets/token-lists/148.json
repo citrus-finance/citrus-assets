@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:19.965Z",
+  "timestamp": "2025-10-06T22:06:34.592Z",
   "tokens": [
     {
       "chainId": 148,
@@ -13,10 +13,10 @@
       "name": "Shimmer",
       "symbol": "SMR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/148/0x1074010000000000000000000000000000000000.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/shimmer.webp",
       "tags": [],
       "extensions": {
-        "cacheHash": "86f5f4b78a651373c433666851efeb5d"
+        "isNative": true
       }
     },
     {
@@ -25,10 +25,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 148,
-      "logoURI": "https://assets.citrus.finance/token-logos/148/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/148.webp",
       "extensions": {
-        "wrapped": "0x1074010000000000000000000000000000000000",
-        "cacheHash": "f29c3609e8592afba002b3fead86b054"
+        "wrapped": "0x1074010000000000000000000000000000000000"
       },
       "tags": [
         "Top"

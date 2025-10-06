@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:15.110Z",
+  "timestamp": "2025-10-06T22:07:07.264Z",
   "tokens": [
     {
       "chainId": 13371,
@@ -13,11 +13,8 @@
       "name": "Wrapped IMX",
       "symbol": "WIMX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/13371/0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "842f7ee52e4fee0a7a3f7b618e19442c"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/35845/small/immutable.jpeg?1709890878",
+      "tags": []
     },
     {
       "name": "Immutable Coin",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 13371,
-      "logoURI": "https://assets.citrus.finance/token-logos/13371/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/13371.webp",
       "extensions": {
-        "wrapped": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D",
-        "cacheHash": "5dfc9d2d08a1eace543bf5bf34ea4605"
+        "wrapped": "0x3A0C2Ba54D6CBd3121F01b96dFd20e99D1696C9D"
       },
       "tags": [
         "Top"

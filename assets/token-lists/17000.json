@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:15.384Z",
+  "timestamp": "2025-10-06T22:07:07.574Z",
   "tokens": [
     {
       "chainId": 17000,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/17000/0x94373a4919B3240D86eA41593D5eBa789FEF3848.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "name": "Holesky Ether",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 17000,
-      "logoURI": "https://assets.citrus.finance/token-logos/17000/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/ethereum.webp",
       "extensions": {
-        "wrapped": "0x94373a4919B3240D86eA41593D5eBa789FEF3848",
-        "cacheHash": "beadbb284c3b7274ddd115069edb57a7"
+        "wrapped": "0x94373a4919B3240D86eA41593D5eBa789FEF3848"
       },
       "tags": [
         "Top"

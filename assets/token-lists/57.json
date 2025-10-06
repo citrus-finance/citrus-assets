@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:00:49.570Z",
+  "timestamp": "2025-10-06T22:06:30.937Z",
   "tokens": [
     {
       "chainId": 57,
@@ -13,11 +13,8 @@
       "name": "Wrapped SYS",
       "symbol": "WSYS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/57/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ddfbba2ca4ebf8baff7900d82ec5c811"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-syscoin.webp",
+      "tags": []
     },
     {
       "name": "Syscoin",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 57,
-      "logoURI": "https://assets.citrus.finance/token-logos/57/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/57.webp",
       "extensions": {
-        "wrapped": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB",
-        "cacheHash": "05502b85de89f9a63c91943a06178fef"
+        "wrapped": "0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB"
       },
       "tags": [
         "Top"

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on Binance Smart Chain Testnet",
+  "name": "Citrus Finance on BNB Smart Chain Testnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:00:50.273Z",
+  "timestamp": "2025-10-06T22:06:31.669Z",
   "tokens": [
     {
       "chainId": 97,
@@ -13,11 +13,8 @@
       "name": "USDT Token",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/97/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9f1e68f3381c9276e8c2c913c0fcc8c3"
-      }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png",
+      "tags": []
     },
     {
       "chainId": 97,
@@ -25,11 +22,8 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/97/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0c2b90c1c726c820f1d289b96657d630"
-      }
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "tags": []
     },
     {
       "chainId": 97,
@@ -37,11 +31,8 @@
       "name": "BUSD Token",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/97/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ab01d95add7c0f4dbb0a27e60916deb3"
-      }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
+      "tags": []
     },
     {
       "name": "BNB",
@@ -49,10 +40,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 97,
-      "logoURI": "https://assets.citrus.finance/token-logos/97/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd"
       },
       "tags": [
         "Top"

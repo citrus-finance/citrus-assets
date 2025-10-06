@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on JIBCHAIN L1",
+  "name": "Citrus Finance on JB Chain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:14.301Z",
+  "timestamp": "2025-10-06T22:07:05.984Z",
   "tokens": [
     {
       "chainId": 8899,
@@ -13,11 +13,8 @@
       "name": "Wrapped JBC",
       "symbol": "WJBC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/8899/0x99999999990FC47611b74827486218f3398A4abD.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "330b1a65c6301dc88e55cd669bdd09bf"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-jbc.webp",
+      "tags": []
     },
     {
       "name": "JBC",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 8899,
-      "logoURI": "https://assets.citrus.finance/token-logos/8899/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/8899.webp",
       "extensions": {
-        "wrapped": "0x99999999990FC47611b74827486218f3398A4abD",
-        "cacheHash": "c397c3b3c2eaec040350147c0eccae4e"
+        "wrapped": "0x99999999990FC47611b74827486218f3398A4abD"
       },
       "tags": [
         "Top"

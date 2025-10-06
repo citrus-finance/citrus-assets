@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:07.932Z",
+  "timestamp": "2025-10-06T22:07:23.738Z",
   "tokens": [
     {
       "chainId": 9999999,
@@ -13,11 +13,8 @@
       "name": "Wrapped FLT",
       "symbol": "WFLT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/9999999/0xa7ea032Dea10E551EEEa78C40e483D13323247c9.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "67034870479bd8e8dc1ddbff00d83486"
-      }
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/__flt.webp",
+      "tags": []
     },
     {
       "name": "FLT",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 9999999,
-      "logoURI": "https://assets.citrus.finance/token-logos/9999999/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0xa7ea032Dea10E551EEEa78C40e483D13323247c9"
       },
       "tags": [
         "Top"

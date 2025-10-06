@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:05.402Z",
+  "timestamp": "2025-10-06T22:07:20.827Z",
   "tokens": [
     {
       "chainId": 111188,
@@ -13,11 +13,8 @@
       "name": "Wrapped Real Ether",
       "symbol": "WREETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/111188/0x90c6E93849E06EC7478ba24522329d14A5954Df4.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9464363af9b5bdb929d92151cb829cba"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-real-ether.webp",
+      "tags": []
     },
     {
       "name": "reETH",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 111188,
-      "logoURI": "https://assets.citrus.finance/token-logos/111188/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/111188.webp",
       "extensions": {
-        "wrapped": "0x90c6E93849E06EC7478ba24522329d14A5954Df4",
-        "cacheHash": "cabde5299f85f5cff88b9e70b7300d2a"
+        "wrapped": "0x90c6E93849E06EC7478ba24522329d14A5954Df4"
       },
       "tags": [
         "Top"

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:130",
+  "name": "Citrus Finance on Unichain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:26.009Z",
+  "timestamp": "2025-10-06T22:07:28.203Z",
   "tokens": [
     {
       "chainId": 130,
@@ -13,10 +13,14 @@
       "name": "Qredo",
       "symbol": "QRDO",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x006254C4664C678e64c3265da28304cc8c1068b8.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17541/thumb/qrdo.png?1630637735",
       "tags": [],
       "extensions": {
-        "cacheHash": "ff41fc78543859257849d97cfe153812"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463"
+          }
+        }
       }
     },
     {
@@ -25,10 +29,14 @@
       "name": "LayerZero",
       "symbol": "ZRO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x00ad3704d1e101DF76f87738bEfE67737eD29cFb.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208",
       "tags": [],
       "extensions": {
-        "cacheHash": "bd313aefac30d0792ec0893985b4971b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6985884C4392D348587B19cb9eAAf157F13271cd"
+          }
+        }
       }
     },
     {
@@ -37,10 +45,14 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x01625E26274Ed828Ac1d47694c97221b34a8ADdF.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "92bd50994a014a7b59c565e03106a6dc"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xba100000625a3754423978a60c9317c58a424e3D"
+          }
+        }
       }
     },
     {
@@ -49,10 +61,14 @@
       "name": "Liquity",
       "symbol": "LQTY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0176B38b7767451b1B682236eCe2fae853C71a60.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1617631180",
       "tags": [],
       "extensions": {
-        "cacheHash": "6f284e48add79ca641cb3b50a6c04fc5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D"
+          }
+        }
       }
     },
     {
@@ -61,10 +77,14 @@
       "name": "Synthetix Network Token",
       "symbol": "SNX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x022D952aBCc6C8271F26e59e37A65dC359E6bc88.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "bf56e2b52d4e15d7162804b78a605465"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
+          }
+        }
       }
     },
     {
@@ -73,10 +93,14 @@
       "name": "Aave",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x02a24C380dA560E4032Dc6671d8164cfbEEAAE1e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
       "tags": [],
       "extensions": {
-        "cacheHash": "5b712636428021aca3be3bbf1741bde1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+          }
+        }
       }
     },
     {
@@ -85,10 +109,14 @@
       "name": "Goldfinch",
       "symbol": "GFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0328A0255866706547B79072DEE54976b157d3D0.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/19081/thumb/GOLDFINCH.png?1634369662",
       "tags": [],
       "extensions": {
-        "cacheHash": "404d15bf9124223dc0962dd42608a4da"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdab396cCF3d84Cf2D07C4454e10C8A6F5b008D2b"
+          }
+        }
       }
     },
     {
@@ -97,10 +125,12 @@
       "name": "Rigo Token",
       "symbol": "GRG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x03C2868c6D7fD27575426f395EE081498B1120dd.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "891b47cc6d0a214c8ce6070c1a8460de"
+        "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "GRG"
       }
     },
     {
@@ -109,10 +139,14 @@
       "name": "Golem",
       "symbol": "GLM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x04b747f478AE09AC797d026C8402f409E2C9f2b9.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/542/thumb/Golem_Submark_Positive_RGB.png?1606392013",
       "tags": [],
       "extensions": {
-        "cacheHash": "adb96dec4edad89aa360d59895467db6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429"
+          }
+        }
       }
     },
     {
@@ -121,10 +155,14 @@
       "name": "Keep Network",
       "symbol": "KEEP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x05DBd720fc26F732c8d42Ea89BD7F442EA6AFE80.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/3373/thumb/IuNzUb5b_400x400.jpg?1589526336",
       "tags": [],
       "extensions": {
-        "cacheHash": "043ec3a348901893e63a4168c74e5ffa"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC"
+          }
+        }
       }
     },
     {
@@ -133,10 +171,14 @@
       "name": "SWFTCOIN",
       "symbol": "SWFTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0610cDF9856b8825213672981056CD4945Af1616.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/2346/thumb/SWFTCoin.jpg?1618392022",
       "tags": [],
       "extensions": {
-        "cacheHash": "0657872d56f928711ed0610d598eb3dc"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e"
+          }
+        }
       }
     },
     {
@@ -145,10 +187,14 @@
       "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x078D782b760474a361dDA0AF3839290b0EF57AD6.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c8c8ec5eb6880886b8bde0fa7940838b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
       }
     },
     {
@@ -157,10 +203,14 @@
       "name": "Reputation Augur v1",
       "symbol": "REP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x097ca3FC389697080C84148C455Ca839b2816Fc4.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1985365e9f78359a9B6AD760e32412f4a445E862/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "91eace1a65bc8a399906432952e88835"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
+          }
+        }
       }
     },
     {
@@ -169,10 +219,14 @@
       "name": "Starknet",
       "symbol": "STRK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x09f705405677970E509d606348D4635D2332c72e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507",
       "tags": [],
       "extensions": {
-        "cacheHash": "ca516a43bbeb7f969f3b84b7cd221062"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766"
+          }
+        }
       }
     },
     {
@@ -181,10 +235,14 @@
       "name": "SuperFarm",
       "symbol": "SUPER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0c288302629Fc22504D59Ddf8fbf8AA92bD86D3D.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
       "tags": [],
       "extensions": {
-        "cacheHash": "9e2ea3f6a0fe718cdd9f8340aa24e275"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55"
+          }
+        }
       }
     },
     {
@@ -193,10 +251,14 @@
       "name": "PayPal USD",
       "symbol": "PYUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0D2f98904D88909072eA6e61105CBBf78e6207c5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314",
       "tags": [],
       "extensions": {
-        "cacheHash": "cf02b75206d8072127c70f14914dbe84"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8"
+          }
+        }
       }
     },
     {
@@ -205,10 +267,14 @@
       "name": "district0x",
       "symbol": "DNT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x0eb07cE7a28FF84DF132fb5ee5F56Aabc1b9E545.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/849/thumb/district0x.png?1547223762",
       "tags": [],
       "extensions": {
-        "cacheHash": "6cdaa38cc8a4499598843d6fa3ff1df4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0AbdAce70D3790235af448C88547603b945604ea"
+          }
+        }
       }
     },
     {
@@ -217,10 +283,14 @@
       "name": "mStable USD",
       "symbol": "MUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x10F109379E231d5c294ee6A5f9Abb2F8b40A8Dd1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11576/thumb/mStable_USD.png?1595591803",
       "tags": [],
       "extensions": {
-        "cacheHash": "a9e50e423e6018625b80e8b8a9c8c10b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5"
+          }
+        }
       }
     },
     {
@@ -229,10 +299,14 @@
       "name": "USDS Stablecoin",
       "symbol": "USDS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x116EE4d63847fb295dD919aE57B768EA3B2f7Bb4.webp",
+      "logoURI": "https://assets.coingecko.com/coins/images/39926/large/usds.webp?1726666683",
       "tags": [],
       "extensions": {
-        "cacheHash": "7dbbde711bd29b2ad2e33ad02425db48"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdC035D45d973E3EC169d2276DDab16f1e407384F"
+          }
+        }
       }
     },
     {
@@ -241,10 +315,14 @@
       "name": "Livepeer",
       "symbol": "LPT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x11c6B34caDC550B65A9666497d7FCb39f35B73E3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/7137/thumb/logo-circle-green.png?1619593365",
       "tags": [],
       "extensions": {
-        "cacheHash": "5fdc37c6b3632e4da2ee1911c626d3c9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
+          }
+        }
       }
     },
     {
@@ -253,10 +331,14 @@
       "name": "Layer3",
       "symbol": "L3",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1201209f55634bdDb67034efE4e8aA4D1B7B482C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/37768/large/Square.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "67c7e60414dd3b38e12a90e9a8a4f3e3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x88909D489678dD17aA6D9609F89B0419Bf78FD9a"
+          }
+        }
       }
     },
     {
@@ -265,10 +347,14 @@
       "name": "pSTAKE Finance",
       "symbol": "PSTAKE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x13FE2c4504f3AA18708561250e2F20E4E7D7CAa2.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/23931/thumb/PSTAKE_Dark.png?1645709930",
       "tags": [],
       "extensions": {
-        "cacheHash": "a868658410dac08ce008e7e6459fc510"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006"
+          }
+        }
       }
     },
     {
@@ -277,10 +363,14 @@
       "name": "Adventure Gold",
       "symbol": "AGLD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x14421614587A2A3e9C3Aa3131Fc396aF412721CF.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/18125/thumb/lpgblc4h_400x400.jpg?1630570955",
       "tags": [],
       "extensions": {
-        "cacheHash": "e9989b199d75073ab763e4d453684adf"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20"
+          }
+        }
       }
     },
     {
@@ -289,10 +379,14 @@
       "name": "KRYLL",
       "symbol": "KRL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x14CFFAD448AeB0876c56B7aa28999C9a4f002943.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2807/thumb/krl.png?1547036979",
       "tags": [],
       "extensions": {
-        "cacheHash": "57841e093cec0b3c4614715acd4d33b4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0"
+          }
+        }
       }
     },
     {
@@ -301,10 +395,14 @@
       "name": "Chain",
       "symbol": "XCN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x15261eEb999eD3C3ae3c5319E0035940dc06a12f.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
       "tags": [],
       "extensions": {
-        "cacheHash": "99eb3bc70491f52800c56046a6323d4d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18"
+          }
+        }
       }
     },
     {
@@ -313,10 +411,14 @@
       "name": "Rarible",
       "symbol": "RARI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x16F01392Ed7fC6F3C345CF544cf1172103C8561C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953",
       "tags": [],
       "extensions": {
-        "cacheHash": "b9e055ffa81ddd64918d680fcbfbdead"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF"
+          }
+        }
       }
     },
     {
@@ -325,10 +427,14 @@
       "name": "DexTools",
       "symbol": "DEXT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x17C38207334011a131b0Acf200E35Cd81723cddd.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11603/thumb/dext.png?1605790188",
       "tags": [],
       "extensions": {
-        "cacheHash": "14d33cc70d8882457501c7a3aa6c3695"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a"
+          }
+        }
       }
     },
     {
@@ -337,10 +443,14 @@
       "name": "Big Time",
       "symbol": "BIGTIME",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x17f3AfE72cAa6b9090801b60607918b6D2Fa7cdc.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691",
       "tags": [],
       "extensions": {
-        "cacheHash": "0f7597f934ffe3547e6cf9e2ba3853a8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194"
+          }
+        }
       }
     },
     {
@@ -349,10 +459,14 @@
       "name": "OriginTrail",
       "symbol": "TRAC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1ac70C9e29bC19640E64D938DD8D6A46dbAe6f2e.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/1877/thumb/TRAC.jpg?1635134367",
       "tags": [],
       "extensions": {
-        "cacheHash": "0fdcfd9f4c0bfba5a2ce9a12249d601a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"
+          }
+        }
       }
     },
     {
@@ -361,10 +475,14 @@
       "name": "FLOKI",
       "symbol": "FLOKI",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1b3EC249dc44a64bF5Cb8Afdd70e30c26c51fA81.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318",
       "tags": [],
       "extensions": {
-        "cacheHash": "918087a555fe67a6cd62f70c12df4a9e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E"
+          }
+        }
       }
     },
     {
@@ -373,10 +491,14 @@
       "name": "Sylo",
       "symbol": "SYLO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1BAAc1979527A38F367c6f89bE081aBfcFFCF85E.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/6430/thumb/SYLO.svg?1589527756",
       "tags": [],
       "extensions": {
-        "cacheHash": "61afa029a06a5c8b8af988f398afd4dd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4"
+          }
+        }
       }
     },
     {
@@ -385,10 +507,14 @@
       "name": "Multichain",
       "symbol": "MULTI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1C3a8fB65Ab82D73e26B6403bf505B99d82b4701.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
       "tags": [],
       "extensions": {
-        "cacheHash": "e332e71081b5ec147cd80de40e658fe8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4"
+          }
+        }
       }
     },
     {
@@ -397,10 +523,14 @@
       "name": "Convex Finance",
       "symbol": "CVX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1C6789F30e7E335c2Eca2c75EC193aDBF0087Ea5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15585/thumb/convex.png?1621256328",
       "tags": [],
       "extensions": {
-        "cacheHash": "29bad3295c6e17d22b5c78a209625f4b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B"
+          }
+        }
       }
     },
     {
@@ -409,10 +539,14 @@
       "name": "League of Kingdoms",
       "symbol": "LOKA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1D1BFCFC6ae6FE045f151C7e589fB241AAC89733.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/22572/thumb/loka_64pix.png?1642643271",
       "tags": [],
       "extensions": {
-        "cacheHash": "be6bcd180f157d0100b2e82dacf64bac"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x61E90A50137E1F645c9eF4a0d3A4f01477738406"
+          }
+        }
       }
     },
     {
@@ -421,10 +555,14 @@
       "name": "Assemble Protocol",
       "symbol": "ASM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1e196D83e2c562de0b1f270Eb72220335bA0ADa7.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/11605/thumb/gpvrlkSq_400x400_%281%29.jpg?1591775789",
       "tags": [],
       "extensions": {
-        "cacheHash": "12d2ff6410783b621a60187d00d0cf09"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x2565ae0385659badCada1031DB704442E1b69982"
+          }
+        }
       }
     },
     {
@@ -433,10 +571,14 @@
       "name": "Turbo",
       "symbol": "TURBO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x1E4339318EcE1d6D9d2Fb129b31C06b9F2d202A1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
       "tags": [],
       "extensions": {
-        "cacheHash": "e3688739edcc1d667d8c033e67c92f0b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA35923162C49cF95e6BF26623385eb431ad920D3"
+          }
+        }
       }
     },
     {
@@ -445,10 +587,14 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x20CAb320A855b39F724131C69424240519573f81.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "12dbdedc53b22a41e012227b02e9d710"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+          }
+        }
       }
     },
     {
@@ -457,10 +603,14 @@
       "name": "Renzo",
       "symbol": "REZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2178f07c1d585C39272CAf69A72beF08aAD6c9AB.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/37327/standard/renzo_200x200.png?1714025012",
       "tags": [],
       "extensions": {
-        "cacheHash": "74fd7d8242083119d11346b2b1591620"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3B50805453023a91a8bf641e279401a0b23FA6F9"
+          }
+        }
       }
     },
     {
@@ -469,10 +619,14 @@
       "name": "Kujira",
       "symbol": "KUJI",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2206cdcC9B94fF7dB7A9eAbeC77b5cE430258681.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ac96e3564783037c88bd63da7890457e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7"
+          }
+        }
       }
     },
     {
@@ -481,10 +635,14 @@
       "name": "Elastos",
       "symbol": "ELA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x24aBc32215354Ba3eD224bfa6312E31dD8E8c1ab.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2780/thumb/Elastos.png?1597048112",
       "tags": [],
       "extensions": {
-        "cacheHash": "6b1eee67aa199cfd21db94425cc55162"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867"
+          }
+        }
       }
     },
     {
@@ -493,10 +651,14 @@
       "name": "Circuits of Value",
       "symbol": "COVAL",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2562DC34c21371613CEF236b321EE63fCC295beC.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
       "tags": [],
       "extensions": {
-        "cacheHash": "b4d4db3729e5e4ff7dccbb70e727062f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3D658390460295FB963f54dC0899cfb1c30776Df"
+          }
+        }
       }
     },
     {
@@ -505,10 +667,14 @@
       "name": "Decentraland",
       "symbol": "MANA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x276361c863903751771e9DabA6dDfaAf00FE358b.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/878/thumb/decentraland-mana.png?1550108745",
       "tags": [],
       "extensions": {
-        "cacheHash": "e500b065b3c62074246fdc933059e063"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+          }
+        }
       }
     },
     {
@@ -517,10 +683,14 @@
       "name": "VANRY",
       "symbol": "VANRY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x286b5Ecea3749c7c7047104aa3C5749901564A0b.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541",
       "tags": [],
       "extensions": {
-        "cacheHash": "cb2dbcf1bc26fad1338360fd48f9fc7f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624"
+          }
+        }
       }
     },
     {
@@ -529,10 +699,14 @@
       "name": "Coin98",
       "symbol": "C98",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x29129fa2e0F35594ca7b362fFA8c80f5f8e4f8E1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17117/thumb/logo.png?1626412904",
       "tags": [],
       "extensions": {
-        "cacheHash": "c54198b2c86e6450addb686550f4dc24"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xAE12C5930881c53715B369ceC7606B70d8EB229f"
+          }
+        }
       }
     },
     {
@@ -541,10 +715,14 @@
       "name": "Sushi",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2982Be2D0c6ae4A7D5BC1c8fe7B630E3BDfb3ce5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688",
       "tags": [],
       "extensions": {
-        "cacheHash": "68486dea543488a283f63594caceeaca"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
+          }
+        }
       }
     },
     {
@@ -553,10 +731,14 @@
       "name": "Rubic",
       "symbol": "RBC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x29EA5682024c8C62Cd8BDf691C4f0c5D66B403E3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12629/thumb/200x200.png?1607952509",
       "tags": [],
       "extensions": {
-        "cacheHash": "30a9a63d739a7616f146c931a8f1c91c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3"
+          }
+        }
       }
     },
     {
@@ -565,10 +747,14 @@
       "name": "Global Dollar",
       "symbol": "USDG",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2A22868610610199D43fE93A16661473A9f86f1E.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "0d3b67f162d1678685d02c5d3851ffde"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D"
+          }
+        }
       }
     },
     {
@@ -577,10 +763,14 @@
       "name": "Alethea Artificial Liquid Intelligence",
       "symbol": "ALI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2a87dd1e1F849ed88C18565AFDa98e2EEEc73780.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/22062/thumb/alethea-logo-transparent-colored.png?1642748848",
       "tags": [],
       "extensions": {
-        "cacheHash": "bcded1e6768c9698c59f2a3cc2db450f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181"
+          }
+        }
       }
     },
     {
@@ -589,10 +779,14 @@
       "name": "NuCypher",
       "symbol": "NU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2AEB5256de25ECed47797b82d2F5C404AACEA6b9.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/3318/thumb/photo1198982838879365035.jpg?1547037916",
       "tags": [],
       "extensions": {
-        "cacheHash": "d443671772c35b8d4ca80d0228dea65a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc"
+          }
+        }
       }
     },
     {
@@ -601,10 +795,14 @@
       "name": "Mines of Dalarnia",
       "symbol": "DAR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2ef0775A19d1bc2258653fc5529F8f8490288086.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/19837/thumb/dar.png?1636014223",
       "tags": [],
       "extensions": {
-        "cacheHash": "12badceb10c5fc86e2692b0bf9e38859"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x081131434f93063751813C619Ecca9C4dC7862a3"
+          }
+        }
       }
     },
     {
@@ -613,10 +811,14 @@
       "name": "Polymath",
       "symbol": "POLY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x2f5cfdC89fb96f2cf6c0FB1Ca6e3501Dd538D863.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2784/thumb/inKkF01.png?1605007034",
       "tags": [],
       "extensions": {
-        "cacheHash": "42609090ca1ec8d75d821dfac479cd57"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
+          }
+        }
       }
     },
     {
@@ -625,10 +827,14 @@
       "name": "GALA",
       "symbol": "GALA",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x31A71801291774d267615f74b3a44FCEB560FAc9.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310",
       "tags": [],
       "extensions": {
-        "cacheHash": "35c2a9b0ab6e5995354357dc9f6e6821"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae"
+          }
+        }
       }
     },
     {
@@ -637,10 +843,14 @@
       "name": "PolySwarm",
       "symbol": "NCT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x328Ed7736871F863C8216Ca6CbB6f29B795032Df.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767",
       "tags": [],
       "extensions": {
-        "cacheHash": "208fddf202c1f925dba1e8c5c96f422d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1"
+          }
+        }
       }
     },
     {
@@ -649,10 +859,14 @@
       "name": "Across Protocol Token",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x34424B3352af905e41078a4029b61EDe62BbB32C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165",
       "tags": [],
       "extensions": {
-        "cacheHash": "58208c43756f90fb406f52438ffcbfba"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F"
+          }
+        }
       }
     },
     {
@@ -661,10 +875,14 @@
       "name": "Civic",
       "symbol": "CVC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x35C458aD1e3e68d2717C8349b985384Be85a01Ed.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/788/thumb/civic.png?1547034556",
       "tags": [],
       "extensions": {
-        "cacheHash": "fda190b1b6d192c9088c65c041dde94f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+          }
+        }
       }
     },
     {
@@ -673,10 +891,14 @@
       "name": "PayperEx",
       "symbol": "PAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x3614c8d98Bf905AbE075BfA289231bbc0D292327.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1601/thumb/pax.png?1547035800",
       "tags": [],
       "extensions": {
-        "cacheHash": "390876eb3c3f93c0b9009e689f682cfd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc1D204d77861dEf49b6E769347a883B15EC397Ff"
+          }
+        }
       }
     },
     {
@@ -685,10 +907,14 @@
       "name": "Cryptex Finance",
       "symbol": "CTX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x36fA435F6def83cbB7a0706d035C9eA062fCb619.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14932/thumb/glossy_icon_-_C200px.png?1619073171",
       "tags": [],
       "extensions": {
-        "cacheHash": "640e441dccaeb83c9326e3db1ef6f318"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D"
+          }
+        }
       }
     },
     {
@@ -697,10 +923,14 @@
       "name": "Artverse Token",
       "symbol": "AVT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x38DBf47e2a012a4b83823f15E3F3352A00939999.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/19727/thumb/ewnektoB_400x400.png?1635767094",
       "tags": [],
       "extensions": {
-        "cacheHash": "f1ab3dfa481614275d42aa478d05b0ed"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x845576c64f9754CF09d87e45B720E82F3EeF522C"
+          }
+        }
       }
     },
     {
@@ -709,10 +939,14 @@
       "name": "Magic Internet Money",
       "symbol": "MIM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x397C1f55FefF63C8947624b0d457a2CA3e3602ab.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/thumb/mimlogopng.png?1624979612",
       "tags": [],
       "extensions": {
-        "cacheHash": "15797cdca82fdfe5d0315d8effb2cefa"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3"
+          }
+        }
       }
     },
     {
@@ -721,10 +955,14 @@
       "name": "Memecoin",
       "symbol": "MEME",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x397E34AFF8bFc8Ec14aa78F378074F6d8E3E7d06.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/32528/large/memecoin_(2).png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1e84ae4a73431609491152f4a35e883f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74"
+          }
+        }
       }
     },
     {
@@ -733,10 +971,14 @@
       "name": "Quant",
       "symbol": "QNT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x3a8723f2929F370c61EaC583d6652e5C98C360d4.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/3370/thumb/5ZOu7brX_400x400.jpg?1612437252",
       "tags": [],
       "extensions": {
-        "cacheHash": "a3aec9310192a374ac1d6b0a2bd92cd4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4a220E6096B25EADb88358cb44068A3248254675"
+          }
+        }
       }
     },
     {
@@ -745,10 +987,14 @@
       "name": "Orion Protocol",
       "symbol": "ORN",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x3C5319013FD75976F0f13b0bc0852537B6eaF396.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11841/thumb/orion_logo.png?1594943318",
       "tags": [],
       "extensions": {
-        "cacheHash": "f3ef9af0c0e6e30bab330309ae98539b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a"
+          }
+        }
       }
     },
     {
@@ -757,10 +1003,14 @@
       "name": "Ambire AdEx",
       "symbol": "ADX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x3e1C572d8b069fc2f14ac4f8bdCE6e8eA299A500.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/847/thumb/Ambire_AdEx_Symbol_color.png?1655432540",
       "tags": [],
       "extensions": {
-        "cacheHash": "48fa7732fe3c57eb462e8104f29be03a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3"
+          }
+        }
       }
     },
     {
@@ -769,10 +1019,14 @@
       "name": "Radicle",
       "symbol": "RAD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x3F9A30c86DC7F0c657eA17d52Efe09Eff08a1a45.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918",
       "tags": [],
       "extensions": {
-        "cacheHash": "06a71e92b29e02dd013f4e44106f8005"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+          }
+        }
       }
     },
     {
@@ -781,10 +1035,14 @@
       "name": "HarryPotterObamaSonic10Inu",
       "symbol": "BITCOIN",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x41f6e69166e81A9583DBc96604B01D2E9B3D706f.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224",
       "tags": [],
       "extensions": {
-        "cacheHash": "d3cfc3457f35600a9d909081f2dd67f9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9"
+          }
+        }
       }
     },
     {
@@ -793,10 +1051,14 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4200000000000000000000000000000000000006.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
       }
     },
     {
@@ -805,10 +1067,14 @@
       "name": "Geojam",
       "symbol": "JAM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x428c2B7Fa7a7821891fb529BAE4d80a71d5c61A8.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/24648/thumb/ey40AzBN_400x400.jpg?1648507272",
       "tags": [],
       "extensions": {
-        "cacheHash": "0c6f96142c31973b72e9cf2268706be1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x23894DC9da6c94ECb439911cAF7d337746575A72"
+          }
+        }
       }
     },
     {
@@ -817,10 +1083,14 @@
       "name": "Tribe",
       "symbol": "TRIBE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x437dD6360Bd17FB353c67376371133Cd33dacdBD.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954",
       "tags": [],
       "extensions": {
-        "cacheHash": "d70ac0b179dd699c1f8e884ad3896cec"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B"
+          }
+        }
       }
     },
     {
@@ -829,10 +1099,14 @@
       "name": "XYO Network",
       "symbol": "XYO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x43D5EA0f30Bce3907aAD6783e61D56592AEbE4eA.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4519/thumb/XYO_Network-logo.png?1547039819",
       "tags": [],
       "extensions": {
-        "cacheHash": "fafe79648915e0b8ec66b524ce16991a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x55296f69f40Ea6d20E478533C15A6B08B654E758"
+          }
+        }
       }
     },
     {
@@ -841,10 +1115,14 @@
       "name": "Alpha Venture DAO",
       "symbol": "ALPHA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x44c3E7c49C4Bb6f4f5eCD87E035176dFceBD78d3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12738/thumb/AlphaToken_256x256.png?1617160876",
       "tags": [],
       "extensions": {
-        "cacheHash": "7ae58e4b814962b0f1590b24ce4d90cd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975"
+          }
+        }
       }
     },
     {
@@ -853,10 +1131,14 @@
       "name": "Ancient8",
       "symbol": "A8",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x44D618C366D7bC85945Bfc922ACad5B1feF7759A.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300",
       "tags": [],
       "extensions": {
-        "cacheHash": "1af48ac116465523d1baa88df3bbf50b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF"
+          }
+        }
       }
     },
     {
@@ -865,10 +1147,14 @@
       "name": "Fetch ai",
       "symbol": "FET",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x45343279DefDAd803d81C06fBCf87936DDD7DFE7.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/5681/thumb/Fetch.jpg?1572098136",
       "tags": [],
       "extensions": {
-        "cacheHash": "1e31a6bef1e149b6fbca158c2e05802d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85"
+          }
+        }
       }
     },
     {
@@ -877,10 +1163,14 @@
       "name": "Dent",
       "symbol": "DENT",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x45a4f750d806498A4c7f7B5267815aaC328e874C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1152/thumb/gLCEA2G.png?1604543239",
       "tags": [],
       "extensions": {
-        "cacheHash": "3f39151e0139044bcbec38e61ddd30de"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"
+          }
+        }
       }
     },
     {
@@ -889,10 +1179,14 @@
       "name": "Shping",
       "symbol": "SHPING",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x45Bda7bA10DaC525a86DBEaB3135701A66024F2F.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/2588/thumb/r_yabKKi_400x400.jpg?1639470164",
       "tags": [],
       "extensions": {
-        "cacheHash": "136484e404265bc732a63438a356d66e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC"
+          }
+        }
       }
     },
     {
@@ -901,10 +1195,14 @@
       "name": "Merit Circle",
       "symbol": "MC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x460ec1C67e1614Bf1feAb84b98795BAE2d657399.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/19304/thumb/Db4XqML.png?1634972154",
       "tags": [],
       "extensions": {
-        "cacheHash": "3b3507efdcf80c61da708df98617c9b1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6"
+          }
+        }
       }
     },
     {
@@ -913,10 +1211,14 @@
       "name": "Harvest Finance",
       "symbol": "FARM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x472E8be16Cc9823b9f6a73A34EA55c0c31ee825F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12304/thumb/Harvest.png?1613016180",
       "tags": [],
       "extensions": {
-        "cacheHash": "b693b85168c491dbb07c8d9c72d761dd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa0246c9032bC3A600820415aE600c6388619A14D"
+          }
+        }
       }
     },
     {
@@ -925,10 +1227,14 @@
       "name": "UMA Voting Token v1",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x478923278640a10A60951E379aFFb60772435f8C.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "cdbdef2b560fbe5b24eda4d023f51668"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
+          }
+        }
       }
     },
     {
@@ -937,10 +1243,14 @@
       "name": "Safe",
       "symbol": "SAFE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x47B72717E48Da346C3F1ED1311c8DCDe10EfD888.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084",
       "tags": [],
       "extensions": {
-        "cacheHash": "79a68aece6791e2122ee9503342fbb08"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe"
+          }
+        }
       }
     },
     {
@@ -949,10 +1259,14 @@
       "name": "Gravity",
       "symbol": "G",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x481cB2C560fc3351833b582b92b965626fd8803C.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
       "tags": [],
       "extensions": {
-        "cacheHash": "0593adf821480f9f589a93eabdcb3c67"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649"
+          }
+        }
       }
     },
     {
@@ -961,10 +1275,14 @@
       "name": "SKALE",
       "symbol": "SKL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x486Bbb6f250343AdB4782F50Dd09766f8aD20c01.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13245/thumb/SKALE_token_300x300.png?1606789574",
       "tags": [],
       "extensions": {
-        "cacheHash": "4ded330a5741a6f8ee7d9b743672d5a6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7"
+          }
+        }
       }
     },
     {
@@ -973,10 +1291,14 @@
       "name": "Audius",
       "symbol": "AUDIO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x48b8441dE79cEE3604b805093B41028d3c81684B.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12913/thumb/AudiusCoinLogo_2x.png?1603425727",
       "tags": [],
       "extensions": {
-        "cacheHash": "9356f2f3d94cd316c7d5979259e407df"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998"
+          }
+        }
       }
     },
     {
@@ -985,10 +1307,14 @@
       "name": "Aavegotchi",
       "symbol": "GHST",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4aE5712A153fDfDE81C305fF7f2E4e59840aD24B.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12467/thumb/ghst_200.png?1600750321",
       "tags": [],
       "extensions": {
-        "cacheHash": "037f64965e722aa9d8c89bb07ec8157a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
+          }
+        }
       }
     },
     {
@@ -997,10 +1323,14 @@
       "name": "Voyager Token",
       "symbol": "VGX",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4afd08AC2416450d9c8b84D287dbfFb68FFe537f.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/794/thumb/Voyager-vgx.png?1575693595",
       "tags": [],
       "extensions": {
-        "cacheHash": "94e229d2a0314a0c4618e638ba39a420"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d"
+          }
+        }
       }
     },
     {
@@ -1009,10 +1339,14 @@
       "name": "ASH",
       "symbol": "ASH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4b355De6Ea44711f0353Ed89545705395a30d7Fb.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15714/thumb/omnPqaTY.png?1622820503",
       "tags": [],
       "extensions": {
-        "cacheHash": "140ee57e723e2b5e6fe25426e6a0d3af"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92"
+          }
+        }
       }
     },
     {
@@ -1021,10 +1355,14 @@
       "name": "DIA",
       "symbol": "DIA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4bdc8553cf14EEBCD489cD1d75b7FF463f9543c2.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11955/thumb/image.png?1646041751",
       "tags": [],
       "extensions": {
-        "cacheHash": "c15f526c5f383c11fa661772a7e96c6a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419"
+          }
+        }
       }
     },
     {
@@ -1033,10 +1371,14 @@
       "name": "BarnBridge",
       "symbol": "BOND",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4d5b7e9CCE3Ab81298dA7E1F52b48c9a61Df8972.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12811/thumb/barnbridge.jpg?1602728853",
       "tags": [],
       "extensions": {
-        "cacheHash": "219241996dc31ce87dc8d467dbee5bc7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
+          }
+        }
       }
     },
     {
@@ -1045,10 +1387,14 @@
       "name": "Amp",
       "symbol": "AMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4D6B8ecb576dF9BB4bF6E6764A469a762bBc967F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
       "tags": [],
       "extensions": {
-        "cacheHash": "c65b6ae9e214e118a2f9eba73711b559"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
+          }
+        }
       }
     },
     {
@@ -1057,10 +1403,14 @@
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4e373C99199773f9D92d32B8c8Bc0C81508ea589.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/677/thumb/basic-attention-token.png?1547034427",
       "tags": [],
       "extensions": {
-        "cacheHash": "12f67b805d1847f1f8ca0a56b8fcbed4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+          }
+        }
       }
     },
     {
@@ -1069,10 +1419,14 @@
       "name": "IDEX",
       "symbol": "IDEX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4eA052BcAeE7d7ef2E3D61D601e878A560eaBe8e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2565/thumb/logomark-purple-286x286.png?1638362736",
       "tags": [],
       "extensions": {
-        "cacheHash": "09a9e29cbfa4d39659bb5458984f15f7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE"
+          }
+        }
       }
     },
     {
@@ -1081,10 +1435,14 @@
       "name": "SOL Wormhole ",
       "symbol": "SOL",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x4Ff3E944D5Cb54f6f4A1dd035782BE59c3d054FE.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
       "tags": [],
       "extensions": {
-        "cacheHash": "e3cceb07c5c5e6ad530406144436fbad"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c"
+          }
+        }
       }
     },
     {
@@ -1093,10 +1451,14 @@
       "name": "TE FOOD",
       "symbol": "TONE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x502865ECDd2a2929Aa9418297bE7d3C4a7BD5Ac6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2325/thumb/tec.png?1547036538",
       "tags": [],
       "extensions": {
-        "cacheHash": "7c4b6b2d771450ce014a4593278ff37b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4"
+          }
+        }
       }
     },
     {
@@ -1105,10 +1467,14 @@
       "name": "SPX6900",
       "symbol": "SPX",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x51A7b9a11f10D04C16306D90dc4EC22b036DD629.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083",
       "tags": [],
       "extensions": {
-        "cacheHash": "ab53cef273de2a281bdeaf8d36888f39"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C"
+          }
+        }
       }
     },
     {
@@ -1117,10 +1483,14 @@
       "name": "yearn finance",
       "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x52Bf54Eb4210F588320f3e4c151Bca81f84a3201.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
       "tags": [],
       "extensions": {
-        "cacheHash": "3b423350713ab9b7f798a9847c83def0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
+          }
+        }
       }
     },
     {
@@ -1129,10 +1499,14 @@
       "name": "iExec RLC",
       "symbol": "RLC",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x538fB2719135740b8877607217Dc391FB3347ACb.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1604543202",
       "tags": [],
       "extensions": {
-        "cacheHash": "0067b22e490848f79811f55e50b68fd9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x607F4C5BB672230e8672085532f7e901544a7375"
+          }
+        }
       }
     },
     {
@@ -1141,10 +1515,14 @@
       "name": "Pluton",
       "symbol": "PLU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5441619a9754Aee0665c939743cf7611abB6F6C7.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1241/thumb/pluton.png?1548331624",
       "tags": [],
       "extensions": {
-        "cacheHash": "a6b0aa38f24ec12e0a023b63d94577c5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD8912C10681D8B21Fd3742244f44658dBA12264E"
+          }
+        }
       }
     },
     {
@@ -1153,10 +1531,14 @@
       "name": "Aevo",
       "symbol": "AEVO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x54FA9210cCB765639b7Fd532f25bCb1060D60F8B.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35893/standard/aevo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3181b35c9f7b4ae7fd7872688592452e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB528edBef013aff855ac3c50b381f253aF13b997"
+          }
+        }
       }
     },
     {
@@ -1165,10 +1547,14 @@
       "name": "TrueFi",
       "symbol": "TRU",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x55C65102C26b173696e935B1325e5AaeF30cFE0e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941",
       "tags": [],
       "extensions": {
-        "cacheHash": "6f0590715c2ecf68c2cc3b80686c2296"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784"
+          }
+        }
       }
     },
     {
@@ -1177,10 +1563,14 @@
       "name": "Republic Token",
       "symbol": "REN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x560603E0bFC941063D1375Ec4E3f9FE38261617E.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1d366d3593b0074972652171f9c1ec71"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x408e41876cCCDC0F92210600ef50372656052a38"
+          }
+        }
       }
     },
     {
@@ -1189,10 +1579,14 @@
       "name": "Portal",
       "symbol": "PORTAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x562E588471cA0e710b2b1217867FFb2E0F2a5642.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg",
       "tags": [],
       "extensions": {
-        "cacheHash": "94be0ca37451e6d39971421c80b3b9c0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed"
+          }
+        }
       }
     },
     {
@@ -1201,10 +1595,14 @@
       "name": "Drep",
       "symbol": "DREP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x56aF109D597eb0a0F79ebCD0786Dd88C38EA9Ee7.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14578/thumb/KotgsCgS_400x400.jpg?1617094445",
       "tags": [],
       "extensions": {
-        "cacheHash": "f16ad4e625820806421af939f609b5d9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2"
+          }
+        }
       }
     },
     {
@@ -1213,10 +1611,14 @@
       "name": "Maple",
       "symbol": "MPL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x587e0E022b074015F4e81eCa489c0C41d752A219.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14097/thumb/photo_2021-05-03_14.20.41.jpeg?1620022863",
       "tags": [],
       "extensions": {
-        "cacheHash": "406649075db4761c13b9d209c3309668"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x33349B282065b0284d756F0577FB39c158F935e6"
+          }
+        }
       }
     },
     {
@@ -1225,10 +1627,14 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x588CE4F028D8e7B53B687865d6A67b3A54C75518.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d236883caf5f2a9602e9156f36001fa1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        }
       }
     },
     {
@@ -1237,10 +1643,14 @@
       "name": "Mog Coin",
       "symbol": "MOG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x58d68e179864605fEA06EAADF1185c6e78921Ebd.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "9237b5cc7145a631408dd00f4265045a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a"
+          }
+        }
       }
     },
     {
@@ -1249,10 +1659,14 @@
       "name": "Gitcoin",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x592620d454a10c47274dBfe3BD922b9a8fE5cf48.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
       "tags": [],
       "extensions": {
-        "cacheHash": "f37122412d0151007a439acce6231852"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F"
+          }
+        }
       }
     },
     {
@@ -1261,10 +1675,14 @@
       "name": "Perpetual Protocol",
       "symbol": "PERP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5944D2728d5fea7D1F4AA4958E3aEbb3CCFEc7D5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
       "tags": [],
       "extensions": {
-        "cacheHash": "2b4789822aaf84708e21bb88a2fdf842"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xbC396689893D065F41bc2C6EcbeE5e0085233447"
+          }
+        }
       }
     },
     {
@@ -1273,10 +1691,14 @@
       "name": "OMG Network",
       "symbol": "OMG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5949b9200dF1e77878dB3D061e43cF878Ee37383.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1591167168",
       "tags": [],
       "extensions": {
-        "cacheHash": "6b4bad7b2bad9b3ea5fd1d98f4d3d2ca"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+          }
+        }
       }
     },
     {
@@ -1285,10 +1707,14 @@
       "name": "Arkham",
       "symbol": "ARKM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x59F16BaA7A22f49c32680661e0041A53442Ef089.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/30929/standard/Arkham_Logo_CG.png?1696529771",
       "tags": [],
       "extensions": {
-        "cacheHash": "69e6e1505c09c0702770f7fc9f5e017b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050"
+          }
+        }
       }
     },
     {
@@ -1297,10 +1723,14 @@
       "name": "ChainLink Token",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5a53B6D19D8EDCb7923F0D840EeBB3f09BBeEfB7.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "033cf9b6cf206adceb3bd631f115b527"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+          }
+        }
       }
     },
     {
@@ -1309,10 +1739,14 @@
       "name": "SKY Governance Token",
       "symbol": "SKY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5A6058002d0d336e5E8860652e7054a6d07074E4.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
       "tags": [],
       "extensions": {
-        "cacheHash": "08430addbd476e651dda3be0f66e3d05"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x56072C95FAA701256059aa122697B133aDEd9279"
+          }
+        }
       }
     },
     {
@@ -1321,10 +1755,14 @@
       "name": "Celer Network",
       "symbol": "CELR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5AD5d6B1AE6761Aab12066b51D21729248035703.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4379/thumb/Celr.png?1554705437",
       "tags": [],
       "extensions": {
-        "cacheHash": "2dd407f45d4f43f8684153b33562cf5b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667"
+          }
+        }
       }
     },
     {
@@ -1333,10 +1771,14 @@
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5cC70a9DF8E293aFFb14DFCa1e7F851418a4b40d.png",
+      "logoURI": "https://arbitrum.foundation/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ee0239e4591b5f2bf005e082ed05c1e3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"
+          }
+        }
       }
     },
     {
@@ -1345,10 +1787,14 @@
       "name": "Unisocks",
       "symbol": "SOCKS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5e03C123D829505F4DEa87cf679F77c9dC4627ab.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244",
       "tags": [],
       "extensions": {
-        "cacheHash": "6ae69f22a93225299ac20bb77c3a9348"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5"
+          }
+        }
       }
     },
     {
@@ -1357,10 +1803,14 @@
       "name": "Ethernity Chain",
       "symbol": "ERN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5E5903C236E6873EB8400C3d1979271Fa93cdB03.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14238/thumb/LOGO_HIGH_QUALITY.png?1647831402",
       "tags": [],
       "extensions": {
-        "cacheHash": "48f58095fd4723a23010723f35a8fb84"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505"
+          }
+        }
       }
     },
     {
@@ -1369,10 +1819,14 @@
       "name": "Pawtocol",
       "symbol": "UPI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5EAFF8Fa6f3831Bb86FeEB701E6f98293E264D36.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12186/thumb/pawtocol.jpg?1597962008",
       "tags": [],
       "extensions": {
-        "cacheHash": "a61391fcd6e7225b53100b8c414b7403"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c"
+          }
+        }
       }
     },
     {
@@ -1381,10 +1835,14 @@
       "name": "Tokemak",
       "symbol": "TOKE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5eD5DA180bB125f229AB7b825E34D2b936213e0B.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17495/thumb/tokemak-avatar-200px-black.png?1628131614",
       "tags": [],
       "extensions": {
-        "cacheHash": "85bb7d5347aeaa56d567e223e116347a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94"
+          }
+        }
       }
     },
     {
@@ -1393,10 +1851,14 @@
       "name": "AIOZ Network",
       "symbol": "AIOZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5F891E74947b0FC400128E5E85333d7a6cF99b1A.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14631/thumb/aioz_logo.png?1617413126",
       "tags": [],
       "extensions": {
-        "cacheHash": "e641c38845b2ffa2ea9fc78148e6a37e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x626E8036dEB333b408Be468F951bdB42433cBF18"
+          }
+        }
       }
     },
     {
@@ -1405,10 +1867,14 @@
       "name": "Mirror Protocol",
       "symbol": "MIR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x5FE989EaB3021d7e742099d05a7937bA4A72D717.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13295/thumb/mirror_logo_transparent.png?1611554658",
       "tags": [],
       "extensions": {
-        "cacheHash": "a69276f5240d51bc33a495a674570206"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608"
+          }
+        }
       }
     },
     {
@@ -1417,10 +1883,14 @@
       "name": "Celo native asset (Wormhole)",
       "symbol": "CELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6008F5BaD83742fDbFf5AAc55e3c51b65A8A8D9C.png",
+      "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "258031f1692d6b4ed69f6ea0adc57633"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69"
+          }
+        }
       }
     },
     {
@@ -1429,10 +1899,14 @@
       "name": "dYdX",
       "symbol": "DYDX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x601b11907EAa8d3785C0b10b41C3a7315faeB82c.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/17500/thumb/hjnIm9bV.jpg?1628009360",
       "tags": [],
       "extensions": {
-        "cacheHash": "bb7413670185ab989a6f7adbe9f78764"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x92D6C1e31e14520e676a687F0a93788B716BEff5"
+          }
+        }
       }
     },
     {
@@ -1441,10 +1915,28 @@
       "name": "Biconomy",
       "symbol": "BICO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x604Ff88ADC02325EFb7f93DB3E442dc81D0588E7.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/21061/thumb/biconomy_logo.jpg?1638269749",
       "tags": [],
       "extensions": {
-        "cacheHash": "bfa87aa303eb2107ec8840bf2e7b4aa4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 130,
+      "address": "0x614b641b6b59d290B1E8412426fe37E342aADe3E",
+      "name": "CANA Holdings California Carbon Credits",
+      "symbol": "CANA",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+      "tags": [],
+      "extensions": {
+        "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "CANA"
       }
     },
     {
@@ -1453,10 +1945,14 @@
       "name": "Rai Reflex Index",
       "symbol": "RAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6164A78F7B2aC49cf9b76c49e5B6909e89f34a66.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
       "tags": [],
       "extensions": {
-        "cacheHash": "336d0516b86bf1952e1b5e28daf28ba4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+          }
+        }
       }
     },
     {
@@ -1465,10 +1961,14 @@
       "name": "DFI money",
       "symbol": "YFII",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x62ffD4229bb9a327412D1BE518A1dbAe6c18A07E.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11902/thumb/YFII-logo.78631676.png?1598677348",
       "tags": [],
       "extensions": {
-        "cacheHash": "4f9ab012dd967be9d481bb11b0c6c73d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83"
+          }
+        }
       }
     },
     {
@@ -1477,10 +1977,14 @@
       "name": "Euler",
       "symbol": "EUL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6319F47719b6713b1624C1b3A8e2DBf15b5D03FE.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/YCvKDfl8_400x400.jpeg?1656041509",
       "tags": [],
       "extensions": {
-        "cacheHash": "596d5ee71fc01cfb852a5cd58dc24605"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b"
+          }
+        }
       }
     },
     {
@@ -1489,10 +1993,14 @@
       "name": "Ocean Protocol",
       "symbol": "OCEAN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x652293F4e9b0ef61C52a78D6615D9f5f3cD79208.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/3687/thumb/ocean-protocol-logo.jpg?1547038686",
       "tags": [],
       "extensions": {
-        "cacheHash": "d54c77723006e687ed920c59038ec29b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48"
+          }
+        }
       }
     },
     {
@@ -1501,10 +2009,14 @@
       "name": "Hashflow",
       "symbol": "HFT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x656104f2028BbFD7144C8f71Fa15daaA8c34A28b.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26136/large/hashflow-icon-cmc.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "172d4e94270740e7829aaf05d54b852c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC"
+          }
+        }
       }
     },
     {
@@ -1513,10 +2025,14 @@
       "name": "Morpho Token",
       "symbol": "MORPHO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6695a2692dCD2A53E7766492447B5254A56425aD.png",
+      "logoURI": "https://cdn.oku.trade/logos/130/0x6695a2692dcd2a53e7766492447b5254a56425ad.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e4b19215e9d8b747c7dbe287e7dbfbce"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2"
+          }
+        }
       }
     },
     {
@@ -1525,10 +2041,14 @@
       "name": "Rook",
       "symbol": "ROOK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x682B2f07e61022A80Ac2753448f7D95E9de41D99.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13005/thumb/keeper_dao_logo.jpg?1604316506",
       "tags": [],
       "extensions": {
-        "cacheHash": "ee929d7f2ccc62ed6fb45148671471a3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a"
+          }
+        }
       }
     },
     {
@@ -1537,10 +2057,14 @@
       "name": "Moss Carbon Credit",
       "symbol": "MCO2",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x68619Bc0C709FB63555Fe988ed14e78f7E6ACc40.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14414/thumb/ENtxnThA_400x400.jpg?1615948522",
       "tags": [],
       "extensions": {
-        "cacheHash": "821d2fd23cb67ff4c7b165b0371de266"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD"
+          }
+        }
       }
     },
     {
@@ -1549,10 +2073,14 @@
       "name": "Litentry",
       "symbol": "LIT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x68648F52B85407806bC1d349B745D13C91be0fDf.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "05f70fa1b24fdb972fc7d4c31609bbe4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723"
+          }
+        }
       }
     },
     {
@@ -1561,10 +2089,14 @@
       "name": "Lido DAO",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x68A6dbc7214a0F2b0d875963663F1613814E8829.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644",
       "tags": [],
       "extensions": {
-        "cacheHash": "45c1e1dce1cce1f6be0cae76778a070c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
+          }
+        }
       }
     },
     {
@@ -1573,10 +2105,14 @@
       "name": "SelfKey",
       "symbol": "KEY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x68Cea24F675e4F25584607F6c9feFb353f1bBfDc.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2034/thumb/selfkey.png?1548608934",
       "tags": [],
       "extensions": {
-        "cacheHash": "a2072dd843f22b92e01336a45c28a969"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7"
+          }
+        }
       }
     },
     {
@@ -1585,10 +2121,14 @@
       "name": "Braintrust",
       "symbol": "BTRST",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6A4a359C7453F5892392FCb8eAB7A9A100986B71.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18100/thumb/braintrust.PNG?1630475394",
       "tags": [],
       "extensions": {
-        "cacheHash": "ac1676a7dcea138d19d65e29fb810a7c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824"
+          }
+        }
       }
     },
     {
@@ -1597,10 +2137,14 @@
       "name": "The Sandbox",
       "symbol": "SAND",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6A654A2ec95fB988Ea37746dBCca10772CAf25CA.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12129/thumb/sandbox_logo.jpg?1597397942",
       "tags": [],
       "extensions": {
-        "cacheHash": "3d3e1f1735b1a680651543899e8e7462"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+          }
+        }
       }
     },
     {
@@ -1609,10 +2153,14 @@
       "name": "Covalent",
       "symbol": "CQT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6C28eeB9E018011d3841f42c5b458713621F90C1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14168/thumb/covalent-cqt.png?1624545218",
       "tags": [],
       "extensions": {
-        "cacheHash": "8a7337420f545a5c4570108c166e1c50"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD417144312DbF50465b1C641d016962017Ef6240"
+          }
+        }
       }
     },
     {
@@ -1621,10 +2169,14 @@
       "name": "AltLayer",
       "symbol": "ALT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6D5De04F1a3E0e554B9A15059d03e20cb3589153.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/34608/standard/Logomark_200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "21c10cb712732095a5154918a004c501"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB"
+          }
+        }
       }
     },
     {
@@ -1633,10 +2185,14 @@
       "name": "Gods Unchained",
       "symbol": "GODS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6E74EA6546e1f21Abf581b59114f2Bf5d3683f48.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17139/thumb/10631.png?1635718182",
       "tags": [],
       "extensions": {
-        "cacheHash": "f0f15cdaea56ee946bcfd68c3a849c9a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97"
+          }
+        }
       }
     },
     {
@@ -1645,10 +2201,14 @@
       "name": "Function X",
       "symbol": "FX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x6F32725F82Bbb06FFdC04974db437fec1d7af1Af.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/8186/thumb/47271330_590071468072434_707260356350705664_n.jpg?1556096683",
       "tags": [],
       "extensions": {
-        "cacheHash": "0338b4cc19fd7429895e2320e9c0138c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057"
+          }
+        }
       }
     },
     {
@@ -1657,10 +2217,14 @@
       "name": "Galxe",
       "symbol": "GAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x70b2b785061d4c91C76CF87692f85B5c443d8675.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24530/thumb/GAL-Token-Icon.png?1651483533",
       "tags": [],
       "extensions": {
-        "cacheHash": "a1e8f97870089a89c85caaf1d623ff96"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875"
+          }
+        }
       }
     },
     {
@@ -1669,10 +2233,14 @@
       "name": "Metal",
       "symbol": "MTL",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x71d69d07914d087f1C3536F7A5006a256CfAd9Ea.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/763/thumb/Metal.png?1592195010",
       "tags": [],
       "extensions": {
-        "cacheHash": "25c5b73bce8dfba89a43935a08fff9ec"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+          }
+        }
       }
     },
     {
@@ -1681,10 +2249,14 @@
       "name": "Synth sUSD",
       "symbol": "sUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7251d204c2e867b31096D5c7091298239B3A6a0F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
       "tags": [],
       "extensions": {
-        "cacheHash": "a00926d04f09ff6dfa3f59e9e4f3e7ee"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+          }
+        }
       }
     },
     {
@@ -1693,10 +2265,14 @@
       "name": "Euro Coin",
       "symbol": "EURC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x72f34BC403a005A9Be390762EAa46ED42813B0a8.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420",
       "tags": [],
       "extensions": {
-        "cacheHash": "bd157177a25956aed2759c3b7c8da50c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c"
+          }
+        }
       }
     },
     {
@@ -1705,10 +2281,14 @@
       "name": "Spell Token",
       "symbol": "SPELL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x739316C7bc4A39Eb39dcFa1b181b64abc17fEF7F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15861/thumb/abracadabra-3.png?1622544862",
       "tags": [],
       "extensions": {
-        "cacheHash": "f8ac48840bac309a28b67e7bf8e293f7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x090185f2135308BaD17527004364eBcC2D37e5F6"
+          }
+        }
       }
     },
     {
@@ -1717,10 +2297,14 @@
       "name": "Cronos",
       "symbol": "CRO",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x73c63A80Ec77BFe31eEc6663828C4beaA30dE818.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/7310/thumb/oCw2s3GI_400x400.jpeg?1645172042",
       "tags": [],
       "extensions": {
-        "cacheHash": "74ee298b697de648d32f671c391cda03"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"
+          }
+        }
       }
     },
     {
@@ -1729,10 +2313,14 @@
       "name": "The Virtua Kolect",
       "symbol": "TVK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x756fb781389DCaF9D3BC5468927F06A913bD9D5D.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13330/thumb/virtua_original.png?1656043619",
       "tags": [],
       "extensions": {
-        "cacheHash": "2d286d61aba664c3cd84eac8b74d12a0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988"
+          }
+        }
       }
     },
     {
@@ -1741,10 +2329,14 @@
       "name": "Zetachain",
       "symbol": "Zeta",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x757dCF360f2FE999FAEEBcc6E80f5Eceb3cb3CA4.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788",
       "tags": [],
       "extensions": {
-        "cacheHash": "a055190b0d7b8ac52b237271eb74cf8d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xf091867EC603A6628eD83D274E835539D82e9cc8"
+          }
+        }
       }
     },
     {
@@ -1753,10 +2345,14 @@
       "name": "Ribbon Finance",
       "symbol": "RBN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x75B2dBb2a7C70073133E42F64366a986c841cd3e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15823/thumb/RBN_64x64.png?1633529723",
       "tags": [],
       "extensions": {
-        "cacheHash": "6b6a026286b56ae0769144d7d4d91a35"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B"
+          }
+        }
       }
     },
     {
@@ -1765,10 +2361,14 @@
       "name": "NKN",
       "symbol": "NKN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x75b93cED9627Cd172912304Fb79Cd3e7336BaF62.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/3375/thumb/nkn.png?1548329212",
       "tags": [],
       "extensions": {
-        "cacheHash": "fdc9e7122eebeb3f7492e04cf5e9959d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb"
+          }
+        }
       }
     },
     {
@@ -1777,10 +2377,14 @@
       "name": "Stargate Finance",
       "symbol": "STG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x77c8A8E1dd3b5270d3Ab589543e9A83319373135.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
       "tags": [],
       "extensions": {
-        "cacheHash": "9f3baa6a29e670bf7e54da3e56a3b55e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6"
+          }
+        }
       }
     },
     {
@@ -1789,10 +2393,14 @@
       "name": "Jupiter",
       "symbol": "JUP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x781CC305fCBFe7cde376C9Ef5469d5a7E5CaB8b2.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/10351/thumb/logo512.png?1632480932",
       "tags": [],
       "extensions": {
-        "cacheHash": "301823c77f4934bbbc08c457e15dd124"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8"
+          }
+        }
       }
     },
     {
@@ -1801,10 +2409,14 @@
       "name": "Frax Share",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x79301DF2117C7F56859fD01b28bBAA61062021D6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
       "tags": [],
       "extensions": {
-        "cacheHash": "7d468ac440f59a9cdff45a0c6358cad3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0"
+          }
+        }
       }
     },
     {
@@ -1813,10 +2425,14 @@
       "name": "StablR Euro",
       "symbol": "EURR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7A1ef7fD6E0d708295D8FD0C30Fd437d9C36FB5f.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898",
       "tags": [],
       "extensions": {
-        "cacheHash": "8c584358181932f354b04618057e2525"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x50753CfAf86c094925Bf976f218D043f8791e408"
+          }
+        }
       }
     },
     {
@@ -1825,10 +2441,14 @@
       "name": "Rally",
       "symbol": "RLY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7Ad899b7C793743fDE692d982F190f443F88c889.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12843/thumb/image.png?1611212077",
       "tags": [],
       "extensions": {
-        "cacheHash": "adba3ca16817c8811e8a95c27e9ed1ec"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+          }
+        }
       }
     },
     {
@@ -1837,10 +2457,14 @@
       "name": "Stader",
       "symbol": "SD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7ccc67C7b232aa6417d9422e90D91ec4b32d72E5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/20658/standard/SD_Token_Logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1ef889a9863da1c437665a765cfb44af"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x30D20208d987713f46DFD34EF128Bb16C404D10f"
+          }
+        }
       }
     },
     {
@@ -1849,10 +2473,14 @@
       "name": "Crypterium",
       "symbol": "CRPT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7e7784f13029c7C4BF4746112B1A503818B0D066.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1901/thumb/crypt.png?1547036205",
       "tags": [],
       "extensions": {
-        "cacheHash": "e4e1ba9ee8cf6b42e1eaaca2924195c6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B"
+          }
+        }
       }
     },
     {
@@ -1861,10 +2489,14 @@
       "name": "0x Protocol Token",
       "symbol": "ZRX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7e7e8e5f0eDd7ca2ed3D9609cea1FF37a6E7Edf5.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "aa72d5294925a14d6af447b652d8ea56"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+          }
+        }
       }
     },
     {
@@ -1873,10 +2505,14 @@
       "name": "AirSwap",
       "symbol": "AST",
       "decimals": 4,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x7F3F14A49FE5D5009E4e0a09e76cB8468C09Ae56.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484",
       "tags": [],
       "extensions": {
-        "cacheHash": "e96faab25e30f17008801dc403cffbfc"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x27054b13b1B798B345b591a4d22e6562d47eA75a"
+          }
+        }
       }
     },
     {
@@ -1885,10 +2521,14 @@
       "name": "Ethereum Name Service",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x80756FAf1e7Fec5678bf505670eF176AB5F0383a.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140",
       "tags": [],
       "extensions": {
-        "cacheHash": "539c1b27a7e008660a652c3b689986d2"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72"
+          }
+        }
       }
     },
     {
@@ -1897,10 +2537,14 @@
       "name": "Polkastarter",
       "symbol": "POLS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x82a98121eaf30b0E135b08d4208c837Cdc306503.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12648/thumb/polkastarter.png?1609813702",
       "tags": [],
       "extensions": {
-        "cacheHash": "b7734ca6b1e6c72071f2e370c41a93b8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa"
+          }
+        }
       }
     },
     {
@@ -1909,10 +2553,14 @@
       "name": "Bounce",
       "symbol": "AUCTION",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x82F90996a4F67Eb388116B3C6F35B6Ea91BeF68E.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13860/thumb/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1612412025",
       "tags": [],
       "extensions": {
-        "cacheHash": "2453d70905399c1991297d654c298393"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096"
+          }
+        }
       }
     },
     {
@@ -1921,10 +2569,14 @@
       "name": "Aragon",
       "symbol": "ANT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x865d184885200B8e86eb2a3Da8b3B4a7d4A31308.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653",
       "tags": [],
       "extensions": {
-        "cacheHash": "d1194128029d356d8ce7b7926853e8c3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
+          }
+        }
       }
     },
     {
@@ -1933,10 +2585,14 @@
       "name": "PAX Gold",
       "symbol": "PAXG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x89f7C0870794103744C8042630CC1C846a858E57.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9519/thumb/paxg.PNG?1568542565",
       "tags": [],
       "extensions": {
-        "cacheHash": "66958a8b3c2947010382b0912486ebf3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x45804880De22913dAFE09f4980848ECE6EcbAf78"
+          }
+        }
       }
     },
     {
@@ -1945,10 +2601,14 @@
       "name": "Frax",
       "symbol": "FRAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8c7879bf25D678D9949F305857bD4437d74132B9.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
       "tags": [],
       "extensions": {
-        "cacheHash": "1410eaebe45a9aef46fec5afdfb03553"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+          }
+        }
       }
     },
     {
@@ -1957,10 +2617,14 @@
       "name": "Rari Governance Token",
       "symbol": "RGT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8c9606001CF1787CEb80E03DEF3F9BaF946CF284.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014",
       "tags": [],
       "extensions": {
-        "cacheHash": "e74138ec9f702e847e3e4da683f36a34"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD291E7a03283640FDc51b121aC401383A46cC623"
+          }
+        }
       }
     },
     {
@@ -1969,10 +2633,14 @@
       "name": "Covalent X Token",
       "symbol": "CXT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8E29E12B46FeE20E034fE1e812bc12EFf14E5A09.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/39177/large/CXT_Ticker.png?1720829918",
       "tags": [],
       "extensions": {
-        "cacheHash": "913691f358ae38eee5cff5c5e29afee9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D"
+          }
+        }
       }
     },
     {
@@ -1981,10 +2649,14 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8e902FDeA73e5CF9621D2Bee82cD79196d8ec63b.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
       "tags": [],
       "extensions": {
-        "cacheHash": "0fa81045b361bbdd1f6891dc6ed608b0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+          }
+        }
       }
     },
     {
@@ -1993,10 +2665,14 @@
       "name": "JasmyCoin",
       "symbol": "JASMY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8EF0686F380dD07f3e2121831839371922720708.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13876/thumb/JASMY200x200.jpg?1612473259",
       "tags": [],
       "extensions": {
-        "cacheHash": "301bbb95145b494ff5e1f2a8c70b633a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC"
+          }
+        }
       }
     },
     {
@@ -2005,10 +2681,12 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8f187aA05619a017077f5308904739877ce9eA21.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "9fff048586d68287d02ae287703d2648"
+        "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "UNI"
       }
     },
     {
@@ -2017,10 +2695,14 @@
       "name": "Threshold Network",
       "symbol": "T",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8F43Ab8648F1a3BAEea3782Ba5f562a148f2Ad54.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/22228/thumb/nFPNiSbL_400x400.jpg?1641220340",
       "tags": [],
       "extensions": {
-        "cacheHash": "b4a609e333860c5c4ab90b8c349e7112"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5"
+          }
+        }
       }
     },
     {
@@ -2029,10 +2711,14 @@
       "name": "Syrup Token",
       "symbol": "SYRUP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x8f7F997ba304f426E3138999919c23f68cD6FA96.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/51232/standard/IMG_7420.png?1730831572",
       "tags": [],
       "extensions": {
-        "cacheHash": "46c78ce5308de5df059d17139731fbb8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66"
+          }
+        }
       }
     },
     {
@@ -2041,10 +2727,14 @@
       "name": "Ethena",
       "symbol": "ENA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9116E70d613860D349495d9Ef8e2AE1cA6cBD2dd.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/standard/ethena.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "511cf80662a35f0239dd3b1e5fc10748"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x57e114B691Db790C35207b2e685D4A43181e6061"
+          }
+        }
       }
     },
     {
@@ -2053,10 +2743,14 @@
       "name": "Dogelon Mars",
       "symbol": "ELON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x91441fE1415B00bEA8930A4354Fe00c426C1DE05.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14962/thumb/6GxcPRo3_400x400.jpg?1619157413",
       "tags": [],
       "extensions": {
-        "cacheHash": "e382618870dc5cdcccc4d9986a94fe14"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3"
+          }
+        }
       }
     },
     {
@@ -2065,10 +2759,14 @@
       "name": "Status",
       "symbol": "SNT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x914f7CE2B080B2186159C2213B1e193E265aBF5F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/779/thumb/status.png?1548610778",
       "tags": [],
       "extensions": {
-        "cacheHash": "d37ea93c3316e1c94e20656a3a096622"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+          }
+        }
       }
     },
     {
@@ -2077,10 +2775,11 @@
       "name": "USD₮0",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9151434b16b9763660705744891fA906F660EcC5.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     },
     {
@@ -2089,10 +2788,14 @@
       "name": "DerivaDAO",
       "symbol": "DDX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x91ED4bb192e3461E45575730508525083A270265.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13453/thumb/ddx_logo.png?1608741641",
       "tags": [],
       "extensions": {
-        "cacheHash": "9a2dc6bb98e539fde8c74e8c223540a7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A"
+          }
+        }
       }
     },
     {
@@ -2101,10 +2804,14 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x927B51f251480a681271180DA4de28D44EC4AfB8.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ffd622862f508c7fb4fec75df44b1065"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+          }
+        }
       }
     },
     {
@@ -2113,10 +2820,14 @@
       "name": "Numeraire",
       "symbol": "NMR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x931e587542b8603EA3C6420dD8d3b22eDbdA20FC.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "fefcd591d24fa535cdcb16ebe076750e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+          }
+        }
       }
     },
     {
@@ -2125,10 +2836,14 @@
       "name": "Injective",
       "symbol": "INJ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9361cA28625E12C7f088523B274A25059A89f9F8.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12882/thumb/Secondary_Symbol.png?1628233237",
       "tags": [],
       "extensions": {
-        "cacheHash": "c36b617a80d4a6b4b79d987517bdc3ac"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30"
+          }
+        }
       }
     },
     {
@@ -2137,10 +2852,14 @@
       "name": "Blur",
       "symbol": "BLUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x942fC6b61686e06fB411cB1bCf5d16DC2b9255eA.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921",
       "tags": [],
       "extensions": {
-        "cacheHash": "8f79c6c7d18b5d503ab9fab34ec0be55"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5283D291DBCF85356A21bA090E6db59121208b44"
+          }
+        }
       }
     },
     {
@@ -2149,10 +2868,12 @@
       "name": "Rocket Pool ETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x94Cac393f3444cEf63a651FfC18497E7e8bd036a.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "37d23eda4915c101401c1f7f97bf457a"
+        "unichainBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "rETH"
       }
     },
     {
@@ -2161,10 +2882,14 @@
       "name": "Render Token",
       "symbol": "RNDR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x965C6DeBFa700F53a38d42DbaeD922c58d649868.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11636/thumb/rndr.png?1638840934",
       "tags": [],
       "extensions": {
-        "cacheHash": "8dd573eb1e797ddd0dfb464cc5ad2f6f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24"
+          }
+        }
       }
     },
     {
@@ -2173,10 +2898,14 @@
       "name": "Orchid",
       "symbol": "OXT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9775C2b4f245248dE5596252Ac69311152B98042.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "000b089db4f862fc1cf06c5f09480e36"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb"
+          }
+        }
       }
     },
     {
@@ -2185,11 +2914,8 @@
       "name": "dogwifhat",
       "symbol": "WIF",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x97Fadb3D000b953360FD011e173F12cDDB5d70Fa.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "833f40aaa7e61dfc468bdf3eebf9ef6c"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428",
+      "tags": []
     },
     {
       "chainId": 130,
@@ -2197,10 +2923,14 @@
       "name": "Reserve Rights",
       "symbol": "RSR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x993A565A1E6219951323cA3c34Cee0A3b1889066.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
       "tags": [],
       "extensions": {
-        "cacheHash": "78ebcdef97e9da13dca7a38892af2b77"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70"
+          }
+        }
       }
     },
     {
@@ -2209,10 +2939,14 @@
       "name": "Highstreet",
       "symbol": "HIGH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x99F64C3Db98a4870eFf637315d5C86dcb1374879.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18973/thumb/logosq200200Coingecko.png?1634090470",
       "tags": [],
       "extensions": {
-        "cacheHash": "398e85564b1bc361620c3c2d9df7412b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282"
+          }
+        }
       }
     },
     {
@@ -2221,10 +2955,14 @@
       "name": "Enjin Coin",
       "symbol": "ENJ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9A0D1b7594CAAF0A9e4687cAc9fF4E0B84a6d0A6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png?1547035078",
       "tags": [],
       "extensions": {
-        "cacheHash": "f939b0ce14b23198061741c11a1d2938"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c"
+          }
+        }
       }
     },
     {
@@ -2233,10 +2971,14 @@
       "name": "Keep3rV1",
       "symbol": "KP3R",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9C41547e404942C173E28bB2B6abE4cf5fad6A74.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12966/thumb/kp3r_logo.jpg?1607057458",
       "tags": [],
       "extensions": {
-        "cacheHash": "70d26d175c3855401c3228182302de21"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44"
+          }
+        }
       }
     },
     {
@@ -2245,10 +2987,14 @@
       "name": "Request",
       "symbol": "REQ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0x9FcC3133779F2039c29908c915b6EFaE9d8663Cd.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1031/thumb/Request_icon_green.png?1643250951",
       "tags": [],
       "extensions": {
-        "cacheHash": "dc8744c93a8ed82dc88da5c539e72eea"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+          }
+        }
       }
     },
     {
@@ -2257,10 +3003,14 @@
       "name": "Aethir Token",
       "symbol": "ATH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa249732271cbA6E06Be4ac8B20f0D465FeE183Ab.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_(1).png?1718232706",
       "tags": [],
       "extensions": {
-        "cacheHash": "5b7290da9e1a6d32415d4a8ae74f8583"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B"
+          }
+        }
       }
     },
     {
@@ -2269,10 +3019,14 @@
       "name": "Band Protocol",
       "symbol": "BAND",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa264F2b88C630f260AbDcAb577eAB7266A8857d5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9545/thumb/band-protocol.png?1568730326",
       "tags": [],
       "extensions": {
-        "cacheHash": "38383716920ceed8ed070abadfe6d128"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55"
+          }
+        }
       }
     },
     {
@@ -2281,10 +3035,14 @@
       "name": "Marlin",
       "symbol": "POND",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xA2a36541c5a54bd2815985418105091B4D4782d5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
       "tags": [],
       "extensions": {
-        "cacheHash": "e60523c6faee39bbec4328c9a5ab1c98"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x57B946008913B82E4dF85f501cbAeD910e58D26C"
+          }
+        }
       }
     },
     {
@@ -2293,10 +3051,14 @@
       "name": "LoopringCoin V2",
       "symbol": "LRC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xA2af802b95D7e20167e5aeaC7Fe8fDf4a8aB158A.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "a4b8dba93fa9de91499124b24cec5145"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD"
+          }
+        }
       }
     },
     {
@@ -2305,10 +3067,14 @@
       "name": "Aleph im",
       "symbol": "ALEPH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa3E646211a456e08829C33fcE21cC3DC4c15Bb5c.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11676/thumb/Monochram-aleph.png?1608483725",
       "tags": [],
       "extensions": {
-        "cacheHash": "178df73c31764ee7b35f5be979029933"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628"
+          }
+        }
       }
     },
     {
@@ -2317,10 +3083,14 @@
       "name": "BitDAO",
       "symbol": "BIT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xA4Cb2aaf7503641B441e80fC353e6748fb523A5C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17627/thumb/rI_YptK8.png?1653983088",
       "tags": [],
       "extensions": {
-        "cacheHash": "b983298d931cf5428dfd22543310c012"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5"
+          }
+        }
       }
     },
     {
@@ -2329,10 +3099,14 @@
       "name": "Binance USD",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa4da5c92F44422dFA3E2E309b53d93bbbDa9f9c6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
       "tags": [],
       "extensions": {
-        "cacheHash": "9fc0feb942c273c6e7dccb8093bcfcd8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+          }
+        }
       }
     },
     {
@@ -2341,10 +3115,14 @@
       "name": "agEur",
       "symbol": "agEUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xA4eeF95995F40aD0b3D63a474293Fc7CC681A118.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
       "tags": [],
       "extensions": {
-        "cacheHash": "c7c8c0b496f24c6f87b7c176544848c6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+          }
+        }
       }
     },
     {
@@ -2353,10 +3131,14 @@
       "name": "Index Cooperative",
       "symbol": "INDEX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa5Afe7646f07d2C41AA82Bb6AE09e99E121e39B7.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321",
       "tags": [],
       "extensions": {
-        "cacheHash": "336fe212bf5393dfef3a94de7c58e548"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0954906da0Bf32d5479e25f46056d22f08464cab"
+          }
+        }
       }
     },
     {
@@ -2365,10 +3147,14 @@
       "name": "Origin Protocol",
       "symbol": "OGN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa60CE8f7ec6A091535b4708569B39DF5eE18c880.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1547037878",
       "tags": [],
       "extensions": {
-        "cacheHash": "e263121aa13f9a7e7b59a3f7b5622d1f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26"
+          }
+        }
       }
     },
     {
@@ -2377,10 +3163,14 @@
       "name": "API3",
       "symbol": "API3",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xA63122b27308EED0C1D83DD355ADdaA7f678961b.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424",
       "tags": [],
       "extensions": {
-        "cacheHash": "d4f30577b8f19f729a10aa95d7d7d5df"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+          }
+        }
       }
     },
     {
@@ -2389,10 +3179,14 @@
       "name": "Cartesi",
       "symbol": "CTSI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa7073F530856cD32c2037150dd9763B9BAaED2C5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11038/thumb/cartesi.png?1592288021",
       "tags": [],
       "extensions": {
-        "cacheHash": "ecf238a853f5fcaed3ad8b968f62a71f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
+          }
+        }
       }
     },
     {
@@ -2401,10 +3195,14 @@
       "name": "Illuvium",
       "symbol": "ILV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa76195FA77304Bba4cD8946198f5a90E42F3E51F.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14468/large/ILV.JPG",
       "tags": [],
       "extensions": {
-        "cacheHash": "e79faf63fc3078700c52dc99f2d296cf"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E"
+          }
+        }
       }
     },
     {
@@ -2413,10 +3211,14 @@
       "name": "Swell",
       "symbol": "SWELL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xa8015cbc9f7c58788BA00854c330F027028A5870.webp",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715",
       "tags": [],
       "extensions": {
-        "cacheHash": "b459c96cc66bab55452b19fbcec02348"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676"
+          }
+        }
       }
     },
     {
@@ -2425,10 +3227,14 @@
       "name": "Movement",
       "symbol": "MOVE",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xaa2109f14Bb155766cBA9E7fa8B8D4bF0ff19949.png",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "84ac3af04660f1d2cbcc1347155794b6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073"
+          }
+        }
       }
     },
     {
@@ -2437,10 +3243,14 @@
       "name": "Shiba Inu",
       "symbol": "SHIB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xaa571d01057cdF477D73433D36D86fCb5664158e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/thumb/shiba.png?1622619446",
       "tags": [],
       "extensions": {
-        "cacheHash": "f14b137d2024bfd77688ed8ccfb5a9d3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE"
+          }
+        }
       }
     },
     {
@@ -2449,10 +3259,14 @@
       "name": "StablR USD",
       "symbol": "USDR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xaC025d055a6B633992dE1F796b97B97F004c06a7.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629",
       "tags": [],
       "extensions": {
-        "cacheHash": "fbed1f381c3d8d2b17451f3440d1be92"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8"
+          }
+        }
       }
     },
     {
@@ -2461,10 +3275,14 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xAC73671a1762FE835208Fb93b7aE7490d1c2cCb3.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f6b99e1f8381d547661f33b52f0a6c38"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xD533a949740bb3306d119CC777fa900bA034cd52"
+          }
+        }
       }
     },
     {
@@ -2473,10 +3291,14 @@
       "name": "Chromia",
       "symbol": "CHR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xAC930Be88cFAc775A937E9291c4234Bf210a4e5b.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/5000/thumb/Chromia.png?1559038018",
       "tags": [],
       "extensions": {
-        "cacheHash": "d7a0f4facce8dad3b1990f8cf9774e5b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2"
+          }
+        }
       }
     },
     {
@@ -2485,10 +3307,14 @@
       "name": "Ondo Finance",
       "symbol": "ONDO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xaD0bae21db0b471dFfC6f8F9EEacFe9A85321557.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656",
       "tags": [],
       "extensions": {
-        "cacheHash": "b477b3c8a3211719aac515eab4e9bbd5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3"
+          }
+        }
       }
     },
     {
@@ -2497,10 +3323,14 @@
       "name": "GYEN",
       "symbol": "GYEN",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xad173F5B5FE39DD1183a0d3C49C57629A574c36F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14191/thumb/icon_gyen_200_200.png?1614843343",
       "tags": [],
       "extensions": {
-        "cacheHash": "a78508a53d2d139971a68fcc1e681712"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC08512927D12348F6620a698105e1BAac6EcD911"
+          }
+        }
       }
     },
     {
@@ -2509,10 +3339,14 @@
       "name": "tBTC",
       "symbol": "tBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xAd497996Dc33DC8E8e552824CcEe199420BC7814.png",
+      "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c081760fb5e910dad31c542c0321cd49"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x18084fbA666a33d37592fA2633fD49a74DD93a88"
+          }
+        }
       }
     },
     {
@@ -2521,10 +3355,14 @@
       "name": "Puffer Finance",
       "symbol": "PUFFER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xAdf70dc4AaeFbC6D1E7A6cF0B02b0F2138b560d2.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/50630/large/puffer.jpg?1728545297",
       "tags": [],
       "extensions": {
-        "cacheHash": "188d798c6ae9925b63745b0152146986"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4d1C297d39C5c1277964D0E3f8Aa901493664530"
+          }
+        }
       }
     },
     {
@@ -2533,10 +3371,14 @@
       "name": "Monavale",
       "symbol": "MONA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xAe6065FB0244A68036C82deC9a8dE5501c7A1087.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13298/thumb/monavale_logo.jpg?1607232721",
       "tags": [],
       "extensions": {
-        "cacheHash": "a8f17bed4ebdce5a33035e3c9add9080"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A"
+          }
+        }
       }
     },
     {
@@ -2545,10 +3387,14 @@
       "name": "Wrapped Centrifuge",
       "symbol": "WCFG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xaE87B8eb5E313AC72B306CbA7c1E3f23D72e82C4.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/17106/thumb/WCFG.jpg?1626266462",
       "tags": [],
       "extensions": {
-        "cacheHash": "cc4f8f614187dd2db8e8920c0bcc3ff8"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc221b7E65FfC80DE234bbB6667aBDd46593D34F0"
+          }
+        }
       }
     },
     {
@@ -2557,10 +3403,14 @@
       "name": "Quantstamp",
       "symbol": "QSP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb019a038eaDCB2F96321D236F6633C8d6Bb5eAbB.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1219/thumb/0_E0kZjb4dG4hUnoDD_.png?1604815917",
       "tags": [],
       "extensions": {
-        "cacheHash": "fe0389217086e6b4d1367e75efe99ad5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d"
+          }
+        }
       }
     },
     {
@@ -2569,10 +3419,14 @@
       "name": "Chiliz",
       "symbol": "CHZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb0C69e24450e29afa8008962052007E08b2396b0.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/8834/thumb/Chiliz.png?1561970540",
       "tags": [],
       "extensions": {
-        "cacheHash": "570abb85d84c91b25eb61b17d9a9a18f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF"
+          }
+        }
       }
     },
     {
@@ -2581,10 +3435,14 @@
       "name": "Kyber Network Crystal",
       "symbol": "KNC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xB0E4Ad2dFe3754e4a2443A7a828Eda5bB7Cd2284.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c3b6009be3ff70457300ddf178ae6e0c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+          }
+        }
       }
     },
     {
@@ -2593,10 +3451,14 @@
       "name": "XSGD",
       "symbol": "XSGD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb1A9385B500Fe81B58c4d0e3AaCC39d8021265c3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
       "tags": [],
       "extensions": {
-        "cacheHash": "6c083353b57387733218b65f500248e1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96"
+          }
+        }
       }
     },
     {
@@ -2605,10 +3467,14 @@
       "name": "Forta",
       "symbol": "FORT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xB20fD6fD28e1430f98a8C1e9A83C88E5D87D94e5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/25060/thumb/Forta_lgo_%281%29.png?1655353696",
       "tags": [],
       "extensions": {
-        "cacheHash": "044027df773d01404e52e040ee48fda1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x41545f8b9472D758bB669ed8EaEEEcD7a9C4Ec29"
+          }
+        }
       }
     },
     {
@@ -2617,10 +3483,14 @@
       "name": "Measurable Data Token",
       "symbol": "MDT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xB29FddC20D5e4bacE9F54c1d9237953331BFeFF4.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2441/thumb/mdt_logo.png?1569813574",
       "tags": [],
       "extensions": {
-        "cacheHash": "28a4d929dc483aae46829b0989421882"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26"
+          }
+        }
       }
     },
     {
@@ -2629,10 +3499,14 @@
       "name": "LCX",
       "symbol": "LCX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb34b3DE63D22ffC90419c1a439de6C7d46687782.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/9985/thumb/zRPSu_0o_400x400.jpg?1574327008",
       "tags": [],
       "extensions": {
-        "cacheHash": "90842ad8af063fef3c038d52dee822cf"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41"
+          }
+        }
       }
     },
     {
@@ -2641,10 +3515,14 @@
       "name": "Coinbase Wrapped BTC",
       "symbol": "cbBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb6A3E8e5715fd4c99EcEDaaAe121bDe4Ab6a1Ef1.webp",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
       "tags": [],
       "extensions": {
-        "cacheHash": "1b2f4cd903eccef1dd62a03079290ae0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+          }
+        }
       }
     },
     {
@@ -2653,10 +3531,14 @@
       "name": "Wrapped Ampleforth",
       "symbol": "WAMPL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb86a08ec917EeF9f835aC2B26c3a506c06364A49.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/20825/thumb/photo_2021-11-25_02-05-11.jpg?1637811951",
       "tags": [],
       "extensions": {
-        "cacheHash": "e91452f10d397e857839185f9a12b9a3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef"
+          }
+        }
       }
     },
     {
@@ -2665,10 +3547,14 @@
       "name": "Alchemy Pay",
       "symbol": "ACH",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xb8A8e137A2dAa25EF1B3577b6598fE8Be66Ecf77.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12390/thumb/ACH_%281%29.png?1599691266",
       "tags": [],
       "extensions": {
-        "cacheHash": "fb20b92bda8a8abb0a79693dac99d638"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xEd04915c23f00A313a544955524EB7DBD823143d"
+          }
+        }
       }
     },
     {
@@ -2677,10 +3563,14 @@
       "name": "MATH",
       "symbol": "MATH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xB999b66186d7a48BF0Eb5d22f4E7053A99eD2C97.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
       "tags": [],
       "extensions": {
-        "cacheHash": "961744fabb843ccf447139e34c693154"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+          }
+        }
       }
     },
     {
@@ -2689,10 +3579,14 @@
       "name": "Automata",
       "symbol": "ATA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBAAa314d2f5Af29B00867a612F24F816d890C4B2.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/15985/thumb/ATA.jpg?1622535745",
       "tags": [],
       "extensions": {
-        "cacheHash": "8415ade37fa8fb42f966f6489de201e7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA2120b9e674d3fC3875f415A7DF52e382F141225"
+          }
+        }
       }
     },
     {
@@ -2701,10 +3595,14 @@
       "name": "The Graph",
       "symbol": "GRT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBb2272Ffc0Ef8F439373aDffD45c3591B3204D71.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566",
       "tags": [],
       "extensions": {
-        "cacheHash": "ebe64dc99ef19671618b68981c16547d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7"
+          }
+        }
       }
     },
     {
@@ -2713,10 +3611,14 @@
       "name": "My Neighbor Alice",
       "symbol": "ALICE",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBb72B8031F590748d8910Aad7e25F8B18860960a.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14375/thumb/alice_logo.jpg?1615782968",
       "tags": [],
       "extensions": {
-        "cacheHash": "b741d74a58c77c5d54959a84df4e89de"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xAC51066d7bEC65Dc4589368da368b212745d63E8"
+          }
+        }
       }
     },
     {
@@ -2725,11 +3627,8 @@
       "name": "BONK",
       "symbol": "BONK",
       "decimals": 5,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBbE97f3522101e5B6976cBf77376047097BA837F.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "67cb31d815d63f7c3a33e37b9eeedaba"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/28600/standard/bonk.jpg?1696527587",
+      "tags": []
     },
     {
       "chainId": 130,
@@ -2737,10 +3636,14 @@
       "name": "Smooth Love Potion",
       "symbol": "SLP",
       "decimals": 0,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xbD2DD310FECBFb1111fC3262F3a97bA696cb03B3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/10366/thumb/SLP.png?1578640057",
       "tags": [],
       "extensions": {
-        "cacheHash": "c215be462a628f9ffeb880b9499b4a59"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25"
+          }
+        }
       }
     },
     {
@@ -2749,10 +3652,14 @@
       "name": "DeFi Yield Protocol",
       "symbol": "DYP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBdaD8E37a9600F0A35976fE61608a4C89D598610.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13480/thumb/DYP_Logo_Symbol-8.png?1655809066",
       "tags": [],
       "extensions": {
-        "cacheHash": "71e7b7685fbb7f2a43004e558b4b272c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17"
+          }
+        }
       }
     },
     {
@@ -2761,10 +3668,14 @@
       "name": "1inch",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xbe41cde1C5e75a7b6c2c70466629878aa9ACd06E.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
       "tags": [],
       "extensions": {
-        "cacheHash": "b4a00d8b9be202c60b45e1c728487c81"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x111111111117dC0aa78b770fA6A738034120C302"
+          }
+        }
       }
     },
     {
@@ -2773,11 +3684,8 @@
       "name": "Jupiter",
       "symbol": "JUP",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xbe51A5e8FA434F09663e8fB4CCe79d0B2381Afad.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "74e768e82e4175d470691548fc2c0dcc"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/34188/standard/jup.png?1704266489",
+      "tags": []
     },
     {
       "chainId": 130,
@@ -2785,10 +3693,14 @@
       "name": "Boba Network",
       "symbol": "BOBA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBE8E46422fB7F9Ca9D639B3109492D64BbB41b05.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
       "tags": [],
       "extensions": {
-        "cacheHash": "f8db62cbe78bd0f1b2092efc62cd46c6"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc"
+          }
+        }
       }
     },
     {
@@ -2797,10 +3709,14 @@
       "name": "Alchemix",
       "symbol": "ALCX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xbf194C82A5Bb9180f9280c1832f886a65Aebdcd6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874",
       "tags": [],
       "extensions": {
-        "cacheHash": "adf35d5fe9a8f0e0da09987590d0a8a1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+          }
+        }
       }
     },
     {
@@ -2809,10 +3725,14 @@
       "name": "Axelar",
       "symbol": "AXL",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xbF678793522638F7439aFE3B94d2D2A3a4cBF2C9.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
       "tags": [],
       "extensions": {
-        "cacheHash": "c479f3e6a9865ba2bf6802b58551c054"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3"
+          }
+        }
       }
     },
     {
@@ -2821,10 +3741,14 @@
       "name": "Metis",
       "symbol": "METIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xBfBa2A8745e5C85544DB7C8824C6962aB3A8f102.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/15595/thumb/metis.jpeg?1660285312",
       "tags": [],
       "extensions": {
-        "cacheHash": "ed55e0533fad0e57664fdc3db28c555c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e"
+          }
+        }
       }
     },
     {
@@ -2833,10 +3757,14 @@
       "name": "SUKU",
       "symbol": "SUKU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc05B416738DDEBd14D5A9B790a6e1ce782176525.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
       "tags": [],
       "extensions": {
-        "cacheHash": "93e1e1ebb924f667b76990f76b0a105a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7"
+          }
+        }
       }
     },
     {
@@ -2845,10 +3773,14 @@
       "name": "Lisk",
       "symbol": "LSK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc13C1Aa97ef67a1eBd56830323B04C3A75df1903.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450",
       "tags": [],
       "extensions": {
-        "cacheHash": "c7705e26362af4e92726824618cbf2d9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f"
+          }
+        }
       }
     },
     {
@@ -2857,10 +3789,14 @@
       "name": "REVV",
       "symbol": "REVV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc14a68015fA6396eF97B57839da544910f9Ca657.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12373/thumb/REVV_TOKEN_Refined_2021_%281%29.png?1627652390",
       "tags": [],
       "extensions": {
-        "cacheHash": "33b690bd0a8bd064c12f3b2e530c1ecf"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca"
+          }
+        }
       }
     },
     {
@@ -2869,10 +3805,14 @@
       "name": "Neiro",
       "symbol": "Neiro",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc1C06527E810C4A198D8C5d35e1dDBc987696276.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567",
       "tags": [],
       "extensions": {
-        "cacheHash": "24a60fe94331e63a1128bd8a7d3b0f75"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee"
+          }
+        }
       }
     },
     {
@@ -2881,10 +3821,14 @@
       "name": "Badger DAO",
       "symbol": "BADGER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc2a564b44b441D03f09f5B6B2b358B4a17388406.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976",
       "tags": [],
       "extensions": {
-        "cacheHash": "8e4fb773df50e768fa411329c84cf6d1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d"
+          }
+        }
       }
     },
     {
@@ -2893,10 +3837,14 @@
       "name": "HOPR",
       "symbol": "HOPR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc32C0c5a52F36D244C552E45C485cBceaf385B36.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14061/thumb/Shared_HOPR_logo_512px.png?1614073468",
       "tags": [],
       "extensions": {
-        "cacheHash": "6315260ad0f04e15dd42e5381dc5cc97"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA"
+          }
+        }
       }
     },
     {
@@ -2905,10 +3853,14 @@
       "name": "CoW Protocol",
       "symbol": "COW",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xC3a97c76AA194711E05Ff1d181534090B26D3996.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382",
       "tags": [],
       "extensions": {
-        "cacheHash": "3ec439d091d1518be56e53784ad3c7d0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB"
+          }
+        }
       }
     },
     {
@@ -2917,10 +3869,14 @@
       "name": "Mask Network",
       "symbol": "MASK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xC42B642F5010a2A3bD3CA2396Fe6f2e21B9512C4.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14051/thumb/Mask_Network.jpg?1614050316",
       "tags": [],
       "extensions": {
-        "cacheHash": "879e65194737e1f3ffe0c27298b891b5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074"
+          }
+        }
       }
     },
     {
@@ -2929,10 +3885,14 @@
       "name": "Gnosis Token",
       "symbol": "GNO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xC4c6c3A3043Ad5ECe5c91290630A7735e125a938.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "34e07569c29ebbb600ac7513c6596837"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+          }
+        }
       }
     },
     {
@@ -2941,10 +3901,14 @@
       "name": "Immutable X",
       "symbol": "IMX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc4Fc8cF76883094404DDb875d2AF15D1F5AA8053.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/17233/thumb/imx.png?1636691817",
       "tags": [],
       "extensions": {
-        "cacheHash": "1e99ee4b18895ce86ea68ec04e459a8a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF"
+          }
+        }
       }
     },
     {
@@ -2953,10 +3917,14 @@
       "name": "COTI",
       "symbol": "COTI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc63612B3e697AEeC61C3Ce9baEc0f9Db32F499C3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2962/thumb/Coti.png?1559653863",
       "tags": [],
       "extensions": {
-        "cacheHash": "3f2122f2b7ac73cfaa19e56eec5cfaf2"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xDDB3422497E61e13543BeA06989C0789117555c5"
+          }
+        }
       }
     },
     {
@@ -2965,10 +3933,14 @@
       "name": "Loom Network",
       "symbol": "LOOM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc68992e0514968BfbA3Dad201fef91f6009f523c.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f64b8c19c748e61aa2a9534dace4174a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+          }
+        }
       }
     },
     {
@@ -2977,10 +3949,14 @@
       "name": "Propy",
       "symbol": "PRO",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xC6Fbf362a12804FEca22000f37DB5EFC1F41A7c9.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/869/thumb/propy.png?1548332100",
       "tags": [],
       "extensions": {
-        "cacheHash": "89a27a5b28ff7ee1f912c4d8363304bb"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x226bb599a12C826476e3A771454697EA52E9E220"
+          }
+        }
       }
     },
     {
@@ -2989,10 +3965,14 @@
       "name": "PARSIQ",
       "symbol": "PRQ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc7B7dcF3c6CAcAAc13F92c9173f9A0060ABf3def.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/11973/thumb/DsNgK0O.png?1596590280",
       "tags": [],
       "extensions": {
-        "cacheHash": "873cb8bc8ab4ba49b7e00f3ad02cd2eb"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2"
+          }
+        }
       }
     },
     {
@@ -3001,10 +3981,14 @@
       "name": "USUAL",
       "symbol": "USUAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc7bA59c95ba747a7c374DC7208a0513798BC5950.jpeg",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787",
       "tags": [],
       "extensions": {
-        "cacheHash": "dce6b56cf4fcd6e3202fd5e43ca11bb9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E"
+          }
+        }
       }
     },
     {
@@ -3013,10 +3997,14 @@
       "name": "EigenLayer",
       "symbol": "EIGEN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xc89ab9B82610BB9b748F6757b8F3ac59d016C47D.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/37441/large/eigen.jpg?1728023974",
       "tags": [],
       "extensions": {
-        "cacheHash": "8595f22d8eeec06338d6a2ddb972c924"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83"
+          }
+        }
       }
     },
     {
@@ -3025,10 +4013,14 @@
       "name": "Apu Apustaja",
       "symbol": "APU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xcDfcE5eb357E8976A80Be84E94a03BA963b9e379.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147",
       "tags": [],
       "extensions": {
-        "cacheHash": "15f184eb7004497fa48aa8ff7799e792"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa"
+          }
+        }
       }
     },
     {
@@ -3037,10 +4029,14 @@
       "name": "Synapse",
       "symbol": "SYN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xCeb1F5671C47cee096C3B40353863b6781888A48.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/18024/thumb/syn.png?1635002049",
       "tags": [],
       "extensions": {
-        "cacheHash": "76ae567f76dfba0d092506e1faa13ddb"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29"
+          }
+        }
       }
     },
     {
@@ -3049,10 +4045,14 @@
       "name": "ORCA Alliance",
       "symbol": "ORCA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xCF2050ebC80B74370C1C2B71bDB635d11be3E8c0.png",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5183.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "10496de344c6f3811b4f1e6e18d7f75a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6F59e0461Ae5E2799F1fB3847f05a63B16d0DbF8"
+          }
+        }
       }
     },
     {
@@ -3061,10 +4061,14 @@
       "name": "MXC",
       "symbol": "MXC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xCF7c45Ccc1327ac1E9Cb9E098898c59402727794.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4604/thumb/mxc.png?1655534336",
       "tags": [],
       "extensions": {
-        "cacheHash": "2c7391fa727b159bdbb5c5386673069c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e"
+          }
+        }
       }
     },
     {
@@ -3073,10 +4077,14 @@
       "name": "Pirate Nation",
       "symbol": "PIRATE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xd0F77df9a8f0e855F910361f5f59958118d064c6.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "28b693d04c8e1c133b973c385d739603"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC"
+          }
+        }
       }
     },
     {
@@ -3085,10 +4093,14 @@
       "name": "Prime",
       "symbol": "PRIME",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD17D5f0DA4200bBfd3D6626AC6aEA2eccbf9fEE0.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222",
       "tags": [],
       "extensions": {
-        "cacheHash": "528cbb972e004e766fa2356204d14063"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF"
+          }
+        }
       }
     },
     {
@@ -3097,10 +4109,14 @@
       "name": "ApeCoin",
       "symbol": "APE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD1b8423FdE5F37464FadE603f80903cB314046cf.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
       "tags": [],
       "extensions": {
-        "cacheHash": "22cb6e28b2860a3695bac5dc0f8e9666"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
+          }
+        }
       }
     },
     {
@@ -3109,10 +4125,14 @@
       "name": "Inverse Finance",
       "symbol": "INV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD326ACaB8799fb44C3A5B7f7eFbAaB5f9F7b54fb.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14205/thumb/inverse_finance.jpg?1614921871",
       "tags": [],
       "extensions": {
-        "cacheHash": "cdd2eee28d4734d403216dfbea09aa25"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68"
+          }
+        }
       }
     },
     {
@@ -3121,10 +4141,14 @@
       "name": "Alien Worlds",
       "symbol": "TLM",
       "decimals": 4,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xd649b9AD2104418B5b032a5899fBcd54a9a46c68.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14676/thumb/kY-C4o7RThfWrDQsLCAG4q4clZhBDDfJQVhWUEKxXAzyQYMj4Jmq1zmFwpRqxhAJFPOa0AsW_PTSshoPuMnXNwq3rU7Imp15QimXTjlXMx0nC088mt1rIwRs75GnLLugWjSllxgzvQ9YrP4tBgclK4_rb17hjnusGj_c0u2fx0AvVokjSNB-v2poTj0xT9BZRCbzRE3-lF1.jpg?1617700061",
       "tags": [],
       "extensions": {
-        "cacheHash": "6916426724723bd77cd1bcd5b8cb09e9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72"
+          }
+        }
       }
     },
     {
@@ -3133,10 +4157,14 @@
       "name": "GensoKishi Metaverse",
       "symbol": "MV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD6ec6A24d5365A1811B05099f8D353c0Ff182974.png",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17704.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ce9f84b7776e466461f76934aa96c1ac"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b"
+          }
+        }
       }
     },
     {
@@ -3145,10 +4173,14 @@
       "name": "Clover Finance",
       "symbol": "CLV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD7212097f6d6B195a9Bc350b8dCE28a7fA41404C.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/15278/thumb/clover.png?1645084454",
       "tags": [],
       "extensions": {
-        "cacheHash": "fbe1c79bb2727aeb7dd761d1c76eb181"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52"
+          }
+        }
       }
     },
     {
@@ -3157,10 +4189,14 @@
       "name": "IoTeX",
       "symbol": "IOTX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD749094Bc62615f0c8645467e241b71Ae2B6843F.png",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "92a1b8742230de3dbe1c95b597805a15"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69"
+          }
+        }
       }
     },
     {
@@ -3169,10 +4205,14 @@
       "name": "BLOCKLORDS",
       "symbol": "LRDS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD7eb7348Ba44c5A2f9f1D1d3534623230c7bee3F.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/34775/standard/LRDS_PNG.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "17722f50be10cebe8c0fe3e6e2db497b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85"
+          }
+        }
       }
     },
     {
@@ -3181,10 +4221,14 @@
       "name": "Quickswap",
       "symbol": "QUICK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD815958F92E6aBe63437BCe166E97027f8E6caC2.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13970/thumb/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659",
       "tags": [],
       "extensions": {
-        "cacheHash": "486ba73cc45ef93d18700c31049a22e9"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f"
+          }
+        }
       }
     },
     {
@@ -3193,10 +4237,14 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD9b5DA95B3D97c3E9872102fDb47d4c09074952B.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
       "tags": [],
       "extensions": {
-        "cacheHash": "1a0482757896a94d8e72e93f54919de4"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
+          }
+        }
       }
     },
     {
@@ -3205,10 +4253,14 @@
       "name": "ChronoTech",
       "symbol": "TIME",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xD9Cbd701bbEA8e9Aaee7d82aa60748451eDa749c.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666",
       "tags": [],
       "extensions": {
-        "cacheHash": "c3b22e217efc80b19e155b4b870a4e28"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x485d17A6f1B8780392d53D64751824253011A260"
+          }
+        }
       }
     },
     {
@@ -3217,10 +4269,14 @@
       "name": "Axie Infinity",
       "symbol": "AXS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xDA63AdA216d2079B54F2047B2FdC2576D188f927.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13029/thumb/axie_infinity_logo.png?1604471082",
       "tags": [],
       "extensions": {
-        "cacheHash": "df71040c2b161de4bb6948b82f1f306e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b"
+          }
+        }
       }
     },
     {
@@ -3229,10 +4285,14 @@
       "name": "Swipe",
       "symbol": "SXP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xDcA295E850666753c6332D6B0E0445B09785c2E1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311",
       "tags": [],
       "extensions": {
-        "cacheHash": "47c1b7b5775506ced9559d388b58018f"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9"
+          }
+        }
       }
     },
     {
@@ -3241,10 +4301,14 @@
       "name": "Arcblock",
       "symbol": "ABT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xDDCe42b89215548beCaA160048460747Fe5675bC.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543",
       "tags": [],
       "extensions": {
-        "cacheHash": "4e832cc1c85bd9e63edabf8b11ea4b79"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986"
+          }
+        }
       }
     },
     {
@@ -3253,10 +4317,14 @@
       "name": "Compound",
       "symbol": "COMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xdf78e4F0A8279942ca68046476919A90f2288656.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f677b3876f77e14cdac1bd4d9ba0f0be"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
+          }
+        }
       }
     },
     {
@@ -3265,10 +4333,14 @@
       "name": "ShapeShift FOX Token",
       "symbol": "FOX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe0BB1924C17b39B71758F49a00D7c0363B7a318E.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
       "tags": [],
       "extensions": {
-        "cacheHash": "3db9f0f33f998746bd4696d50782a9c2"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d"
+          }
+        }
       }
     },
     {
@@ -3277,10 +4349,14 @@
       "name": "DeFi Pulse Index",
       "symbol": "DPI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xE274f564c37aE15fd2570D544102eD4ACd2f84f1.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/12465/thumb/defi_pulse_index_set.png?1600051053",
       "tags": [],
       "extensions": {
-        "cacheHash": "cab8badbfcf2a75145402fd9fb6a6082"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
+          }
+        }
       }
     },
     {
@@ -3289,10 +4365,14 @@
       "name": "Muse DAO",
       "symbol": "MUSE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe3d92FB06a4EEbaC5879D3C1073e0eAB81D5f345.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13230/thumb/muse_logo.png?1606460453",
       "tags": [],
       "extensions": {
-        "cacheHash": "3e6acf83d7db4d8980566a3eca3b91f5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81"
+          }
+        }
       }
     },
     {
@@ -3301,10 +4381,14 @@
       "name": "Beam",
       "symbol": "BEAM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe5ECB192f1aE5839eD49886F36dFA670f9500824.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384",
       "tags": [],
       "extensions": {
-        "cacheHash": "9120895a157c0d0515461f5eba7a7953"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
+          }
+        }
       }
     },
     {
@@ -3313,10 +4397,14 @@
       "name": "Somnium Space CUBEs",
       "symbol": "CUBE",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xE60e9b2E68297d5DF6B383fEe787B7fB92c2F8aF.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/10687/thumb/CUBE_icon.png?1617026861",
       "tags": [],
       "extensions": {
-        "cacheHash": "008ab52c669d51616f1c7cf2c2bd7222"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xDf801468a808a32656D2eD2D2d80B72A129739f4"
+          }
+        }
       }
     },
     {
@@ -3325,10 +4413,14 @@
       "name": "Bluzelle",
       "symbol": "BLZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe7b3Ca9d9Db06E1867781fd1C5F02E6c8eF471ee.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/2848/thumb/ColorIcon_3x.png?1622516510",
       "tags": [],
       "extensions": {
-        "cacheHash": "8a6a94a6243d4145956b1d5c7497600a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5732046A883704404F284Ce41FfADd5b007FD668"
+          }
+        }
       }
     },
     {
@@ -3337,10 +4429,14 @@
       "name": "Reputation Augur v2",
       "symbol": "REPv2",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xE86B1E5613a5761D005a2D00D8a1B4ad1e72A8c4.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "55ea456183b956167e6912f6cc931447"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x221657776846890989a759BA2973e427DfF5C9bB"
+          }
+        }
       }
     },
     {
@@ -3349,10 +4445,14 @@
       "name": "SuperRare",
       "symbol": "RARE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe8a0078aA52ac7e93aE43818DdD64591E025BB6F.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/17753/thumb/RARE.jpg?1629220534",
       "tags": [],
       "extensions": {
-        "cacheHash": "fd785b2f975bf03dd5bfe1728ed21aa5"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xba5BDe662c17e2aDFF1075610382B9B691296350"
+          }
+        }
       }
     },
     {
@@ -3361,10 +4461,14 @@
       "name": "ARPA Chain",
       "symbol": "ARPA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xE911A809F87490406AB34fad701aabCA88e30b45.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357",
       "tags": [],
       "extensions": {
-        "cacheHash": "4d05249a88a88e5b342786705dd13107"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
+          }
+        }
       }
     },
     {
@@ -3373,10 +4477,14 @@
       "name": "Unifi Protocol DAO",
       "symbol": "UNFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe9225a870b54f8FBA42c8188D211271f0408a30B.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/13152/thumb/logo-2.png?1605748967",
       "tags": [],
       "extensions": {
-        "cacheHash": "a365d41cac9dec03ee77675af3215b0e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x441761326490cACF7aF299725B6292597EE822c2"
+          }
+        }
       }
     },
     {
@@ -3385,10 +4493,14 @@
       "name": "Fantom",
       "symbol": "FTM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xe99235A02958637a5e01575297fBBa3790dC7F0e.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/thumb/Fantom.png?1558015016",
       "tags": [],
       "extensions": {
-        "cacheHash": "c01b15655d7a2f0dcf4e0ebb17cdb528"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870"
+          }
+        }
       }
     },
     {
@@ -3397,10 +4509,14 @@
       "name": "Yield Guild Games",
       "symbol": "YGG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xeA20C2Cf22acBbF3d8311D15bC73FD7076E36f4B.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
       "tags": [],
       "extensions": {
-        "cacheHash": "46163c7b756287f9995280cb42e0ff29"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73"
+          }
+        }
       }
     },
     {
@@ -3409,10 +4525,14 @@
       "name": "Coinbase Wrapped Staked ETH",
       "symbol": "cbETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xEb64b50FeF2A363940369285F86Ae9a68211db59.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "f0ced50fc192314245001115313cbae0"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704"
+          }
+        }
       }
     },
     {
@@ -3421,10 +4541,14 @@
       "name": "Gemini Dollar",
       "symbol": "GUSD",
       "decimals": 2,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xEbA12eC786Cdc21b4bd5ba601B595b6A5C0920a9.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/5992/thumb/gemini-dollar-gusd.png?1536745278",
       "tags": [],
       "extensions": {
-        "cacheHash": "d2c6d069005aaac10c06bd4a5f37a5e7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
+          }
+        }
       }
     },
     {
@@ -3433,10 +4557,14 @@
       "name": "PlayDapp",
       "symbol": "PDA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xeC37cdfC9a692b3cCd5c85696D14aaA31E75d6aC.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14316/standard/PDA-symbol.png?1710234068",
       "tags": [],
       "extensions": {
-        "cacheHash": "f9f572234d49cc6dddfbda5941bcbc6d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B"
+          }
+        }
       }
     },
     {
@@ -3445,10 +4573,14 @@
       "name": "Quantoz EURQ",
       "symbol": "EURQ",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xEc42461D9BbDF4eFB6481099253bBB7324D7d72d.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269",
       "tags": [],
       "extensions": {
-        "cacheHash": "c5125fbec91434fc14c654fd19a19b67"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f"
+          }
+        }
       }
     },
     {
@@ -3457,10 +4589,14 @@
       "name": "Stafi",
       "symbol": "FIS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xec9Be303f204864145CCC193aEb21B5fa10764A6.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12423/thumb/stafi_logo.jpg?1599730991",
       "tags": [],
       "extensions": {
-        "cacheHash": "1d07eaeeaf284ef198d32916d4cfe83d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d"
+          }
+        }
       }
     },
     {
@@ -3469,10 +4605,14 @@
       "name": "WOO Network",
       "symbol": "WOO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xef22b9df2dDf4246A827575C4Aa46BDaeFd89E62.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/12921/thumb/w2UiemF__400x400.jpg?1603670367",
       "tags": [],
       "extensions": {
-        "cacheHash": "d2c82c5e4bc16b3558222498994f0fcc"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B"
+          }
+        }
       }
     },
     {
@@ -3481,10 +4621,14 @@
       "name": "Stox",
       "symbol": "STX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xEf86E70E534E02AADEAE95b843973d4AcacCeA22.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1230/thumb/stox-token.png?1547035256",
       "tags": [],
       "extensions": {
-        "cacheHash": "986e3d30b1d3ebc4cbfcb7e15c09e473"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"
+          }
+        }
       }
     },
     {
@@ -3493,10 +4637,14 @@
       "name": "Ankr",
       "symbol": "ANKR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf081Fc8E0878D7eBe6ec381E5d7279d6EFf97622.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
       "tags": [],
       "extensions": {
-        "cacheHash": "a6f8a9e1392cd5e073541822b62d25d3"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4"
+          }
+        }
       }
     },
     {
@@ -3505,10 +4653,14 @@
       "name": "Storj Token",
       "symbol": "STORJ",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf13B5B21555092882e69b22282DAf891c9951835.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "dc4341d590c5c98be91d7b9773b83d34"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
+          }
+        }
       }
     },
     {
@@ -3517,10 +4669,14 @@
       "name": "Power Ledger",
       "symbol": "POWR",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf265af514762286A63d015FeE382B90edfFa6bff.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082",
       "tags": [],
       "extensions": {
-        "cacheHash": "729f938feff0408b6b265343eb822780"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269"
+          }
+        }
       }
     },
     {
@@ -3529,10 +4685,14 @@
       "name": "Bancor Network Token",
       "symbol": "BNT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf2Cc2D274dA528AB64DA86bE3f8416E5472c5a62.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "9b0bb10d3c0778a1f261c0d270d92c55"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C"
+          }
+        }
       }
     },
     {
@@ -3541,10 +4701,14 @@
       "name": "Quantoz USDQ",
       "symbol": "USDQ",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf37748D2Cc6E6d5D05945Ce130C03c147b2F3a5F.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232",
       "tags": [],
       "extensions": {
-        "cacheHash": "7da7e098dd4611e0f3b67bb76df8e10b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xc83e27f270cce0A3A3A29521173a83F402c1768b"
+          }
+        }
       }
     },
     {
@@ -3553,10 +4717,14 @@
       "name": "Omni Network",
       "symbol": "OMNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf5614D20c13D5BF2F9e640f00B7B2B76959Eb0E3.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png?1711511095",
       "tags": [],
       "extensions": {
-        "cacheHash": "54324b1ad7714d4595e13ed119c726dd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4"
+          }
+        }
       }
     },
     {
@@ -3565,10 +4733,14 @@
       "name": "Polygon Ecosystem Token",
       "symbol": "POL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xF6A49aEdbD7861DeD0DA2BE1f21C6954E5682E95.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
       "tags": [],
       "extensions": {
-        "cacheHash": "ef59b94d8efaedf3ccf2a6327c658f14"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6"
+          }
+        }
       }
     },
     {
@@ -3577,10 +4749,14 @@
       "name": "Polygon",
       "symbol": "MATIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xF6AC97B05B3bC92f829c7584b25839906507176b.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
       "tags": [],
       "extensions": {
-        "cacheHash": "88ca0790f807a102c7554753eba1640d"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+          }
+        }
       }
     },
     {
@@ -3589,10 +4765,14 @@
       "name": "Melon",
       "symbol": "MLN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf7A581f6e26EEa790225d76Af8821EA34Dc3c117.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295",
       "tags": [],
       "extensions": {
-        "cacheHash": "d6c0578ccb464216b926b01194d2484e"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892"
+          }
+        }
       }
     },
     {
@@ -3601,10 +4781,14 @@
       "name": "Pax Dollar",
       "symbol": "USDP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xF7E6430137eF8087E0D472343f358e986De0FEFF.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6013/standard/Pax_Dollar.png?1696506427",
       "tags": [],
       "extensions": {
-        "cacheHash": "d82bb3321d06acc6a99a0d94f75f1c2a"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1"
+          }
+        }
       }
     },
     {
@@ -3613,10 +4797,14 @@
       "name": "Liquity USD",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xf81B7485B4cB59645F74528D702c7f8CD72577FB.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327",
       "tags": [],
       "extensions": {
-        "cacheHash": "cb1ea5342cda0493254f9957d9249e64"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+          }
+        }
       }
     },
     {
@@ -3625,10 +4813,14 @@
       "name": "Ether.fi",
       "symbol": "ETHFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xF8740269F121327D03ff77BeD03a9A3258880821.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/35958/standard/etherfi.jpeg",
       "tags": [],
       "extensions": {
-        "cacheHash": "74a2c374c3d4615631aa6b88e4eb85fd"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB"
+          }
+        }
       }
     },
     {
@@ -3637,10 +4829,14 @@
       "name": "Clearpool",
       "symbol": "CPOOL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xF8E7B485CE10D3C7Ac30B8444B98a0cC423dFb57.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/19252/large/photo_2022-08-31_12.45.02.jpeg?1696518697",
       "tags": [],
       "extensions": {
-        "cacheHash": "922400cfed4bc600af8afc172feeccf7"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5"
+          }
+        }
       }
     },
     {
@@ -3649,10 +4845,14 @@
       "name": "Ampleforth Governance Token",
       "symbol": "FORTH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xFa004fa2ad8Ef993C2B0412baB776b182220F12e.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/14917/thumb/photo_2021-04-22_00.00.03.jpeg?1619020835",
       "tags": [],
       "extensions": {
-        "cacheHash": "6e852f3aa5e41c60d98c52beee009c4c"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0"
+          }
+        }
       }
     },
     {
@@ -3661,10 +4861,14 @@
       "name": "Aergo",
       "symbol": "AERGO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/130/0xfd38ac2316f6d3631a86065aDb3292f6f15873B5.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770",
       "tags": [],
       "extensions": {
-        "cacheHash": "0f30dc8902dbf291274aeaa92a149f3b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6"
+          }
+        }
       }
     }
   ]

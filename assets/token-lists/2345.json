@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:2345",
+  "name": "Citrus Finance on GOAT",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:17.263Z",
+  "timestamp": "2025-10-06T22:07:42.533Z",
   "tokens": [
     {
       "chainId": 2345,
@@ -13,11 +13,8 @@
       "name": "BTC Deposited token",
       "symbol": "ArtBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x02F294cC9Ceb2c80FbA3fD779e17FE191Cc360C4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "83acf7ba506da02af9f669e0706a8bc6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x02f294cc9ceb2c80fba3fd779e17fe191cc360c4.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -25,11 +22,8 @@
       "name": "Goat Launcher",
       "symbol": "GoLa",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x0Af53Ac69d6d8025bb65B20942C24CD77ABc9594.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6c74a8381fb7ce43456339a78eb08d40"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x0af53ac69d6d8025bb65b20942c24cd77abc9594.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -37,11 +31,8 @@
       "name": "Binance-Peg Dogecoin",
       "symbol": "DOGEB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x1E0d0303a8c4aD428953f5ACB1477dB42bb838cf.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f40dca32b7fda882a702fafcb88c5221"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x1e0d0303a8c4ad428953f5acb1477db42bb838cf.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -49,11 +40,8 @@
       "name": "USDC.e",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x3022b87ac063DE95b1570F46f5e470F8B53112D8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8a3e582bc282305fe437816314d9d3b6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x3022b87ac063de95b1570f46f5e470f8b53112d8.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -61,11 +49,17 @@
       "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e0f57f53c6fa0d1ad512482a3cf25a18"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f.png",
+      "tags": []
+    },
+    {
+      "chainId": 2345,
+      "address": "0x78E26E8b953C7c78A58d69d8B9A91745C2BbB258",
+      "name": "uBTC",
+      "symbol": "uBTC",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -73,11 +67,8 @@
       "name": "BTCB Deposited token",
       "symbol": "ArtBTCB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0x941508f0B823f1BC40a9beEFCE5e544E525a94c3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8fe9829f1dcc122eb3052d94936b54cf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0x941508f0b823f1bc40a9beefce5e544e525a94c3.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -85,11 +76,8 @@
       "name": "Binance-Peg Dogecoin Deposited token",
       "symbol": "ArtDOGEB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0xa3027972E2bf168d3Df12a1533f073b330126f34.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a7843fdded369206309faa6ab0aafd5d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xa3027972e2bf168d3df12a1533f073b330126f34.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -97,11 +85,8 @@
       "name": "exSat Staking BTC",
       "symbol": "esBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0xaFB068838136358CFa6B54BEa580B86DF70BBA7f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "27f76b00f85ab6f6c265ab52a1440c33"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xafb068838136358cfa6b54bea580b86df70bba7f.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -109,11 +94,17 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WGBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0xbC10000000000000000000000000000000000000.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2351b1fcc32bcf8758aed5e130247061"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xbc10000000000000000000000000000000000000.png",
+      "tags": []
+    },
+    {
+      "chainId": 2345,
+      "address": "0xbC10000000000000000000000000000000000001",
+      "name": "Goat Network",
+      "symbol": "GOATED",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xbc10000000000000000000000000000000000001.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -121,11 +112,8 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0xE1AD845D93853fff44990aE0DcecD8575293681e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "386485aec618171925b28de8892be71a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xe1ad845d93853fff44990ae0dcecd8575293681e.png",
+      "tags": []
     },
     {
       "chainId": 2345,
@@ -133,11 +121,8 @@
       "name": "Binance-Peg BTCB",
       "symbol": "BTCB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2345/0xfe41e7e5cB3460c483AB2A38eb605Cda9e2d248E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0a2fee3a9e427faeb035ff14f315cdf6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2345/0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e.png",
+      "tags": []
     }
   ]
 }

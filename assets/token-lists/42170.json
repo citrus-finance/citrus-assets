@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:31.913Z",
+  "timestamp": "2025-10-06T22:07:45.076Z",
   "tokens": [
     {
       "chainId": 42170,
@@ -13,11 +13,8 @@
       "name": "Moons",
       "symbol": "MOON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "37592fc02a9094f195aecad7e073b6bd"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -25,11 +22,8 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x1d05e4e72cD994cdF976181CfB0707345763564d.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a63f00f0a26e0b3d6351681206b8cf9a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -37,11 +31,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b0b826403d15d44023800e8ded1ab835"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x52484E1ab2e2B22420a25c20FA49E173a26202Cd.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -49,11 +40,8 @@
       "name": "DPS Rum",
       "symbol": "RUM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5a3970f899ab30e51b50f481f06c2c64"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -61,11 +49,8 @@
       "name": "Bricks",
       "symbol": "BRICK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "efefa17a6ef888c3abe0c6f89cc3e182"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x6DcB98f460457fe4952e12779Ba852F82eCC62C1.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -73,11 +58,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x722E8BdD2ce80A4422E880164f2079488e115365.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -85,11 +67,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x750ba8b76187092B0D1E87E28daaf484d1b5273b.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -97,11 +76,8 @@
       "name": "TreasureMaps",
       "symbol": "TMAP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "50902637775c7f13ed849bfa146789d6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -109,11 +85,8 @@
       "name": "Arbius",
       "symbol": "AIUS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "524055976fc3593b58a2fd0f8d33587b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0x8AFE4055Ebc86Bd2AFB3940c0095C9aca511d852.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -121,11 +94,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -133,11 +103,8 @@
       "name": "Arbius",
       "symbol": "AIUS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f48162dfd5fd4dad0fd82e70279bee19"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xe3DBC4F88EAa632DDF9708732E2832EEaA6688AB.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -145,11 +112,8 @@
       "name": "DPSDoubloon",
       "symbol": "DOUBLOON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9885040a4d046cb4267b923fec019d45"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -157,11 +121,8 @@
       "name": "Arbitrum",
       "symbol": "ARB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0xf823C3cD3CeBE0a1fA952ba88Dc9EEf8e0Bf46AD.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bd93d0496add501cb9a2dba27cdf3e61"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network-logos/arbitrum.jpg",
+      "tags": []
     },
     {
       "chainId": 42170,
@@ -169,11 +130,8 @@
       "name": "SushiToken",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42170/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8347942da87c6a03ba6e05038381c069"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum-nova/0xfe60A48a0bCf4636aFEcC9642a145D2F241A7011.jpg",
+      "tags": []
     }
   ]
 }

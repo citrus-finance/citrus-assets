@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:30.659Z",
+  "timestamp": "2025-10-06T22:07:10.947Z",
   "tokens": [
     {
       "chainId": 43113,
@@ -13,11 +13,8 @@
       "name": "Wrapped AVAX",
       "symbol": "WAVAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xd00ae08403B9bbb9124bB305C09058E32C39A48c.avif",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "51930bb515efdc66b2950ebd60cdce16"
-      }
+      "logoURI": "https://imgproxy-testnet.routescan.io/zm1twsNQUnrBR8Kg_53uycmO90JTDOgU9XneoLjHtqI/pr:thumb_32/aHR0cHM6Ly9jbXMtY2RuLmF2YXNjYW4uY29tL2NtczIvYXZhbGFuY2hlLWF2YXgtbG9nby5iY2ZiYjE2Mjg0ZDAucG5n",
+      "tags": []
     },
     {
       "name": "Avalanche Fuji",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 43113,
-      "logoURI": "https://assets.citrus.finance/token-logos/43113/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/avax.webp",
       "extensions": {
-        "wrapped": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
-        "cacheHash": "0738720d8facb6d73e4d62a4bf32fb3b"
+        "wrapped": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:16.349Z",
+  "timestamp": "2025-10-06T22:07:09.022Z",
   "tokens": [
     {
       "chainId": 33111,
@@ -13,11 +13,8 @@
       "name": "Wrapped APE",
       "symbol": "wAPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/33111/0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "57901079f6cc9fcf6be07268b1a4308a"
-      }
+      "logoURI": "https://apescan.io/token/images/wrappedapecoin_32.png",
+      "tags": []
     },
     {
       "name": "ApeCoin",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 33111,
-      "logoURI": "https://assets.citrus.finance/token-logos/33111/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/curtis.webp",
       "extensions": {
-        "wrapped": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B",
-        "cacheHash": "7b5cbaef3f332514ed010bac97f2da4b"
+        "wrapped": "0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B"
       },
       "tags": [
         "Top"

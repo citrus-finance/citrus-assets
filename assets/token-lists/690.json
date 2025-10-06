@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:33.217Z",
+  "timestamp": "2025-10-06T22:06:42.987Z",
   "tokens": [
     {
       "chainId": 690,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/690/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 690,
@@ -25,10 +22,12 @@
       "name": "Bridged USDC (Lattice)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/690/0xD5d59fC063e7548b6015A36fEb10B875924A19be.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e2fe39e9e18925a75c4153f77632b683"
+        "redstoneBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "BridgedUSDC"
       }
     },
     {
@@ -37,10 +36,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 690,
-      "logoURI": "https://assets.citrus.finance/token-logos/690/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/690.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "fc5b62879da6e5d396758a8bb7f3339b"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

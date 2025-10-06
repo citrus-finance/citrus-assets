@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T20:56:46.905Z",
+  "timestamp": "2025-10-06T22:06:20.997Z",
   "tokens": [
     {
       "chainId": 16,
@@ -13,11 +13,8 @@
       "name": "Wrapped CostonFlare",
       "symbol": "WCFLR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/16/0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
-      }
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "tags": []
     },
     {
       "name": "Coston Flare",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 16,
-      "logoURI": "https://assets.citrus.finance/token-logos/16/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/coston.webp",
       "extensions": {
-        "wrapped": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
-        "cacheHash": "ee735ad7761ed78a8593c877644d519f"
+        "wrapped": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91"
       },
       "tags": [
         "Top"

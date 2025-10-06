@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:09.529Z",
+  "timestamp": "2025-10-06T22:07:25.301Z",
   "tokens": [
     {
       "chainId": 245022934,
@@ -13,11 +13,8 @@
       "name": "Wrapped Neon",
       "symbol": "WNEON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/245022934/0x202C35e517Fa803B537565c40F0a6965D7204609.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f72e2d53bf23ee1c6e4b2ac5f6dd4449"
-      }
+      "logoURI": "https://raw.githubusercontent.com/neonscan/token-list/main/assets/0xf8ad328e98f85fccbf09e43b16dcbbda7e84beab.png",
+      "tags": []
     },
     {
       "name": "NEON",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 245022934,
-      "logoURI": "https://assets.citrus.finance/token-logos/245022934/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/245022934.webp",
       "extensions": {
-        "wrapped": "0x202C35e517Fa803B537565c40F0a6965D7204609",
-        "cacheHash": "cdff6112476fe11ccf1f7ab91203a59a"
+        "wrapped": "0x202C35e517Fa803B537565c40F0a6965D7204609"
       },
       "tags": [
         "Top"

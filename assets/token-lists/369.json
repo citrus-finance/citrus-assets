@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:31.030Z",
+  "timestamp": "2025-10-06T22:06:41.999Z",
   "tokens": [
     {
       "chainId": 369,
@@ -13,11 +13,8 @@
       "name": "Wrapped Pulse",
       "symbol": "WPLS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/369/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d59f19d5991fefa232d0f34a40237a6e"
-      }
+      "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png",
+      "tags": []
     },
     {
       "name": "Pulse",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 369,
-      "logoURI": "https://assets.citrus.finance/token-logos/369/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/369.webp",
       "extensions": {
-        "wrapped": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
-        "cacheHash": "51bafec9092ccfb66989b74c0691cb25"
+        "wrapped": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27"
       },
       "tags": [
         "Top"

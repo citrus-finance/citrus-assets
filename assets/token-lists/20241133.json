@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:09.001Z",
+  "timestamp": "2025-10-06T22:07:24.334Z",
   "tokens": [
     {
       "chainId": 20241133,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/20241133/0xD1927A43aF6d18424075d1C8f21339B4EE0776b9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "name": "Swan Ether",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 20241133,
-      "logoURI": "https://assets.citrus.finance/token-logos/20241133/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0xD1927A43aF6d18424075d1C8f21339B4EE0776b9"
       },
       "tags": [
         "Top"

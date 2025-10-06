@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:27.319Z",
+  "timestamp": "2025-10-06T22:07:10.403Z",
   "tokens": [
     {
       "chainId": 42220,
@@ -13,11 +13,8 @@
       "name": "Ubeswap  OLD ",
       "symbol": "UBE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "26a54a9063b8dd7550988ec800fae704"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x00be915b9dcf56a3cbe739d9b9c202ca692409ec.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -25,11 +22,8 @@
       "name": "PUSO",
       "symbol": "PUSO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f61a3d308fc16133587c7dc9cf754d0f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -37,11 +31,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x122013fd7dF1C6F636a5bb8f03108E876548b455.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d218e90c8a8f0a8ef4116d993792ad6c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x122013fd7dF1C6F636a5bb8f03108E876548b455.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -49,11 +40,8 @@
       "name": "Moola Market",
       "symbol": "MOO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x17700282592D6917F6A73D0bF8AcCf4D578c131e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "08f40f6833e0f64856c93ba1507dbf4b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x17700282592d6917f6a73d0bf8accf4d578c131e.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -61,11 +49,8 @@
       "name": "Rewards CELO",
       "symbol": "rCELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "eb17f48c4b0ac65d7ad9e21c82f7b9d2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rcelo.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -73,11 +58,8 @@
       "name": "JumpToken",
       "symbol": "JMPT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8f9e7b7493e774fdc51deba0b0cd682c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x1d18d0386f51ab03e7e84e71bda1681eba865f1f.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -85,11 +67,8 @@
       "name": "CeloShiba",
       "symbol": "cSHIBA",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x22401536505dd5d85F7d57f8B37172feDa8f499d.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c5401abace9c64f7e6d7b33b88f08430"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cshiba.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -97,11 +76,8 @@
       "name": "Plastiks",
       "symbol": "PLASTIK",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fb06368e88fda96d0f2dcf16ab1f4adf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x27cd006548df7c8c8e9fdc4a67fa05c2e3ca5cf9.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -109,11 +85,8 @@
       "name": "Savings CELO",
       "symbol": "sCELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fd4daa9e75f271e27f9b1bc799e5c9f6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/scelo.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -121,10 +94,12 @@
       "name": "1INCH Token (Celo native bridge)",
       "symbol": "1INCH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x28ba8D26F5F6710F42170EE545A0c953ca4997B9.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "78860edc5c866ae4974872ab8bd31d60"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "1INCH"
       }
     },
     {
@@ -133,11 +108,8 @@
       "name": "Optics SushiToken v2",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "972cd1698552374c3efafb3fc6a00ae6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -145,11 +117,8 @@
       "name": "Optics USDC v1",
       "symbol": "USDCv1",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -157,11 +126,8 @@
       "name": "PACT",
       "symbol": "PACT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x2b9018CeB303D540BbF08De8e7De64fDDD63396C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ebeebf06984d71f31132d7cf21e78dbd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x2b9018ceb303d540bbf08de8e7de64fddd63396c.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -169,10 +135,14 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x2DEf4285787d58a2f811AF24755A8150622f4361.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
       }
     },
     {
@@ -181,10 +151,12 @@
       "name": "Dola USD Stablecoin (Celo native bridge)",
       "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x31F01af056B7e829bD41E59e8Ba3D2313d2B0Ff3.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/DOLA/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "940cedf947b5367ca8123290ddfeab74"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "DOLA"
       }
     },
     {
@@ -193,11 +165,8 @@
       "name": "Celo Moss Carbon Credit",
       "symbol": "cMCO2",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "408ca85db31e6e81742eca9a0d6b7918"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cmco2.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -205,10 +174,12 @@
       "name": "Tether Gold",
       "symbol": "XAUt",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x3776228836BFCFc87CaC36c28830b67759C02707.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/XAUt/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "84d92e628327c11a58d6fcdc77818daa"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "XAUt"
       }
     },
     {
@@ -217,11 +188,8 @@
       "name": "Bridged USD Coin  Wormhole Ethereum ",
       "symbol": "USDCET",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x37f750B7cC259A2f741AF45294f6a16572CF5cAd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2c12c7f4410aa64346de7fb2831ebe54"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x37f750b7cc259a2f741af45294f6a16572cf5cad.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -229,10 +197,12 @@
       "name": "Across Protocol Token (Celo native bridge)",
       "symbol": "ACX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x3a05ef6467309F388f90BcC3D79A522E6C39Fabb.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/ACX/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c5cf52ed59a9880dd8edf3b0e1b6e09f"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "ACX"
       }
     },
     {
@@ -241,11 +211,8 @@
       "name": "Celo Kenyan Shilling",
       "symbol": "CKES",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x456a3D042C0DbD3db53D5489e98dFb038553B0d0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "db9eb2f83f5a22d52147ab7f1a569b32"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x456a3d042c0dbd3db53d5489e98dfb038553b0d0.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -253,10 +220,12 @@
       "name": "UMA Voting Token v1 (Celo native bridge)",
       "symbol": "UMA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x4672ECbD03a1f93Dd67310cAEcd3a8eF6397E72A.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/UMA/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ed26a24501c41a8f3a1a4ebbd8d6083c"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "UMA"
       }
     },
     {
@@ -265,11 +234,8 @@
       "name": "impactMarket  OLD ",
       "symbol": "PACT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "615ffd2ac5f68305d2f8de1f6544ccf0"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -277,10 +243,10 @@
       "name": "Celo native asset",
       "symbol": "CELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x471EcE3750Da237f93B8E339c536989b8978a438.png",
+      "logoURI": "https://celoscan.io/token/images/celonative_new_32.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3c379a5418c36f53f1d6512091eb5a0e"
+        "isNative": true
       }
     },
     {
@@ -289,10 +255,14 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d236883caf5f2a9602e9156f36001fa1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        }
       }
     },
     {
@@ -301,10 +271,12 @@
       "name": "Savings Dai (Celo native bridge)",
       "symbol": "sDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x4C430944d20410A16D5cEC69B0cb66541b00A817.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "e316cfde18d91d03e5abc87bc6eb66b4"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "sDAI"
       }
     },
     {
@@ -313,11 +285,8 @@
       "name": "Glo Dollar",
       "symbol": "USDGLO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x4F604735c1cF31399C6E711D5962b2B3E0225AD3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6cd8da66c4cd845c271696a4dbfb1d92"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -325,11 +294,8 @@
       "name": "Biochar",
       "symbol": "CHAR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x50E85c754929840B58614F48e29C64BC78C58345.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b6105aa8565a45adae97713fa03934a7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x50e85c754929840b58614f48e29c64bc78c58345.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -337,10 +303,12 @@
       "name": "Rocket Pool ETH (Celo native bridge)",
       "symbol": "rETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x55f3d16e6bd2b8B8E6599df6eF4593Ce9Dcae9ed.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "37d23eda4915c101401c1f7f97bf457a"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "rETH"
       }
     },
     {
@@ -349,23 +317,17 @@
       "name": "CeloLaunch",
       "symbol": "CLA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d9ab5e9c765a96306f9956eb78b45550"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
       "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
-      "name": "Tether USD",
+      "name": "USDT (Wormhole)",
       "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x617f3112bf5397D0467D315cC709EF968D9ba546.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f3c96298ca0283c237fdef64405c4816"
-      }
+      "decimals": 6,
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x617f3112bf5397d0467d315cc709ef968d9ba546.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -373,11 +335,8 @@
       "name": "GoodDollar",
       "symbol": "G",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fd836525a344000009fb44028896f7a6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -385,11 +344,8 @@
       "name": "Beefy Finance",
       "symbol": "BIFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "666798d0e0890582d18ca08054bfdcda"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -397,11 +353,8 @@
       "name": "Moola cUSD",
       "symbol": "mcUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x64dEFa3544c695db8c535D289d843a189aa26b98.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40bc29f2a75c229e375a02d9ba7b3ccd"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcusd.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -409,11 +362,8 @@
       "name": "Wormhole Bridged WETH  Celo ",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "898850a9ac41ee9ea807dd8f8f76306d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x66803fb87abd4aac3cbb3fad7c3aa01f6f3fb207.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -421,10 +371,12 @@
       "name": "Lido DAO Token",
       "symbol": "LDO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x6981F932C2eC5F9E15d44d7EF46859a133f544dD.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "af79110a5066eba5d4a4acb82deefcfb"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LDO"
       }
     },
     {
@@ -433,10 +385,12 @@
       "name": "Ethereum Name Service (Celo native bridge)",
       "symbol": "ENS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x6D8aDA2df4aebb0561781775872DB1db98d9F791.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/ENS/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3b6356dde9038d10a2c508c44e02c2c9"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "ENS"
       }
     },
     {
@@ -445,11 +399,8 @@
       "name": "Allbridge",
       "symbol": "ABR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x6e512BFC33be36F2666754E996ff103AD1680Cc9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "22f8c9735b4d00efec424960fbd1e2c7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x6e512bfc33be36f2666754e996ff103ad1680cc9.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -457,11 +408,8 @@
       "name": "Moola CELO",
       "symbol": "mCELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x7037F7296B2fc7908de7b57a89efaa8319f0C500.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "49f978819050cba46117d9008455ce18"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcelo.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -469,11 +417,8 @@
       "name": "Ubeswap",
       "symbol": "UBE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x71e26d0E519D14591b9dE9a0fE9513A398101490.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "32aac3e30ba64474b66bda93280940f8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x71e26d0e519d14591b9de9a0fe9513a398101490.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -481,11 +426,8 @@
       "name": "Mobius Money",
       "symbol": "MOBI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "91eb0c23f84df7ace2eefdd860868993"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x73a210637f6f6b7005512677ba6b3c96bb4aa44b.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -493,10 +435,12 @@
       "name": "Rocket Pool Protocol (Celo native bridge)",
       "symbol": "RPL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x73A363ED1526F5e02Be99F51c59400A2C508312c.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "a2286bba96aee34b877c3170c8e6b376"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "RPL"
       }
     },
     {
@@ -505,11 +449,8 @@
       "name": "ReSource Protocol",
       "symbol": "SOURCE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f782fab6a6b4c8141a8fd3726d273bf0"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -517,10 +458,12 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x75184c282e55a7393053f0b8F4F3E7BeAE067fdC.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/CRV/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3f305db191a371686dc9dc1f2ca2d02d"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "CRV"
       }
     },
     {
@@ -529,11 +472,8 @@
       "name": "Celo Dollar",
       "symbol": "CUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x765DE816845861e75A25fCA122bb6898B8B1282a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ebecfb581a90127bdcd2d8a19ac2c93e"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x765de816845861e75a25fca122bb6898b8b1282a.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -541,11 +481,8 @@
       "name": "mCELO",
       "symbol": "MCELO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x7D00cd74FF385c955EA3d79e47BF06bD7386387D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6683174e1472ecb8ae3b13acbe2f9469"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x7d00cd74ff385c955ea3d79e47bf06bd7386387d.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -553,11 +490,8 @@
       "name": "MENTO",
       "symbol": "MENTO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x7FF62f59e3e89EA34163EA1458EEBCc81177Cfb6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bfbb13fb7dd5d2435cc6909d3b1a3d09"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -565,11 +499,8 @@
       "name": "Duniapay West African CFA franc",
       "symbol": "cXOF",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x832F03bCeE999a577cb592948983E35C048B5Aa4.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1a170fd79d5900999b8642011f1aeadc"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cxof.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -577,10 +508,12 @@
       "name": "Worldcoin (Celo native bridge)",
       "symbol": "WLD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x88c400d871829E381b53b55eEE79145B4287461a.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "ae60e13f766f250645bd28d8cabc7669"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WLD"
       }
     },
     {
@@ -589,11 +522,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b87f1d1d0b976e6e4f698f244302afd3"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -601,10 +531,12 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x8aC2901Dd8A1F17a1A4768A6bA4C3751e3995B2D.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "9c0f8eaa38ca4f67efb8f7a14535e1ac"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WBTC"
       }
     },
     {
@@ -613,11 +545,8 @@
       "name": "Pleasure Coin",
       "symbol": "NSFW",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x8E0C1cDCEEb773139B471fd1137502A28588178a.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "38879e4c1ebebce3fec5395149a03e3a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x8E0C1cDCEEb773139B471fd1137502A28588178a.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -625,11 +554,8 @@
       "name": "Optics Dai v2",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ef619ad4239e83b429dd0e973a08f9e6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -637,11 +563,8 @@
       "name": "Moola Celo Dollars",
       "symbol": "MCUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x918146359264C492BD6934071c6Bd31C854EDBc3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "249e58ce08c40bf8c7ed7d91308e7455"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x918146359264c492bd6934071c6bd31c854edbc3.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -649,10 +572,12 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x918b13745DE61380d5D3eFddf51244c369f101d5.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/MKR/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "36fd83398abef4448a11a70194798edc"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "MKR"
       }
     },
     {
@@ -661,11 +586,8 @@
       "name": "Moola interest bearing CREAL",
       "symbol": "MCREAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x9802d866fdE4563d088a6619F7CeF82C0B991A55.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9fc04111e1c868dd56b1b5c48e371daf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x9802d866fde4563d088a6619f7cef82c0b991a55.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -673,11 +595,8 @@
       "name": "Ethix",
       "symbol": "ETHIX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x9995cc8F20Db5896943Afc8eE0ba463259c931ed.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6f9a252c8a964ca9e042bc22941e198f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0x9995cc8f20db5896943afc8ee0ba463259c931ed.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -685,10 +604,12 @@
       "name": "Curve.Fi USD Stablecoin (Celo native bridge)",
       "symbol": "crvUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0x9efD56A126A0e3a8782dB5Fd5AdB23a8dd9023C6.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "407ad33cef12d9e9840f1f6b50350f86"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "crvUSD"
       }
     },
     {
@@ -697,10 +618,12 @@
       "name": "Gitcoin (Celo native bridge)",
       "symbol": "GTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xA80e318DC786c58b8BCB692579764F56F89Ab27e.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "b3d238c89c63a460819669bf8960505b"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "GTC"
       }
     },
     {
@@ -709,11 +632,8 @@
       "name": "Moola cEUR",
       "symbol": "mcEUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "16b2500239a9c9adfd5e2f353d0d59a4"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mceur.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -721,10 +641,12 @@
       "name": "Dai Stablecoin (Celo native bridge)",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xAC177dE2439bd0c7659c61F373Dbf247d1f41ABE.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "1ae4e0a71cefa01a7a13160664f9afac"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "DAI"
       }
     },
     {
@@ -733,11 +655,8 @@
       "name": "Tegisto",
       "symbol": "TGS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xae978582DE8cA83A53Eb1d8f879Ba854895f96b1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "45da69838f18ebdc8d24f1d73f10461b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xae978582de8ca83a53eb1d8f879ba854895f96b1.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -745,11 +664,8 @@
       "name": "Optics USDT v1",
       "symbol": "USDTv1",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea5475e69a3f74b622083a4fba8595d2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -757,11 +673,8 @@
       "name": "MAI",
       "symbol": "MIMATIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xB9C8F0d3254007eE4b98970b94544e473Cd610EC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9affdc6caa68547f537ea1d54b7d0471"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xb9c8f0d3254007ee4b98970b94544e473cd610ec.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -769,11 +682,8 @@
       "name": "Optics WBTC v2",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69084645f86e890b93e3a25eeef3417c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -781,11 +691,8 @@
       "name": "Truefeedback",
       "symbol": "TFBX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1fc9c4a0d65cfc6b0a1378ee3cdcd5e7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xbdd31effb9e9f7509feaac5b4091b31645a47e4b.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -793,11 +700,8 @@
       "name": "Optics WBTC v1",
       "symbol": "WBTCv1",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a63f00f0a26e0b3d6351681206b8cf9a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -805,11 +709,8 @@
       "name": "EURA",
       "symbol": "EURA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e800f33b62b367ca55b622d4b8833f6a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xc16b81af351ba9e64c1a069e3ab18c244a1e3049.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -817,10 +718,14 @@
       "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xcebA9300f2b948710d2653dD7B07f33A8B32118C.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c8c8ec5eb6880886b8bde0fa7940838b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
       }
     },
     {
@@ -829,22 +734,20 @@
       "name": "Sushi",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xD15EC721C2A896512Ad29C671997DD68f9593226.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c24bd7db1b24ed74583f13f2ec61b16e"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xd15ec721c2a896512ad29c671997dd68f9593226.png",
+      "tags": []
     },
     {
       "chainId": 42220,
       "address": "0xD221812de1BD094f35587EE8E174B07B6167D9Af",
-      "name": "Wrapped Ether",
+      "name": "Wrapped Ether (Celo native bridge)",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xD221812de1BD094f35587EE8E174B07B6167D9Af.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "618b8279b6e4d2e2ffda34d3865c1aaa"
+        "opListId": "default",
+        "opTokenId": "WETH"
       }
     },
     {
@@ -853,11 +756,8 @@
       "name": "KROWN",
       "symbol": "KRW",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xd252E98C5B6ea1E29A7e2789A9eC0493707A60B9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d59bf0f0c743f0ca279cce29ef8d624a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -865,11 +765,8 @@
       "name": "Wrapped Bitcoin",
       "symbol": "BTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xD629eb00dEced2a080B7EC630eF6aC117e614f1b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "48f2e3e20e26c3f068f6f68d3e3b05b4"
-      }
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -877,11 +774,8 @@
       "name": "Celo Euro",
       "symbol": "CEUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "189adf7b3566c383af92d2428d8371cd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -889,11 +783,8 @@
       "name": "CeloDoge",
       "symbol": "cDOGE",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xD90BBdf5904cb7d275c41f897495109B9A5adA58.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "921e9b0d8c6b9ecf5a261919769ead59"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cdoge.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -901,10 +792,12 @@
       "name": "PoolTogether (Celo native bridge)",
       "symbol": "POOL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xe00892B8636F0c7450177F89717539D656D870Fb.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "9629be774ef7aefdc7b49bdf61087cca"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "POOL"
       }
     },
     {
@@ -913,11 +806,8 @@
       "name": "mcEUR",
       "symbol": "MCEUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40ed88831b20420c8708eb7aee57c09a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xe273ad7ee11dcfaa87383ad5977ee1504ac07568.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -925,11 +815,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xE4fE50cdD716522A56204352f00AA110F731932d.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "20af8b591787a1a2123a4b18526f5add"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xE4fE50cdD716522A56204352f00AA110F731932d.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -937,11 +824,8 @@
       "name": "ImmortalDAO",
       "symbol": "IMMO",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "74fbd811212f8ab39f56f6924aa715a6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -949,11 +833,8 @@
       "name": "Celo Real  cREAL ",
       "symbol": "CREAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c14c52cbbaa617814a6c2a48346a36b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xe8537a3d056da446677b9e9d6c5db704eaab4787.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -961,11 +842,8 @@
       "name": "Optics WETH v1",
       "symbol": "WETHv1",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -973,11 +851,8 @@
       "name": "Axelar Bridged USDC",
       "symbol": "AXLUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c7bd5dd0ac5889bc931c42e9d2beeab3"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xeb466342c4d449bc9f53a865d5cb90586f405215.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -985,10 +860,12 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xeE571697998ec64e32B57D754D700c4dda2f2a0e.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "15e900f4b8a5b32582ad0290827e7dbd"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "UNI"
       }
     },
     {
@@ -997,11 +874,8 @@
       "name": "Optics USD v2",
       "symbol": "USDCv2",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e9ae7571ba7e2d708fa5e229072d1565"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -1009,10 +883,12 @@
       "name": "LUSD Stablecoin (Celo native bridge)",
       "symbol": "LUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xEf6379Fa3090310862a42f6c732dBa2F20880F0A.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "70dfae684a9a6d4fde5f0c98a0fc63b4"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LUSD"
       }
     },
     {
@@ -1021,11 +897,8 @@
       "name": "GoodDollar",
       "symbol": "G$",
       "decimals": 2,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xf2283840cE37DAe0a06B40a9A80603977f36fA3F.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4d8f628e5a8e47a6f302ad1aabb10d2e"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xf2283840cE37DAe0a06B40a9A80603977f36fA3F.jpg",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -1033,11 +906,8 @@
       "name": "MetaCelo",
       "symbol": "cMeta",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "abf6d6d1fbba1b137e14520196582704"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
+      "tags": []
     },
     {
       "chainId": 42220,
@@ -1045,10 +915,12 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xF630876008a4eD9249FB4cAC978BA16827F52E91.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/LINK/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "89dfeb6a02e4ceb7d72986b1f8763479"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "LINK"
       }
     },
     {
@@ -1057,10 +929,12 @@
       "name": "Aave Token",
       "symbol": "AAVE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xF6A54aff8c97f7AF3CC86dbaeE88aF6a7AaB6288.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "14317204a0c5daa46813ca9ddbaa307c"
+        "celoBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "AAVE"
       }
     },
     {
@@ -1069,11 +943,8 @@
       "name": "BRLA Digital BRLA",
       "symbol": "BRLA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/42220/0xFECB3F7c54E2CAAE9dC6Ac9060A822D47E053760.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5c5e9658b14b8bd437c817585a47ada4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/42220/0xfecb3f7c54e2caae9dc6ac9060a822d47e053760.png",
+      "tags": []
     }
   ]
 }

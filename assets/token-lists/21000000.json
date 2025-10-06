@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:21000000",
+  "name": "Citrus Finance on Corn",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:31.910Z",
+  "timestamp": "2025-10-06T22:07:45.076Z",
   "tokens": [
     {
       "chainId": 21000000,
@@ -13,11 +13,8 @@
       "name": "Wrapped aBTC",
       "symbol": "waBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x09DEF5aBc67e967d54E8233A4b5EBBc1B3fbE34b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5c0e1b6cf8ee30b0794a6c8283b030dc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x09def5abc67e967d54e8233a4b5ebbc1b3fbe34b.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -25,11 +22,8 @@
       "name": "Curve DAO Token",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x1b3757d5EE281Eaf6a9c8E5D9b8488b4475Aa955.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "59506f720592dbf649d1fc6d5fce4f39"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x1b3757d5ee281eaf6a9c8e5d9b8488b4475aa955.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -37,11 +31,8 @@
       "name": "Corn",
       "symbol": "CORN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f028d0deab5eca784cd2659ef2a6f021"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -49,11 +40,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x485BBC4F98c071C9BD74Ac255262E61F866f071a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1da55305303ce5c4afc101839f11a156"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x485bbc4f98c071c9bd74ac255262e61f866f071a.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -61,11 +49,8 @@
       "name": "Solv BTC",
       "symbol": "SolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f7db1dcaffb3a4c7c6230992aa9cb98a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x541fd749419ca806a8bc7da8ac23d346f2df8b77.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -73,11 +58,8 @@
       "name": "ether.fi BTC",
       "symbol": "eBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x657e8C867D8B37dCC18fA4Caead9C45EB088C642.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7793b98a491835b3a23dd3b683696b54"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x657e8c867d8b37dcc18fa4caead9c45eb088c642.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -85,11 +67,8 @@
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x85aDfA60dDf86b67E6fD493Bd2c774b2eD772D14.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6964d6e0ce7c0d38c9f0a0a3717fabc8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x85adfa60ddf86b67e6fd493bd2c774b2ed772d14.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -97,11 +76,8 @@
       "name": "popCORN",
       "symbol": "POPCORN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0x9Cf9F00F3498c2ac856097087e041523dfdD71fF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "293bc479b55bb6e9aef8a04968023c55"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0x9cf9f00f3498c2ac856097087e041523dfdd71ff.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -109,11 +85,8 @@
       "name": "USD₮0",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b2ea86191c5fd39dad1cce74246db32c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -121,11 +94,8 @@
       "name": "Wrapped Bitcorn",
       "symbol": "WBTCN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xda5dDd7270381A7C2717aD10D1c0ecB19e3CDFb2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0c37f6a33b3af6895c914abc2f58e006"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -133,11 +103,8 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xDF0B24095e15044538866576754F3C964e902Ee6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "463ed27cc794e8f9ae6cc2e192cfbf57"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xdf0b24095e15044538866576754f3c964e902ee6.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -145,11 +112,8 @@
       "name": "Babylon",
       "symbol": "BABY",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xe53dCec07d16D88e386AE0710E86d9a400f83c31.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "50ce3f03d3924f0a470133fc6d7d8395"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xe53dcec07d16d88e386ae0710e86d9a400f83c31.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -157,11 +121,8 @@
       "name": "Curve.Fi USD Stablecoin",
       "symbol": "crvUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xEAEdD2B1b3F0fEC6388A4d6b2fE500B59Fd9f755.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9451b5df95ff7c96ca8fc51d13f78adb"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xeaedd2b1b3f0fec6388a4d6b2fe500b59fd9f755.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -169,11 +130,8 @@
       "name": "Lombard Staked Bitcoin",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e456d24e7786ee96339cb4a64bca5d98"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xecac9c5f704e954931349da37f60e39f515c11c1.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -181,11 +139,8 @@
       "name": "pumpBTC",
       "symbol": "pumpBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "43cfca47748415234d8edaa595666e2d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xf469fbd2abcd6b9de8e169d128226c0fc90a012e.png",
+      "tags": []
     },
     {
       "chainId": 21000000,
@@ -193,11 +148,8 @@
       "name": "Lorenzo stBTC",
       "symbol": "stBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/21000000/0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cdeb7f6869d95e627fe41755205ecb56"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/21000000/0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3.png",
+      "tags": []
     }
   ]
 }

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:33.050Z",
+  "timestamp": "2025-10-06T22:07:45.330Z",
   "tokens": [
     {
       "chainId": 1116,
@@ -13,11 +13,8 @@
       "name": "PLANET",
       "symbol": "PLANET",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0x04596cf36027D177d460c2D0c4235eEc0a97EcBB.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "55d6eae3ff6bc712dd29cd03053966a9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x04596cf36027D177d460c2D0c4235eEc0a97EcBB.jpg",
+      "tags": []
     },
     {
       "chainId": 1116,
@@ -25,11 +22,8 @@
       "name": "Aquarius",
       "symbol": "ARS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0x204e2D49b7cDA6d93301bcF667A2Da28Fb0e5780.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "341ef5b2ed1635cc2027f936a8ed6aed"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x204e2D49b7cDA6d93301bcF667A2Da28Fb0e5780.jpg",
+      "tags": []
     },
     {
       "chainId": 1116,
@@ -37,11 +31,8 @@
       "name": "Bitcoin",
       "symbol": "BTC.b",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0x2297aEbD383787A160DD0d9F71508148769342E3.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b973bdd7bd7beb88ff6aed48f41c195f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0x2297aEbD383787A160DD0d9F71508148769342E3.jpg",
+      "tags": []
     },
     {
       "chainId": 1116,
@@ -49,11 +40,8 @@
       "name": "GM",
       "symbol": "GM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0xa0E125F5108A8BC99D38DE75A807a36E1067C43B.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0706193acf51bd8c926bec77591e7124"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xa0E125F5108A8BC99D38DE75A807a36E1067C43B.jpg",
+      "tags": []
     },
     {
       "chainId": 1116,
@@ -61,11 +49,8 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c202e317b3e82b4db3a395619a66034b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xC0E5f8E2a9a2f1FBf34ab4d5FbF417ffd02Fdb79.jpg",
+      "tags": []
     },
     {
       "chainId": 1116,
@@ -73,11 +58,8 @@
       "name": "BSSB",
       "symbol": "BSSB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1116/0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "efa4c9594ef7b21fd7dfc384835d66a7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/core/0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F.jpg",
+      "tags": []
     }
   ]
 }

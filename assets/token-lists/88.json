@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:00:50.212Z",
+  "timestamp": "2025-10-06T22:06:31.542Z",
   "tokens": [
     {
       "chainId": 88,
@@ -13,11 +13,8 @@
       "name": "Wrapped Viction",
       "symbol": "WVIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/88/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "181eabb24cbd2bcc2817fab3cc21095b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/BuildOnViction/tokens/master/tokens/0xc054751bdbd24ae713ba3dc9bd9434abe2abc1ce.png",
+      "tags": []
     },
     {
       "name": "Viction",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 88,
-      "logoURI": "https://assets.citrus.finance/token-logos/88/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/88.webp",
       "extensions": {
-        "wrapped": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
-        "cacheHash": "54ee538abdf222800004606dd8ff438e"
+        "wrapped": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce"
       },
       "tags": [
         "Top"

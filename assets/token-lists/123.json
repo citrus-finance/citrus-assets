@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:00:55.048Z",
+  "timestamp": "2025-10-06T22:06:32.740Z",
   "tokens": [
     {
       "chainId": 123,
@@ -13,11 +13,8 @@
       "name": "Wrapped Fuse",
       "symbol": "WFUSE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/123/0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "20239a94036dfca86c0539950819224d"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/33535/small/3WFUSE_token_logo_crl.png?1703026207",
+      "tags": []
     },
     {
       "name": "Spark",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 123,
-      "logoURI": "https://assets.citrus.finance/token-logos/123/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x34F55CefA7F80eA6eDE6D08db7302928a7358d4B"
       },
       "tags": [
         "Top"

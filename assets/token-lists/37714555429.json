@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:11.768Z",
+  "timestamp": "2025-10-06T22:07:26.603Z",
   "tokens": [
     {
       "chainId": 37714555429,
@@ -13,11 +13,8 @@
       "name": "Wrapped Xai",
       "symbol": "WXAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/37714555429/0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "434672a74255f37078cc72949790aab1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/xai-blockchain.webp",
+      "tags": []
     },
     {
       "name": "sXai",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 37714555429,
-      "logoURI": "https://assets.citrus.finance/token-logos/37714555429/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x3fB787101DC6Be47cfe18aeEe15404dcC842e6AF"
       },
       "tags": [
         "Top"

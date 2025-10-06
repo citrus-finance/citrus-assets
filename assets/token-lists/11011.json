@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:14.430Z",
+  "timestamp": "2025-10-06T22:07:06.187Z",
   "tokens": [
     {
       "chainId": 11011,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11011/0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "name": "Sepolia Ether",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 11011,
-      "logoURI": "https://assets.citrus.finance/token-logos/11011/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/shapeTestnet.webp",
       "extensions": {
-        "wrapped": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4",
-        "cacheHash": "d09ac27ac1b48653a4cdd1d8c6964151"
+        "wrapped": "0x48A9B22b80F566E88f0f1DcC90Ea15A8A3bAE8a4"
       },
       "tags": [
         "Top"

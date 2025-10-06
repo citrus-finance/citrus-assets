@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:6900",
+  "name": "Citrus Finance on Nibiru",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:19.196Z",
+  "timestamp": "2025-10-06T22:07:42.909Z",
   "tokens": [
     {
       "chainId": 6900,
@@ -13,11 +13,8 @@
       "name": "Bridged USDC (Stargate)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x0829F361A05D993d5CEb035cA6DF3446b060970b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7856d2d8a8121f25ed5594976d32cbe1"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x0829f361a05d993d5ceb035ca6df3446b060970b.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -25,11 +22,17 @@
       "name": "Wrapped NIBI",
       "symbol": "WNIBI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3fc73b30c83e99544181932db112f45b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x0cacf669f8446beca826913a3c6b96acd4b02a97.png",
+      "tags": []
+    },
+    {
+      "chainId": 6900,
+      "address": "0x1d1715ecE22A6Ab6349196e7054E61de3Ac2Ea3D",
+      "name": "ynETH MAX",
+      "symbol": "ynETHx",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x1d1715ece22a6ab6349196e7054e61de3ac2ea3d.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -37,11 +40,8 @@
       "name": "Bridged USDT (Stargate)",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x43F2376D5D03553aE72F4A8093bbe9de4336EB08.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3369ae57e431cd1e906bc4906f3304df"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x43f2376d5d03553ae72f4a8093bbe9de4336eb08.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -49,11 +49,17 @@
       "name": "USDa saving token",
       "symbol": "sUSDa",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0x84f682626302EA7BCA2A7c338b84863292131319.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1ff0f6ce4226ac8bcef9be8d0b078d2a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x84f682626302ea7bca2a7c338b84863292131319.png",
+      "tags": []
+    },
+    {
+      "chainId": 6900,
+      "address": "0x9568F2AFd09D845D48Cf999244e18B1a9467eAdB",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0x9568f2afd09d845d48cf999244e18b1a9467eadb.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -61,11 +67,8 @@
       "name": "Liquid Staked Nibiru",
       "symbol": "stNIBI",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xcA0a9Fb5FBF692fa12fD13c0A900EC56Bb3f0a7b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "296363f4c4c869992b7a253f62303799"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xca0a9fb5fbf692fa12fd13c0a900ec56bb3f0a7b.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -73,11 +76,17 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f567d784f393873e6c6913fd5e77691f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555.png",
+      "tags": []
+    },
+    {
+      "chainId": 6900,
+      "address": "0xd59be1Da2e9B30b6f7aB27b2D08f841B39c349fa",
+      "name": "uBTC",
+      "symbol": "uBTC",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xd59be1da2e9b30b6f7ab27b2d08f841b39c349fa.png",
+      "tags": []
     },
     {
       "chainId": 6900,
@@ -85,11 +94,8 @@
       "name": "USDa",
       "symbol": "USDa",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/6900/0xf4e097E36d2064E2bDCA96e60439f3A369522003.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aee02432d9dbe0fc4fa153e372616a7b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/6900/0xf4e097e36d2064e2bdca96e60439f3a369522003.png",
+      "tags": []
     }
   ]
 }

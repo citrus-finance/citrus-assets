@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:03.223Z",
+  "timestamp": "2025-10-06T22:06:54.172Z",
   "tokens": [
     {
       "chainId": 4689,
@@ -13,11 +13,8 @@
       "name": "Wrapped IOTX",
       "symbol": "WIOTX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/4689/0xA00744882684C3e4747faEFD68D283eA44099D03.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b86904c894a3bebb9d0d63673a3e1e98"
-      }
+      "logoURI": "https://iotexproject.iotex.io/iotex-token-metadata/master/images/io15qr5fzpxsnp7garl4m7k355rafzqn8grrm0grz.png",
+      "tags": []
     },
     {
       "name": "IoTeX",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 4689,
-      "logoURI": "https://assets.citrus.finance/token-logos/4689/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/4689.webp",
       "extensions": {
-        "wrapped": "0xA00744882684C3e4747faEFD68D283eA44099D03",
-        "cacheHash": "a431d802faaa47aa758234d79c4ef9c7"
+        "wrapped": "0xA00744882684C3e4747faEFD68D283eA44099D03"
       },
       "tags": [
         "Top"

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:14.690Z",
+  "timestamp": "2025-10-06T22:07:06.488Z",
   "tokens": [
     {
       "chainId": 11235,
@@ -13,11 +13,8 @@
       "name": "Circle USD from Noble",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ba70e908c6da8156cf777883d501807f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -25,11 +22,8 @@
       "name": "Gold Deenar",
       "symbol": "DEEN",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ca6df1bb4785565dfe91e5b0679bb802"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -37,11 +31,8 @@
       "name": "Tether USD from KAVA",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "035058dc1909430711db1dcca2b8d612"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5aD523d94Efb56C400941eb6F34393b84c75ba39.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -49,11 +40,8 @@
       "name": "Axelar Wrapped BTC",
       "symbol": "axlWBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d974a1f19f93ec250b286b1e75a5e766"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -61,11 +49,8 @@
       "name": "Axelar Wrapped USD Coin",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8d0ca5b688df0a127f0e5a494529e1e8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -73,11 +58,8 @@
       "name": "Native token Osmosis network",
       "symbol": "OSMO",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9fc26e5a9d73fbff5be1f49ea41cd3a9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xc03345448969Dd8C00e9E4A85d2d9722d093aF8E.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -85,11 +67,8 @@
       "name": "Axelar Wrapped DAI",
       "symbol": "axlDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d918921a169b418093021441c866c7cd"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -97,11 +76,8 @@
       "name": "Axelar Wrapped Tether USD",
       "symbol": "axlUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fa6d37d5854a8557de9df5450a3214c9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75.jpg",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -109,11 +85,8 @@
       "name": "Wrapped ISLM",
       "symbol": "WISLM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b47ed08a11ee9d411ee1af55695b4acc"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/islamic-coin.webp",
+      "tags": []
     },
     {
       "chainId": 11235,
@@ -121,11 +94,8 @@
       "name": "Axelar Wrapped Ether",
       "symbol": "axlETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "eaef27adaa10ed014a418b2c79ce8b25"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265.jpg",
+      "tags": []
     },
     {
       "name": "Islamic Coin",
@@ -133,10 +103,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 11235,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/11235.webp",
       "extensions": {
-        "wrapped": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54",
-        "cacheHash": "76e7596f52bfa88653918b2a8ee5e462"
+        "wrapped": "0xeC8CC083787c6e5218D86f9FF5f28d4cC377Ac54"
       },
       "tags": [
         "Top"
@@ -148,11 +117,8 @@
       "name": "Native token CosmosHub network",
       "symbol": "ATOM",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11235/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "55f31848a210ba538f6330a339040647"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864.jpg",
+      "tags": []
     }
   ]
 }

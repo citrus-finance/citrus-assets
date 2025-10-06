@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:55.658Z",
+  "timestamp": "2025-10-06T22:06:50.229Z",
   "tokens": [
     {
       "chainId": 1750,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 1750,
@@ -25,11 +22,8 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0x51E85d70944256710cb141847F1a04f568C1Db0e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "eee5e7b97313dd45d93e1d63d78e2d98"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1750/0x51e85d70944256710cb141847f1a04f568c1db0e.png",
+      "tags": []
     },
     {
       "chainId": 1750,
@@ -37,10 +31,12 @@
       "name": "Metal DAO",
       "symbol": "MTL",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xBCFc435d8F276585f6431Fc1b9EE9A850B5C00A9.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/MTL/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "4b5e5d69cc0b4b799c0a30410652ecc1"
+        "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "MTL"
       }
     },
     {
@@ -49,10 +45,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1750,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/metal.svg",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "0e70f120df3e87b186f43ede455610b3"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"
@@ -64,10 +59,12 @@
       "name": "Mugloo",
       "symbol": "MUGLOO",
       "decimals": 4,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xf1F9Ccc7638F124c3d9354Be0edE2ACb5F0A15Bc.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/MUGLOO/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "2ff9b48d8b58d7624ca25d1e5c34a79b"
+        "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "MUGLOO"
       }
     },
     {
@@ -76,10 +73,12 @@
       "name": "Travel Deals",
       "symbol": "CTRAVL",
       "decimals": 4,
-      "logoURI": "https://assets.citrus.finance/token-logos/1750/0xF35155E38C8750372ca024a3d1b5cc7174AaaBbC.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/CTRAVL/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d587f681f2efdaa85eeea758a44d5d72"
+        "metall2BridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "CTRAVL"
       }
     }
   ]

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:16.053Z",
+  "timestamp": "2025-10-06T22:07:08.405Z",
   "tokens": [
     {
       "chainId": 23295,
@@ -13,11 +13,8 @@
       "name": "Wrapped ROSE",
       "symbol": "wROSE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/23295/0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "67d079a3f4d2d56ebfd2fecef688fbdd"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-rose.webp",
+      "tags": []
     },
     {
       "name": "Sapphire Test Rose",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 23295,
-      "logoURI": "https://assets.citrus.finance/token-logos/23295/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/oasis.webp",
       "extensions": {
-        "wrapped": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94",
-        "cacheHash": "43d09a8fe3c4fd6c74809a6244e5f439"
+        "wrapped": "0xB759a0fbc1dA517aF257D5Cf039aB4D86dFB3b94"
       },
       "tags": [
         "Top"

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:146",
+  "name": "Citrus Finance on Sonic",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:02.423Z",
+  "timestamp": "2025-10-06T22:07:40.706Z",
   "tokens": [
     {
       "chainId": 146,
@@ -13,11 +13,8 @@
       "name": "LoopBurn",
       "symbol": "LBP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x001bFF4b6da770f445A740227224D3c8b48e6fb2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6fddc2ba203d2b4f2c055d2d4b2d1495"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x001bff4b6da770f445a740227224d3c8b48e6fb2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -25,11 +22,8 @@
       "name": "Silver",
       "symbol": "AG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x005851f943ee2957B1748957F26319e4f9EdeBC1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ef7de46749c0ba27f3c20521598255f6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x005851f943ee2957b1748957f26319e4f9edebc1.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -37,11 +31,8 @@
       "name": "Silo Wrapped Sonic - 25",
       "symbol": "SiloWS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c7fd3538ab3a2b41dbbc97275ba56ef"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x016C306e103FbF48EC24810D078C65aD13c5f11B.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -49,11 +40,8 @@
       "name": "Peapods Finance",
       "symbol": "PEAS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x02f92800F57BCD74066F5709F1Daa1A4302Df875.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7ae828d422c8e82cc1c0f634dd83af45"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x02f92800f57bcd74066f5709f1daa1a4302df875.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -61,11 +49,8 @@
       "name": "Grupo Supervielle SA Tokenized by Sailing",
       "symbol": "SUPVs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x037d8001C4b218B837E7b1052b6d48517BCA5156.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "493ad58705e80f5090aa4bec157ffecc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x037d8001c4b218b837e7b1052b6d48517bca5156.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -73,10 +58,10 @@
       "name": "Wrapped Sonic",
       "symbol": "wS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c73b8e72748d13e2ad24ababdef907ea"
+        "coingeckoId": "sonic-3"
       }
     },
     {
@@ -85,10 +70,10 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "3e552ff6a6e3a3452077a09c439da058"
+        "coingeckoId": "wrapped-bitcoin"
       }
     },
     {
@@ -97,11 +82,8 @@
       "name": "Airbnb Inc Tokenized by Sailing",
       "symbol": "ABNBs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x05D9f784Fda836E7DfB4B929119d2bDF97925fA4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "56c916cec41ac50c4c6480b2a519a931"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x05d9f784fda836e7dfb4b929119d2bdf97925fa4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -109,11 +91,8 @@
       "name": "FantomSonicInu",
       "symbol": "fSONIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x05e31a691405d06708A355C029599c12d5da8b28.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c6ca1577766d7ef9e2b7377751133e9c"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x05e31a691405d06708a355c029599c12d5da8b28.png?size=lg&key=f7ac24",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -121,11 +100,8 @@
       "name": "Whale Ecosystem",
       "symbol": "WHALE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x068e9e009fDa970fA953E1f6a43D982cA991F4bA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "126ad4a55a02be208468edfa0b1d6e99"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x068e9e009fda970fa953e1f6a43d982ca991f4ba.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -133,11 +109,8 @@
       "name": "USDp",
       "symbol": "USDp",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x08417cdb7F52a5021bB4eb6E0deAf3f295c3f182.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e43011e40b2c93aa358f51c9335db6d8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -145,11 +118,8 @@
       "name": "Silo Wrapped wETH - 35",
       "symbol": "SiloWETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x08C320A84a59c6f533e0DcA655cf497594BCa1F9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "768e25010be3442aa659bd545765c1ef"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -157,11 +127,8 @@
       "name": "Reservoir rUSD",
       "symbol": "RUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x09D4214C03D01F49544C0448DBE3A27f768F2b34.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2b438c2a9dbc7b74708dc80c2fca6327"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x09d4214c03d01f49544c0448dbe3a27f768f2b34.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -169,11 +136,8 @@
       "name": "Boeing Company Tokenized by Sailing",
       "symbol": "BAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0A51e4b18D323aC66Bce3058da17B3fa819DF4CF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4a617b2a529fd19d796e613d2f4d2a4b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x0a51e4b18d323ac66bce3058da17b3fa819df4cf.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -181,11 +145,8 @@
       "name": "Sonic Donks",
       "symbol": "DONKS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0a54364631Ea37813a63edb3bBa1C46f8d8304B2.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1412d097b0e550ae1f673aea8dab8537"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x0a54364631ea37813a63edb3bba1c46f8d8304b2.png?size=lg&key=761e2c",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -193,11 +154,8 @@
       "name": "Silo Wrapped scBTC - 32",
       "symbol": "SiloSCBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9711443ccb2a53e68e2e5f757928e17a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0A94e18bdbCcD048198806d7FF28A1B1D2590724.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -205,11 +163,8 @@
       "name": "Angles Staked Sonic",
       "symbol": "anS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0C4E186Eae8aCAA7F7de1315D5AD174BE39Ec987.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "af99d34f47b9064a929413763e96dca1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/anS.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -217,10 +172,10 @@
       "name": "Wagmi",
       "symbol": "WAGMI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B.png",
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "7cff1bf1811bb61442d553fa0675df98"
+        "coingeckoId": "wagmi-2"
       }
     },
     {
@@ -229,11 +184,8 @@
       "name": "Rush",
       "symbol": "RUSH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0e346e34165c831018F98414cAF2689D0D3aa3E6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "969857ac464a3e061eeafa6c1f43ce08"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x0e346e34165c831018f98414caf2689d0d3aa3e6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -241,11 +193,8 @@
       "name": "Atoll Sonic",
       "symbol": "atS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0E65f5a7cB56641e31bc5C9d53388dB7aC7eaCAE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "71ca22db5d7ca7e1c9ef1fae57eb585b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e65f5a7cb56641e31bc5c9d53388db7ac7eacae.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -253,11 +202,8 @@
       "name": "GHOG",
       "symbol": "GHOG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0e899dA2aD0817ed850ce68f7f489688E4D42D9D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b0d5ba63220382e553591c1c3f5686a2"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x0e899da2ad0817ed850ce68f7f489688e4d42d9d.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -265,11 +211,8 @@
       "name": "BYD Company Limited Tokenized by Sailing",
       "symbol": "BYDs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x0fBB1a89c542EE44b94b2528C96Fe885327303f0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9a5e9e7b4d1e052121cbfaee5b96afb4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x0fbb1a89c542ee44b94b2528c96fe885327303f0.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -277,11 +220,8 @@
       "name": "Fresh Beets",
       "symbol": "bpt-fbeets-sts",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x10ac2F9DaE6539E77e372aDB14B1BF8fBD16b3e8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "08cd3439e3f8a3ad21665575500fd045"
-      }
+      "logoURI": "https://sonicscan.org/token/images/mabeets_32.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -289,11 +229,8 @@
       "name": "Long",
       "symbol": "LONG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x123468b48EADbC13c65cd9c66A9913cdE4e94321.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aa1083c37faabb4616cc663bf0bf8049"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x123468b48eadbc13c65cd9c66a9913cde4e94321.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -301,11 +238,8 @@
       "name": "FROQ",
       "symbol": "FROQ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "afca703a45421170844909cdcdaf33ed"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x131f5ae1cbfefe8efbdf93da23fa4d39f14a817c.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -313,11 +247,8 @@
       "name": "Palantir Technologies Inc Tokenized by Sailing",
       "symbol": "PLTRs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x135a19149728fB27349f8D3872163c3eB005cF74.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5fa8847d339316f079fb51c1c5ea95a5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x135a19149728fb27349f8d3872163c3eb005cf74.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -325,11 +256,8 @@
       "name": "Tin Hat Cat",
       "symbol": "THC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8dd0952ad6c73e9c9ce2296182f4e975"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -337,11 +265,8 @@
       "name": "Wrapped Aave Sonic wS",
       "symbol": "wawS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3224d32f5f3e21fca323a82ab64aba20"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -349,11 +274,8 @@
       "name": "Shilly AI by Yoko",
       "symbol": "SHILL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x19008165514Ec7622b34924c755Dc7d116F84840.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e4789c67bfb97d8d0cecc2ab27dd5305"
-      }
+      "logoURI": "https://i.ibb.co/S60DvQm/Shill.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -361,11 +283,8 @@
       "name": "aarna atv111  Sonic ",
       "symbol": "ATV111",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x1cb934E1F5ACDb5B805C609A2c5a09AA8489f124.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "735b88be60235b976b1ab8349956bd89"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -373,10 +292,10 @@
       "name": "Backed CSPX Core S&P 500",
       "symbol": "bCSPX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x1e2C4fb7eDE391d116E6B41cD0608260e8801D59.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1e2c4fb7ede391d116e6b41cd0608260e8801d59.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1c9fea965f5f4b5b3aaac33b2a0cc929"
+        "coingeckoId": "backed-cspx-core-s-p-500"
       }
     },
     {
@@ -385,11 +304,8 @@
       "name": "Fantom lzBEETS",
       "symbol": "lzBEETS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x1E5fe95fB90ac0530F581C617272cd0864626795.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aa14928360a77c8f42c959ba4188239c"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -397,11 +313,17 @@
       "name": "The Goldman Sachs Group Inc Tokenized by Sailing",
       "symbol": "GSs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x1fE638eC6eF5F734c91244F36d664f747864EF50.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e8ce59e4b1c19c1798dadb7ceffe9f68"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x1fe638ec6ef5f734c91244f36d664f747864ef50.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0x2117E8b79e8E176A670c9fCf945d4348556bfFad",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2117e8b79e8e176a670c9fcf945d4348556bffad.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -409,11 +331,8 @@
       "name": "Silo Wrapped wETH - 26",
       "symbol": "SiloWETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "768e25010be3442aa659bd545765c1ef"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -421,11 +340,8 @@
       "name": "vS Token",
       "symbol": "vS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2286bA4fcbb2eF06C4349fAF6B8970ece593f5DD.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bcafcaa00a01ab8da07ee580fb3c6ece"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vs.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -433,11 +349,8 @@
       "name": "Silo Wrapped scETH - 47",
       "symbol": "SiloScETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x24c74B30d1a4261608E84Bf5a618693032681DAc.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8bc4c78c94254f093cbb8c0ed766c588"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scETH-silo.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -445,11 +358,8 @@
       "name": "Foxify",
       "symbol": "FOX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x261DFA2528dfa19011F10B168c856E02baaF0eb6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "edf66efff30848be4a415385de2bba1b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x261dfa2528dfa19011f10b168c856e02baaf0eb6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -457,22 +367,22 @@
       "name": "Atoll ETH",
       "symbol": "atETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E.jpeg",
+      "logoURI": "https://assets.coingecko.com/coins/images/53797/standard/IMG_7045.jpeg?1737477230",
       "tags": [],
       "extensions": {
-        "cacheHash": "ab75e498b159433f240821977dd8e6ba"
+        "coingeckoId": "atoll-eth"
       }
     },
     {
       "chainId": 146,
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
-      "name": "Bridged USDC (Sonic Labs)",
-      "symbol": "USDC.e",
+      "name": "USDC",
+      "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x29219dd400f2Bf60E5a23d13Be72B486D4038894.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
       "tags": [],
       "extensions": {
-        "cacheHash": "879125586e843fbdb451a64f3b205d2c"
+        "coingeckoId": "usd-coin"
       }
     },
     {
@@ -481,11 +391,8 @@
       "name": "Coinbase Global Inc Tokenized by Sailing",
       "symbol": "COINs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2CD00602C063f4aFc1672DD0d8BE1d26072056E2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a2ca16cac5d00fcdb2a55780123a79e5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2cd00602c063f4afc1672dd0d8be1d26072056e2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -493,10 +400,10 @@
       "name": "Beets",
       "symbol": "BEETS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2D0E0814E62D80056181F5cd932274405966e4f0.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2D0E0814E62D80056181F5cd932274405966e4f0.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "a4fe884fd1094fdeae4ffd45470f289d"
+        "coingeckoId": "beets"
       }
     },
     {
@@ -505,11 +412,8 @@
       "name": "Sonic Tequila",
       "symbol": "STeqila",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2d10a2e2D680564a942e98EE43e35553db990807.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8407ed7ff9c8e6b17f74f4f844208af7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2d10a2e2D680564a942e98EE43e35553db990807.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -517,11 +421,8 @@
       "name": "YPF S.A. Tokenized by Sailing",
       "symbol": "YPFs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2D46544b553236Bf2fF5F9066854fa0029F776c3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ff6f5f8e18d0b7d660b3481cf73c808a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2d46544b553236bf2ff5f9066854fa0029f776c3.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -529,11 +430,8 @@
       "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
       "symbol": "YMAXs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2e09Da43E9e0a00164c8D8c239Cfc959699ae636.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9e0fadfde8013ec7714115bd3be191f4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2e09da43e9e0a00164c8d8c239cfc959699ae636.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -541,11 +439,8 @@
       "name": "zkSwap Finance",
       "symbol": "ZF",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2f2f2f74ab5db61AE8BD3c13ccD4Dc8c9E8A2f2f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "66e6829c52d71571f94181f83c5c1e14"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2f2f2f74ab5db61ae8bd3c13ccd4dc8c9e8a2f2f.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -553,11 +448,8 @@
       "name": "OS ARM LP Token",
       "symbol": "ARM-WS-OS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2F872623d1E1Af5835b08b0E49aAd2d81d649D30.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "dbe0ec45a7df3e23165f8daded69022f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2f872623d1e1af5835b08b0e49aad2d81d649d30.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -565,11 +457,8 @@
       "name": "Sonic UNI",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x2fb960611bdC322A9a4A994252658Cae9fe2eeA1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de54109ec6e83f3cda02d3e95edfe99b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x2fb960611bdc322a9a4a994252658cae9fe2eea1.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -577,10 +466,10 @@
       "name": "Shadow Liquid Staking Token",
       "symbol": "x33",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3333111A391cC08fa51353E9195526A70b333333.webp",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333111a391cc08fa51353e9195526a70b333333.png?size=lg&key=6ad28a",
       "tags": [],
       "extensions": {
-        "cacheHash": "56db3f49fdd81419325ba39839884a95"
+        "coingeckoId": "shadow-liquid-staking-token"
       }
     },
     {
@@ -589,11 +478,8 @@
       "name": "Shadow",
       "symbol": "SHADOW",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3333b97138D4b086720b5aE8A7844b1345a33333.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3cf1326c6b406cbb875dadde9155b417"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x3333b97138d4b086720b5ae8a7844b1345a33333.png?size=lg&key=c2e8a2",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -601,11 +487,8 @@
       "name": "Beets Gem Fragments - S1",
       "symbol": "BeetsFragmentsS1",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3419966bC74fa8f951108d15b053bEd233974d3D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8d1873a234cec356f5594c64153d78b8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3419966bc74fa8f951108d15b053bed233974d3d.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -613,11 +496,8 @@
       "name": "SonicPooh",
       "symbol": "SPOOH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d61bff558fb7694bd79662c413708707"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x342781fd3d3F73bdB54b2DEDd925f2ad81b48590.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -625,11 +505,8 @@
       "name": "CONK2.0",
       "symbol": "CONK2.0",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x35be05dF4e074606c77d78968ec5FBC9cCd4348B.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5fd9f2188b25187221823c836ea9720c"
-      }
+      "logoURI": "https://pbs.twimg.com/profile_images/1734720923448537088/6WMuxreE_400x400.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -637,11 +514,8 @@
       "name": "NEOS S&P 500 High Income ETF Tokenized by Sailing",
       "symbol": "SPYIs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x36b9dF2e1C6d52BD426174c402eDE6d54bc2a9D8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0a6bc27f2cd0e596fb1cbe1c003ee3fb"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x36b9df2e1c6d52bd426174c402ede6d54bc2a9d8.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -649,11 +523,8 @@
       "name": "Shilly",
       "symbol": "Shilly",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3854fD4712eb3A5Aa51c949C29cACE84F7ED2eFC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f3605d18476687b6140d65a64ca64e8d"
-      }
+      "logoURI": "https://i.ibb.co/0s08MzL/SHILLY-LOGO-CIRCLE-BIG-2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -661,11 +532,17 @@
       "name": "BLACKHOLE",
       "symbol": "BOL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ac43e6fb2c68c58d8bd991b519905530"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x38628cb4cc74cbDFB6dDD877B17c1F60fCAE7C2C.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e",
+      "name": "Trevee Silo scUSD",
+      "symbol": "Trevee scUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -673,11 +550,8 @@
       "name": "FUCKMULTI",
       "symbol": "fMULTI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x39838b880BA948C49aaB7253f61Ce1e00C30c014.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0fa04c690e7813e57b05d41720ab4f3c"
-      }
+      "logoURI": "https://maxflowo2.com/img/image.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -685,11 +559,8 @@
       "name": "SNAKE",
       "symbol": "SNAKE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3a516e01f82c1e18916ED69a81Dd498eF64bB157.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f447a975936fc2b0f74674937d7f5414"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x3a516e01f82c1e18916ed69a81dd498ef64bb157.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -697,11 +568,8 @@
       "name": "Sonic ETH",
       "symbol": "scETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d967cbf376f6a9b58d502ac7612d0cb7"
-      }
+      "logoURI": "https://i.ibb.co/fMTYnj2/scETH64.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -709,11 +577,8 @@
       "name": "HLP0",
       "symbol": "HLP0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "49671e6c957eee86f453e18dec0e6b9d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x3d75f2bb8abcdbd1e27443cb5cbce8a668046c81.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -721,11 +586,8 @@
       "name": "Womo",
       "symbol": "WM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3E08Cb3067dC198FC313E1789347c9AE72c079d4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "94d33593f8eaa9323f6009071f8eaf20"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x3e08cb3067dc198fc313e1789347c9ae72c079d4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -733,11 +595,8 @@
       "name": "DLocal Ltd Tokenized by Sailing",
       "symbol": "DLOs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x3FE8F972767C88726b1efAD0862107CacEfB86E6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "251cc92a6f33559c9ff13af925f9c3d5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x3fe8f972767c88726b1efad0862107cacefb86e6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -745,11 +604,8 @@
       "name": "Tails",
       "symbol": "TAILS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x41211648C51AcB9A5F39A93C657e894A0bdB88e4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a6affaf037365ba77ca692393e12ec33"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x41211648c51acb9a5f39a93c657e894a0bdb88e4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -757,11 +613,8 @@
       "name": "Staked dUSD",
       "symbol": "sdUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x41a5477364BF60d8936b90310FecFDa79593304E.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7485fbb82b7e51e94f7c913eaf8f440a"
-      }
+      "logoURI": "https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -769,11 +622,8 @@
       "name": "Invesco QQQ Trust Tokenized by Sailing",
       "symbol": "QQQs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x422247B3be45a35dbC0F60f298Db0cBA06FbAF85.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c34bd0557c85cc46edc904ef2ffccbe9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x422247b3be45a35dbc0f60f298db0cba06fbaf85.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -781,11 +631,8 @@
       "name": "GameStop Corp Tokenized by Sailing",
       "symbol": "GMEs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x425ADBdcb427E8c1bCB99960c8106E3396dC510a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "36d96c6af80a19d3ec3c6fd4c97dc224"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x425adbdcb427e8c1bcb99960c8106e3396dc510a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -793,11 +640,8 @@
       "name": "Silo Wrapped USDC - 33",
       "symbol": "SiloUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x42CE2234fd5a26bF161477a996961c4d01F466a3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4308eedf8af7816f2a410b86d2848857"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -805,11 +649,8 @@
       "name": "xSILO",
       "symbol": "xSILO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4451765739b2D7BCe5f8BC95Beaf966c45E1Dcc9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ba3a912db707dc20cf024b1ca8ab6b87"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66788/large/xSILO.png?1750575606",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -817,11 +658,8 @@
       "name": "Sonic",
       "symbol": "SONIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x446649F0727621BDbB76644B1910be2163b62a11.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fd8824e1c0fa2c56e0b18e49cc8d92dd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x446649f0727621bdbb76644b1910be2163b62a11.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -829,11 +667,8 @@
       "name": "Polter finance",
       "symbol": "POLTER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x44BD4F79A95cF04505F2dc5C8e2e4043f67C7B07.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bfea2d9fd7ae3ed13fd0262fb3ee6dd4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -841,11 +676,8 @@
       "name": "Millennium Club",
       "symbol": "MCLB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x44E23B1F3f4511b3a7e81077Fd9F2858dF1B7579.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a78ce6532e30401844a07be0161bf79b"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/29314/standard/mclb.png?1696528265",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -853,11 +685,8 @@
       "name": "YieldFi yToken",
       "symbol": "YUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4772D2e014F9fC3a820C444e3313968e9a5C8121.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4c3392bacebaa64349827d26944fe374"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -865,11 +694,8 @@
       "name": "Wrapped Savings rUSD",
       "symbol": "WSRUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4809010926aec940b550D34a46A52739f996D75D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "847ecefd0965d2c089962a34b0c6f716"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x4809010926aec940b550d34a46a52739f996d75d.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -877,11 +703,8 @@
       "name": "Moon Bay",
       "symbol": "MOON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a4e432ebc481d52650a479eb0610e770"
-      }
+      "logoURI": "https://sonicscan.org/token/images/moonbaysonic_32.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -889,11 +712,8 @@
       "name": "Amped Finance",
       "symbol": "AMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4Cae73a23078e7A94D1e828Fa3bABa5080c04FcA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "840e1a0b1171858fe4948cbc4972e12f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x4cae73a23078e7a94d1e828fa3baba5080c04fca.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -901,11 +721,8 @@
       "name": "The Walt Disney Company Tokenized by Sailing",
       "symbol": "DISs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4cD3De31d1301021da5cE0Db33CeC5A73767075E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "34c0bc2c414fd143cc11fd08a2aeaaaa"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x4cd3de31d1301021da5ce0db33cec5a73767075e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -913,11 +730,8 @@
       "name": "Indi",
       "symbol": "INDI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "36e454f32e460dbedc5754705e24e362"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -925,11 +739,8 @@
       "name": "sDOG",
       "symbol": "sDOG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5fea96924833f0d8c55da4536b3e50ed"
-      }
+      "logoURI": "https://i.ibb.co/TmPRQZp/sDOG.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -937,11 +748,8 @@
       "name": "Wrapped Ether on Sonic",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x50c42dEAcD8Fc9773493ED674b675bE577f2634b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40308022a553add0582c4bce8f2091d0"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -949,11 +757,8 @@
       "name": "Silo wrapped solvBTC.bbn",
       "symbol": "SiloSolvBTC.bbn",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x52Fc9E0a68b6a4C9b57b9D1d99fB71449A99DCd8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2e1e19d644bcbf94f3ddfbfb503295cb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -961,11 +766,8 @@
       "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized by Sailing",
       "symbol": "XDTEs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x538A82863e2a6F144Ec14720Ccf3Fd794E463e03.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0e5f36f58293489fc5f5ca2c27e9e2ab"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x538a82863e2a6f144ec14720ccf3fd794e463e03.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -973,10 +775,10 @@
       "name": "dTRINITY USD",
       "symbol": "dUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x53a6aBb52B2F968fA80dF6A894e4f1b1020DA975.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53290/large/dUSD_Logo.png?1735997462",
       "tags": [],
       "extensions": {
-        "cacheHash": "cab6258eb37301bbf0598c0f8dbabdd7"
+        "coingeckoId": "dtrinity-usd"
       }
     },
     {
@@ -985,10 +787,10 @@
       "name": "Silo Governance Token",
       "symbol": "Silo",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x53f753E4B17F4075D6fa2c6909033d224b81e698.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x53f753E4B17F4075D6fa2c6909033d224b81e698.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "cf8e9c787894147f0bc8af68dafe74c9"
+        "coingeckoId": "silo-finance"
       }
     },
     {
@@ -997,10 +799,10 @@
       "name": "Solv BTC",
       "symbol": "SolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x541FD749419CA806a8bc7da8ac23D346f2dF8B77.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
       "tags": [],
       "extensions": {
-        "cacheHash": "a08677d2b870a8d4cab2cd16544c04b0"
+        "coingeckoId": "solv-btc"
       }
     },
     {
@@ -1009,11 +811,8 @@
       "name": "ThankYouSonicGod",
       "symbol": "TYSG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x56192E94434c4fd3278b4Fa53039293fB00DE3DB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4bf081549cde413ca354d9909303994c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x56192e94434c4fd3278b4fa53039293fb00de3db.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1021,11 +820,8 @@
       "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
       "symbol": "AMCs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x566Eb609a521aFA6213F046e439037dAD85d9747.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "30bd8e57615c9f1af8f08d1d468e1cc6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x566eb609a521afa6213f046e439037dad85d9747.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1033,11 +829,8 @@
       "name": "Aave USDC  Sonic ",
       "symbol": "ASONUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x578Ee1ca3a8E1b54554Da1Bf7C583506C4CD11c6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d6a05badb4bc700f4cf6bc26f2c505ad"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1045,11 +838,8 @@
       "name": "MicroStrategy Inc Tokenized by Sailing",
       "symbol": "MSTRs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x58a4F4a0fDB10fAECd1C73A1EeB832812489DaBC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9b411ea419ac461024a01a382e89737b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x58a4f4a0fdb10faecd1c73a1eeb832812489dabc.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1057,11 +847,8 @@
       "name": "Re7 scUSD",
       "symbol": "Re7scUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7a1f8d2f44f3111f63d1bcf243f42190"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-re7-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1069,11 +856,8 @@
       "name": "Yoko",
       "symbol": "YOKO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x59524D5667B299c0813Ba3c99a11C038a3908fBC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "83cd3dc85e4f448522854d977a94f6b7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x59524d5667b299c0813ba3c99a11c038a3908fbc.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1081,11 +865,8 @@
       "name": "Silo Wrapped USDC - 23",
       "symbol": "SiloUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4308eedf8af7816f2a410b86d2848857"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1093,11 +874,8 @@
       "name": "Amazon.com Inc Tokenized by Sailing",
       "symbol": "AMZNs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x59730C5a1223E5332E45A2959c5D95b2B99218D6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "032034b86ebd6c59dc296c60fbcdec72"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x59730c5a1223e5332e45a2959c5d95b2b99218d6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1105,11 +883,8 @@
       "name": "Staked Frax USD",
       "symbol": "SFRXUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "11e68cf2e7df815196ba27f4d8337817"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x5bff88ca1442c2496f7e475e9e7786383bc070c0.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1117,11 +892,8 @@
       "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
       "symbol": "AAAUs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x5D5cD07D937a63e76C222c90286b6e8522CF26D2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "dcbb75d1bef4c62d27cb3db525a5e99d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x5d5cd07d937a63e76c222c90286b6e8522cf26d2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1129,11 +901,17 @@
       "name": "SpinDash",
       "symbol": "SPINDASH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x5fD9CD00c975CcEDB4298A562d132fb2683164D9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "92b185c500f26d8334f1f884411efd54"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x5fd9cd00c975ccedb4298a562d132fb2683164d9.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0x602BaeaB9B0DE4a99C457cf1249088932AA04FaC",
+      "name": "Brunch USD",
+      "symbol": "bUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/busd.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1141,10 +919,10 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6047828dc181963ba44974801FF68e538dA5eaF9.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
       "tags": [],
       "extensions": {
-        "cacheHash": "94ad2620e5530190674fb6f416c9d733"
+        "coingeckoId": "tether"
       }
     },
     {
@@ -1153,11 +931,8 @@
       "name": "dTRINITY S",
       "symbol": "DS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x614914B028A7D1fD4Fab1E5a53a3E2dF000bcB0e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b4094b3c8bebbe5d89dd6da3946ce7be"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1165,11 +940,8 @@
       "name": "Origin Token",
       "symbol": "OGN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x61647882acF21792e577a963D320d51e2c8f6194.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8b5977fffa711dcc940ea46711e71482"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x61647882acf21792e577a963d320d51e2c8f6194.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1177,11 +949,8 @@
       "name": "Staked Stream USD",
       "symbol": "xUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6202B9f02E30E5e1c62Cc01E4305450E5d83b926.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c7322a0a20f6fac156be38130167e8b6"
-      }
+      "logoURI": "https://app.streamprotocol.money/assets/usdc-a6e16350.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1189,11 +958,8 @@
       "name": "ShibaPoconk",
       "symbol": "CONK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x63A522f6E7D5B96F7aeBB74d2648545E9e14078D.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0e2628b8dbd38b88437e46536b44ebbc"
-      }
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiaynps4xalkiktny4fpwhk2ziq3xbw7hiq676cijddb3zzflcwdcq",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1201,11 +967,8 @@
       "name": "Wrapped FRAX",
       "symbol": "WFRAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x64445f0aecC51E94aD52d8AC56b7190e764E561a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "db2e6c78e50abadf7d0848f7efebddba"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x64445f0aecc51e94ad52d8ac56b7190e764e561a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1213,11 +976,8 @@
       "name": "Uber Technologies Inc Tokenized by Sailing",
       "symbol": "UBERs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6494eb9cb227EEbAc39be833e4Eb283602A69621.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d13c2513335113b24955608dea51fdac"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x6494eb9cb227eebac39be833e4eb283602a69621.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1225,11 +985,8 @@
       "name": "Magic Internet Money  Meme ",
       "symbol": "MIM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x65A3E654790a2B7ED80afcA646cAaEbaa84dB4df.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d7f7b61a8f2f996d80b2991875446e86"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x65a3e654790a2b7ed80afca646caaebaa84db4df.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1237,11 +994,8 @@
       "name": "Dynatrace Inc Tokenized by Sailing",
       "symbol": "DTs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x65A7B513e41708Cd10e803Cf9e364403E11eEffB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a16ba1b7ee39e33d4d326bb102dde49a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x65a7b513e41708cd10e803cf9e364403e11eeffb.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1249,11 +1003,8 @@
       "name": "Wrapped Aave Sonic USDC",
       "symbol": "waUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6646248971427B80ce531bdD793e2Eb859347E55.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "830014467cd6f05df8aa47ab51f275b3"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1261,11 +1012,8 @@
       "name": "gSNAKE",
       "symbol": "GSNAKE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x674a430f531847a6f8976A900f8ace765f896a1b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "52c8123294a970397e08b1aca851cec6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x674a430f531847a6f8976a900f8ace765f896a1b.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1273,11 +1021,8 @@
       "name": "Liquid Staked Rezerve.money",
       "symbol": "lstRZR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x67A298e5B65dB2b4616E05C3b455E017275f53cB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "03dbef06f03071f340c21c2abd044a26"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1285,11 +1030,8 @@
       "name": "Euler Wrapped stS - 5",
       "symbol": "estS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6832F3090867449c058e1e3088E552E12AB18F9E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2403fcec7ef6050b88efb0f76aaf75a2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/stS-boosted-Euler.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1297,11 +1039,8 @@
       "name": "NAVI",
       "symbol": "NAVI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "678376b994885c23947083eca91457c4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x6881b80ea7c858e4aeef63893e18a8a36f3682f3.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1309,11 +1048,8 @@
       "name": "DiddyScrotumFree",
       "symbol": "Moist",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x690d956D97d3EEe18AB68ED1A28a89d531734F3d.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "77f4f5cf39ee76a59280bc5fef471825"
-      }
+      "logoURI": "https://i.ibb.co/BTm5hX9/Moist.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1321,11 +1057,8 @@
       "name": "Silo Wrapped Sonic - 28",
       "symbol": "SiloWS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2f595288862bc80fa33cc528cbf255c1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1333,11 +1066,8 @@
       "name": "fly.trade",
       "symbol": "FLY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6c9B3A74ae4779da5Ca999371eE8950e8DB3407f.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "54578950f9de71e8122c2208d55b8baf"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66394/large/fly.jpg?1749286672",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1345,11 +1075,8 @@
       "name": "HEDGY the hedgehog",
       "symbol": "HEDGY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x6fB9897896Fe5D05025Eb43306675727887D0B7c.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9bba4adc8e88f6fb0b593378b9b4e94d"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0x6fb9897896fe5d05025eb43306675727887d0b7c.png?size=lg&key=69e35d",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1357,11 +1084,8 @@
       "name": "Meta Platforms Inc Tokenized by Sailing",
       "symbol": "METAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x70a81b2B34e5Cb3ae39e0F05B6A367Deb8cA2F4a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1cdb9a858464a5d62435191c66842140"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x70a81b2b34e5cb3ae39e0f05b6a367deb8ca2f4a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1369,11 +1093,17 @@
       "name": "Jefe",
       "symbol": "JEFE",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "132a3a9100261a4458a2ae198a6416da"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0x71052BAe71C25C78E37fD12E5ff1101A71d9018F",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/146/0x71052bae71c25c78e37fd12e5ff1101a71d9018f.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1381,11 +1111,8 @@
       "name": "Sonic Honey Beer",
       "symbol": "SHOB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3cf963c473f51da6b83d6313df039159"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x71D634647a1aa323C1A0E6d9548dDaA6Eb750E6e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1393,11 +1120,8 @@
       "name": "United States Natural Gas Fund LP Tokenized by Sailing",
       "symbol": "UNGs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x71dE4aBF98778876ec9e6c6E7BDa47dbDFae38EC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "622a4180967ebe2fb5d70c7d58554779"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x71de4abf98778876ec9e6c6e7bda47dbdfae38ec.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1405,11 +1129,8 @@
       "name": "Metropolis Token",
       "symbol": "METRO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ecb39db1dd9756a73d7e6464ce2fcc8a"
-      }
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/sonic/assets/0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321/logo.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1417,11 +1138,8 @@
       "name": "Sonic Smoke",
       "symbol": "Smoke",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "339b923107ed5b7860d80a570866c76b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x74ebDC16D36D1820BA014c2F273Bd03796Ad30C3.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1429,11 +1147,8 @@
       "name": "Spin It",
       "symbol": "SPIN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x777ecd9a05d4640133f6112F3aA777f1eD5AcACE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "65c9c5799574b961bf729b01adfe72a8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x777ecd9a05d4640133f6112f3aa777f1ed5acace.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1441,11 +1156,8 @@
       "name": "Beefy Wrapped SiloV2 USDC",
       "symbol": "BeefyUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7870ddFd5ACA4E977B2287e9A212bcbe8FC4135a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ca7cbfa40732155ae97691ab0cae0652"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1453,11 +1165,8 @@
       "name": "Stability",
       "symbol": "STBL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ac7e70aa7970ef09bfc3136d4891618d"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/54772/large/STBL_Logo_%281%29.png?1741445415",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1465,11 +1174,8 @@
       "name": "HeyAnon",
       "symbol": "Anon",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4aad61185f5dd6538abf36ab4c353496"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1477,11 +1183,8 @@
       "name": "SonicEco",
       "symbol": "ECO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "326f7fea8e2cabf51bfd157bca85a5d5"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0xb8a32897016c1b2ee0797090162eafe58f032795.png?key=a473b3",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1489,11 +1192,8 @@
       "name": "SpookySwap",
       "symbol": "BOO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7A0C53F7eb34C5BC8B01691723669adA9D6CB384.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "70b5c8b089a246f316ec0a7dcd30c42b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1501,11 +1201,8 @@
       "name": "Dawae",
       "symbol": "DAWAE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7A5C61047aD8fA4a743c75Eb46a01300c7c9dADA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e6a7894f20a60c946471df5267d2437f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1513,11 +1210,8 @@
       "name": "SACRA",
       "symbol": "SACRA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "90673865c1083ee45da7afa54440fedf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1525,11 +1219,8 @@
       "name": "Sonic Name Service",
       "symbol": "SNS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7B0a41f0c17474e41a0c36c0Bf33b9AED06eE9f5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bf1774745297482fc545d08f0bc584e5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1537,10 +1228,10 @@
       "name": "rsETHWrapper",
       "symbol": "wrsETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7c050Be1Dded733BD44116b60A8a35125ba47459.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "05fae5f3407837649605da27161b09e6"
+        "coingeckoId": "wrapped-rseth"
       }
     },
     {
@@ -1549,11 +1240,8 @@
       "name": "Warner Bros. Discovery Inc Tokenized by Sailing",
       "symbol": "WBDs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7DE6dBa1F72cFEec212D585492656400AB5cC2f3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a07c0eb50bf8a7a0b28cf603b477c56f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7de6dba1f72cfeec212d585492656400ab5cc2f3.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1561,11 +1249,8 @@
       "name": "Aurum",
       "symbol": "AUR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ccbfb7bcdc72665ffc77b10020048470"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1573,11 +1258,8 @@
       "name": "Muttski",
       "symbol": "WOOF",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x7F883dA3B0d77978075f7C9c03E1B9F461CA1B8d.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5dc549b873a438c52d696f6a9bac7593"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1585,10 +1267,10 @@
       "name": "Frax USD",
       "symbol": "frxUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x80Eede496655FB9047dd39d9f418d5483ED600df.png",
+      "logoURI": "https://static.frax.com/images/tokens/frxusd.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "251a1df3a8b836cf7233509f4b7df5da"
+        "coingeckoId": "frax-usd"
       }
     },
     {
@@ -1597,11 +1279,8 @@
       "name": "Space Token",
       "symbol": "SPACE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x841Aef70237a88027ccb2d15C1bBAf88a669674a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d841c447a1de6d4501b1f604754789cd"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x841aef70237a88027ccb2d15c1bbaf88a669674a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1609,11 +1288,8 @@
       "name": "Silo wrapped solvBTC",
       "symbol": "SiloSolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x87178fe8698C7eDa8aA207083C3d66aEa569aB98.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "905277edbbbe769065a7464e6f4d4402"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87178fe8698c7eda8aa207083c3d66aea569ab98.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1621,11 +1297,8 @@
       "name": "Beefy Sonic",
       "symbol": "beS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x871A101Dcf22fE4fE37be7B654098c801CBA1c88.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7c5f13de10c679d4c4dd228046c89efb"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/55186/standard/beS.png?1744440042",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1633,11 +1306,8 @@
       "name": "Infinity",
       "symbol": "8",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x888852d1c63c7b333efEb1c4C5C79E36ce918888.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f8b070bcc57caccfbd372ddd452be9ba"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x888852d1c63c7b333efeb1c4c5c79e36ce918888.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1645,11 +1315,8 @@
       "name": "BurnX",
       "symbol": "BRNX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x89F0462e56930CfEa4a481C1b9a0d26fA8BD94E6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "44ef4b2b19c5fb5c3bee75f106df0f79"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1657,11 +1324,17 @@
       "name": "Fate Adventure",
       "symbol": "FA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x8ad39144B37741573F85aa03D6c3E817A0054161.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "57c9e3dffd467aec2aa4f4b8c3e8892b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x8ad39144b37741573f85aa03d6c3e817a0054161.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0x8ed344E89527C6cE382fd1E23B4D6D4c2865b6A9",
+      "name": "ONE Stablecoin",
+      "symbol": "ONE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1669,11 +1342,8 @@
       "name": "Euler Wrapped wS - 5",
       "symbol": "ewS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x90a804D316A06E00755444D56b9eF52e5C4F4D73.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "22e4c51c155a44f338029fbe7ea6baf5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1681,11 +1351,8 @@
       "name": "Atlantis AQUA Token",
       "symbol": "AQUA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9138a8733DCe2E877F430B7500e3c229aD7599d9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a19c4c95ddb4c8f3b4c15a18bc075384"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x9138a8733dce2e877f430b7500e3c229ad7599d9.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1693,11 +1360,8 @@
       "name": "EVK Vault ewS-2",
       "symbol": "eWS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "22e4c51c155a44f338029fbe7ea6baf5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-boosted-Euler.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1705,11 +1369,8 @@
       "name": "BitMine Immersion Technologies, Inc Tokenized by Sailing",
       "symbol": "BMNRs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x915A1Ab8d8086caE449bc6E1cF9727c46437E24e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2b59b29f52436eafc964b5a36e7e14a9"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x915a1ab8d8086cae449bc6e1cf9727c46437e24e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1717,11 +1378,8 @@
       "name": "Gami Capital scUSD",
       "symbol": "Gami_scUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x92ebF5A1fB4061B45222a6d76ACCF4698bdE4b95.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9d1bb331ea0e4c71ee2513d3a7574905"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1729,11 +1387,8 @@
       "name": "SONICBEER",
       "symbol": "SBEER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x93cd403693Da40d27188714a872943F717E3c543.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "18716edc12e79d962ff668820126cdc9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x93cd403693Da40d27188714a872943F717E3c543.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1741,11 +1396,8 @@
       "name": "Yel Finance",
       "symbol": "YEL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x949185D3BE66775Ea648F4a306740EA9eFF9C567.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4de0bc1814e0b92ed3aa57ea11b7c87c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x949185d3be66775ea648f4a306740ea9eff9c567.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1753,11 +1405,8 @@
       "name": "SuperSonicSpeedDemon",
       "symbol": "SPEED",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9990dE39Ca46151150E392Ca96EB349d0f549166.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0161104bf7ed1db0971def5d687a85a6"
-      }
+      "logoURI": "https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1765,11 +1414,8 @@
       "name": "Sonic Goat Milk",
       "symbol": "SMILK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5162ecf01421ad9f94b5c73578c13837"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x99AaC0966ec3F667c85e9FD2dFc6b8f3E2C896B5.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1777,11 +1423,8 @@
       "name": "YieldMax COIN Option Income Strategy ETF Tokenized by Sailing",
       "symbol": "CONYs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9a00a4a3ddb6504039825DD621adf75F020696Ba.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "eabe989d679e9f3fa922d71e98c34c58"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x9a00a4a3ddb6504039825dd621adf75f020696ba.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1789,11 +1432,8 @@
       "name": "Stability Gem Season 1",
       "symbol": "sGEM1",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9A08cD5691E009cC72E2A4d8e7F2e6EE14E96d6d.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d1853194721ed14625469c23df6ae3c7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/stabilitydao/.github/main/tokens/sGEM1.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1801,11 +1441,8 @@
       "name": "Varlamore dUSD Vault",
       "symbol": "vdUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9A1BF5365edBB99C2c61CA6D9ffAd0B705ACfc6F.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "10c446b6b6a4df0438fdd00852bd1d0e"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/dUSD-varlamore-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1813,11 +1450,8 @@
       "name": "Blaze",
       "symbol": "Blaze",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9aF092fD69e341a651725f89CC5510a22E40E614.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "54d7da7e86e320f42f8b00a1302c0053"
-      }
+      "logoURI": "https://i.ibb.co/FzGjYCR/Blaze.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1825,11 +1459,8 @@
       "name": "Uppies",
       "symbol": "UPPIES",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0212eace3be432866de4755a0094fbd1"
-      }
+      "logoURI": "https://i.ibb.co/tT6FNGGv/Uppies.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1837,11 +1468,8 @@
       "name": "Fanties",
       "symbol": "Fantie",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9C507f61f6108606A001C8D738E15b30c3f4C119.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f58a0cc9b2020451c4f66b32ae0c57a4"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x5a27c97bf717f455c9eeb838a53fb9f044509c59.png?size=lg&key=99a609",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1849,11 +1477,8 @@
       "name": "JACK",
       "symbol": "JACK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9d549C39E5E1A0e7eF41D4b7d74c49f976102E36.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aeba38c475b8980ffc66ae1216ea18b6"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1861,11 +1486,8 @@
       "name": "Wrapped OS",
       "symbol": "wOS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3458f6f07e41586baf80939258e8551e"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9F0dF7799f6FDAd409300080cfF680f5A23df4b1.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1873,11 +1495,8 @@
       "name": "Wrapped stkscUSD",
       "symbol": "wstkscUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9fb76f7ce5FCeAA2C42887ff441D46095E494206.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "15adfcd0006ade6daf0091fcd89659cf"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1885,11 +1504,8 @@
       "name": "GOGGLES",
       "symbol": "GOGLZ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "78a750372369ecf19e462fed239fb88c"
-      }
+      "logoURI": "https://i.ibb.co/Ksp9CcT/Goggles.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1897,11 +1513,8 @@
       "name": "SwapX",
       "symbol": "SWPx",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8bfeca99aefe3c0dcd487ec4c296b467"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53530/large/IMG_6986.jpeg?1736579863",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1909,11 +1522,17 @@
       "name": "Static Avalon solvBTC.bbn",
       "symbol": "AvalonSolvBTC.bbn",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xA28d4dbcC90C849e3249D642f356D85296a12954.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b40084d5b96bfd8bff1508be359f6311"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa28d4dbcc90c849e3249d642f356d85296a12954.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0xA3D68b74bF0528fdD07263c60d6488749044914b",
+      "name": "Wrapped eETH",
+      "symbol": "WEETH",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/146/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1921,11 +1540,8 @@
       "name": "Tesla Inc Tokenized by Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xa6057499b23c476E6a5204c7D5A5C014E7921204.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "223a73e2bcc62a24e958d0c315890a5a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xa6057499b23c476e6a5204c7d5a5c014e7921204.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1933,11 +1549,8 @@
       "name": "Sonic Pub Girls",
       "symbol": "SGirls",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xaA2549E4B687a338C111d5d1feA4754d51E55471.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3a89bcdd4e92e5d715420e2ba5d06b65"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xaA2549E4B687a338C111d5d1feA4754d51E55471.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1945,11 +1558,8 @@
       "name": "Amped Finance",
       "symbol": "AMP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xAc611438AE5F3953DeDB47c2ea8d6650D601C1B4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "629940225998e09876f7fce0b8bc0627"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xac611438ae5f3953dedb47c2ea8d6650d601c1b4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1957,11 +1567,8 @@
       "name": "Vertex",
       "symbol": "VRTX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xAd747e3CF4e31B8897B96C81C6C74152De52f614.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3c24d2e4dc5f6b16f21faf73cb18854a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xad747e3cf4e31b8897b96c81c6c74152de52f614.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1969,11 +1576,8 @@
       "name": "Lockheed Martin Corporation Tokenized by Sailing",
       "symbol": "LMTs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xaE1770407904cE14D998EAe0aA07bCf9a3a2b33a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fc54430f35ef01a69cd254e8c7bc05cf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xae1770407904ce14d998eae0aa07bcf9a3a2b33a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1981,11 +1585,8 @@
       "name": "Nvidia Corporation Tokenized by Sailing",
       "symbol": "NVDAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xAEBeb25DeA818C7f054c4B87e192A990cc7f70A0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "79e84e4efa059e42fa1129e5c031c49c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xaebeb25dea818c7f054c4b87e192a990cc7f70a0.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -1993,11 +1594,8 @@
       "name": "DeFive",
       "symbol": "FIVE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb0695ce12c56AAe40894235e2d1888D0b62Dd110.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f191b02e876ccffed847ef6ba5c2f7c4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb0695ce12c56aae40894235e2d1888d0b62dd110.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2005,11 +1603,8 @@
       "name": "Silo Finance",
       "symbol": "SILO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb098AFC30FCE67f1926e735Db6fDadFE433E61db.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3977ca1cf72685031f395b45c3cdfef4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb098afc30fce67f1926e735db6fdadfe433e61db.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2017,11 +1612,8 @@
       "name": "Circle Internet Group Inc Tokenized by Sailing",
       "symbol": "CRCLs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xB0dfd17DAf23926d618BfD43772A19E7212d34E6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4057f7cb52e385a5400504eceeb82a19"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb0dfd17daf23926d618bfd43772a19e7212d34e6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2029,11 +1621,8 @@
       "name": "SurvToken",
       "symbol": "SURV",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0f7d41f89695da9ec435d818056827f7"
-      }
+      "logoURI": "https://i.ibb.co/64mycQm/SURV.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2041,11 +1630,8 @@
       "name": "Origin Sonic",
       "symbol": "OS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c5fb95edbb332aa01e16ef760404a7b0"
-      }
+      "logoURI": "https://raw.githubusercontent.com/OriginProtocol/origin-website/refs/heads/master/static/img/coins/os-256x256.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2053,11 +1639,8 @@
       "name": "McDonald's Tokenized by Sailing",
       "symbol": "MCDs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb2748DaBDaA3203EfC486cF7890F7b9A0234480A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0ab62c7de9a748142630c1ae765f1e2f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb2748dabdaa3203efc486cf7890f7b9a0234480a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2065,11 +1648,8 @@
       "name": "Ruggie's Pizza",
       "symbol": "RUGGIE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "26b1a6216927860bdc55db049b1cf941"
-      }
+      "logoURI": "https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2077,11 +1657,8 @@
       "name": "Rezerve.money",
       "symbol": "RZR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb4444468e444f89e1c2CAc2F1D3ee7e336cBD1f5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de9e29a37699722f80ce05399cd3eff6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2089,11 +1666,8 @@
       "name": "Satoshi Stablecoin",
       "symbol": "SATUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "aabdab1f9b8ae0af5e1aa903615eaed8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb4818bb69478730ef4e33cc068dd94278e2766cb.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2101,11 +1675,8 @@
       "name": "SONIC PUB",
       "symbol": "SPUB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xB5A10bd15aF95381D830f71E85328F2d1d823de7.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "87a2fb4435211394b6e3a15b87e55e41"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xB5A10bd15aF95381D830f71E85328F2d1d823de7.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2113,11 +1684,8 @@
       "name": "Sailing",
       "symbol": "SAIL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb6A222943Bbd717FEf61728461207ec0c6756A85.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "39a28fd56bbf182fa4844bcdf1651ecc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xb6a222943bbd717fef61728461207ec0c6756a85.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2125,11 +1693,8 @@
       "name": "Varlamore scUSD",
       "symbol": "vscUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "07006b526cb3b2b09f88abdfeba0f812"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2137,11 +1702,8 @@
       "name": "MercadoLibre Inc. Tokenized by Sailing",
       "symbol": "MELIs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBa021E57Da13Fa03738Bd9E4BF400Ca08A61E353.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40080ea73491ed2e3b6ae1c0985c8c30"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xba021e57da13fa03738bd9e4bf400ca08a61e353.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2149,10 +1711,10 @@
       "name": "Sonic BTC",
       "symbol": "scBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd.png",
+      "logoURI": "https://i.ibb.co/F4CXYdL4/scBTC-32.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "aa6967237ade06868dab52f47dc75ebf"
+        "coingeckoId": "wrapped-bitcoin"
       }
     },
     {
@@ -2161,11 +1723,8 @@
       "name": "FutureStarter",
       "symbol": "FS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBC0d0650412EF353D672c0Bbd12eFFF90591B251.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3a99a2711d2b61537a07ead69c91c6e0"
-      }
+      "logoURI": "https://i.ibb.co/D7wShRv/Square-Fantom-Starter-Logo.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2173,11 +1732,8 @@
       "name": "Upstart Holdings Inc Tokenized by Sailing",
       "symbol": "UPSTs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBca36Ae0090f6d6ACC3784cB3e3f431294820dC4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "24e10a176b896fae55093a39639cd937"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xbca36ae0090f6d6acc3784cb3e3f431294820dc4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2185,11 +1741,8 @@
       "name": "SharpLink Gaming, Inc Tokenized by Sailing",
       "symbol": "SBETs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBD1DeBb0d6DEc56C48F3ffF1eDc02F9232b85Ae6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bd1aba5fa7bc43314ac018af6cb23e66"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xbd1debb0d6dec56c48f3fff1edc02f9232b85ae6.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2197,11 +1750,8 @@
       "name": "Familio",
       "symbol": "F",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5c76fcfa693b162b5d8d75fdb8d6be39"
-      }
+      "logoURI": "https://i.ibb.co/x3DdsbK/Familio.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2209,11 +1759,8 @@
       "name": "SwapX",
       "symbol": "SWPX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xbeca246A76942502f61bFe88F60bbc87DaFefe80.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c412a32d3f34ca3980cef5eb84ae6ef"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xbeca246a76942502f61bfe88f60bbc87dafefe80.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2221,11 +1768,8 @@
       "name": "Gravity Finance",
       "symbol": "GFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xbF5899166AC476370B3117c9256B7fc45624f4eA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "789d692ad2e405b67e98fd9adc7a2bfc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xbf5899166ac476370b3117c9256b7fc45624f4ea.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2233,11 +1777,8 @@
       "name": "PASSTHEJOINT",
       "symbol": "JOINT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0afc60bf0d384a3017a1a24d43671b3e"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xc046dcb16592fbb3f9fa0c629b8d93090dd4cb76.png?size=lg&key=872bae",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2245,11 +1786,8 @@
       "name": "Lumos",
       "symbol": "LUMOS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC0dA8629599b364eb0A8921A477Fb80440a68BD4.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2d6f91a32ccf0c4203a724e855842d83"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc0da8629599b364eb0a8921a477fb80440a68bd4.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2257,11 +1795,8 @@
       "name": "Universal BTC",
       "symbol": "UNIBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC3827A4BC8224ee2D116637023b124CED6db6e90.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4128dc08873532f8f09d3f1688f8edf0"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc3827a4bc8224ee2d116637023b124ced6db6e90.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2269,11 +1804,8 @@
       "name": "Wild Goat Coin",
       "symbol": "WGC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xc53ac24320E3A54C7211e4993c8095078a0Cb3Cf.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2fe9c11125ac749a518d149cdb8e23df"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc53ac24320e3a54c7211e4993c8095078a0cb3cf.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2281,11 +1813,8 @@
       "name": "9mm",
       "symbol": "9MM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC5cB0B67D24d72b9D86059344c88Fb3cE93BF37C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7f05f808f272d1f6b8f72ff46e5b1ed3"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc5cb0b67d24d72b9d86059344c88fb3ce93bf37c.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2293,11 +1822,8 @@
       "name": "Gyroscope",
       "symbol": "GYFI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xc63529297dE076eB15fcbE873AE9136E446cFbB9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2fd4a36b5ea5232bce135a60907927b8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2305,11 +1831,8 @@
       "name": "Staked msUSD",
       "symbol": "smsUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xc7990369DA608C2F4903715E3bD22f2970536C29.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "46e4eb6c6e3684369f7e596768209019"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2317,11 +1840,8 @@
       "name": "Paramount Global Tokenized by Sailing",
       "symbol": "PARAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC8980Da85BF2954c313c2bE327a16bC67CD168D3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d59fc85c1c88f01e57d688ba8395f588"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc8980da85bf2954c313c2be327a16bc67cd168d3.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2329,11 +1849,8 @@
       "name": "Tribe",
       "symbol": "TRIBE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xC97d74d05Eff009027bEe8514c310A0b1E2D1c3c.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a28612b5a2420c4564c140e6ae885e3d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xc97d74d05eff009027bee8514c310a0b1e2d1c3c.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2341,11 +1858,8 @@
       "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
       "symbol": "SPYs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xCB0f5C39B2712C1F58c5103C4423990d184B9A7A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b79431f6ea58559f88122aac296f7bfc"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xcb0f5c39b2712c1f58c5103c4423990d184b9a7a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2353,22 +1867,19 @@
       "name": "Coal",
       "symbol": "COAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xcbFE13919530cB054b9cAbBF9cdA1dd1d811E3e6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "dd9a381a4427dbc8c052db47d7639bab"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6.png",
+      "tags": []
     },
     {
       "chainId": 146,
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-      "name": "SolvBTC Babylon",
+      "name": "xSolvBTC",
       "symbol": "SolvBTC.BBN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xCC0966D8418d412c599A6421b760a847eB169A8c.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640",
       "tags": [],
       "extensions": {
-        "cacheHash": "a52d394b4769e6aace70ea5b780a7591"
+        "coingeckoId": "solv-protocol-solvbtc-bbn"
       }
     },
     {
@@ -2377,11 +1888,8 @@
       "name": "Boom Token",
       "symbol": "BOOM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xcc17DBc9EB1c29f90388Fa197b983714fdAaDa46.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "68ffd52e7e74f06f6b15ca6ff73dd91c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xcc17dbc9eb1c29f90388fa197b983714fdaada46.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2389,11 +1897,8 @@
       "name": "Samurai Starter",
       "symbol": "SAM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xCC5D9cc0d781d7F41F6809c0E8356C15942b775E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e97439fd227d0272220facf473e4d0ac"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xcc5d9cc0d781d7f41f6809c0e8356c15942b775e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2401,11 +1906,8 @@
       "name": "Wrapped Stability scUSD",
       "symbol": "wmetascUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xccccCCcca9FC69a2b32408730011EdB3205A93A1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "188505e1e7d123c992feec9f524b08b9"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-stability-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2413,11 +1915,8 @@
       "name": "Sonic Bunny",
       "symbol": "BUNNY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xCf3FE6eDFeE9c7fdf7d53DC58f4EFe66Fe110981.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "478e6c9b584ed38fe5f76af9a1adf2b4"
-      }
+      "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2425,11 +1924,8 @@
       "name": "notUSD",
       "symbol": "nUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xD229fF67806D6037e6Dfc9EEb2f331Cb74e8c79e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "816c57a178589cde3bd7e2b49bd35eb5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd229ff67806d6037e6dfc9eeb2f331cb74e8c79e.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2437,11 +1933,8 @@
       "name": "Moth",
       "symbol": "MOTH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xD259C1ae13e4AcD745556913D044f08542418875.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4040bdad00d0e8e5bcb6a5cd7ae712c2"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xd259c1ae13e4acd745556913d044f08542418875.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2449,11 +1942,8 @@
       "name": "BlackRock Inc Tokenized by Sailing",
       "symbol": "BLKs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd29Ebd340AEfD2fb781B0c856623b3E41E7F8a8b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "26e2e34ad6ef674fd0e3e731723e34d0"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xd29ebd340aefd2fb781b0c856623b3e41e7f8a8b.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2461,11 +1951,8 @@
       "name": "Static Avalon solvBTC",
       "symbol": "AvalonSolvBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xD31E89Ffb929b38bA60D1c7dBeB68c7712EAAb0a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7ccc5fe20315d7f5612c7717363ab4bd"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2473,11 +1960,8 @@
       "name": "Sonic USD",
       "symbol": "scUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9698849a8a246abd9456e46075697048"
-      }
+      "logoURI": "https://i.ibb.co/PFw2zkx/scUSD64.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2485,11 +1969,8 @@
       "name": "Free Money Market",
       "symbol": "fBUX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd43b5d6899635e514A00b475eEa04C364979e076.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e89edc05b6c4eae76cab9f10eb39df52"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/fantom/0x1e2ea3f3209d66647f959cf00627107e079b870d.png?size=lg&key=5a19d7",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2497,11 +1978,8 @@
       "name": "HOOPS the Squirrel",
       "symbol": "HOOPS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd4A5C68A1Ed1fC2bb06cbA2d90d6ADEee7503671.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "91f2f3b7bc5cd27f98eb10a72d45e16f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xd4a5c68a1ed1fc2bb06cba2d90d6adeee7503671.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2509,11 +1987,8 @@
       "name": "Frankencoin",
       "symbol": "ZCHF",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "28e619b5efec9dcac429675419bfb371"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2521,11 +1996,8 @@
       "name": "Apple Inc Tokenized by Sailing",
       "symbol": "AAPLs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd96eaAe0225Bad65C6Ae90b87C4957D4dbae4B07.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "bfc259849559cffc6b8b665db7885ee4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xd96eaae0225bad65c6ae90b87c4957d4dbae4b07.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2533,11 +2005,8 @@
       "name": "Intern Token",
       "symbol": "INTERN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xd9D6F92Df52716835594Ab41Ea6f3BB994da98b6.jpeg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d85b39d856ec08b8f05b8b82d554ba6b"
-      }
+      "logoURI": "https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2545,11 +2014,8 @@
       "name": "Silo Wrapped frxUSD - 37",
       "symbol": "SiloFrxUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xdA14A41DbdA731F03A94cb722191639DD22b35b2.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "935524ed987be1ff3ed2a0d919ecb103"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/frxUSD_silo.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2557,11 +2023,8 @@
       "name": "Equalizer on Sonic",
       "symbol": "EQUAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xddF26B42C1d903De8962d3F79a74a501420d5F19.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ee288ed7a02e9030e2121a0737b5424f"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/53369/large/hq_png_icon_file.png?1736204170",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2569,11 +2032,8 @@
       "name": "DEUS",
       "symbol": "DEUS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xDE55B113A27Cc0c5893CAa6Ee1C020b6B46650C0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "131df3288bcd58e1d595796835a96276"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2581,11 +2041,8 @@
       "name": "Varlamore S",
       "symbol": "vS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xDED4aC8645619334186f28B8798e07ca354CFa0e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7ea27e5f1180fba8555ed71027bef163"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2593,11 +2050,8 @@
       "name": "XVGSON",
       "symbol": "XVGSON",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe061Aa40Be525A13296CB4Bf69f513242349D708.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "049dcb3b3273270888ab1a21123c4c03"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xe061aa40be525a13296cb4bf69f513242349d708.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2605,11 +2059,8 @@
       "name": "Sonic Cartel",
       "symbol": "SCARTEL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE17Be928A08D66156eC242A68c4929B07cF14CCC.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "349b67c4f076a825bac8916ae4f5882c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xE17Be928A08D66156eC242A68c4929B07cF14CCC.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2617,10 +2068,10 @@
       "name": "Paladin Token",
       "symbol": "PAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE4A4353CD8F008f1a70f1a564535990479E8ceb7.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/24558/standard/PAL-Token-dark_%281%29.png?1735661952",
       "tags": [],
       "extensions": {
-        "cacheHash": "e82ffabb1e02341fa16bedf9833deb16"
+        "coingeckoId": "paladin"
       }
     },
     {
@@ -2629,10 +2080,10 @@
       "name": "PaintSwap",
       "symbol": "BRUSH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44.webp",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44.png?size=lg&key=50f8b4",
       "tags": [],
       "extensions": {
-        "cacheHash": "071472bb9559afe9a53a151e53b0920e"
+        "coingeckoId": "paint-swap"
       }
     },
     {
@@ -2641,11 +2092,8 @@
       "name": "Plus Bet",
       "symbol": "PLUS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE53aFA646d48E9EF68fCd559F2a598880a3f1370.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "99fdd1e1149e5a4f6ae964a61916bf14"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xe53afa646d48e9ef68fcd559f2a598880a3f1370.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2653,10 +2101,10 @@
       "name": "Beets Staked Sonic",
       "symbol": "stS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE5DA20F15420aD15DE0fa650600aFc998bbE3955.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe5da20f15420ad15de0fa650600afc998bbe3955.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "0e653d3dda9d8ad28bbd3febfedad3ee"
+        "coingeckoId": "beets-staked-sonic"
       }
     },
     {
@@ -2665,10 +2113,10 @@
       "name": "Main Street USD",
       "symbol": "msUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE5Fb2Ed6832deF99ddE57C0b9d9A56537C89121D.png",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/66996/large/msUSD.png?1751389184",
       "tags": [],
       "extensions": {
-        "cacheHash": "05dc6991ca35ec95cffecb5e973fccc3"
+        "coingeckoId": "main-street-usd"
       }
     },
     {
@@ -2677,11 +2125,8 @@
       "name": "Silo Wrapped scUSD - 46",
       "symbol": "SiloScUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe6605932e4a686534D19005BB9dB0FBA1F101272.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9d1bb331ea0e4c71ee2513d3a7574905"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2689,11 +2134,8 @@
       "name": "LUDWIG",
       "symbol": "LUDWIG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7566c00d652f4e15ca9bc07ac1027219"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2701,10 +2143,10 @@
       "name": "Bridged EURC (Sonic Labs)",
       "symbol": "EURC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
       "tags": [],
       "extensions": {
-        "cacheHash": "8bf78e607b4581002eb7ba5697aa5d5c"
+        "coingeckoId": null
       }
     },
     {
@@ -2713,11 +2155,8 @@
       "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized by Sailing",
       "symbol": "FIATs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe7372d303F3087d3341F3359C63e99b590793442.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "49caa0c7de871a059726613f381be0c5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xe7372d303f3087d3341f3359c63e99b590793442.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2725,11 +2164,8 @@
       "name": "Staked USDp",
       "symbol": "sUSDp",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe8a3DA6f5ed1cf04c58ac7f6A7383641e877517b.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "27e80867eff004cf2fef06c79b6182a5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2737,11 +2173,8 @@
       "name": "Wrapped stkscETH",
       "symbol": "wstkscETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE8a41c62BB4d5863C6eadC96792cFE90A1f37C47.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "840ffb485fece96c7a5f12ec2bd42825"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2749,11 +2182,8 @@
       "name": "Wrapped SAFU",
       "symbol": "WSAFU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xE8C962493104b71F1bf22bC415e02eD3eF685c26.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fe6ce43a5e341a2c7683a0c75b5f4014"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xe8c962493104b71f1bf22bc415e02ed3ef685c26.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2761,10 +2191,10 @@
       "name": "Derp Token",
       "symbol": "DERP",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe920d1DA9A4D59126dC35996Ea242d60EFca1304.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/53307/standard/DERP_TOKEN.png?1736066460",
       "tags": [],
       "extensions": {
-        "cacheHash": "b6c6fc389733972b58e722c3e85a9a04"
+        "coingeckoId": "derp-2"
       }
     },
     {
@@ -2773,11 +2203,8 @@
       "name": "Microsoft Corporation Tokenized by Sailing",
       "symbol": "MSFTs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xe9884E8E581461efA562B915FBa21f8Bf69dd9cF.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3d54c22364f7a59202baf250d5d3daca"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xe9884e8e581461efa562b915fba21f8bf69dd9cf.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2785,11 +2212,8 @@
       "name": "ARK Innovation ETF Tokenized by Sailing",
       "symbol": "ARKKs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xeAA18659783287052D5bAeDc23EEb95a57e651b5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "61179d40ea2c01fe78731900f79f6e2c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xeaa18659783287052d5baedc23eeb95a57e651b5.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2797,11 +2221,17 @@
       "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
       "symbol": "DNAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xeB44A2dCB4Ab00494b605deD93afC02C09ac9A62.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e5b9c10c45c2c4fce0a92160e8ed1fab"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xeb44a2dcb4ab00494b605ded93afc02c09ac9a62.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0xeB5e9B0ae5bb60274786C747A1A2A798c11271E0",
+      "name": "Wrapped Aave Sonic WETH",
+      "symbol": "waSonWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2809,10 +2239,10 @@
       "name": "Lombard Staked Bitcoin",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xecAc9C5F704e954931349Da37F60E39f515c11c1.png",
+      "logoURI": "https://sonicscan.org/token/images/lbtc_64.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "76a4c6a7a0a12f95cf8a565d3117f3a4"
+        "coingeckoId": "lombard-staked-btc"
       }
     },
     {
@@ -2821,11 +2251,8 @@
       "name": "Fantom Bomb",
       "symbol": "fBOMB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xEdF8b632b537d5993Adb5e2E15882CD791c284cB.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d0d6c8e39378cbf23c265cf9b8661982"
-      }
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979.png?size=lg&key=9217b4",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2833,10 +2260,19 @@
       "name": "Wrapped Stability USDC",
       "symbol": "wmetaUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-stability-boosted.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0xf05a207442f14E446b0e32b12D2043bfc68Cb1C9",
+      "name": "BOLD Stablecoin",
+      "symbol": "BOLD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf05a207442f14e446b0e32b12d2043bfc68cb1c9.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "663c1b5ef152769faef941255693c4d6"
+        "coingeckoId": "liquity-bold-2"
       }
     },
     {
@@ -2845,11 +2281,8 @@
       "name": "BEARZWIFGUNZ180042069",
       "symbol": "180042069",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf1c9b8171Bf3902554e791010CCBCD6bacBA6eFd.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5f1dbb005d360ff960a293fda72248d4"
-      }
+      "logoURI": "https://i.ibb.co/4N62vMk/BEARZWIFGUNZ180042069.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2857,11 +2290,8 @@
       "name": "Pendle",
       "symbol": "PENDLE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf1eF7d2D4C0c881cd634481e0586ed5d2871A74B.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0cf4cca240ea113de5c0aa133ad35cff"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2869,10 +2299,10 @@
       "name": "Eggs",
       "symbol": "EGGS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf26Ff70573ddc8a90Bd7865AF8d7d70B8Ff019bC.webp",
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/sonic/0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc.png?size=lg&key=5e5b9c",
       "tags": [],
       "extensions": {
-        "cacheHash": "363e13dd391d76fa9f98d6f5bab4fc25"
+        "coingeckoId": "eggs-finance"
       }
     },
     {
@@ -2881,11 +2311,8 @@
       "name": "Relic",
       "symbol": "RELIC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf2968631D02330Dc5E420373f083b7B4F8B24E17.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "34de00b9d0d8f131522af7918143da92"
-      }
+      "logoURI": "https://i.ibb.co/qs9X9Xt/Relic.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2893,11 +2320,8 @@
       "name": "YieldFi vyUSD",
       "symbol": "VYUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xF4F447E6AFa04c9D11Ef0e2fC0d7f19C24Ee55de.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "21c5d8ad9d031b399397207341db8490"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2905,11 +2329,17 @@
       "name": "toona",
       "symbol": "TOONA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf4F9C50455C698834Bb645089DbAa89093b93838.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6d249b45fe113ed608305c99bdae85c5"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xf4f9c50455c698834bb645089dbaa89093b93838.png",
+      "tags": []
+    },
+    {
+      "chainId": 146,
+      "address": "0xf520D737dC03e0dFB81350C6Fd27479dd75Db88D",
+      "name": "Liquid Sonic Drop",
+      "symbol": "LSD",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/146/0xf520d737dc03e0dfb81350c6fd27479dd75db88d.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2917,11 +2347,8 @@
       "name": "SONAR",
       "symbol": "SONAR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf61ccFc0ec470b2595fa08132C0102968b36cABc.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c58efaddfb5a1d06441fd9a96ff7d429"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/146/0xf61ccfc0ec470b2595fa08132c0102968b36cabc.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2929,11 +2356,8 @@
       "name": "Greenhouse USDC",
       "symbol": "ghUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4308eedf8af7816f2a410b86d2848857"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2941,11 +2365,8 @@
       "name": "Varlamore USDC Growth",
       "symbol": "vgUSDC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xF6F87073cF8929C206A77b0694619DC776F89885.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "16d6f88cc78884bcc11989c87ae6ecda"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2953,11 +2374,8 @@
       "name": "FIERY",
       "symbol": "FIERY",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xF97d438BC03aD0F75B83ce5714c9619880B305bc.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "422d45c973f9101aaf4a0f53cec85afa"
-      }
+      "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/sonic/tokens/128x128/0xf97d438bc03ad0f75b83ce5714c9619880b305bc.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2965,11 +2383,8 @@
       "name": "Wrapped anS",
       "symbol": "wanS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xfA85Fe5A8F5560e9039C04f2b0a90dE1415aBD70.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5163f3f8560d92f63383170cddc99f00"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wanS.png",
+      "tags": []
     },
     {
       "chainId": 146,
@@ -2977,10 +2392,10 @@
       "name": "Parallel Governance Token",
       "symbol": "PRL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/146/0xfD28f108e95f4D41daAE9dbfFf707D677985998E.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "2b20c1e8d43ca14d66349d0e6dd3dae0"
+        "coingeckoId": null
       }
     }
   ]

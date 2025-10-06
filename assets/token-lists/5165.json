@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:04.218Z",
+  "timestamp": "2025-10-06T22:06:54.788Z",
   "tokens": [
     {
       "chainId": 5165,
@@ -13,11 +13,8 @@
       "name": "Wrapped FTN",
       "symbol": "WFTN",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/5165/0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4a1478181b9d6a45a396eda07b1ce21f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-ftn.webp",
+      "tags": []
     },
     {
       "name": "Fasttoken",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 5165,
-      "logoURI": "https://assets.citrus.finance/token-logos/5165/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/5165.webp",
       "extensions": {
-        "wrapped": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB",
-        "cacheHash": "0c15f137c108cb6ce02f62334a1f9b55"
+        "wrapped": "0x4084aB20f8ffcA76C19AAF854Fb5fe9DE6217fBB"
       },
       "tags": [
         "Top"

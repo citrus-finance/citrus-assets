@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:1868",
+  "name": "Citrus Finance on Soneium Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:32.663Z",
+  "timestamp": "2025-10-06T22:07:29.471Z",
   "tokens": [
     {
       "chainId": 1868,
@@ -13,10 +13,11 @@
       "name": "Stargate USD₮0 (Bridged)",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     },
     {
@@ -25,10 +26,14 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x3A337a6adA9d885b6Ad95ec48F9b75f197b5AE35.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d236883caf5f2a9602e9156f36001fa1"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+          }
+        }
       }
     },
     {
@@ -37,10 +42,14 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x4200000000000000000000000000000000000006.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e6d406c3546c7248fd2926087938fb90"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
       }
     },
     {
@@ -49,10 +58,12 @@
       "name": "QuickSwap",
       "symbol": "QUICK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0x6ef08F42C936f5d101B76160c816D3c8181C9867.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "db62fdc66c6712fa52703f65daa3e70c"
+        "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "QUICK"
       }
     },
     {
@@ -61,10 +72,14 @@
       "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "c8c8ec5eb6880886b8bde0fa7940838b"
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+          }
+        }
       }
     },
     {
@@ -73,10 +88,12 @@
       "name": "ELYSIA",
       "symbol": "EL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xBC63230d1C4d0Cd241D66F5AaE75f3D1d6C0949a.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/EL/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "8f5d5bc74a7a77f715c1c1a2b287423d"
+        "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "EL"
       }
     },
     {
@@ -85,10 +102,12 @@
       "name": "SuperVerse",
       "symbol": "SUPER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xF765356C901a064A74Fa4560622f21C91048c3D7.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/SUPER/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "ecdfc58bfb26ae3c2337f15d452a54b2"
+        "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "SUPER"
       }
     },
     {
@@ -97,10 +116,12 @@
       "name": "TRALA TOKEN",
       "symbol": "TRALA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1868/0xf93322688ddfE432c21c0B4E709d77DEab7e923F.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/TRALA/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "14c9e89756ceb69880858d6758a61871"
+        "soneiumBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "TRALA"
       }
     }
   ]

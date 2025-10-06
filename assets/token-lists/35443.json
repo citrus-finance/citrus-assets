@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:17.120Z",
+  "timestamp": "2025-10-06T22:07:09.810Z",
   "tokens": [
     {
       "chainId": 35443,
@@ -13,11 +13,8 @@
       "name": "Wrapped Q",
       "symbol": "WQ",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/35443/0x76F4f36CE4f1550D95BAd917ef05520Eca310685.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "402f754654138dfa735610c8493aa58a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-q.webp",
+      "tags": []
     },
     {
       "name": "Q",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 35443,
-      "logoURI": "https://assets.citrus.finance/token-logos/35443/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/q.webp",
       "extensions": {
-        "wrapped": "0x76F4f36CE4f1550D95BAd917ef05520Eca310685",
-        "cacheHash": "a27a71fe2e687121859f91563cf9d5a2"
+        "wrapped": "0x76F4f36CE4f1550D95BAd917ef05520Eca310685"
       },
       "tags": [
         "Top"

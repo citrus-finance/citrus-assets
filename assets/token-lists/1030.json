@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:33.775Z",
+  "timestamp": "2025-10-06T22:06:44.509Z",
   "tokens": [
     {
       "chainId": 1030,
@@ -13,11 +13,8 @@
       "name": "Wrapped Conflux",
       "symbol": "WCFX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1030/0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e9d5eae76239f83d5069eafa29d87c67"
-      }
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b.png",
+      "tags": []
     },
     {
       "name": "Conflux",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1030,
-      "logoURI": "https://assets.citrus.finance/token-logos/1030/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1030.webp",
       "extensions": {
-        "wrapped": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b",
-        "cacheHash": "20544d6614a259c39a910abbaaa9abfe"
+        "wrapped": "0x14b2D3bC65e74DAE1030EAFd8ac30c533c976A9b"
       },
       "tags": [
         "Top"

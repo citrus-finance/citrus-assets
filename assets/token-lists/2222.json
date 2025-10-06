@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:01.726Z",
+  "timestamp": "2025-10-06T22:06:51.511Z",
   "tokens": [
     {
       "chainId": 2222,
@@ -13,11 +13,8 @@
       "name": "Invesco QQQ Trust Tokenized by Sailing",
       "symbol": "QQQs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x019293eDC7A277F8879EC51A59E0Ffe415f6120e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0d3d8b1463bc84515521c110c952f5f8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x019293edc7a277f8879ec51a59e0ffe415f6120e.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -25,11 +22,8 @@
       "name": "Axeler Wrapped WBTC",
       "symbol": "axlWBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0c560a9dee30ae4b4172af5c9d1f9547"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -37,11 +31,8 @@
       "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
       "symbol": "DNAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x1e01aE049Bcb76ec91aa59e11b84a01375cB19b0.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "02c622e176574b3b33b82f1a4ebc2d75"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x1e01ae049bcb76ec91aa59e11b84a01375cb19b0.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -49,11 +40,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b31ea780bd2106847ee145971a0d9767"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x2DfD4dE5AE386Cd3f4fC8e2cb39240852E47F5E8.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -61,11 +49,8 @@
       "name": "ARK Innovation ETF Tokenized by Sailing",
       "symbol": "ARKKs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x2E4763AdBEe00D5eB3089ec25973599c0e62dD07.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8c10f4b88f97e494875d1b809c306949"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x2e4763adbee00d5eb3089ec25973599c0e62dd07.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -73,11 +58,8 @@
       "name": "Apple Inc Tokenized by Sailing",
       "symbol": "AAPLs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x57c1e6001519D2C7FcEE64a8e03e1bDba7A1716F.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6705e435f18b95a4765dcc25e79994b3"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x57c1e6001519d2c7fcee64a8e03e1bdba7a1716f.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -85,11 +67,8 @@
       "name": "Axler Wrapped DAI",
       "symbol": "axlDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1f146006b6690afd6b4ae67b5c35cda8"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -97,11 +76,8 @@
       "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
       "symbol": "SPYs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x75B5DACEc8DACcb260eA47549aE882513A21CE01.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "faf086b3fb08ac38e423495b0a1a713b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x75b5dacec8daccb260ea47549ae882513a21ce01.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -109,11 +85,8 @@
       "name": "Dai Stablecoin",
       "symbol": "anyDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x765277EebeCA2e31912C9946eAe1021199B39C61.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1c2c7f0fa93f0eb62f187fb4d2ff0735"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -121,11 +94,8 @@
       "name": "Airbnb Inc Tokenized by Sailing",
       "symbol": "ABNBs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x79E2174f64286Bb92c8BD00d0D8A126eAc664c27.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cbc50b7b717cc73cb463017612b89d0b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x79e2174f64286bb92c8bd00d0d8a126eac664c27.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -133,11 +103,8 @@
       "name": "SushiToken",
       "symbol": "anySUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5b31540f478b2c4cd2b4a5f75cc09eb1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -145,11 +112,8 @@
       "name": "MicroStrategy Inc Tokenized by Sailing",
       "symbol": "MSTRs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7d0e7d4617B7B1a4D335e7E6Fef2f0F98Fb8D6D9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c29363f7da0c72f7394e5b7391baa73b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x7d0e7d4617b7b1a4d335e7e6fef2f0f98fb8d6d9.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -157,11 +121,8 @@
       "name": "Axelar Wrapped USDT",
       "symbol": "axlUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "343f10e654708a29f7030c66747a71f3"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -169,11 +130,8 @@
       "name": "The Walt Disney Company Tokenized by Sailing",
       "symbol": "DISs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x7f6b23782DC290C6758E6014e6F512E1b46f07e6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "066f0313c19e0e3ff414d4f03a3de285"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x7f6b23782dc290c6758e6014e6f512e1b46f07e6.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -181,11 +139,8 @@
       "name": "Wrapped Bitcoin",
       "symbol": "anyWBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a63f00f0a26e0b3d6351681206b8cf9a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -193,11 +148,8 @@
       "name": "Meta Platforms Inc Tokenized by Sailing",
       "symbol": "METAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x81B841D336D984233353420d172309f321EfBc02.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "668671fb310848272306089d2dcf8b89"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0x81b841d336d984233353420d172309f321efbc02.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -205,11 +157,8 @@
       "name": "TetherUSDt",
       "symbol": "USDt",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "36a5e6646212a9c77aa43d846d5c2e46"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x919C1c267BC06a7039e03fcc2eF738525769109c.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -217,11 +166,8 @@
       "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
       "symbol": "AMCs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xA265653185Ed26a27e93092c458b5C6a6aEF078a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6df411da290eb99b4301ac240adde6ac"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xa265653185ed26a27e93092c458b5c6a6aef078a.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -229,11 +175,8 @@
       "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
       "symbol": "AAAUs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xA78Fb2b64Ce2Fb8bBe46968cf961C5Be6eB12924.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "45ae650c72c0721c3d3c8b228f6c64cf"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xa78fb2b64ce2fb8bbe46968cf961c5be6eb12924.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -241,11 +184,8 @@
       "name": "Tether USD",
       "symbol": "anyUSDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea5475e69a3f74b622083a4fba8595d2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -253,11 +193,8 @@
       "name": "Axelar Wrapped ETH",
       "symbol": "axlETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a3c734a244084180cc603f4203d3bc0f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xb829b68f57CC546dA7E5806A929e53bE32a4625D.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -265,11 +202,8 @@
       "name": "Amazon.com Inc Tokenized by Sailing",
       "symbol": "AMZNs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xC777b949c0889094BC9A241BCFE8e9492b18824f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "51ee68d4920770d4b3ab7d371c4bfbbe"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xc777b949c0889094bc9a241bcfe8e9492b18824f.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -277,11 +211,8 @@
       "name": "Wrapped Kava",
       "symbol": "WKAVA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1835ff5587eec80c20faff692330aef6"
-      }
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/tokens/coingecko/wrapped-kava.webp",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -289,11 +220,8 @@
       "name": "Grupo Supervielle SA Tokenized by Sailing",
       "symbol": "SUPVs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xD07dd056c2C2073565C992B4aC2321b6A2e4a112.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a5be93a150dc75500534eccc4ebc6869"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xd07dd056c2c2073565c992b4ac2321b6a2e4a112.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -301,11 +229,8 @@
       "name": "GameStop Corp Tokenized by Sailing",
       "symbol": "GMEs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xD9aEA8D7712aA5F54EDA0982211f38ecDDa22BA1.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "9fcd1dbabef4e357fc974575a9a7f6d4"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xd9aea8d7712aa5f54eda0982211f38ecdda22ba1.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -313,11 +238,8 @@
       "name": "Wrapped Ethereum",
       "symbol": "anyWETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "07109460846c2e41cbb36b4d4e68262f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -325,11 +247,8 @@
       "name": "Axelar Wrapped USDC",
       "symbol": "axlUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7bd8a783d4d4a45797f89e046a0a5cd7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+      "tags": []
     },
     {
       "name": "Kava",
@@ -337,10 +256,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 2222,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/2222.webp",
       "extensions": {
-        "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-        "cacheHash": "d10404beaf432336f7f05865138ace80"
+        "wrapped": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b"
       },
       "tags": [
         "Top"
@@ -352,11 +270,8 @@
       "name": "DLocal Ltd Tokenized by Sailing",
       "symbol": "DLOs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xf69eadAd0A7cE0aD62ac7AdB16338f55Fa5aEdbD.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "817f57356f1715588dfb81a0bff8ad2a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xf69eadad0a7ce0ad62ac7adb16338f55fa5aedbd.png",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -364,11 +279,8 @@
       "name": "USD Coin",
       "symbol": "anyUSDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "10af2fff9a4382584c8824e729f9c770"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "tags": []
     },
     {
       "chainId": 2222,
@@ -376,11 +288,8 @@
       "name": "Tesla Inc Tokenized by Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/2222/0xfb7a9dea566381c912aC3a221595F6559bFCDEc6.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "46df1199fb097e252f94f1faadab3e05"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/2222/0xfb7a9dea566381c912ac3a221595f6559bfcdec6.png",
+      "tags": []
     }
   ]
 }

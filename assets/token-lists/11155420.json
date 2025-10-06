@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:08.994Z",
+  "timestamp": "2025-10-06T22:07:24.316Z",
   "tokens": [
     {
       "chainId": 11155420,
@@ -13,10 +13,12 @@
       "name": "Status Test Token",
       "symbol": "STT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x0B5DAd18B8791ddb24252B433ec4f21f9e6e5Ed0.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d1e2b6320bd731372730c81c4e7f6204"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "SNT"
       }
     },
     {
@@ -25,10 +27,12 @@
       "name": "Boba Token",
       "symbol": "BOBA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x1696baFBe18EFB141823a041E22E43d12B144407.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "a95406bc8ec27353f9f3512f931ff413"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "BOBA"
       }
     },
     {
@@ -37,11 +41,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x1BDD24840e119DC2602dCC587Dd182812427A5Cc.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 11155420,
@@ -49,10 +50,12 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x24B47cd3A74f1799b32B2de11073764Cb1bb318B.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "4663dbe54bec02f96555f75ce0199594"
+        "optimismBridgeAddress": "0xdBA2760246f315203F8B716b3a7590F0FFdc704a",
+        "opListId": "default",
+        "opTokenId": "wstETH"
       }
     },
     {
@@ -61,10 +64,11 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x5fd84259d66Cd46123540766Be93DFE6D43130D7.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "ab8bfd2cb1499b2fc9b9d75620ee1c48"
+        "opListId": "default",
+        "opTokenId": "USDC"
       }
     },
     {
@@ -73,10 +77,12 @@
       "name": "WalletConnect",
       "symbol": "WCT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x75bb6dcA2cD6F9a0189c478bBb8F7EE2fEF07C78.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d29eb865e1ba9d6e5076de7425f6d4ef"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "WCT"
       }
     },
     {
@@ -85,10 +91,12 @@
       "name": "OptimismUselessToken-Bridged",
       "symbol": "OUTb",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/OUTb/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "2114a6fc74dc33ef33bb7c49366bc335"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "OUTb"
       }
     },
     {
@@ -97,10 +105,12 @@
       "name": "BTREE",
       "symbol": "BTREE",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x7E5A0b6C5c32883AE8E5b830c05688Eff317c3fb.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "282ed97de6cb3b655e04081e9f908710"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "BTREE"
       }
     },
     {
@@ -109,10 +119,26 @@
       "name": "IRARA Token",
       "symbol": "IRARA",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0x819845b60A192167Ed1139040B4F8ecA31834f27.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/IRARA/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "23d3ab939029d91d6bf3426a2bf958c2"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "IRARA"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0x841Fb6a6893f48164a52CFbFc69462385688B0c1",
+      "name": "Lit Protocol",
+      "symbol": "LITKEY",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+      "tags": [],
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "LITKEY"
       }
     },
     {
@@ -121,10 +147,12 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "7e2b17c1532bfb4703a6c0e83cf6246a"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "ETH"
       }
     },
     {
@@ -133,10 +161,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 11155420,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x1BDD24840e119DC2602dCC587Dd182812427A5Cc"
       },
       "tags": [
         "Top"
@@ -144,14 +171,44 @@
     },
     {
       "chainId": 11155420,
+      "address": "0xFABADA3D500B84B1AeD07b9B6d5651BA91a10beD",
+      "name": "Wrapped WIT",
+      "symbol": "WIT",
+      "decimals": 9,
+      "logoURI": "https://ethereum-optimism.github.io/data/WIT/logo.svg",
+      "tags": [],
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+        "opListId": "extended",
+        "opTokenId": "WIT"
+      }
+    },
+    {
+      "chainId": 11155420,
       "address": "0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014",
       "name": "Wrapped WIT",
       "symbol": "WIT",
       "decimals": 9,
-      "logoURI": "https://assets.citrus.finance/token-logos/11155420/0xFabadaC5963bdE1bCcCd560EA60e9928DC5dF014.ico",
+      "logoURI": "https://cdn.oku.trade/logos/11155420/0xfabadac5963bde1bcccd560ea60e9928dc5df014.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "09a4c27cfb8d84f3565ec594fe8c556b"
+        "optimismBridgeAddress": "0x4200000000000000000000000000000028",
+        "opListId": "extended",
+        "opTokenId": "WIT"
+      }
+    },
+    {
+      "chainId": 11155420,
+      "address": "0xfb8Bd4464849080B8a08d706300347CbEA8c137D",
+      "name": "Forta",
+      "symbol": "FORT",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+      "tags": [],
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "FORT"
       }
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:108",
+  "name": "Citrus Finance on ThunderCore Mainnet",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:18:47.439Z",
+  "timestamp": "2025-10-06T22:08:07.237Z",
   "tokens": [
     {
       "chainId": 108,
@@ -13,11 +13,8 @@
       "name": "ThunderCore Sushi Token",
       "symbol": "TT-SUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cb37795fbf01b644db67730dd30729ac"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1139136d973323ce500443037Fb9741deac0CA16.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -25,11 +22,8 @@
       "name": "WBTC",
       "symbol": "TT-WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69bcd6cb69606f518c4b2e9352218fb4"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -37,11 +31,8 @@
       "name": "Laser Token",
       "symbol": "LASER",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x1d44A37D6104DF6Cf996425839829BE09bEE4F33.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "40430fd6110600e87364fde553993d11"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x1d44A37D6104DF6Cf996425839829BE09bEE4F33.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -49,11 +40,8 @@
       "name": "NFTmall GEM Token",
       "symbol": "GEM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "88df5ba469ef7fba0c6b2c4101bc1f91"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -61,11 +49,8 @@
       "name": "USDC",
       "symbol": "TT-USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "08b515f150926063fca921cf2471571b"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -73,11 +58,8 @@
       "name": "Wrapped Thunder Token",
       "symbol": "WTT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "88b5b11953698e28599301d5581f5f60"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -85,11 +67,8 @@
       "name": "USDT",
       "symbol": "TT-USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea72b40e71ad59e4bfd5c466088652ec"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -97,11 +76,8 @@
       "name": "ETH",
       "symbol": "TT-ETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3c9a2e25ac29155db8d9418284aafee1"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -109,11 +85,8 @@
       "name": "SCGames Token",
       "symbol": "SCG",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "1d3a9a895555ac19adcdb0020466e6bf"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x71CF496Fc5Bc3041496421F09b069BC1cf6c98Db.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -121,11 +94,8 @@
       "name": "Prize",
       "symbol": "Prize",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "18d324e17014659067900fb5dd225862"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -133,11 +103,8 @@
       "name": "NUM Token",
       "symbol": "NUM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0x9BAFB0Da04147276711721627Bf37b026dbfe10F.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5c39252b0a2694e962df56b1aa3c1126"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x9BAFB0Da04147276711721627Bf37b026dbfe10F.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -145,11 +112,8 @@
       "name": "Shark",
       "symbol": "Shark",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f0a70d056cf8709a24bfcddc940370e2"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -157,11 +121,8 @@
       "name": "SushiToken",
       "symbol": "anySUSHI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xABd380327Fe66724FFDa91A87c772FB8D00bE488.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "8dca577e3081c2178070d0e7fb9f7231"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xABd380327Fe66724FFDa91A87c772FB8D00bE488.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -169,11 +130,8 @@
       "name": "veTT",
       "symbol": "veTT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3d495eaa9be0b2fa6d2cd5f812fc111c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xC3C857a9E5Be042C8acF4F2827Aa053e93b5d039.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -181,11 +139,8 @@
       "name": "Dolphin",
       "symbol": "Dolphin",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "b2adcf12d34e0c23e71494bb1eb0573c"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -193,11 +148,8 @@
       "name": "Farm Thunder Token",
       "symbol": "FTT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3d2757bfe8983a91727cb0a219145b80"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -205,11 +157,8 @@
       "name": "Ram",
       "symbol": "RAM",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xfE146D5710015d4075355fb7bE8d133346EC63c2.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e387530d73ad92446cae3f655b45733a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xfE146D5710015d4075355fb7bE8d133346EC63c2.jpg",
+      "tags": []
     },
     {
       "chainId": 108,
@@ -217,11 +166,8 @@
       "name": "Seal",
       "symbol": "Seal",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/108/0xFf938bF442ACEF553441f06f35d2871a7393Ec2e.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "79d6ba9bbf4ea4c7156cb914d79f0db7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0xFf938bF442ACEF553441f06f35d2871a7393Ec2e.jpg",
+      "tags": []
     }
   ]
 }

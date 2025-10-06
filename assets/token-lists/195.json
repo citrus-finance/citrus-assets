@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:20.920Z",
+  "timestamp": "2025-10-06T22:06:35.332Z",
   "tokens": [
     {
       "chainId": 195,
@@ -13,11 +13,8 @@
       "name": "Wrapped OKB",
       "symbol": "WOKB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/195/0xa2aFfd8301BfB3c5b815829f2F509f053556D21B.webp",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e33c49ab3d823e889d4ef56dd10af57a"
-      }
+      "logoURI": "https://static.coinall.ltd/cdn/web3/cdn/wallet/d6adc9bd-1c32-4247-a9dc-06859e31ef4d.png?x-oss-process=image/format,webp/resize,w_80,h_80,type_6/ignore-error,1",
+      "tags": []
     },
     {
       "name": "OKB",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 195,
-      "logoURI": "https://assets.citrus.finance/token-logos/195/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/xlayerTestnet.webp",
       "extensions": {
-        "wrapped": "0xa2aFfd8301BfB3c5b815829f2F509f053556D21B",
-        "cacheHash": "05f2bcff822411342f00ff93c7dd2f5a"
+        "wrapped": "0xa2aFfd8301BfB3c5b815829f2F509f053556D21B"
       },
       "tags": [
         "Top"

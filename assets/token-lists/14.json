@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T20:56:46.766Z",
+  "timestamp": "2025-10-06T22:06:20.790Z",
   "tokens": [
     {
       "chainId": 14,
@@ -13,11 +13,8 @@
       "name": "Wrapped Flare",
       "symbol": "WFLR",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/14/0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
-      }
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "tags": []
     },
     {
       "name": "Flare",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 14,
-      "logoURI": "https://assets.citrus.finance/token-logos/14/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/14.webp",
       "extensions": {
-        "wrapped": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
-        "cacheHash": "327b82472c9eb6ec95b215948ec650e3"
+        "wrapped": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d"
       },
       "tags": [
         "Top"

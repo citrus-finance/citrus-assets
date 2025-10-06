@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:43111",
+  "name": "Citrus Finance on Hemi",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:19.794Z",
+  "timestamp": "2025-10-06T22:07:43.088Z",
   "tokens": [
     {
       "chainId": 43111,
@@ -13,11 +13,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ecfc154014347acde06b399690aded97"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -25,11 +22,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f7349ef0c11ab392f6a9bd1054a3088f"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x4200000000000000000000000000000000000006.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -37,11 +31,8 @@
       "name": "Lorenzo Wrapped Bitcoin",
       "symbol": "enzoBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x6A9A65B84843F5fD4aC9a0471C4fc11AFfFBce4a.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "150a6ec609192d2be12c7ca05985938c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -49,11 +40,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x6c851F501a3F24E29A8E39a29591cddf09369080.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7b9a1d8757fbe42c50ac7177249457d7"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x6c851f501a3f24e29a8e39a29591cddf09369080.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -61,11 +49,8 @@
       "name": "Uniswap",
       "symbol": "UNI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x6fD31f56eb971113bEA12C5883deC68337b3B7b5.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de2b254eb5eae24503589f0d2aed9965"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x6fd31f56eb971113bea12c5883dec68337b3b7b5.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -73,11 +58,8 @@
       "name": "uBTC",
       "symbol": "uBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x78E26E8b953C7c78A58d69d8B9A91745C2BbB258.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "5d495dc022bd22394d0d6b8a8b62854b"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -85,11 +67,8 @@
       "name": "Virtual USD",
       "symbol": "vUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x7A06C4AeF988e7925575C50261297a946aD204A8.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c75b22cf369ca37b6782a93e29a5053d"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x7a06c4aef988e7925575c50261297a946ad204a8.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -97,11 +76,17 @@
       "name": "iBTC",
       "symbol": "iBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0x8154Aaf094c2f03Ad550B6890E1d4264B5DdaD9A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "54ed3c1d3ab57df94efd3561f2e6b283"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x8154aaf094c2f03ad550b6890e1d4264b5ddad9a.png",
+      "tags": []
+    },
+    {
+      "chainId": 43111,
+      "address": "0x99e3dE3817F6081B2568208337ef83295b7f591D",
+      "name": "Hemi",
+      "symbol": "HEMI",
+      "decimals": 18,
+      "logoURI": "https://cdn.oku.trade/logos/43111/0x99e3de3817f6081b2568208337ef83295b7f591d.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -109,11 +94,8 @@
       "name": "hemiBTC",
       "symbol": "hemiBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d6921b4e15b0fe7c840f825463b0aa80"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -121,11 +103,8 @@
       "name": "Bridged USDC (Stargate)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0xad11a8BEb98bbf61dbb1aa0F6d6F2ECD87b35afA.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "80d20b394ac01bb390f4c57bafe0bc36"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -133,11 +112,8 @@
       "name": "exSat Staking BTC",
       "symbol": "esBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0xaFB068838136358CFa6B54BEa580B86DF70BBA7f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "032da4db8f624bb2a3d0ac22a47dfa51"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xafb068838136358cfa6b54bea580b86df70bba7f.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -145,11 +121,8 @@
       "name": "Satoshi Stablecoin V2",
       "symbol": "satUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0xb4818BB69478730EF4e33Cc068dD94278e2766cB.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0be94f0556a31888e97e606ab4c925c3"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xb4818bb69478730ef4e33cc068dd94278e2766cb.png",
+      "tags": []
     },
     {
       "chainId": 43111,
@@ -157,11 +130,8 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43111/0xbB0D083fb1be0A9f6157ec484b6C79E0A4e31C2e.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "de4c77524fa1323d2042cc4d0ceecd59"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/43111/0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e.png",
+      "tags": []
     }
   ]
 }

@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:50.392Z",
+  "timestamp": "2025-10-06T22:06:47.004Z",
   "tokens": [
     {
       "chainId": 1135,
@@ -13,10 +13,12 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x03C7054BCB39f7b2e5B2c7AcB37583e32D70Cfa3.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "9c0f8eaa38ca4f67efb8f7a14535e1ac"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "WBTC"
       }
     },
     {
@@ -25,10 +27,12 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x05D032ac25d322df992303dCa074EE7392C117b9.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1ec57654ae2b3c91302d3b68c1470b5a"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "default",
+        "opTokenId": "USDT"
       }
     },
     {
@@ -37,11 +41,8 @@
       "name": "RGB",
       "symbol": "RGB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x0bf4a86BA09fb1BF45b10D49F10953F6bc8E8A3c.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "723fdd7890bab7e68259c9ee797b98d8"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/1135/0x0bf4a86ba09fb1bf45b10d49f10953f6bc8e8a3c.png",
+      "tags": []
     },
     {
       "chainId": 1135,
@@ -49,10 +50,11 @@
       "name": "IDRX",
       "symbol": "IDRX",
       "decimals": 2,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/IDRX/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "e632cb076141ba10af9afcdab695e1d5"
+        "opListId": "extended",
+        "opTokenId": "IDRX"
       }
     },
     {
@@ -61,10 +63,12 @@
       "name": "Swarm Markets",
       "symbol": "SMT",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x2fcAb60dc6Ad65be5F2Aae6a1B2E2ecB93017888.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d538ad020b66334a61a4b24476861711"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "SMT"
       }
     },
     {
@@ -73,10 +77,12 @@
       "name": "UTU Coin",
       "symbol": "UTU",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x398697b203cA909e05690B6684D56938964b07A0.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/UTU/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "d17fda9bf62027e1852e0c6292684c08"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "UTU"
       }
     },
     {
@@ -85,11 +91,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 1135,
@@ -97,10 +100,11 @@
       "name": "Stargate USD₮0 (Bridged)",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x43F2376D5D03553aE72F4A8093bbe9de4336EB08.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     },
     {
@@ -109,10 +113,12 @@
       "name": "Tellor",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x665060707c3Ea3c31b3eaBaD7F409072446E1D50.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/TRB/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "8f6f8775f89fdf93c2e56af58f9e9ae8"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "TRB"
       }
     },
     {
@@ -121,10 +127,12 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0x76D8de471F54aAA87784119c60Df1bbFc852C415.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "4663dbe54bec02f96555f75ce0199594"
+        "liskBridgeAddress": "0xca498Ee83eD3546321d4DC25e2789B0624F15f68",
+        "opListId": "default",
+        "opTokenId": "wstETH"
       }
     },
     {
@@ -133,10 +141,12 @@
       "name": "Lisk",
       "symbol": "LSK",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0xac485391EB2d7D88253a7F1eF18C37f4242D1A24.ico",
+      "logoURI": "https://ethereum-optimism.github.io/data/LSK/logo.svg",
       "tags": [],
       "extensions": {
-        "cacheHash": "7f256ed3b46b51f7995366c6445a55ca"
+        "liskBridgeAddress": "0x4200000000000000000000000000000000000010",
+        "opListId": "extended",
+        "opTokenId": "LSK"
       }
     },
     {
@@ -145,10 +155,12 @@
       "name": "Bridged EURC (Lisk)",
       "symbol": "EURC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0xe12cEFaAD61e551691BFa5cDA36e5dE051778C65.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/BridgedEURC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "6cf296091dcb54cca8f6529e8bf64bb5"
+        "liskBridgeAddress": "0x4db1c96C1f9c3d5429fDf35ED2e684b309b0c281",
+        "opListId": "extended",
+        "opTokenId": "BridgedEURC"
       }
     },
     {
@@ -157,10 +169,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1135,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/1135.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "e2003cf3d4775d9b62c8ead511821c15"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"
@@ -172,10 +183,12 @@
       "name": "Bridged USDC (Lisk)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1135/0xF242275d3a6527d877f2c927a82D9b057609cc71.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "e2fe39e9e18925a75c4153f77632b683"
+        "liskBridgeAddress": "0x3b1ac69368eb6447F5db2d4E1641380Fa9e40d29",
+        "opListId": "extended",
+        "opTokenId": "BridgedUSDC"
       }
     }
   ]

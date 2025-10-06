@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:55.790Z",
+  "timestamp": "2025-10-06T22:06:50.388Z",
   "tokens": [
     {
       "name": "Ether",
@@ -13,10 +13,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1891,
-      "logoURI": "https://assets.citrus.finance/token-logos/1891/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/lightlink.webp",
       "extensions": {
-        "wrapped": "0xF42991f02C07AB66cFEa282E7E482382aEB85461",
-        "cacheHash": "79056d106e77e6d43d6875d867897a29"
+        "wrapped": "0xF42991f02C07AB66cFEa282E7E482382aEB85461"
       },
       "tags": [
         "Top"
@@ -28,11 +27,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1891/0xF42991f02C07AB66cFEa282E7E482382aEB85461.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f07f769a5672d69927c5e2778674cd97"
-      }
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295",
+      "tags": []
     }
   ]
 }

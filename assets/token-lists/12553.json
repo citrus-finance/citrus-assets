@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:06:14.952Z",
+  "timestamp": "2025-10-06T22:07:07.050Z",
   "tokens": [
     {
       "chainId": 12553,
@@ -13,11 +13,8 @@
       "name": "Wrapped RSS3",
       "symbol": "WRSS3",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/12553/0xE27D019909738D98Ab7F850C05eE07806c30c71D.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2c38b69b1cb94de53ac03de47cab6ba5"
-      }
+      "logoURI": "https://raw.githubusercontent.com/RSS3-Network/web3-icons/main/icons/rss3-wrss3.svg",
+      "tags": []
     },
     {
       "name": "RSS3",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 12553,
-      "logoURI": "https://assets.citrus.finance/token-logos/12553/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/12553.webp",
       "extensions": {
-        "wrapped": "0xE27D019909738D98Ab7F850C05eE07806c30c71D",
-        "cacheHash": "bb8b9b395f111d885f4d5468750e3d2e"
+        "wrapped": "0xE27D019909738D98Ab7F850C05eE07806c30c71D"
       },
       "tags": [
         "Top"

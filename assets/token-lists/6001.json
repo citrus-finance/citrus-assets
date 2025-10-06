@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:02:04.524Z",
+  "timestamp": "2025-10-06T22:06:55.400Z",
   "tokens": [
     {
       "name": "BounceBit",
@@ -13,10 +13,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 6001,
-      "logoURI": "https://assets.citrus.finance/token-logos/6001/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/6001.webp",
       "extensions": {
-        "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863",
-        "cacheHash": "95a05dcd869bc6b2706bfb08b8ad5968"
+        "wrapped": "0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863"
       },
       "tags": [
         "Top"
@@ -28,11 +27,8 @@
       "name": "Wrapped BounceBit Token",
       "symbol": "WBB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/6001/0xF4c20e5004C6FDCDdA920bDD491ba8C98a9c5863.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f2332b3bd448f95c369bc9964270f884"
-      }
+      "logoURI": "https://bbscan.io/images/token/wbb.svg",
+      "tags": []
     }
   ]
 }

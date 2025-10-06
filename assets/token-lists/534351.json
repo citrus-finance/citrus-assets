@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:06.557Z",
+  "timestamp": "2025-10-06T22:07:21.760Z",
   "tokens": [
     {
       "chainId": 534351,
@@ -13,10 +13,11 @@
       "name": "Wrapped stETH",
       "symbol": "wstETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x2DAf22Caf40404ad8ff0Ab1E77F9C08Fef3953e2.png",
+      "logoURI": "https://cdn.oku.trade/logos/534351/0x2daf22caf40404ad8ff0ab1e77f9c08fef3953e2.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "6ea094225c256b777db55a3f634ed3b6"
+        "scrollListId": "default",
+        "scrollTokenId": "wstETH"
       }
     },
     {
@@ -25,11 +26,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x5300000000000000000000000000000000000004.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "chainId": 534351,
@@ -37,10 +35,11 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0x7878290DB8C4f02bd06E0E249617871c19508bE6.png",
+      "logoURI": "https://cdn.oku.trade/logos/534351/0x7878290db8c4f02bd06e0e249617871c19508be6.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "2236dbcfbf1b2864532110abf013736a"
+        "scrollListId": "default",
+        "scrollTokenId": "USDC"
       }
     },
     {
@@ -49,10 +48,11 @@
       "name": "Tellor Tributes",
       "symbol": "TRB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xC8224ebfC539bD69848516384bF310abED504639.png",
+      "logoURI": "https://cdn.oku.trade/logos/534351/0xc8224ebfc539bd69848516384bf310abed504639.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d1877db1773fdb71641d9e7b3e906cd2"
+        "scrollListId": "extended",
+        "scrollTokenId": "TRB"
       }
     },
     {
@@ -61,10 +61,11 @@
       "name": "Puffer Vault",
       "symbol": "PufETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xCd19E32F4f6F4c8D10A416c0397297169E93b464.png",
+      "logoURI": "https://cdn.oku.trade/logos/534351/0xcd19e32f4f6f4c8d10a416c0397297169e93b464.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "64635452fcda3a36d93b0c9ee1613fac"
+        "scrollListId": "extended",
+        "scrollTokenId": "PufETH"
       }
     },
     {
@@ -73,10 +74,11 @@
       "name": "Gho Token",
       "symbol": "GHO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xD9692f1748aFEe00FACE2da35242417dd05a8615.png",
+      "logoURI": "https://token.nyc3.cdn.digitaloceanspaces.com/logos/5343510xd9692f1748afee00face2da35242417dd05a8615.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "787e91a4fbaa7644a655f66c41361cbf"
+        "scrollListId": "extended",
+        "scrollTokenId": "GHO"
       }
     },
     {
@@ -85,10 +87,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 534351,
-      "logoURI": "https://assets.citrus.finance/token-logos/534351/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x5300000000000000000000000000000000000004",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x5300000000000000000000000000000000000004"
       },
       "tags": [
         "Top"

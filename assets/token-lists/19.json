@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T20:56:47.031Z",
+  "timestamp": "2025-10-06T22:06:21.200Z",
   "tokens": [
     {
       "chainId": 19,
@@ -13,11 +13,8 @@
       "name": "Wrapped Songbird",
       "symbol": "WSGB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/19/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "856dafb4c827c79879f13d4e4bc6c18b"
-      }
+      "logoURI": "https://flare-explorer.flare.network/assets/configs/network_icon_dark.png",
+      "tags": []
     },
     {
       "name": "Songbird",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 19,
-      "logoURI": "https://assets.citrus.finance/token-logos/19/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/19.webp",
       "extensions": {
-        "wrapped": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
-        "cacheHash": "a19a8dba52f6fc910c4e0c894124b8f2"
+        "wrapped": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED"
       },
       "tags": [
         "Top"

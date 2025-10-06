@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:31.563Z",
+  "timestamp": "2025-10-06T22:07:44.975Z",
   "tokens": [
     {
       "chainId": 810180,
@@ -13,11 +13,8 @@
       "name": "Nova Merged USDC  zkLink ",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0x1a1A3b2ff016332e866787B311fcB63928464509.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "49d67a4bdc924756147dd068bc3697f3"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0x1a1a3b2ff016332e866787b311fcb63928464509.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -25,11 +22,8 @@
       "name": "Nova Merged USDT  zkLink ",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0x2F8A25ac62179B31D62D7F80884AE57464699059.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cc010462f944767b050c21aff1bb2383"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0x2f8a25ac62179b31d62d7f80884ae57464699059.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -37,11 +31,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0x8280a4e7D5B3B658ec4580d3Bc30f5e50454F169.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "2f43d47df5588c85998ce566d912b0fb"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0x8280a4e7d5b3b658ec4580d3bc30f5e50454f169.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -49,11 +40,8 @@
       "name": "Solv Protocol solvBTC",
       "symbol": "SOLVBTC",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0xbEAf16cFD8eFe0FC97C2a07E349B9411F5dC272C.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c532bde6bbae7428d950376881c8508c"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0xbeaf16cfd8efe0fc97c2a07e349b9411f5dc272c.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -61,11 +49,8 @@
       "name": "zkLink",
       "symbol": "ZKL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0xC967dabf591B1f4B86CFc74996EAD065867aF19E.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f45aa794ebc30ec327f8eb5b079d984e"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0xc967dabf591b1f4b86cfc74996ead065867af19e.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -73,11 +58,8 @@
       "name": "Nova Merged wBTC  zkLink ",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0xDa4AaEd3A53962c83B35697Cd138cc6df43aF71f.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "6809b25cd713e9ac2acde59829d3884a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0xda4aaed3a53962c83b35697cd138cc6df43af71f.png",
+      "tags": []
     },
     {
       "chainId": 810180,
@@ -85,11 +67,8 @@
       "name": "Nova Merged DAI  zkLink ",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/810180/0xF573fA04A73d5AC442F3DEa8741317fEaA3cDeab.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "172670035d219800b0e8eab50d0d325a"
-      }
+      "logoURI": "https://cdn.oku.trade/logos/810180/0xf573fa04a73d5ac442f3dea8741317feaa3cdeab.png",
+      "tags": []
     }
   ]
 }

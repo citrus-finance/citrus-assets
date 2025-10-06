@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:23.573Z",
+  "timestamp": "2025-10-06T22:06:36.678Z",
   "tokens": [
     {
       "chainId": 204,
@@ -13,11 +13,8 @@
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/204/0x4200000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "0c2b90c1c726c820f1d289b96657d630"
-      }
+      "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png",
+      "tags": []
     },
     {
       "name": "BNB",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 204,
-      "logoURI": "https://assets.citrus.finance/token-logos/204/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/204.webp",
       "extensions": {
-        "wrapped": "0x4200000000000000000000000000000000000006",
-        "cacheHash": "519935b7f2513a4b03df33a369a73ea6"
+        "wrapped": "0x4200000000000000000000000000000000000006"
       },
       "tags": [
         "Top"

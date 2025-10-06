@@ -1,11 +1,11 @@
 {
-  "name": "Citrus Finance on chain:1923",
+  "name": "Citrus Finance on Swellchain",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:09:24.530Z",
+  "timestamp": "2025-10-06T22:07:34.868Z",
   "tokens": [
     {
       "chainId": 1923,
@@ -13,10 +13,11 @@
       "name": "Stargate USD₮0 (Bridged)",
       "symbol": "USD₮0",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/1923/0x102d758f688a4C1C5a80b116bD945d4455460282.png",
+      "logoURI": "https://ethereum-optimism.github.io/data/USD%E2%82%AE0/logo.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "053dabbb1d6766f5e60ba4da6148e3fe"
+        "opListId": "extended",
+        "opTokenId": "USD₮0"
       }
     }
   ]

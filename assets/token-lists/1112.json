@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:49.216Z",
+  "timestamp": "2025-10-06T22:06:46.557Z",
   "tokens": [
     {
       "chainId": 1112,
@@ -13,11 +13,8 @@
       "name": "Wrapped Wemix",
       "symbol": "WWEMIX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/1112/0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1.ico",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "891a17cf03ed4120d19ba6f625dda3a5"
-      }
+      "logoURI": "https://wemixstake.com/resource/images/icons/icon_wemix.svg",
+      "tags": []
     },
     {
       "name": "WEMIX",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 1112,
-      "logoURI": "https://assets.citrus.finance/token-logos/1112/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.ico",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/unknown.svg",
       "extensions": {
-        "wrapped": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1",
-        "cacheHash": "20b26e782c278fdf19917680858e1989"
+        "wrapped": "0x8fe2Ec5D822164D9143d285f4cCDEa15373B2BC1"
       },
       "tags": [
         "Top"

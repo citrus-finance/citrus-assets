@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:07:06.423Z",
+  "timestamp": "2025-10-06T22:07:21.411Z",
   "tokens": [
     {
       "chainId": 167009,
@@ -13,11 +13,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/167009/0xae2C46ddb314B9Ba743C6dEE4878F151881333D9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "14afc9a568891be03e2330f9a7646a7c"
-      }
+      "logoURI": "https://etherscan.io/token/images/weth_28.png?v=2",
+      "tags": []
     },
     {
       "name": "Ether",
@@ -25,10 +22,9 @@
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 167009,
-      "logoURI": "https://assets.citrus.finance/token-logos/167009/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/taiko.webp",
       "extensions": {
-        "wrapped": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9",
-        "cacheHash": "707e23510a8a0a018c1bc8d1ebdf5d49"
+        "wrapped": "0xae2C46ddb314B9Ba743C6dEE4878F151881333D9"
       },
       "tags": [
         "Top"

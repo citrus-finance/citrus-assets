@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:10:31.913Z",
+  "timestamp": "2025-10-06T22:07:45.077Z",
   "tokens": [
     {
       "chainId": 43288,
@@ -13,11 +13,8 @@
       "name": "USD Coin",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x126969743a6d300bab08F303f104f0f7DBAfbe20.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "69ae13a86e40d722cbc1666f6b206632"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x126969743a6d300bab08F303f104f0f7DBAfbe20.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -25,11 +22,8 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "d3727a9c9adab81924c2aadebb3ccfeb"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x12bb1A120dcF8Cb7152eDAC9f04d176DD7f41F7e.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -37,11 +31,8 @@
       "name": "Wrapped Boba",
       "symbol": "WBOBA9",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x26c319B7B2cF823365414d082698C8ac90cbBA63.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "06c207249a4beadfece98e4891328315"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/boba.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -49,11 +40,8 @@
       "name": "Avax",
       "symbol": "AVAX",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x4200000000000000000000000000000000000023.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "f093b7ae388727b1a7577b2efa7e6e4f"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/avax.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -61,11 +49,8 @@
       "name": "Tether USD",
       "symbol": "USDT.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "cb70c4b9db87466a1b308c07c13ba0db"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x4ED96c1dc969d7E2310D9582A68c39556C005912.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -73,11 +58,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3d44a3a2e6e508e297d08aabaeb8752a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x69B7d24f0E03Ff21949081C95dA7288fEa5C844D.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -85,11 +67,8 @@
       "name": "Binance USD",
       "symbol": "BUSD",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "a1cb742a31fa8b32c56cc549c281366a"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0x87e062dE99Ed71aF9b22dDA63e1b6D43333798f8.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -97,11 +76,8 @@
       "name": "Binance USD",
       "symbol": "BUSD.e",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "ea1636219a29c9444925f4afc3c06158"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xb8B0034CFD89925944C07Ac6CcB2834d1774cfb6.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -109,11 +85,8 @@
       "name": "EVO",
       "symbol": "EVO",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0xc8849f32138de93F6097199C5721a9EfD91ceE01.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "e2f7cc0ab3e0c5769f4238a63d3d5829"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xc8849f32138de93F6097199C5721a9EfD91ceE01.jpg",
+      "tags": []
     },
     {
       "chainId": 43288,
@@ -121,11 +94,8 @@
       "name": "Tether USD",
       "symbol": "USDt",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/43288/0xfaA13D82756f1e0e4dec9416b83121db3Fc35199.jpg",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "941e17ba756478b1f285b7e0b9b8589e"
-      }
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/boba-avax/0xfaA13D82756f1e0e4dec9416b83121db3Fc35199.jpg",
+      "tags": []
     }
   ]
 }

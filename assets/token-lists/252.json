@@ -5,7 +5,7 @@
     "minor": 0,
     "patch": 0
   },
-  "timestamp": "2025-08-30T21:01:29.858Z",
+  "timestamp": "2025-10-06T22:06:39.793Z",
   "tokens": [
     {
       "chainId": 252,
@@ -13,10 +13,10 @@
       "name": "Savings Dai",
       "symbol": "sDAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0x09eAdcBAa812A4C076c3a6cDe765DC4a22E0d775.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "2b6794a53d657957f7f87371390fa213"
+        "coingeckoId": "savings-dai"
       }
     },
     {
@@ -25,10 +25,10 @@
       "name": "Staked USDe",
       "symbol": "sUSDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "32e5c76880e41fc247c672916844369d"
+        "coingeckoId": "ethena-staked-usde"
       }
     },
     {
@@ -37,10 +37,10 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0x2FC7447F6cF71f9aa9E7FF8814B37E55b268Ec91.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "7ff245547915187fa9af4e623d1df1dc"
+        "coingeckoId": "balancer"
       }
     },
     {
@@ -49,11 +49,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0x4d15EA9C2573ADDAeD814e48C148b5262694646A.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "fed1162523102d113bf71734d586a91e"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d15ea9c2573addaed814e48c148b5262694646a.png",
+      "tags": []
     },
     {
       "chainId": 252,
@@ -61,10 +58,10 @@
       "name": "USDe",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d6adf2abce21174e5bdfece19d58f9e2"
+        "coingeckoId": "ethena-usde"
       }
     },
     {
@@ -73,11 +70,8 @@
       "name": "USDe",
       "symbol": "USDe",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xb3a7862d7B29B8E3D235299128C6985E2CD44c33.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "4ef8512619ab785c6639c90ae2b6ec4d"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb3a7862d7b29b8e3d235299128c6985e2cd44c33.png",
+      "tags": []
     },
     {
       "chainId": 252,
@@ -85,22 +79,18 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "7635c43a7fc77c087ca3042174408fb7"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543.png",
+      "tags": []
     },
     {
-      "name": "Frax Ether",
-      "symbol": "frxETH",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18,
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "chainId": 252,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE.webp",
+      "logoURI": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/252.webp",
       "extensions": {
-        "wrapped": "0xFC00000000000000000000000000000000000006",
-        "cacheHash": "b46464fa14cf5f0357b2dd8d4ff6bf46"
+        "wrapped": "0xFC00000000000000000000000000000000000006"
       },
       "tags": [
         "Top"
@@ -112,11 +102,8 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xf6a011fAC307f55Cd4bA8e43b8b93f39808DdaA9.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "c11bc408396c41c6c4e72c2f963b1464"
-      }
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.png",
+      "tags": []
     },
     {
       "chainId": 252,
@@ -124,23 +111,20 @@
       "name": "Frax USD",
       "symbol": "frxUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xFc00000000000000000000000000000000000001.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000001.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "1d3fbb5691ddd159ac7953db9bc19118"
+        "coingeckoId": "frax-usd"
       }
     },
     {
       "chainId": 252,
       "address": "0xFc00000000000000000000000000000000000002",
-      "name": "Frax Share",
+      "name": "Wrapped Frax",
       "symbol": "FXS",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xFc00000000000000000000000000000000000002.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "3cf72cc9d6f474643d5a7dd410d7bd41"
-      }
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39951/large/FXS.png?1724902450",
+      "tags": []
     },
     {
       "chainId": 252,
@@ -148,10 +132,10 @@
       "name": "Staked Frax Ether",
       "symbol": "sfrxETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xFC00000000000000000000000000000000000005.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000005.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "d9225e52123aa107f90dc896a0c8e16f"
+        "coingeckoId": "staked-frax-ether"
       }
     },
     {
@@ -160,22 +144,19 @@
       "name": "Wrapped Frax Ether",
       "symbol": "wfrxETH",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xFC00000000000000000000000000000000000006.png",
-      "tags": [],
-      "extensions": {
-        "cacheHash": "627f0c548e59d0d23569d10b697db44e"
-      }
+      "logoURI": "https://fraxscan.com/token/images/wfrxeth_32.png",
+      "tags": []
     },
     {
       "chainId": 252,
       "address": "0xfc00000000000000000000000000000000000008",
-      "name": "Staked Frax",
-      "symbol": "sFRAX",
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
       "decimals": 18,
-      "logoURI": "https://assets.citrus.finance/token-logos/252/0xfc00000000000000000000000000000000000008.png",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png",
       "tags": [],
       "extensions": {
-        "cacheHash": "2f35c4807fd2ad82d9921bf33eeb2c99"
+        "coingeckoId": "staked-frax-usd"
       }
     }
   ]
