@@ -1,0 +1,38 @@
+[
+  {
+    "address": "0x58acc2600835211dcb5847c5fa422791fd492409",
+    "project": "dtrinity-dusd",
+    "dlPoolId": "f42cf641-393d-4671-895a-3c85cf7b1a57",
+    "url": "https://app.dtrinity.org/dstake/vault/"
+  },
+  {
+    "address": "0x637c09524b0f29fb761cb7029de4c04656bed6f9",
+    "project": "stake-dao",
+    "dlPoolId": "02895fcf-b985-4566-9c89-2d698405aa2a",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xfc2f55d6a042032d6e4e46152f4237c5db547823",
+    "project": "stake-dao",
+    "dlPoolId": "a5b53c31-4d75-4285-af41-b11b56275ef4",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x9ad991d1565c33ce155f7f27ac8bcfe48ef2d7ab",
+    "project": "stake-dao",
+    "dlPoolId": "ea80be99-ea70-454d-879b-3cdb90efa5f1",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x655f5728dd7ca30fdf85ab94dd4394dcee547471",
+    "project": "stake-dao",
+    "dlPoolId": "8b7ec16e-5710-4220-88d0-eb321d519f95",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xfa80a23d162ac5fd4cf3eb399c63c33f9adc5a56",
+    "project": "stake-dao",
+    "dlPoolId": "27100fc5-fe2d-453a-bbfb-5a490bf72a7f",
+    "url": "https://stakedao.org"
+  }
+]

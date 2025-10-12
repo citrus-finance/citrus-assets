@@ -1,0 +1,2540 @@
+[
+  {
+    "address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+    "project": "ethena-usde",
+    "dlPoolId": "66985a81-9c51-46ca-9977-42b4fe7bc6df",
+    "url": "https://www.ethena.fi/"
+  },
+  {
+    "address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+    "project": "maple",
+    "dlPoolId": "43641cf5-a92e-416b-bce9-27113d3c0db6",
+    "url": "https://app.maple.finance/earn"
+  },
+  {
+    "address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "project": "sky-lending",
+    "dlPoolId": "d8c4eff5-c8a9-46fc-a888-057c4c668e72",
+    "url": "https://sky.money/"
+  },
+  {
+    "address": "0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d",
+    "project": "maple",
+    "dlPoolId": "8edfdf02-cdbb-43f7-bca6-954e5fe56813",
+    "url": "https://app.maple.finance/earn"
+  },
+  {
+    "address": "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
+    "project": "morpho-v1",
+    "dlPoolId": "a44febf3-34f6-4cd5-8ab1-f246ebe49f9e",
+    "url": "https://app.morpho.org/ethereum/vault/0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB"
+  },
+  {
+    "address": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+    "project": "treehouse-protocol",
+    "dlPoolId": "5762f4a8-bb48-45d6-90ed-2d93d1777169",
+    "url": "https://www.treehouse.finance/"
+  },
+  {
+    "address": "0xa0d3707c569ff8c87fa923d3823ec5d81c98be78",
+    "project": "fluid-lite",
+    "dlPoolId": "e72916f7-a2d1-47ad-a4b9-2b054337cfd6",
+    "url": "https://lite.instadapp.io/"
+  },
+  {
+    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "project": "frax-ether",
+    "dlPoolId": "5b3aebb3-891d-47fc-92e2-927ada3d5b82",
+    "url": "https://app.frax.finance/frxeth/mint"
+  },
+  {
+    "address": "0x9fb7b4477576fe5b32be4c1843afb1e55f251b33",
+    "project": "fluid-lending",
+    "dlPoolId": "4438dabc-7f0c-430b-8136-2722711ae663",
+    "url": "https://fluid.io/lending/1/USDC"
+  },
+  {
+    "address": "0x5c20b550819128074fd538edf79791733ccedd18",
+    "project": "fluid-lending",
+    "dlPoolId": "4e8cc592-c8d5-4824-8155-128ba521e903",
+    "url": "https://fluid.io/lending/1/USDT"
+  },
+  {
+    "address": "0xd63070114470f685b75b74d60eec7c1113d33a3d",
+    "project": "morpho-v1",
+    "dlPoolId": "32d65ccd-5c07-4b45-8441-98bc86c0720a",
+    "url": "https://app.morpho.org/ethereum/vault/0xd63070114470f685b75B74D60EEc7c1113d33a3D"
+  },
+  {
+    "address": "0xbeefff209270748ddd194831b3fa287a5386f5bc",
+    "project": "morpho-v1",
+    "dlPoolId": "6fcfa6f7-861f-4d50-b594-190f4be37abf",
+    "url": "https://app.morpho.org/ethereum/vault/0xBEeFFF209270748ddd194831b3fa287a5386f5bC"
+  },
+  {
+    "address": "0xdd0f28e19c1780eb6396170735d45153d261490d",
+    "project": "morpho-v1",
+    "dlPoolId": "ab439af4-9978-4542-bc65-2772dfb79e50",
+    "url": "https://app.morpho.org/ethereum/vault/0xdd0f28e19C1780eb6396170735D45153D261490d"
+  },
+  {
+    "address": "0x777791c4d6dc2ce140d00d2828a7c93503c67777",
+    "project": "morpho-v1",
+    "dlPoolId": "04597889-bb52-4ae9-aafa-ba64e3d9c7c6",
+    "url": "https://app.morpho.org/ethereum/vault/0x777791C4d6DC2CE140D00D2828a7C93503c67777"
+  },
+  {
+    "address": "0x19ebd191f7a24ece672ba13a302212b5ef7f35cb",
+    "project": "yieldfi",
+    "dlPoolId": "7c43e890-cefc-48d1-bf80-203cdb7dfe4f",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0xe1b4d34e8754600962cd944b535180bd758e6c2e",
+    "project": "upshift",
+    "dlPoolId": "eab7ee0f-e942-490d-be54-b8b6512ba73d",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x9a8bc3b04b7f3d87cfc09ba407dced575f2d61d8",
+    "project": "morpho-v1",
+    "dlPoolId": "e6fe542f-e35f-445e-8465-cebc8cd37967",
+    "url": "https://app.morpho.org/ethereum/vault/0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8"
+  },
+  {
+    "address": "0x88887be419578051ff9f4eb6c858a951921d8888",
+    "project": "cap",
+    "dlPoolId": "bf6ca887-e357-49ec-8031-0d1a6141c455",
+    "url": "https://cap.app"
+  },
+  {
+    "address": "0xbeef047a543e45807105e51a8bbefcc5950fcfba",
+    "project": "morpho-v1",
+    "dlPoolId": "2bad58b8-13f6-41c6-9245-a9dc1ea85be9",
+    "url": "https://app.morpho.org/ethereum/vault/0xbEef047a543E45807105E51A8BBEFCc5950fcfBa"
+  },
+  {
+    "address": "0xbeef11ecb698f4b5378685c05a210bdf71093521",
+    "project": "morpho-v1",
+    "dlPoolId": "a2f90fad-d583-403f-9722-a19502ce7776",
+    "url": "https://app.morpho.org/ethereum/vault/0xBeEf11eCb698f4B5378685C05A210bdF71093521"
+  },
+  {
+    "address": "0xc582f04d8a82795aa2ff9c8bb4c1c889fe7b754e",
+    "project": "morpho-v1",
+    "dlPoolId": "51b5c6c2-d2f2-45f6-95b0-314efbfae6d7",
+    "url": "https://app.morpho.org/ethereum/vault/0xc582F04d8a82795aa2Ff9c8bb4c1c889fe7b754e"
+  },
+  {
+    "address": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+    "project": "reservoir-protocol",
+    "dlPoolId": "d646f32f-d5af-4e34-a29f-8ebeea6a8520",
+    "url": "https://www.reservoir.xyz/"
+  },
+  {
+    "address": "0x812b2c6ab3f4471c0e43d4bb61098a9211017427",
+    "project": "morpho-v1",
+    "dlPoolId": "b1a96fec-a87b-45e4-a66a-bce64db84538",
+    "url": "https://app.morpho.org/ethereum/vault/0x812B2C6Ab3f4471c0E43D4BB61098a9211017427"
+  },
+  {
+    "address": "0x31a5684983eee865d943a696aac155363ba024f9",
+    "project": "morpho-v1",
+    "dlPoolId": "08f7f24c-230a-4fcf-a2bd-aeb8df090142",
+    "url": "https://app.morpho.org/ethereum/vault/0x31A5684983EeE865d943A696AAC155363bA024f9"
+  },
+  {
+    "address": "0xc824a08db624942c5e5f330d56530cd1598859fd",
+    "project": "upshift",
+    "dlPoolId": "bb925c10-033a-488d-90c1-595001b5656e",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
+    "project": "frax",
+    "dlPoolId": "55de30c3-bf9f-4d4e-9e0b-536a8ef5ab35",
+    "url": "https://app.frax.finance/staking/overview"
+  },
+  {
+    "address": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+    "project": "infinifi",
+    "dlPoolId": "8fa2e60e-365a-41fc-8d50-fadde5041f94",
+    "url": "https://infinifi.xyz/"
+  },
+  {
+    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+    "project": "crvusd",
+    "dlPoolId": "5fd328af-4203-471b-bd16-1705c726d926",
+    "url": "https://crvusd.curve.fi/#/ethereum/markets"
+  },
+  {
+    "address": "0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
+    "project": "morpho-v1",
+    "dlPoolId": "3925e26d-d104-4d4f-88c7-205c00399598",
+    "url": "https://app.morpho.org/ethereum/vault/0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4"
+  },
+  {
+    "address": "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1",
+    "project": "morpho-v1",
+    "dlPoolId": "dd04a8fb-2173-48be-ab30-97d9071cda17",
+    "url": "https://app.morpho.org/ethereum/vault/0xbEeFc011e94f43b8B7b455eBaB290C7Ab4E216f1"
+  },
+  {
+    "address": "0x0a2b94f6871c1d7a32fe58e1ab5e6dea2f114e56",
+    "project": "autofinance",
+    "dlPoolId": "e9a686bf-21ed-4f78-82be-cd32625c4725",
+    "url": "https://app.auto.finance/autopool?id=0x0a2b94f6871c1d7a32fe58e1ab5e6dea2f114e56"
+  },
+  {
+    "address": "0x6a29a46e21c730dca1d8b23d637c101cec605c5b",
+    "project": "fluid-lending",
+    "dlPoolId": "578cffd4-1470-44d0-8c5d-e9d4bd403651",
+    "url": "https://fluid.io/lending/1/GHO"
+  },
+  {
+    "address": "0x2371e134e3455e0593363cbf89d3b6cf53740618",
+    "project": "morpho-v1",
+    "dlPoolId": "85be31a9-9082-46b7-8b55-945aac96d014",
+    "url": "https://app.morpho.org/ethereum/vault/0x2371e134e3455e0593363cBF89d3b6cf53740618"
+  },
+  {
+    "address": "0xbeefb9f61cc44895d8aec381373555a64191a9c4",
+    "project": "morpho-v1",
+    "dlPoolId": "0f51b1aa-bb24-46ff-ba86-84d63beef8eb",
+    "url": "https://app.morpho.org/ethereum/vault/0xBEefb9f61CC44895d8AEc381373555a64191A9c4"
+  },
+  {
+    "address": "0x48afbbd342f64ef8a9ab1c143719b63c2ad81710",
+    "project": "meta-pool-eth",
+    "dlPoolId": "a500f58a-178e-4710-bd0b-37ced12be76e",
+    "url": "https://www.metapool.app/stake?token=ethereum"
+  },
+  {
+    "address": "0xcf62f905562626cfcdd2261162a51fd02fc9c5b6",
+    "project": "frax",
+    "dlPoolId": "42523cca-14b0-44f6-95fb-4781069520a5",
+    "url": "https://app.frax.finance/staking/overview"
+  },
+  {
+    "address": "0x974c8fbf4fd795f66b85b73ebc988a51f1a040a9",
+    "project": "morpho-v1",
+    "dlPoolId": "b3553660-cefd-4682-b03f-2aa0b306d047",
+    "url": "https://app.morpho.org/ethereum/vault/0x974c8FBf4fd795F66B85B73ebC988A51F1A040a9"
+  },
+  {
+    "address": "0x90551c1795392094fe6d29b758eccd233cfaa260",
+    "project": "fluid-lending",
+    "dlPoolId": "82da3bb0-00b6-4d88-b720-8435a3affd48",
+    "url": "https://fluid.io/lending/1/WETH"
+  },
+  {
+    "address": "0x0f359fd18bda75e9c49bc027e7da59a4b01bf32a",
+    "project": "morpho-v1",
+    "dlPoolId": "0677605a-0842-40af-8b8d-9d4ba5f55de3",
+    "url": "https://app.morpho.org/ethereum/vault/0x0F359FD18BDa75e9c49bC027E7da59a4b01BF32a"
+  },
+  {
+    "address": "0x8eb67a509616cd6a7c1b3c8c21d48ff57df3d458",
+    "project": "morpho-v1",
+    "dlPoolId": "468e4c2c-02df-427a-b2c7-5cea3a77014a",
+    "url": "https://app.morpho.org/ethereum/vault/0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458"
+  },
+  {
+    "address": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
+    "project": "morpho-v1",
+    "dlPoolId": "d3b8e6bc-50f7-4604-bda8-5e69ee9950aa",
+    "url": "https://app.morpho.org/ethereum/vault/0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658"
+  },
+  {
+    "address": "0x0c36327e93f749a7eec04603410df776150f47de",
+    "project": "morpho-v1",
+    "dlPoolId": "ca355d11-76ca-486d-b475-219da9565eaf",
+    "url": "https://app.morpho.org/ethereum/vault/0x0C36327e93F749a7eec04603410dF776150f47DE"
+  },
+  {
+    "address": "0xaf5372792a29dc6b296d6ffd4aa3386aff8f9bb2",
+    "project": "euler-v2",
+    "dlPoolId": "73e933a7-73b2-43ec-b1e9-d5d1d42ce2de",
+    "url": "https://app.euler.finance/vault/0xaF5372792a29dC6b296d6FFD4AA3386aff8f9BB2?network=ethereum"
+  },
+  {
+    "address": "0x5fde59415625401278c4d41c6befce3790eb357f",
+    "project": "upshift",
+    "dlPoolId": "c2ae32a2-4c5c-4dc2-a67e-d0c536a52e34",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x80e1048ede66ec4c364b4f22c8768fc657ff6a42",
+    "project": "upshift",
+    "dlPoolId": "6b6ddb24-adfd-449d-a21e-e029a102e318",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0xc54b4e08c1dcc199fdd35c6b5ab589ffd3428a8d",
+    "project": "morpho-v1",
+    "dlPoolId": "a26a7f9d-e55a-466a-b9fe-4041ce950cf0",
+    "url": "https://app.morpho.org/ethereum/vault/0xc54b4E08C1Dcc199fdd35c6b5Ab589ffD3428a8d"
+  },
+  {
+    "address": "0xb0f05e4de970a1aaf77f8c2f823953a367504ba9",
+    "project": "morpho-v1",
+    "dlPoolId": "b94eb474-2c96-404b-a822-0ed3fadd0148",
+    "url": "https://app.morpho.org/ethereum/vault/0xb0f05E4De970A1aaf77f8C2F823953a367504BA9"
+  },
+  {
+    "address": "0x9ba021b0a9b958b5e75ce9f6dff97c7ee52cb3e6",
+    "project": "dinero-(pxeth)",
+    "dlPoolId": "fc25b5ff-2ba8-44a3-895b-e0d22d96365f",
+    "url": "https://dineroismoney.com/pxeth/deposit"
+  },
+  {
+    "address": "0x62fe596d59fb077c2df736df212e0affb522dc78",
+    "project": "morpho-v1",
+    "dlPoolId": "6163c237-81c8-44a7-8b7a-4448913621ee",
+    "url": "https://app.morpho.org/ethereum/vault/0x62fE596d59fB077c2Df736dF212E0AFfb522dC78"
+  },
+  {
+    "address": "0x992b77179a5cf876bcd566ff4b3eae6482012b90",
+    "project": "convex-finance",
+    "dlPoolId": "f9b7afbc-e28f-48c8-8314-8969045f8063",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xbe53a109b494e5c9f97b9cd39fe969be68bf6204",
+    "project": "yearn-finance",
+    "dlPoolId": "7d89af7a-24c9-4292-aa38-7c71b05fbd6d",
+    "url": "https://yearn.fi/vaults/1/0xBe53A109B494E5c9f97b9Cd39Fe969BE68BF6204"
+  },
+  {
+    "address": "0x701907283a57ff77e255c3f1aad790466b8ce4ef",
+    "project": "morpho-v1",
+    "dlPoolId": "a70567b4-8f78-4583-a3b3-a013b51fa210",
+    "url": "https://app.morpho.org/ethereum/vault/0x701907283a57FF77E255C3f1aAD790466B8CE4ef"
+  },
+  {
+    "address": "0x182863131f9a4630ff9e27830d945b1413e347e8",
+    "project": "yearn-finance",
+    "dlPoolId": "7501ef09-87d1-405c-b2b2-f269b2727289",
+    "url": "https://yearn.fi/vaults/1/0x182863131F9a4630fF9E27830d945B1413e347E8"
+  },
+  {
+    "address": "0x47fe8ab9ee47dd65c24df52324181790b9f47efc",
+    "project": "morpho-v1",
+    "dlPoolId": "042c1019-87a8-4980-bf22-2dddbb08efe9",
+    "url": "https://app.morpho.org/ethereum/vault/0x47fe8Ab9eE47DD65c24df52324181790b9F47EfC"
+  },
+  {
+    "address": "0x68aea7b82df6ccdf76235d46445ed83f85f845a3",
+    "project": "morpho-v1",
+    "dlPoolId": "e691f4b9-4f0a-4c6b-b717-40af04078906",
+    "url": "https://app.morpho.org/ethereum/vault/0x68Aea7b82Df6CcdF76235D46445Ed83f85F845A3"
+  },
+  {
+    "address": "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
+    "project": "fluid-lending",
+    "dlPoolId": "1114f0c0-a493-4fed-97bb-922a7138a75a",
+    "url": "https://fluid.io/lending/1/wstETH"
+  },
+  {
+    "address": "0xa0804346780b4c2e3be118ac957d1db82f9d7484",
+    "project": "morpho-v1",
+    "dlPoolId": "5f25e831-d41f-4e34-97ac-5325f44ba4e2",
+    "url": "https://app.morpho.org/ethereum/vault/0xA0804346780b4c2e3bE118ac957D1DB82F9d7484"
+  },
+  {
+    "address": "0x3808708e761b988d23ae011ed0e12674fb66bd62",
+    "project": "sideshift",
+    "dlPoolId": "79a3b6ae-a514-4ee1-bc7f-36c71476f557",
+    "url": "https://sideshift.ai/staking"
+  },
+  {
+    "address": "0x34ece536d2ae03192b06c0a67030d1faf4c0ba43",
+    "project": "morpho-v1",
+    "dlPoolId": "4686b899-2069-4364-98d9-7fbb5a1e2587",
+    "url": "https://app.morpho.org/ethereum/vault/0x34eCe536d2ae03192B06c0A67030D1Faf4c0Ba43"
+  },
+  {
+    "address": "0x443df5eee3196e9b2dd77cabd3ea76c3dee8f9b2",
+    "project": "morpho-v1",
+    "dlPoolId": "23e6a9a6-f217-4a2b-a1ff-4551e9701487",
+    "url": "https://app.morpho.org/ethereum/vault/0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2"
+  },
+  {
+    "address": "0x739d8a60ed4b14e4cb6dcaeaf79d2ec0ca092237",
+    "project": "morpho-v1",
+    "dlPoolId": "56a38dff-090f-4302-a55e-a9de9871a7f6",
+    "url": "https://app.morpho.org/ethereum/vault/0x739d8a60ED4b14E4cB6DCAEAF79d2ec0Ca092237"
+  },
+  {
+    "address": "0xe41a0583334f0dc4e023acd0bfef3667f6fe0597",
+    "project": "morpho-v1",
+    "dlPoolId": "b2cd9efa-d17d-470b-8eb8-905af0e46a91",
+    "url": "https://app.morpho.org/ethereum/vault/0xe41a0583334f0dc4E023Acd0bFef3667F6FE0597"
+  },
+  {
+    "address": "0x00c8a649c9837523ebb406ceb17a6378ab5c74cf",
+    "project": "yearn-finance",
+    "dlPoolId": "03db161f-df2e-4393-b0c5-14762432d133",
+    "url": "https://yearn.fi/vaults/1/0x00C8a649C9837523ebb406Ceb17a6378Ab5C74cF"
+  },
+  {
+    "address": "0x028ec7330ff87667b6dfb0d94b954c820195336c",
+    "project": "yearn-finance",
+    "dlPoolId": "3fbb0e46-2efe-47cc-acbe-5c892fa56845",
+    "url": "https://yearn.fi/vaults/1/0x028eC7330ff87667b6dfb0D94b954c820195336c"
+  },
+  {
+    "address": "0x4ff4186188f8406917293a9e01a1ca16d3cf9e59",
+    "project": "morpho-v1",
+    "dlPoolId": "c938c26a-2339-46a7-88fb-9ce48d4adf6a",
+    "url": "https://app.morpho.org/ethereum/vault/0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59"
+  },
+  {
+    "address": "0x396a3f77ee1faf5a3c46e878ba7b7a2dcbe55517",
+    "project": "upshift",
+    "dlPoolId": "8768d803-b5a8-40a7-a67f-501108e9cb8a",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x8e3009b59200668e1efda0a2f2ac42b24baa2982",
+    "project": "convex-finance",
+    "dlPoolId": "027b72c2-bf96-451b-ac5f-afe6859b0828",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xe9b725010a9e419412ed67d0fa5f3a5f40159d32",
+    "project": "upshift",
+    "dlPoolId": "e89539a4-5600-40cf-bef6-5bace2fc9b8f",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x2e3c5e514eef46727de1fe44618027a9b70d92fc",
+    "project": "yieldfi",
+    "dlPoolId": "aba6b15d-8554-4b9b-9489-88b8d2035fc9",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0x4a7999c55d3a93daf72ea112985e57c2e3b9e95d",
+    "project": "convex-finance",
+    "dlPoolId": "64078a28-4d66-43d7-bc97-012994a0e4d4",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xdadeacc03a59639c0ece5ec4ff3bc0d9920a47ec",
+    "project": "termmax",
+    "dlPoolId": "df10ce95-ac03-47cb-a92e-8df813b19c96",
+    "url": "https://app.termmax.ts.finance/earn/eth/0xdadeacc03a59639c0ece5ec4ff3bc0d9920a47ec?chain=eth"
+  },
+  {
+    "address": "0x1924d7fab80d0623f0836cbf5258a7fa734ee9d9",
+    "project": "euler-v2",
+    "dlPoolId": "18e26e89-066b-48eb-b357-d3b4e9f343f6",
+    "url": "https://app.euler.finance/vault/0x1924D7fab80d0623f0836Cbf5258a7fa734EE9D9?network=ethereum"
+  },
+  {
+    "address": "0xbeef02e5e13584ab96848af90261f0c8ee04722a",
+    "project": "morpho-v1",
+    "dlPoolId": "d1dacce1-7815-420c-bb6d-d3c4320e1b2a",
+    "url": "https://app.morpho.org/ethereum/vault/0xbEEF02e5E13584ab96848af90261f0C8Ee04722a"
+  },
+  {
+    "address": "0xa7569a44f348d3d70d8ad5889e50f78e33d80d35",
+    "project": "autofinance",
+    "dlPoolId": "103834fa-cd96-4522-96e0-2075244cb3bc",
+    "url": "https://app.auto.finance/autopool?id=0xa7569a44f348d3d70d8ad5889e50f78e33d80d35"
+  },
+  {
+    "address": "0x557ab1e003951a73c12d16f0fea8490e39c33c35",
+    "project": "resupply",
+    "dlPoolId": "a1b05c10-6d01-4b64-9247-4e86ca82a291",
+    "url": "https://resupply.fi/supply"
+  },
+  {
+    "address": "0x9bd52f2805c6af014132874124686e7b248c2cbb",
+    "project": "euler-v2",
+    "dlPoolId": "31a0cd94-b781-4e0d-a9f1-1702bc2c238f",
+    "url": "https://app.euler.finance/vault/0x9bD52F2805c6aF014132874124686e7b248c2Cbb?network=ethereum"
+  },
+  {
+    "address": "0x78b18e07dc43017fceaabad0751d6464c0f56b25",
+    "project": "morpho-v1",
+    "dlPoolId": "27381842-8064-4399-9eb1-177f8c250134",
+    "url": "https://app.morpho.org/ethereum/vault/0x78B18E07dc43017fcEaabaD0751d6464c0F56b25"
+  },
+  {
+    "address": "0xf6cd9e8415162c8fb3c52676c7ca68812a34f76e",
+    "project": "ipor-fusion",
+    "dlPoolId": "8f27e6d6-1d14-4611-8ea6-51482d0921ef",
+    "url": "https://app.ipor.io/fusion/ethereum/0xf6cd9e8415162c8fb3c52676c7ca68812a34f76e"
+  },
+  {
+    "address": "0xc56413869c6cdf96496f2b1ef801fedbdfa7ddb0",
+    "project": "yearn-finance",
+    "dlPoolId": "2b840e0a-2823-4972-9bfc-8b766c90374b",
+    "url": "https://yearn.fi/vaults/1/0xc56413869c6CDf96496f2b1eF801fEDBdFA7dDB0"
+  },
+  {
+    "address": "0x833adaef212c5cd3f78906b44bbfb18258f238f0",
+    "project": "morpho-v1",
+    "dlPoolId": "54e75a5c-7742-421b-a96e-3e0c8c8b6b18",
+    "url": "https://app.morpho.org/ethereum/vault/0x833AdaeF212c5cD3f78906B44bBfb18258F238F0"
+  },
+  {
+    "address": "0x7430f11eeb64a4ce50c8f92177485d34c48da72c",
+    "project": "convex-finance",
+    "dlPoolId": "81f0762a-8596-46e2-aca7-c2cac4958a1e",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x3365184e87d2bd75961780454a5810bec956f0dd",
+    "project": "morpho-v1",
+    "dlPoolId": "c5d3eebe-8de4-48fa-9601-61ca3f93540e",
+    "url": "https://app.morpho.org/ethereum/vault/0x3365184e87d2Bd75961780454A5810BEc956F0dD"
+  },
+  {
+    "address": "0xbeef96b330ef1fe7ebe41ece0bd4a41a94bc03dc",
+    "project": "morpho-v1",
+    "dlPoolId": "050c0de3-e50b-4c2c-95ec-ae69effd77f1",
+    "url": "https://app.morpho.org/ethereum/vault/0xbeEf96B330ef1Fe7Ebe41eCe0Bd4a41A94Bc03DC"
+  },
+  {
+    "address": "0xf79f51f8f473ed34f6b2b13ee74c3208286d53eb",
+    "project": "morpho-v1",
+    "dlPoolId": "18cf1517-0b41-469d-a363-ca59b4767418",
+    "url": "https://app.morpho.org/ethereum/vault/0xf79F51f8F473eD34f6b2b13ee74c3208286D53EB"
+  },
+  {
+    "address": "0x56a76b428244a50513ec81e225a293d128fd581d",
+    "project": "morpho-v1",
+    "dlPoolId": "6bdb4a3f-9bb5-48a4-8c99-8568123aaf08",
+    "url": "https://app.morpho.org/ethereum/vault/0x56A76b428244a50513ec81e225a293d128fd581D"
+  },
+  {
+    "address": "0x23346b04a7f55b8760e5860aa5a77383d63491cd",
+    "project": "yearn-finance",
+    "dlPoolId": "4c29f645-12db-461f-a1d7-16900d624271",
+    "url": "https://yearn.fi/vaults/1/0x23346B04a7f55b8760E5860AA5A77383D63491cD"
+  },
+  {
+    "address": "0x9f4330700a36b29952869fac9b33f45eedd8a3d8",
+    "project": "yearn-finance",
+    "dlPoolId": "fbaf9e4e-47c2-48e2-9ee2-1407e0133578",
+    "url": "https://yearn.fi/vaults/1/0x9F4330700a36B29952869fac9b33f45EEdd8A3d8"
+  },
+  {
+    "address": "0xe1ce9af672f8854845e5474400b6ddc7ae458a10",
+    "project": "euler-v2",
+    "dlPoolId": "b9c2067b-f491-4dfa-bedf-59194c4c7aa0",
+    "url": "https://app.euler.finance/vault/0xe1Ce9AF672f8854845E5474400B6ddC7AE458a10?network=ethereum"
+  },
+  {
+    "address": "0x500331c9ff24d9d11aee6b07734aa72343ea74a5",
+    "project": "morpho-v1",
+    "dlPoolId": "b34a886f-fafe-4252-b141-71eae1839ebc",
+    "url": "https://app.morpho.org/ethereum/vault/0x500331c9fF24D9d11aee6B07734Aa72343EA74a5"
+  },
+  {
+    "address": "0x8464f6ecae1ea58ec816c13f964030eab8ec123a",
+    "project": "yieldfi",
+    "dlPoolId": "5018322c-f433-4870-83b9-754991b8e3e2",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0xe846ca062ab869b66ae8dcd811973f628ba82eaf",
+    "project": "euler-v2",
+    "dlPoolId": "c92d7ebf-ecb8-4ca1-a09c-9f8516dfcb61",
+    "url": "https://app.euler.finance/vault/0xe846ca062aB869b66aE8DcD811973f628BA82eAf?network=ethereum"
+  },
+  {
+    "address": "0x5b56f90340dbaa6a8693dadb141d620f0e154fe6",
+    "project": "morpho-v1",
+    "dlPoolId": "a1bba849-c22d-4af2-99ad-4dd82a3d2244",
+    "url": "https://app.morpho.org/ethereum/vault/0x5b56F90340dBAa6a8693DADb141D620f0e154fE6"
+  },
+  {
+    "address": "0x8cb3649114051ca5119141a34c200d65dc0faa73",
+    "project": "morpho-v1",
+    "dlPoolId": "4cecbdfa-7189-4801-88ef-cdfee4b23298",
+    "url": "https://app.morpho.org/ethereum/vault/0x8CB3649114051cA5119141a34C200D65dc0Faa73"
+  },
+  {
+    "address": "0x408b6a3e2daf288864968454aae786a2a042df36",
+    "project": "autofinance",
+    "dlPoolId": "1ed7e9b4-594c-46d3-964c-7192147f8aa8",
+    "url": "https://app.auto.finance/autopool?id=0x408b6a3e2daf288864968454aae786a2a042df36"
+  },
+  {
+    "address": "0xe0a80d35bb6618cba260120b279d357978c42bce",
+    "project": "euler-v2",
+    "dlPoolId": "fa68041a-2ce5-4ee5-88a0-ec5185f0bdb7",
+    "url": "https://app.euler.finance/vault/0xe0a80d35bB6618CBA260120b279d357978c42BCE?network=ethereum"
+  },
+  {
+    "address": "0x888239ffa9a0613f9142c808aa9f7d1948a14f75",
+    "project": "yearn-finance",
+    "dlPoolId": "231ad8e7-b62d-4bd3-9d45-95d0b2fc43f9",
+    "url": "https://yearn.fi/vaults/1/0x888239Ffa9a0613F9142C808aA9F7d1948a14f75"
+  },
+  {
+    "address": "0x78fc2c2ed1a4cdb5402365934ae5648adad094d0",
+    "project": "morpho-v1",
+    "dlPoolId": "bf3815bb-1059-4f24-90a3-14998e8493fa",
+    "url": "https://app.morpho.org/ethereum/vault/0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0"
+  },
+  {
+    "address": "0xa28c23a459ff8773eb4dbe0e7250d93f79f1fe2b",
+    "project": "euler-v2",
+    "dlPoolId": "77871537-d13b-475f-ab01-453778ad1521",
+    "url": "https://app.euler.finance/vault/0xA28C23a459fF8773EB4dBe0e7250d93F79F1Fe2B?network=ethereum"
+  },
+  {
+    "address": "0xc080f56504e0278828a403269db945f6c6d6e014",
+    "project": "morpho-v1",
+    "dlPoolId": "456f5bec-a81b-4862-926b-e9e00c97e7c7",
+    "url": "https://app.morpho.org/ethereum/vault/0xc080f56504e0278828A403269DB945F6c6D6E014"
+  },
+  {
+    "address": "0xe9385eff3f937fcb0f0085da9a3f53d6c2b4fb5f",
+    "project": "ipor-fusion",
+    "dlPoolId": "567c8eb4-a71c-4bf8-b063-5be5329e4fe7",
+    "url": "https://app.ipor.io/fusion/ethereum/0xe9385eff3f937fcb0f0085da9a3f53d6c2b4fb5f"
+  },
+  {
+    "address": "0x23ee3d14f09946a084350cc6a7153fc6eb918817",
+    "project": "yearn-finance",
+    "dlPoolId": "44e406d3-62e1-4168-b7be-1c07725be38b",
+    "url": "https://yearn.fi/vaults/1/0x23eE3D14F09946A084350CC6A7153fc6eb918817"
+  },
+  {
+    "address": "0xbc4b4ac47582c3e38ce5940b80da65401f4628f1",
+    "project": "euler-v2",
+    "dlPoolId": "f51d845a-6979-4ccb-b73f-4738a753dd85",
+    "url": "https://app.euler.finance/vault/0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1?network=ethereum"
+  },
+  {
+    "address": "0xbeef1f5bd88285e5b239b6aacb991d38cca23ac9",
+    "project": "morpho-v1",
+    "dlPoolId": "c0968fd1-5334-4be3-8cda-93da81eeef1d",
+    "url": "https://app.morpho.org/ethereum/vault/0xBEeF1f5Bd88285E5B239B6AAcb991d38ccA23Ac9"
+  },
+  {
+    "address": "0x2ed10624315b74a78f11fabedaa1a228c198aefb",
+    "project": "morpho-v1",
+    "dlPoolId": "52d13d4f-fcf5-4e03-aa1c-ce4d527815e5",
+    "url": "https://app.morpho.org/ethereum/vault/0x2ed10624315b74a78f11FAbedAa1A228c198aEfB"
+  },
+  {
+    "address": "0xd8b27cf359b7d15710a5be299af6e7bf904984c2",
+    "project": "euler-v2",
+    "dlPoolId": "e30876ae-e9d3-4ab1-bf5b-96920f4fc9ba",
+    "url": "https://app.euler.finance/vault/0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2?network=ethereum"
+  },
+  {
+    "address": "0x998d761ec1badaceb064624cc3a1d37a46c88ba4",
+    "project": "euler-v2",
+    "dlPoolId": "00152e22-d041-425c-b0df-e4dfabb99780",
+    "url": "https://app.euler.finance/vault/0x998D761eC1BAdaCeb064624cc3A1d37A46C88bA4?network=ethereum"
+  },
+  {
+    "address": "0xd731f94c778f7c1090e2e0d797150a647de5188a",
+    "project": "ipor-fusion",
+    "dlPoolId": "7f7b8f5b-0bfa-4863-b368-8484e179cfb0",
+    "url": "https://app.ipor.io/fusion/ethereum/0xd731f94c778f7c1090e2e0d797150a647de5188a"
+  },
+  {
+    "address": "0x310b7ea7475a0b449cfd73be81522f1b88efafaa",
+    "project": "yearn-finance",
+    "dlPoolId": "daf810d4-b190-4d9a-a5c6-f784d6272a77",
+    "url": "https://yearn.fi/vaults/1/0x310B7Ea7475A0B449Cfd73bE81522F1B88eFAFaa"
+  },
+  {
+    "address": "0xc428439fb7b1efe56360eb837ca98f551fdd9b26",
+    "project": "upshift",
+    "dlPoolId": "98c8a2c6-8aa8-434a-a900-e5f99a03e449",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x4bd05e6ff75b633f504f0fc501c1e257578c8a72",
+    "project": "yearn-finance",
+    "dlPoolId": "88999dc7-6d95-475a-8ff8-7cdc5a683f99",
+    "url": "https://yearn.fi/vaults/1/0x4Bd05E6ff75b633F504F0fC501c1e257578C8A72"
+  },
+  {
+    "address": "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
+    "project": "morpho-v1",
+    "dlPoolId": "6a0e61be-a4d0-4649-bc26-09cc40910214",
+    "url": "https://app.morpho.org/ethereum/vault/0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330"
+  },
+  {
+    "address": "0xff94993fa7ea27efc943645f95adb36c1b81244b",
+    "project": "gearbox",
+    "dlPoolId": "dfc1d8d8-7427-4b94-8793-afd0570fde0d",
+    "url": "https://app.gearbox.fi/pools/0xFF94993fA7EA27Efc943645F95Adb36C1b81244b"
+  },
+  {
+    "address": "0x6859b34a9379122d25a9fa46f0882d434fee36c3",
+    "project": "morpho-v1",
+    "dlPoolId": "c21748f7-d4a5-4f6f-b035-d059d8182aee",
+    "url": "https://app.morpho.org/ethereum/vault/0x6859B34a9379122d25A9FA46f0882d434fee36c3"
+  },
+  {
+    "address": "0x3c124fb80e6eedd88d108c2f04013ae5cd571abc",
+    "project": "morpho-v1",
+    "dlPoolId": "ed119c6e-c9d1-45d2-90cb-e484f491d52e",
+    "url": "https://app.morpho.org/ethereum/vault/0x3c124fB80e6eedD88D108C2F04013AE5CD571Abc"
+  },
+  {
+    "address": "0x751f0cc6115410a3ee9ec92d08f46ff6da98b708",
+    "project": "yearn-finance",
+    "dlPoolId": "75400943-e8ed-48a2-8ffd-36139d2534a7",
+    "url": "https://yearn.fi/vaults/1/0x751F0cC6115410A3eE9eC92d08f46Ff6Da98b708"
+  },
+  {
+    "address": "0x9646ebd6346c8c3a9f3d408f71c312eb0cbe8507",
+    "project": "morpho-v1",
+    "dlPoolId": "ced3c27b-fc8a-4f9c-a4bc-de8e4be0597b",
+    "url": "https://app.morpho.org/ethereum/vault/0x9646eBD6346C8C3a9f3d408f71C312eB0CbE8507"
+  },
+  {
+    "address": "0xccd37eb6374ae5b1f0b85ac97eff14770e0d0063",
+    "project": "convex-finance",
+    "dlPoolId": "0359418f-fedd-4973-9221-957a11c0a692",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+    "project": "compound-v3",
+    "dlPoolId": "148729bb-8502-4983-b2e6-bfde3df9b14a",
+    "url": "https://v3-app.compound.finance/markets"
+  },
+  {
+    "address": "0x5c5b196abe0d54485975d1ec29617d42d9198326",
+    "project": "compound-v3",
+    "dlPoolId": "0d33e179-255f-4776-8673-4e8c05b4e6c0",
+    "url": "https://v3-app.compound.finance/markets"
+  },
+  {
+    "address": "0xd001f0a15d272542687b2677ba627f48a4333b5d",
+    "project": "euler-v2",
+    "dlPoolId": "4d48ed69-2a14-4609-91c0-bc129a6dc586",
+    "url": "https://app.euler.finance/vault/0xd001f0a15D272542687b2677BA627f48A4333b5d?network=ethereum"
+  },
+  {
+    "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+    "project": "angle",
+    "dlPoolId": "789970a7-7ddd-4580-b86b-fe0c3844881e",
+    "url": "https://app.angle.money/earn"
+  },
+  {
+    "address": "0xda0002859b2d05f66a753d8241fcde8623f26f4f",
+    "project": "gearbox",
+    "dlPoolId": "c11cb1b9-3cd5-4252-93da-51b130fc4f45",
+    "url": "https://app.gearbox.fi/pools/0xda0002859B2d05F66a753d8241fCDE8623f26F4f"
+  },
+  {
+    "address": "0xbc35161043ee2d74816d421efd6a45fda73b050a",
+    "project": "euler-v2",
+    "dlPoolId": "9e45f723-1041-4566-b11c-149d4fef5b39",
+    "url": "https://app.euler.finance/vault/0xbC35161043EE2D74816d421EfD6a45fDa73B050A?network=ethereum"
+  },
+  {
+    "address": "0xa8875aaebc4f830524e35d57f9772ffacbdd6c45",
+    "project": "morpho-v1",
+    "dlPoolId": "4f31295b-cda0-4a3d-9c4b-36d69fdd96fb",
+    "url": "https://app.morpho.org/ethereum/vault/0xA8875aaeBc4f830524e35d57F9772FfAcbdD6C45"
+  },
+  {
+    "address": "0x132e6c9c33a62d7727cd359b1f51e5b566e485eb",
+    "project": "morpho-v1",
+    "dlPoolId": "35f69e37-d650-4960-ba4a-8a7021a7c782",
+    "url": "https://app.morpho.org/ethereum/vault/0x132E6C9C33A62D7727cd359b1f51e5B566E485Eb"
+  },
+  {
+    "address": "0xe01813b0a12b14cc13bd5e9f0e8a2aa7543617a1",
+    "project": "morpho-v1",
+    "dlPoolId": "9674ffb3-faaf-4d93-99e7-1175ca0ad643",
+    "url": "https://app.morpho.org/ethereum/vault/0xE01813b0A12B14CC13BD5E9F0E8a2Aa7543617a1"
+  },
+  {
+    "address": "0x984408c88a9b042bf3e2ddf921cd1fafb4b735d1",
+    "project": "termmax",
+    "dlPoolId": "fe06e98b-aec5-4bcf-b67d-9e154cb1016b",
+    "url": "https://app.termmax.ts.finance/earn/eth/0x984408c88a9b042bf3e2ddf921cd1fafb4b735d1?chain=eth"
+  },
+  {
+    "address": "0xac37729b76db6438ce62042ae1270ee574ca7571",
+    "project": "yearn-finance",
+    "dlPoolId": "7df4c62f-7851-43d9-9d9f-f0c5bf9cec32",
+    "url": "https://yearn.fi/vaults/1/0xAc37729B76db6438CE62042AE1270ee574CA7571"
+  },
+  {
+    "address": "0xc32b0cf36e06c790a568667a17de80cba95a5aad",
+    "project": "convex-finance",
+    "dlPoolId": "eb0af544-1cc0-4617-8187-218fef3a24f9",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xe0c98605f279e4d7946d25b75869c69802823763",
+    "project": "morpho-v1",
+    "dlPoolId": "6bd6621e-fb01-43ad-8974-0d8d9d9e45c8",
+    "url": "https://app.morpho.org/ethereum/vault/0xE0C98605f279e4D7946d25B75869c69802823763"
+  },
+  {
+    "address": "0xe47358eae04719f3cf7025e95d0ad202e68bd9b2",
+    "project": "ipor-fusion",
+    "dlPoolId": "c261c642-5b80-4c1e-bf31-5302bb8165f3",
+    "url": "https://app.ipor.io/fusion/ethereum/0xe47358eae04719f3cf7025e95d0ad202e68bd9b2"
+  },
+  {
+    "address": "0xb0f56bb0bf13ee05fef8cd2d8df5ffdfcac7a74f",
+    "project": "ipor-fusion",
+    "dlPoolId": "5776ffc6-a789-4ad5-80d0-631bc54f80c5",
+    "url": "https://app.ipor.io/fusion/ethereum/0xb0f56bb0bf13ee05fef8cd2d8df5ffdfcac7a74f"
+  },
+  {
+    "address": "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776",
+    "project": "angle",
+    "dlPoolId": "01e33a85-8bb6-4f30-a11b-7b2a8166e6b7",
+    "url": "https://app.angle.money/earn"
+  },
+  {
+    "address": "0x1ab9e92cfde84f38868753d30ffc43f812b803c5",
+    "project": "euler-v2",
+    "dlPoolId": "00bc9d53-85d6-422f-b287-1048088d5f45",
+    "url": "https://app.euler.finance/vault/0x1ab9e92CFdE84f38868753d30fFc43F812B803C5?network=ethereum"
+  },
+  {
+    "address": "0x3073112c2c4800b89764973d5790ccc7fba5c9f9",
+    "project": "yieldfi",
+    "dlPoolId": "cc0edf30-7129-43e1-af26-56cd16611d89",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0xd9ba99d93ea94a65b5bc838a0106ca3abc82ec4f",
+    "project": "yearn-finance",
+    "dlPoolId": "df317389-a9ad-4a8a-8a9f-c0724beaf587",
+    "url": "https://yearn.fi/vaults/1/0xd9BA99D93ea94a65b5BC838a0106cA3AbC82Ec4F"
+  },
+  {
+    "address": "0x0db9f8572abeb2e982782d869e764c9fa162f2bb",
+    "project": "stake-dao",
+    "dlPoolId": "017e86ca-94be-4d18-b880-0e35351de01e",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x056f3a2e41d2778d3a0c0714439c53af2987718e",
+    "project": "euler-v2",
+    "dlPoolId": "ac164d4e-855d-4eed-bebf-0c04c0fac54b",
+    "url": "https://app.euler.finance/vault/0x056f3a2E41d2778D3a0c0714439c53af2987718E?network=ethereum"
+  },
+  {
+    "address": "0x46bc453666ba11b4b08b0804e49a9d797546ee7d",
+    "project": "euler-v2",
+    "dlPoolId": "28cfc969-0042-4f0b-9403-c655f30974f1",
+    "url": "https://app.euler.finance/vault/0x46BC453666BA11b4b08B0804E49A9D797546ee7D?network=ethereum"
+  },
+  {
+    "address": "0x89e93172aef8261db8437b90c3dcb61545a05317",
+    "project": "yearn-finance",
+    "dlPoolId": "b9daef76-c06d-48fa-99ec-2394da8902be",
+    "url": "https://yearn.fi/vaults/1/0x89E93172AEF8261Db8437b90c3dCb61545a05317"
+  },
+  {
+    "address": "0x87c414825ab3d1e9bdc773e9b1fd968822c9cf51",
+    "project": "euler-v2",
+    "dlPoolId": "78bd47b4-1a43-464b-a93e-e576171ed922",
+    "url": "https://app.euler.finance/vault/0x87c414825aB3d1E9bdC773e9B1fD968822c9CF51?network=ethereum"
+  },
+  {
+    "address": "0x38989bba00bdf8181f4082995b3deae96163ac5d",
+    "project": "morpho-v1",
+    "dlPoolId": "18a305ab-992a-4c0e-8ca1-e3937ee23367",
+    "url": "https://app.morpho.org/ethereum/vault/0x38989BBA00BDF8181F4082995b3DEAe96163aC5D"
+  },
+  {
+    "address": "0x3410463726a7a22ce0809367a4418fe82fc31fd3",
+    "project": "notional-v3",
+    "dlPoolId": "4c62636e-b77d-4be4-88c7-2603bb6c5a15",
+    "url": "https://notional.finance/liquidity-variable/mainnet/ETH"
+  },
+  {
+    "address": "0x3410463726a7a22ce0809367a4418fe82fc31fd3",
+    "project": "notional-v3",
+    "dlPoolId": "33b24edf-387e-4719-8688-c8b51c990adc",
+    "url": "https://notional.finance/liquidity-leveraged/mainnet/CreateLeveragedNToken/ETH"
+  },
+  {
+    "address": "0x6aa8b4366d3bcfa51473677e9c961babadcec4e3",
+    "project": "termmax",
+    "dlPoolId": "cad015fc-44ff-450e-9193-34f416d4de72",
+    "url": "https://app.termmax.ts.finance/earn/eth/0x6aa8b4366d3bcfa51473677e9c961babadcec4e3?chain=eth"
+  },
+  {
+    "address": "0xd53f83c7ca5189007c09b5d867a8116bc0540724",
+    "project": "euler-v2",
+    "dlPoolId": "b93b19c1-ea62-41ef-ab1b-279b10df5d79",
+    "url": "https://app.euler.finance/vault/0xD53f83c7CA5189007C09b5D867a8116bC0540724?network=ethereum"
+  },
+  {
+    "address": "0xdeb8a9c0546a01b7e5cee8e44fd0c8d8b96a1f6e",
+    "project": "termmax",
+    "dlPoolId": "e7a5fde4-8952-4d21-9299-559643007302",
+    "url": "https://app.termmax.ts.finance/earn/eth/0xdeb8a9c0546a01b7e5cee8e44fd0c8d8b96a1f6e?chain=eth"
+  },
+  {
+    "address": "0xeeb6be70ff212238419cd638fab17910cf61cbe7",
+    "project": "yearn-finance",
+    "dlPoolId": "92fa2c73-533f-4158-8c9c-fadb1e088fa2",
+    "url": "https://yearn.fi/vaults/1/0xeEB6Be70fF212238419cD638FAB17910CF61CBE7"
+  },
+  {
+    "address": "0xae86261c403e8da7b71dcd3343ed9f1c8a972d63",
+    "project": "morpho-v1",
+    "dlPoolId": "342f3d5b-40af-4c66-a2f0-7d2e86b251ab",
+    "url": "https://app.morpho.org/ethereum/vault/0xAe86261C403E8Da7B71Dcd3343ED9F1c8A972d63"
+  },
+  {
+    "address": "0x313603fa690301b0caeef8069c065862f9162162",
+    "project": "euler-v2",
+    "dlPoolId": "bc244917-e28c-4f10-bfa4-79bf90529023",
+    "url": "https://app.euler.finance/vault/0x313603FA690301b0CaeEf8069c065862f9162162?network=ethereum"
+  },
+  {
+    "address": "0xbf319ddc2edc1eb6fdf9910e39b37be221c8805f",
+    "project": "yearn-finance",
+    "dlPoolId": "a4236681-173c-4a52-97d2-30c61f07141b",
+    "url": "https://yearn.fi/vaults/1/0xBF319dDC2Edc1Eb6FDf9910E39b37Be221C8805F"
+  },
+  {
+    "address": "0xdb81e17b5ce19e9b2f64b378f98d88e4ca6726e7",
+    "project": "silo-v2",
+    "dlPoolId": "00d048bb-b629-4a2a-90e8-61a992b22505",
+    "url": "https://v2.silo.finance/markets/ethereum/105"
+  },
+  {
+    "address": "0x79eb84b5e30ef2481c8f00fd0aa7aad6ac0aa54d",
+    "project": "autofinance",
+    "dlPoolId": "163a21bd-7c17-4135-ade5-5c34d6b1a4ad",
+    "url": "https://app.auto.finance/autopool?id=0x79eb84b5e30ef2481c8f00fd0aa7aad6ac0aa54d"
+  },
+  {
+    "address": "0xf587f2e8aff7d76618d3b6b4626621860fbd54e3",
+    "project": "morpho-v1",
+    "dlPoolId": "c97627c2-1ae8-48dc-92c4-4d265511d7d0",
+    "url": "https://app.morpho.org/ethereum/vault/0xF587f2e8AfF7D76618d3B6B4626621860FbD54e3"
+  },
+  {
+    "address": "0x515c37d668f203c71cad7c61bd77f6a1bb8c1ca4",
+    "project": "silo-v2",
+    "dlPoolId": "6124a2fe-6bce-4bbd-9c79-f7eec08b79b2",
+    "url": "https://v2.silo.finance/markets/ethereum/169"
+  },
+  {
+    "address": "0x9ab28417d70ada724c6bdf855bf2346c59e5e766",
+    "project": "silo-v2",
+    "dlPoolId": "3b4e7050-2f3d-407b-9b6e-7e68d697b082",
+    "url": "https://v2.silo.finance/markets/ethereum/127"
+  },
+  {
+    "address": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+    "project": "compound-v3",
+    "dlPoolId": "31063861-ab4d-43a7-a071-c240fe08a8be",
+    "url": "https://v3-app.compound.finance/markets"
+  },
+  {
+    "address": "0x61aac438453d6e3513c0c8dbb69f13860e2b5028",
+    "project": "euler-v2",
+    "dlPoolId": "633e9a19-50a8-448a-9d02-87f8860074bc",
+    "url": "https://app.euler.finance/vault/0x61aAC438453d6e3513C0c8dbb69F13860E2B5028?network=ethereum"
+  },
+  {
+    "address": "0xc7bae383738274ea8c3292d53afbb3b42b348df0",
+    "project": "yearn-finance",
+    "dlPoolId": "f7704d02-2fc8-4311-92dc-da8ce4877e30",
+    "url": "https://yearn.fi/vaults/1/0xC7baE383738274ea8C3292d53AfBB3b42B348DF0"
+  },
+  {
+    "address": "0xa71d08a159258553a5ac190d60fa919425ff02ea",
+    "project": "morpho-v1",
+    "dlPoolId": "8528b23a-6076-4158-b748-496306c11263",
+    "url": "https://app.morpho.org/ethereum/vault/0xa71D08A159258553a5Ac190d60Fa919425Ff02EA"
+  },
+  {
+    "address": "0x48c8efb507e5949fd1484339b5996d3ef48d32d9",
+    "project": "silo-v2",
+    "dlPoolId": "27fd0094-da3a-4bca-bb02-315d5a1c2601",
+    "url": "https://v2.silo.finance/markets/ethereum/168"
+  },
+  {
+    "address": "0xe7146f53dbcae9d6fa3555fe502648deb0b2f823",
+    "project": "gearbox",
+    "dlPoolId": "6f8cb9ec-67d5-4a0b-b5d6-62f53d5f140c",
+    "url": "https://app.gearbox.fi/pools/0xe7146F53dBcae9D6Fa3555FE502648deb0B2F823"
+  },
+  {
+    "address": "0xdc94785959b73f7a168452b3654e44fec6a750e4",
+    "project": "morpho-v1",
+    "dlPoolId": "78fbbc1b-8711-4556-8ff8-59791172c81f",
+    "url": "https://app.morpho.org/ethereum/vault/0xdC94785959B73F7A168452b3654E44fEc6A750e4"
+  },
+  {
+    "address": "0xf29ce940178c8794802fb48a6c1b2edddac96431",
+    "project": "morpho-v1",
+    "dlPoolId": "b3ad992e-1670-4314-b60d-64ac80d923f0",
+    "url": "https://app.morpho.org/ethereum/vault/0xf29ce940178C8794802fB48a6c1B2EdDdAC96431"
+  },
+  {
+    "address": "0x21cf1c5dc48c603b89907fe6a7ae83ea5e3709af",
+    "project": "convex-finance",
+    "dlPoolId": "659de03b-a9fd-41ee-8a1c-7c7de1c6782a",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x5593bf07cb1ada24462ef23240c530441bbad3e8",
+    "project": "morpho-v1",
+    "dlPoolId": "888eab1f-a821-4330-972d-3d57ed84ef51",
+    "url": "https://app.morpho.org/ethereum/vault/0x5593bf07cB1aDa24462EF23240c530441BBAd3e8"
+  },
+  {
+    "address": "0x6f66b845604dad6e80b2a1472e6cacbbe66a8c40",
+    "project": "ipor-fusion",
+    "dlPoolId": "b3eae38a-af5c-4988-a763-bf4cf4db769e",
+    "url": "https://app.ipor.io/fusion/ethereum/0x6f66b845604dad6e80b2a1472e6cacbbe66a8c40"
+  },
+  {
+    "address": "0xa01200b2e74de6489cf56864e3d76bbc06fc6c43",
+    "project": "yieldfi",
+    "dlPoolId": "3eb3663d-7cf7-4a24-9f26-24de17c616aa",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0x1e2a5622178f93efd4349e2eb3dbdf2761749e1b",
+    "project": "yieldfi",
+    "dlPoolId": "54ada9c1-a0e9-489c-9922-26234e6bd232",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0x3f7ccaded39fd9d06eb0498abeb7eaab569e79ad",
+    "project": "euler-v2",
+    "dlPoolId": "7c6ecafb-7ac4-4f94-8dce-b7b6ca8d5c7e",
+    "url": "https://app.euler.finance/vault/0x3F7CcadEd39Fd9D06Eb0498ABEb7EAAB569E79Ad?network=ethereum"
+  },
+  {
+    "address": "0x55555815a5595991c3a0ff119b59aef6c8b55555",
+    "project": "morpho-v1",
+    "dlPoolId": "a3e2a0ff-8e7b-481e-89bf-6594c2810eb2",
+    "url": "https://app.morpho.org/ethereum/vault/0x55555815a5595991C3A0Ff119B59AEF6C8B55555"
+  },
+  {
+    "address": "0x8fb1c7aedcbbc1222325c39dd5c1d2d23420cae3",
+    "project": "convex-finance",
+    "dlPoolId": "ed1793ea-e039-422f-a798-ceff63d55f6b",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xda00010eda646913f273e10e7a5d1f659242757d",
+    "project": "gearbox",
+    "dlPoolId": "0f166b42-f19e-4e26-800e-8e9388166d82",
+    "url": "https://app.gearbox.fi/pools/0xda00010eDA646913F273E10E7A5d1F659242757d"
+  },
+  {
+    "address": "0x79fd640000f8563a866322483524a4b48f1ed702",
+    "project": "morpho-v1",
+    "dlPoolId": "ff23bcd7-efbc-41c6-90f8-c883f866dbf6",
+    "url": "https://app.morpho.org/ethereum/vault/0x79FD640000F8563A866322483524a4b48f1Ed702"
+  },
+  {
+    "address": "0xdcd35020c5bb97016358578131f012baa9f53cf3",
+    "project": "morpho-v1",
+    "dlPoolId": "0fabba51-a1c1-4ca0-93a7-9735ca6e1c28",
+    "url": "https://app.morpho.org/ethereum/vault/0xDCD35020c5bB97016358578131f012Baa9F53cf3"
+  },
+  {
+    "address": "0x160287e2d3fdcde9e91317982fc1cc01c1f94085",
+    "project": "silo-v2",
+    "dlPoolId": "d6766ab1-edd6-4ccc-8294-6ded4336ae88",
+    "url": "https://v2.silo.finance/markets/ethereum/105"
+  },
+  {
+    "address": "0xba12a454e01cf08c92b29a23d6a48a8b40e79293",
+    "project": "silo-v2",
+    "dlPoolId": "44b2d36b-f550-4e2e-a521-6a293d75febd",
+    "url": "https://v2.silo.finance/markets/ethereum/147"
+  },
+  {
+    "address": "0x52317a47585a6acdfbd7a29b494c3e2baae96abc",
+    "project": "morpho-v1",
+    "dlPoolId": "a298ae40-aa8d-4ab0-8e4d-504a8e0dd0cd",
+    "url": "https://app.morpho.org/ethereum/vault/0x52317a47585A6ACDfbD7a29B494c3E2baAE96aBc"
+  },
+  {
+    "address": "0x797dd80692c3b2dadabce8e30c07fde5307d48a9",
+    "project": "euler-v2",
+    "dlPoolId": "a0f53224-c152-416e-8599-4563e70c6040",
+    "url": "https://app.euler.finance/vault/0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9?network=ethereum"
+  },
+  {
+    "address": "0xc42d337861878baa4dc820d9e6b6c667c2b57e8a",
+    "project": "euler-v2",
+    "dlPoolId": "08d7dd43-2a32-4330-aaec-a1a0aa384026",
+    "url": "https://app.euler.finance/vault/0xC42d337861878baa4dC820D9E6B6C667C2b57e8A?network=ethereum"
+  },
+  {
+    "address": "0x1017c97c03d6738c358576735de76028f2395625",
+    "project": "yearn-finance",
+    "dlPoolId": "621801e8-fdfd-4664-9b69-f8703c660ebb",
+    "url": "https://yearn.fi/vaults/1/0x1017C97C03d6738c358576735DE76028f2395625"
+  },
+  {
+    "address": "0x2e3a8f2dd842910ff8a3c65d93b129806e500417",
+    "project": "silo-v2",
+    "dlPoolId": "e0cedab6-2dc2-4b26-9a7a-99281246401e",
+    "url": "https://v2.silo.finance/markets/ethereum/155"
+  },
+  {
+    "address": "0x1e2aaadcf528b9cc08f43d4fd7db488ce89f5741",
+    "project": "morpho-v1",
+    "dlPoolId": "7ba739d5-02dc-4f81-bd54-9855fdbf4e96",
+    "url": "https://app.morpho.org/ethereum/vault/0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741"
+  },
+  {
+    "address": "0xb530a1b5259a71187f1d69acf0488f102637a3ed",
+    "project": "ipor-fusion",
+    "dlPoolId": "ce8e41d2-8ac7-43bc-a4f5-43dbcaf5c957",
+    "url": "https://app.ipor.io/fusion/ethereum/0xb530a1b5259a71187f1d69acf0488f102637a3ed"
+  },
+  {
+    "address": "0x3573a84bee11d49a1cbce2b291538de7a7dd81c6",
+    "project": "euler-v2",
+    "dlPoolId": "939b0cda-7d65-41b8-9226-f28949a857e8",
+    "url": "https://app.euler.finance/vault/0x3573A84Bee11D49A1CbCe2b291538dE7a7dD81c6?network=ethereum"
+  },
+  {
+    "address": "0xda00000035fef4082f78def6a8903bee419fbf8e",
+    "project": "gearbox",
+    "dlPoolId": "1b532a84-38ab-4e80-8bd2-94f062810ac4",
+    "url": "https://app.gearbox.fi/pools/0xda00000035fef4082F78dEF6A8903bee419FbF8E"
+  },
+  {
+    "address": "0x09ace8b2f2fe2189a5b37046bbafa29dce31c920",
+    "project": "yearn-finance",
+    "dlPoolId": "31a0a87d-87e9-4de1-a551-447b54f23141",
+    "url": "https://yearn.fi/vaults/1/0x09AcE8B2f2fE2189A5B37046BBaFa29Dce31c920"
+  },
+  {
+    "address": "0x05a811275fe9b4de503b3311f51edf6a856d936e",
+    "project": "gearbox",
+    "dlPoolId": "edaefc40-d818-48bd-a87a-d9c87598c1bc",
+    "url": "https://app.gearbox.fi/pools/0x05A811275fE9b4DE503B3311F51edF6A856D936e"
+  },
+  {
+    "address": "0xbeef36a5c1372f8d7d211527fce9f83fe02d8a73",
+    "project": "morpho-v1",
+    "dlPoolId": "b0ebfb94-34a9-40cd-b0a5-46c574be36fd",
+    "url": "https://app.morpho.org/ethereum/vault/0xbEEF36A5C1372F8D7d211527FCE9f83FE02d8A73"
+  },
+  {
+    "address": "0x4a9e282635567cc4d3c6a24e16c2335f10dee9b8",
+    "project": "notional-v3",
+    "dlPoolId": "83657c53-ea7b-4968-821d-4341ab9e1284",
+    "url": "https://notional.finance/lend-variable/mainnet/ETH"
+  },
+  {
+    "address": "0x20622fcd4476fbc9d5ef36ebd371307a56d9028c",
+    "project": "euler-v2",
+    "dlPoolId": "318b22c1-ea5e-46f9-b432-61d3bfdc8933",
+    "url": "https://app.euler.finance/vault/0x20622fcD4476fbc9d5Ef36EBd371307a56d9028c?network=ethereum"
+  },
+  {
+    "address": "0x716bf454066a84f39a2f78b5707e79a9d64f1225",
+    "project": "euler-v2",
+    "dlPoolId": "0f1bfca9-241b-4c4f-9e9f-d5afccaf00da",
+    "url": "https://app.euler.finance/vault/0x716bF454066a84F39A2F78b5707e79a9d64f1225?network=ethereum"
+  },
+  {
+    "address": "0x038dd0eb275b7de3b07884f1fa106ed6423c45f2",
+    "project": "euler-v2",
+    "dlPoolId": "3a56fa68-6fcf-488e-bd3a-975e715d0882",
+    "url": "https://app.euler.finance/vault/0x038dd0Eb275B7DE3B07884f1Fa106eD6423C45F2?network=ethereum"
+  },
+  {
+    "address": "0xc33aa628b10655b36eaa7ee880d6bc4789dd2289",
+    "project": "convex-finance",
+    "dlPoolId": "08251a67-5e0f-4022-a380-8657fcb96c1a",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x0d495b6eeff58fbb7eef9303ac4d7306d47e6d9b",
+    "project": "silo-v2",
+    "dlPoolId": "6ce69c24-7604-4e95-aea5-cab20c013930",
+    "url": "https://v2.silo.finance/markets/ethereum/168"
+  },
+  {
+    "address": "0xf55cd3c172427880dee1b24a91f33a1ca2cf3c8f",
+    "project": "teller",
+    "dlPoolId": "f6f457b0-b10c-4fd8-8445-04469214bfe4",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xf55cd3c172427880dee1b24a91f33a1ca2cf3c8f"
+  },
+  {
+    "address": "0xf0358e8c3cd5fa238a29301d0bea3d63a17bedbe",
+    "project": "harvest-finance",
+    "dlPoolId": "6e6f53b6-6669-4037-948c-f42e5b0a243e",
+    "url": "https://app.harvest.finance/ethereum/0xf0358e8c3CD5Fa238a29301d0bEa3D63A17bEdBE"
+  },
+  {
+    "address": "0x2f1abb81ed86be95bcf8178ba62c8e72d6834775",
+    "project": "morpho-v1",
+    "dlPoolId": "1f3eea0e-78c5-4a0e-8134-6c25c2741b6e",
+    "url": "https://app.morpho.org/ethereum/vault/0x2f1aBb81ed86Be95bcf8178bA62C8e72D6834775"
+  },
+  {
+    "address": "0xa02f5e93f783baf150aa1f8b341ae90fe0a772f7",
+    "project": "morpho-v1",
+    "dlPoolId": "a5e58eac-e938-4f52-a7d1-f202310f08fa",
+    "url": "https://app.morpho.org/ethereum/vault/0xA02F5E93f783baF150Aa1F8b341Ae90fe0a772f7"
+  },
+  {
+    "address": "0x0c6aec603d48ebf1cecc7b247a2c3da08b398dc1",
+    "project": "morpho-v1",
+    "dlPoolId": "c6eb4755-3f26-4999-a2a3-5cffc9177eff",
+    "url": "https://app.morpho.org/ethereum/vault/0x0c6aec603d48eBf1cECc7b247a2c3DA08b398DC1"
+  },
+  {
+    "address": "0xae7d8db82480e6d8e3873ecbf22cf17b3d8a7308",
+    "project": "yearn-finance",
+    "dlPoolId": "6dc5652b-c1f0-4871-ac8e-bff2eaddac2a",
+    "url": "https://yearn.fi/vaults/1/0xAe7d8Db82480E6d8e3873ecbF22cf17b3D8A7308"
+  },
+  {
+    "address": "0x4f460bb11cf958606c69a963b4a17f9daeeea8b6",
+    "project": "morpho-v1",
+    "dlPoolId": "5dbdc9fe-8df3-40e8-8c4e-ec517948453f",
+    "url": "https://app.morpho.org/ethereum/vault/0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6"
+  },
+  {
+    "address": "0xaf71a4f5d93fb88b24c67760bcf9688a6c3a54d4",
+    "project": "yearn-finance",
+    "dlPoolId": "592b3ae7-1a5c-4e80-90c4-99e25c160f7e",
+    "url": "https://yearn.fi/vaults/1/0xaF71a4f5d93fb88B24C67760BCF9688a6C3A54D4"
+  },
+  {
+    "address": "0x4edfab296f8eb15ac0907cf9ecb7079b1679da57",
+    "project": "morpho-v1",
+    "dlPoolId": "4abf2ee1-9181-4bd3-b7cf-2bf53696f7d3",
+    "url": "https://app.morpho.org/ethereum/vault/0x4EDfaB296F8Eb15aC0907CF9eCb7079b1679Da57"
+  },
+  {
+    "address": "0x98cf0b67da0f16e1f8f1a1d23ad8dc64c0c70e0b",
+    "project": "morpho-v1",
+    "dlPoolId": "1d5162d1-a836-429f-9eec-50d6ef592e1f",
+    "url": "https://app.morpho.org/ethereum/vault/0x98cF0B67Da0F16E1F8f1a1D23ad8Dc64c0c70E0b"
+  },
+  {
+    "address": "0xe54661e8db3b106d6d31c3a33cb4a9c57ff62997",
+    "project": "silo-v2",
+    "dlPoolId": "9e2a77ed-1f4f-4071-a563-e0e4499ff6ff",
+    "url": "https://v2.silo.finance/markets/ethereum/147"
+  },
+  {
+    "address": "0x0868076663bbc6638cedd27704cc8f0fa53d5b81",
+    "project": "yearn-finance",
+    "dlPoolId": "23895650-759b-4417-8268-981134826dfc",
+    "url": "https://yearn.fi/vaults/1/0x0868076663Bbc6638ceDd27704cc8F0Fa53d5b81"
+  },
+  {
+    "address": "0xcea18a8752bb7e7817f9ae7565328fe415c0f2ca",
+    "project": "convex-finance",
+    "dlPoolId": "9595a47e-4954-424e-8a6d-044ceb3ccae4",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x214b47c50057efaa7adc1b1c2608c3751cd77d78",
+    "project": "morpho-v1",
+    "dlPoolId": "a1b0e78d-56c7-4259-9deb-93e18aafadbb",
+    "url": "https://app.morpho.org/ethereum/vault/0x214B47C50057eFaa7adc1B1C2608C3751Cd77D78"
+  },
+  {
+    "address": "0x43ee0243ea8cf02f7087d8b16c8d2007cc9c7ca2",
+    "project": "ipor-fusion",
+    "dlPoolId": "e5a2f2e1-f151-4047-9a30-62af991cff5c",
+    "url": "https://app.ipor.io/fusion/ethereum/0x43ee0243ea8cf02f7087d8b16c8d2007cc9c7ca2"
+  },
+  {
+    "address": "0x412d0e31790d77b6e7a7872a9fd6967b6e640229",
+    "project": "euler-v2",
+    "dlPoolId": "44293f7f-2e0d-4904-a336-f53b5970abfe",
+    "url": "https://app.euler.finance/vault/0x412D0E31790D77b6e7a7872a9fd6967B6E640229?network=ethereum"
+  },
+  {
+    "address": "0x018f8f5f52aaff23ff838ae4637afe22713fb428",
+    "project": "morpho-v1",
+    "dlPoolId": "bdb00ac2-8696-4564-95ff-17cc6e572715",
+    "url": "https://app.morpho.org/ethereum/vault/0x018f8f5F52AAfF23FF838aE4637aFe22713FB428"
+  },
+  {
+    "address": "0xdbb316375b4dc992b2c8827d120c09dfb1d3455d",
+    "project": "morpho-v1",
+    "dlPoolId": "ec37a65e-2728-4723-b4b4-7e18d8b7feaa",
+    "url": "https://app.morpho.org/vault?vault=0xdBB316375B4dC992B2c8827D120c09dFB1d3455D&network=mainnet"
+  },
+  {
+    "address": "0x92545bce636e6ee91d88d2d017182cd0bd2fc22e",
+    "project": "yearn-finance",
+    "dlPoolId": "ac7fc0fe-4b0f-4f80-8e0f-4f47d67d6681",
+    "url": "https://yearn.fi/vaults/1/0x92545bCE636E6eE91D88D2D017182cD0bd2fC22e"
+  },
+  {
+    "address": "0x2920f9fc667e780c0cb5a78a104d21413377f97e",
+    "project": "notional-v3",
+    "dlPoolId": "1adf55ea-0ed6-455f-bf4d-2dde9fef91a7",
+    "url": "https://notional.finance/liquidity-leveraged/mainnet/CreateLeveragedNToken/USDC"
+  },
+  {
+    "address": "0x2920f9fc667e780c0cb5a78a104d21413377f97e",
+    "project": "notional-v3",
+    "dlPoolId": "a6b8eebf-e7a5-4400-8f87-2511393103f3",
+    "url": "https://notional.finance/liquidity-variable/mainnet/USDC"
+  },
+  {
+    "address": "0xc2c4abae84fbb5b7baab52301a924b1f986c66bd",
+    "project": "euler-v2",
+    "dlPoolId": "6e6a55a1-525a-4bc9-8e79-96ee1015b0b7",
+    "url": "https://app.euler.finance/vault/0xc2c4aBae84fbb5b7bAAB52301A924b1F986C66bd?network=ethereum"
+  },
+  {
+    "address": "0xce6ab1c71981e79cd30052c521c162674251018a",
+    "project": "silo-v2",
+    "dlPoolId": "1f4e1c87-e20a-4fdc-b4f9-5e182b9bb627",
+    "url": "https://v2.silo.finance/markets/ethereum/127"
+  },
+  {
+    "address": "0xc687141c18f20f7ba405e45328825579fddd3195",
+    "project": "convex-finance",
+    "dlPoolId": "a27cb53e-7e7d-420f-991a-484d06e1a629",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x2f21c6499fa53a680120e654a27640fc8aa40bed",
+    "project": "morpho-v1",
+    "dlPoolId": "363b9e0e-28c4-4153-9fff-f2f9ac2d3a3c",
+    "url": "https://app.morpho.org/ethereum/vault/0x2F21c6499fa53a680120e654a27640Fc8Aa40BeD"
+  },
+  {
+    "address": "0x2c25f6c25770ffec5959d34b94bf898865e5d6b1",
+    "project": "morpho-v1",
+    "dlPoolId": "043a8330-bc29-4164-aa1c-28de7bf87755",
+    "url": "https://app.morpho.org/ethereum/vault/0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1"
+  },
+  {
+    "address": "0x6701dea9809deaf068b8445798d0e19b025480fe",
+    "project": "yearn-finance",
+    "dlPoolId": "bfcc3e0a-1d64-4f64-8baa-2c99c05a3da5",
+    "url": "https://yearn.fi/vaults/1/0x6701DEa9809dEaf068B8445798d0E19B025480Fe"
+  },
+  {
+    "address": "0x15e8c742614b5d8db4083a41df1a14f5d2bfb400",
+    "project": "fluid-lending",
+    "dlPoolId": "de1e601d-d589-4a66-91b7-d4ac8bdcecac",
+    "url": "https://fluid.io/lending/1/USDtb"
+  },
+  {
+    "address": "0xc9f01b5c6048b064e6d925d1c2d7206d4feef8a3",
+    "project": "yearn-finance",
+    "dlPoolId": "3033d94b-dcaf-4a0b-a9dd-a92998c74d5e",
+    "url": "https://yearn.fi/vaults/1/0xc9f01b5c6048B064E6d925d1c2d7206d4fEeF8a3"
+  },
+  {
+    "address": "0xe108fbc04852b5df72f9e44d7c29f47e7a993add",
+    "project": "morpho-v1",
+    "dlPoolId": "00d50ef9-5980-447f-b1ca-ec651d34d111",
+    "url": "https://app.morpho.org/ethereum/vault/0xe108fbc04852B5df72f9E44d7C29F47e7A993aDd"
+  },
+  {
+    "address": "0xd27159604ae512c056cf282933b838a4d38b1d17",
+    "project": "euler-v2",
+    "dlPoolId": "dcc70fd5-be16-4a9e-8445-646669ddea71",
+    "url": "https://app.euler.finance/vault/0xd27159604ae512c056cf282933B838A4d38B1D17?network=ethereum"
+  },
+  {
+    "address": "0x98281466abcf48eaad8c6e22dedd18a3426a93b4",
+    "project": "euler-v2",
+    "dlPoolId": "4059659c-a240-47c3-85a5-69897563d63b",
+    "url": "https://app.euler.finance/vault/0x98281466aBcF48eAAD8c6E22dEdD18A3426A93b4?network=ethereum"
+  },
+  {
+    "address": "0x096697720056886b905d0deb0f06affb8e4665e5",
+    "project": "sandclock",
+    "dlPoolId": "07354cfc-833b-4057-ba73-5796047cb5be",
+    "url": "https://app.sandclock.org/"
+  },
+  {
+    "address": "0x43a32d4f6c582f281c52393f8f9e5ace1d4a1e68",
+    "project": "ipor-fusion",
+    "dlPoolId": "ce17a53c-5299-42be-bd2c-b28a6a855939",
+    "url": "https://app.ipor.io/fusion/ethereum/0x43a32d4f6c582f281c52393f8f9e5ace1d4a1e68"
+  },
+  {
+    "address": "0x328646cdfbad730432620d845b8f5a2f7d786c01",
+    "project": "euler-v2",
+    "dlPoolId": "a3a7fb56-b19a-4dc8-a3f1-285cb38c5885",
+    "url": "https://app.euler.finance/vault/0x328646cdfBaD730432620d845B8F5A2f7D786C01?network=ethereum"
+  },
+  {
+    "address": "0x95eef579155cd2c5510f312c8fa39208c3be01a8",
+    "project": "morpho-v1",
+    "dlPoolId": "1350803f-262c-4c7e-b134-d2f693c7a7c8",
+    "url": "https://app.morpho.org/ethereum/vault/0x95EeF579155cd2C5510F312c8fA39208c3Be01a8"
+  },
+  {
+    "address": "0x3adf08afe804691ca6d76742367cc50a24a1f4a1",
+    "project": "size-credit",
+    "dlPoolId": "5b659878-6586-45b3-af25-6d8271b5e081",
+    "url": "https://veryliquid.xyz/ethereum/vault/0x3AdF08AFe804691cA6d76742367cc50A24a1F4A1"
+  },
+  {
+    "address": "0x83706a2ec580fe1fdb84744366fa02fb8e25d29d",
+    "project": "notional-v3",
+    "dlPoolId": "2964a2e0-783f-4338-b19a-3da6f7e57b7e",
+    "url": "https://notional.finance/lend-variable/mainnet/WBTC"
+  },
+  {
+    "address": "0xbd360bb80e6cbe86e533b672df6bfc054602adbd",
+    "project": "euler-v2",
+    "dlPoolId": "b5bd868e-38b0-4220-8832-ad1e64cdf2bf",
+    "url": "https://app.euler.finance/vault/0xBd360BB80E6CBe86e533B672Df6BFc054602ADBD?network=ethereum"
+  },
+  {
+    "address": "0xe88e44c2c7dfc9bcb86e380d29375ccd6cd85406",
+    "project": "euler-v2",
+    "dlPoolId": "5a1816ca-47ac-49d8-bd70-8f723ec92278",
+    "url": "https://app.euler.finance/vault/0xE88e44C2C7dfc9bcb86e380d29375ccD6cd85406?network=ethereum"
+  },
+  {
+    "address": "0x7383c2454d23a1e34b35ba02674be0a41bd5aa56",
+    "project": "upshift",
+    "dlPoolId": "a5c87543-2ee4-49ff-8476-be484292931d",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x888883f0eddf69ca4bfd00af93714ff97f188888",
+    "project": "morpho-v1",
+    "dlPoolId": "88dc8fef-a378-4338-9961-d8f9e178eb04",
+    "url": "https://app.morpho.org/ethereum/vault/0x888883f0eDDF69Ca4BfD00Af93714Ff97F188888"
+  },
+  {
+    "address": "0x35911af1b570e26f668905595ded133d01cd3e5a",
+    "project": "autofinance",
+    "dlPoolId": "55d688a7-f0dd-4b4f-87e7-5622249c54ca",
+    "url": "https://app.auto.finance/autopool?id=0x35911af1b570e26f668905595ded133d01cd3e5a"
+  },
+  {
+    "address": "0xf9a7084ec30238495b3f5c51f05ba7cd1c358dcf",
+    "project": "yearn-finance",
+    "dlPoolId": "02d037ab-9b3e-4514-85fe-52fd3ea9aa8d",
+    "url": "https://yearn.fi/vaults/1/0xf9A7084Ec30238495b3F5C51f05BA7Cd1C358dcF"
+  },
+  {
+    "address": "0x82d2ce1f71cbe391c05e21132811e5172d51a6ee",
+    "project": "euler-v2",
+    "dlPoolId": "bcf4808a-9b9a-4380-b0bf-0e091fbea847",
+    "url": "https://app.euler.finance/vault/0x82D2CE1f71cbe391c05E21132811e5172d51A6EE?network=ethereum"
+  },
+  {
+    "address": "0xedc72b49542e4362c677b8369bc23882ed635a75",
+    "project": "morpho-v1",
+    "dlPoolId": "f62d34d8-3aef-43e8-bca1-7c1156a74c27",
+    "url": "https://app.morpho.org/ethereum/vault/0xeDc72B49542E4362c677b8369bC23882Ed635A75"
+  },
+  {
+    "address": "0x3f604074f3f12ff70c29e6bcc9232c707dc4d970",
+    "project": "morpho-v1",
+    "dlPoolId": "37a14d66-7e5a-4b37-9dc3-43831bb7121b",
+    "url": "https://app.morpho.org/ethereum/vault/0x3f604074F3F12Ff70c29e6bCC9232c707DC4D970"
+  },
+  {
+    "address": "0x6c26793c7f1e2785c09b460676e797b716f0bc8e",
+    "project": "morpho-v1",
+    "dlPoolId": "f69e8b5b-c758-4361-b4aa-05d7e68ba4c4",
+    "url": "https://app.morpho.org/ethereum/vault/0x6C26793c7F1e2785c09b460676e797b716f0Bc8E"
+  },
+  {
+    "address": "0x2a356443fee07703266066c6bb1b11b82d8246ad",
+    "project": "euler-v2",
+    "dlPoolId": "2b181181-f200-44d0-81bf-31f3575fea4c",
+    "url": "https://app.euler.finance/vault/0x2a356443FeE07703266066c6Bb1B11b82d8246AD?network=ethereum"
+  },
+  {
+    "address": "0x074134a2784f4f66b6ced6f68849382990ff3215",
+    "project": "yearn-finance",
+    "dlPoolId": "05a3d186-2d42-4e21-b1f0-68c079d22677",
+    "url": "https://yearn.fi/vaults/1/0x074134A2784F4F66b6ceD6f68849382990Ff3215"
+  },
+  {
+    "address": "0x13dda6fd149a4da0f2012f16e70925586ee603b8",
+    "project": "size-credit",
+    "dlPoolId": "4b37c8eb-767c-43d2-ba85-9d76cbe369c1",
+    "url": "https://veryliquid.xyz/ethereum/vault/0x13dDa6fD149a4Da0f2012F16e70925586ee603b8"
+  },
+  {
+    "address": "0xa89e83e39c8a1cb173d7a0c0201cd3956b57db6d",
+    "project": "yearn-finance",
+    "dlPoolId": "2958f8bb-5267-4426-86bd-eba210f24f4a",
+    "url": "https://yearn.fi/vaults/1/0xA89E83E39c8A1cB173D7a0c0201Cd3956B57db6d"
+  },
+  {
+    "address": "0x30881baa943777f92dc934d53d3bfdf33382cab3",
+    "project": "morpho-v1",
+    "dlPoolId": "dad72fdc-e04d-471c-b084-0fa7892ce4c7",
+    "url": "https://app.morpho.org/ethereum/vault/0x30881Baa943777f92DC934d53D3bFdF33382cab3"
+  },
+  {
+    "address": "0x73e65dbd630f90604062f6e02fab9138e713edd9",
+    "project": "morpho-v1",
+    "dlPoolId": "30347261-b48b-4781-b394-081e630d49a9",
+    "url": "https://app.morpho.org/ethereum/vault/0x73e65DBD630f90604062f6E02fAb9138e713edD9"
+  },
+  {
+    "address": "0x463f9ed5e11764eb9029762011a03643603ad879",
+    "project": "pods-yield",
+    "dlPoolId": "ce3595e5-cd79-4bcf-841e-7acac5ff5bc3",
+    "url": "https://app.pods.finance"
+  },
+  {
+    "address": "0x5fe4b38520e856921978715c8579d2d7a4d2274f",
+    "project": "pods-yield",
+    "dlPoolId": "517cabea-d8ec-4fab-954a-31940a3104da",
+    "url": "https://app.pods.finance"
+  },
+  {
+    "address": "0xe2d6a2a16ff6d3bbc4c90736a7e6f7cc3c9b8fa9",
+    "project": "euler-v2",
+    "dlPoolId": "21cf4bda-cc72-4ead-ae70-37c0efcc91f7",
+    "url": "https://app.euler.finance/vault/0xe2D6A2a16ff6d3bbc4C90736A7e6F7Cc3C9B8fa9?network=ethereum"
+  },
+  {
+    "address": "0x2f849ba554c1ea2ede9c240bbe9d247dd6ec8a6b",
+    "project": "euler-v2",
+    "dlPoolId": "f1c042fb-2661-4d39-8641-3ee9097a2df6",
+    "url": "https://app.euler.finance/vault/0x2F849ba554C1ea2eDe9C240Bbe9d247dd6eC8A6B?network=ethereum"
+  },
+  {
+    "address": "0xc6137bc1378c2396051e06417704d31615f77cb9",
+    "project": "euler-v2",
+    "dlPoolId": "5b91998c-7db9-4b5e-8caf-343b55769151",
+    "url": "https://app.euler.finance/vault/0xc6137BC1378c2396051e06417704d31615F77Cb9?network=ethereum"
+  },
+  {
+    "address": "0x438982ea288763370946625fd76c2508ee1fb229",
+    "project": "csigma-finance",
+    "dlPoolId": "f4805c75-9ee0-4cc6-9325-0badcf7bfea1",
+    "url": "https://app.csigma.finance"
+  },
+  {
+    "address": "0x8aff4fe319c30475d27ec623d7d44bd5ecfe9616",
+    "project": "euler-v2",
+    "dlPoolId": "843df3fc-9fc7-44a7-9a82-2b9bc8f5d0fd",
+    "url": "https://app.euler.finance/vault/0x8aFF4fe319c30475D27eC623D7d44bD5eCFe9616?network=ethereum"
+  },
+  {
+    "address": "0xfe09e53a81fe2808bc493ea64319109b5baa573e",
+    "project": "harvest-finance",
+    "dlPoolId": "f52fcbc6-88a8-42b0-965e-563f1d1e52da",
+    "url": "https://app.harvest.finance/ethereum/0xFE09e53A81Fe2808bc493ea64319109B5bAa573e"
+  },
+  {
+    "address": "0x481d4909d7ca2eb27c4975f08dce07dbef0d3fa7",
+    "project": "euler-v2",
+    "dlPoolId": "c5b52a38-59e4-481e-9bba-0386b1e8620c",
+    "url": "https://app.euler.finance/vault/0x481D4909D7ca2eb27c4975f08dCE07DBeF0d3Fa7?network=ethereum"
+  },
+  {
+    "address": "0x6fe7fa90756434645f0b0428fdff78e99dda0fbc",
+    "project": "euler-v2",
+    "dlPoolId": "4bb695e2-bd1c-473e-81ca-4e3d027cad78",
+    "url": "https://app.euler.finance/vault/0x6Fe7Fa90756434645F0b0428fDff78E99Dda0FBc?network=ethereum"
+  },
+  {
+    "address": "0xdfa525bd3a8e59d336ef725309f855250538c337",
+    "project": "convex-finance",
+    "dlPoolId": "52c42e18-b259-4d21-9883-8137cac7e4d2",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x1f46186af85a967416b17380800c69860b7c516f",
+    "project": "euler-v2",
+    "dlPoolId": "5b6ba2f8-53a5-406c-89ab-a52ffab0b46a",
+    "url": "https://app.euler.finance/vault/0x1F46186AF85A967416b17380800c69860B7C516F?network=ethereum"
+  },
+  {
+    "address": "0x3b028b4b6c567ef5f8ca1144da4fbaa0d973f228",
+    "project": "euler-v2",
+    "dlPoolId": "147a01ef-7f0d-4781-b756-84b33b45f721",
+    "url": "https://app.euler.finance/vault/0x3b028b4b6c567eF5f8Ca1144Da4FbaA0D973F228?network=ethereum"
+  },
+  {
+    "address": "0x477d7fee2d9dca0ba8f7cbeaa7da219b5bb2d1a7",
+    "project": "euler-v2",
+    "dlPoolId": "4aaa9d6c-b116-4e82-9bbf-2a9b598f8929",
+    "url": "https://app.euler.finance/vault/0x477d7feE2d9dca0bA8F7CbEAa7da219b5bb2d1a7?network=ethereum"
+  },
+  {
+    "address": "0x3c75c170671acb394804dfaf63e4f9891c121625",
+    "project": "euler-v2",
+    "dlPoolId": "43c85a77-21ca-4551-81b8-86b751ca6a84",
+    "url": "https://app.euler.finance/vault/0x3C75C170671acb394804DfAf63e4F9891C121625?network=ethereum"
+  },
+  {
+    "address": "0x498c014de23f19700f51e85a384ab1b059f0672e",
+    "project": "euler-v2",
+    "dlPoolId": "32fb4e7a-5f05-47b0-a2e8-bea4eec17e7b",
+    "url": "https://app.euler.finance/vault/0x498c014dE23f19700F51e85a384AB1B059F0672e?network=ethereum"
+  },
+  {
+    "address": "0x7354ec6e852108411e681d13e11185c3a2567981",
+    "project": "gearbox",
+    "dlPoolId": "2a091306-1ced-4d01-a86b-673aaddbad5f",
+    "url": "https://app.gearbox.fi/pools/0x7354EC6E852108411e681D13E11185c3a2567981"
+  },
+  {
+    "address": "0xa435f140114910c96343574dd67883f7538ba736",
+    "project": "ipor-fusion",
+    "dlPoolId": "998ff902-0780-462f-a6bb-463c1315b9c8",
+    "url": "https://app.ipor.io/fusion/ethereum/0xa435f140114910c96343574dd67883f7538ba736"
+  },
+  {
+    "address": "0xc004b0c1eaea96d3ea0a08c2f0efaa0df93b6450",
+    "project": "morpho-v1",
+    "dlPoolId": "86d5c692-ad02-4878-a95a-184e0103f83e",
+    "url": "https://app.morpho.org/ethereum/vault/0xC004b0C1eaeA96d3ea0A08C2f0eFAa0DF93B6450"
+  },
+  {
+    "address": "0xa1b60d96e5c50da627095b9381dc5a46af1a9a42",
+    "project": "morpho-v1",
+    "dlPoolId": "ad33122f-7d0d-4578-8908-a08f7c1485d7",
+    "url": "https://app.morpho.org/ethereum/vault/0xA1b60d96e5C50dA627095B9381dc5a46AF1a9a42"
+  },
+  {
+    "address": "0x6dfc8ae855fa8ab7babb81ab7c8a6da7794f60fb",
+    "project": "euler-v2",
+    "dlPoolId": "517ee6d7-a51f-4c59-954c-67851d177589",
+    "url": "https://app.euler.finance/vault/0x6DFC8ae855FA8Ab7bAbB81aB7c8a6DA7794f60fB?network=ethereum"
+  },
+  {
+    "address": "0x74034eb8d5b2e480825263a975e4cf82a081c959",
+    "project": "euler-v2",
+    "dlPoolId": "5f13466a-8b06-4fc2-9afb-d81bca04c4af",
+    "url": "https://app.euler.finance/vault/0x74034eb8d5B2E480825263A975E4CF82A081c959?network=ethereum"
+  },
+  {
+    "address": "0xaeeafb1259f01f363d09d7027ad80a9d442de762",
+    "project": "notional-v3",
+    "dlPoolId": "fd245098-e740-4b24-a540-10aac7a8bf95",
+    "url": "https://notional.finance/lend-variable/mainnet/USDC"
+  },
+  {
+    "address": "0x20e934c725b6703f0ac696f1689008057db9ac44",
+    "project": "ipor-fusion",
+    "dlPoolId": "e5d64a40-6d3a-4ee2-adcb-6787d892fbf9",
+    "url": "https://app.ipor.io/fusion/ethereum/0x20e934c725b6703f0ac696f1689008057db9ac44"
+  },
+  {
+    "address": "0x02ae6a64a0dc17fffdc5722ad8270a7b32be44db",
+    "project": "silo-v2",
+    "dlPoolId": "43f62e05-b926-4a89-a552-a6ad6e7d8144",
+    "url": "https://v2.silo.finance/markets/ethereum/162"
+  },
+  {
+    "address": "0xabab980f0ecb232d52f422c6b68d25c3d0c18e3e",
+    "project": "ipor-fusion",
+    "dlPoolId": "78cc9603-b71a-40d0-b111-edf5058393c9",
+    "url": "https://app.ipor.io/fusion/ethereum/0xabab980f0ecb232d52f422c6b68d25c3d0c18e3e"
+  },
+  {
+    "address": "0x097ffedb80d4b2ca6105a07a4d90eb739c45a666",
+    "project": "morpho-v1",
+    "dlPoolId": "da824cff-670b-4942-9591-99b004134f73",
+    "url": "https://app.morpho.org/ethereum/vault/0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666"
+  },
+  {
+    "address": "0x0e297de4005883c757c9f09fdf7cf1363c20e626",
+    "project": "yearn-finance",
+    "dlPoolId": "90cb9575-6a55-4900-9536-ead80c7dfa6c",
+    "url": "https://yearn.fi/vaults/1/0x0e297dE4005883C757c9F09fdF7cF1363C20e626"
+  },
+  {
+    "address": "0xbeefff68cc520d68f82641eff84330c631e2490e",
+    "project": "morpho-v1",
+    "dlPoolId": "bec22d21-6aa4-4358-9f47-fe9027f8ca74",
+    "url": "https://app.morpho.org/ethereum/vault/0xbeeFfF68CC520D68f82641EFF84330C631E2490E"
+  },
+  {
+    "address": "0xbdd4859050468fbc11dec07113a6e633608a1372",
+    "project": "morpho-v1",
+    "dlPoolId": "8c59db46-2e2c-4da6-9f18-1e717aefe6f9",
+    "url": "https://app.morpho.org/ethereum/vault/0xbdd4859050468fBc11Dec07113a6e633608A1372"
+  },
+  {
+    "address": "0xaf48f006e75af050c4136f5a32b69e3fe1c4140f",
+    "project": "yearn-finance",
+    "dlPoolId": "13255217-025e-44c9-8251-43b2f73e6f43",
+    "url": "https://yearn.fi/vaults/1/0xaf48f006e75AF050c4136F5a32B69e3FE1C4140f"
+  },
+  {
+    "address": "0x6dc3ce9c57b20131347fdc9089d740daf6eb34c5",
+    "project": "autofinance",
+    "dlPoolId": "5a9c2073-2190-4002-9654-8c245d1e8534",
+    "url": "https://app.auto.finance/autopool?id=0x6dc3ce9c57b20131347fdc9089d740daf6eb34c5"
+  },
+  {
+    "address": "0x1e6ffa4e9f63d10b8820a3ab52566af881dab53c",
+    "project": "morpho-v1",
+    "dlPoolId": "f0a1ea8c-2674-487d-8404-08638635d8af",
+    "url": "https://app.morpho.org/ethereum/vault/0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c"
+  },
+  {
+    "address": "0x2daca71cb58285212dc05d65cfd4f59a82bc4cf6",
+    "project": "euler-v2",
+    "dlPoolId": "3bb6a56f-d2cf-4e80-ad33-b0735139a7c5",
+    "url": "https://app.euler.finance/vault/0x2daCa71Cb58285212Dc05D65Cfd4f59A82BC4cF6?network=ethereum"
+  },
+  {
+    "address": "0x6d2981ff9b8d7edbb7604de7a65bac8694ac849f",
+    "project": "yearn-finance",
+    "dlPoolId": "23c450b9-679a-4f88-83cc-5f07e2667fcc",
+    "url": "https://yearn.fi/vaults/1/0x6D2981FF9b8d7edbb7604de7A65BAC8694ac849F"
+  },
+  {
+    "address": "0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c",
+    "project": "harvest-finance",
+    "dlPoolId": "5f2ad06d-5e9f-43a0-9ed4-5bfc3933bab3",
+    "url": "https://app.harvest.finance/ethereum/0xab7fa2b2985bccfc13c6d86b1d5a17486ab1e04c"
+  },
+  {
+    "address": "0x7c280dbdef569e96c7919251bd2b0edf0734c5a8",
+    "project": "euler-v2",
+    "dlPoolId": "8e41ef65-c599-4750-82a6-b284ddd33635",
+    "url": "https://app.euler.finance/vault/0x7c280DBDEf569e96c7919251bD2B0edF0734C5A8?network=ethereum"
+  },
+  {
+    "address": "0x7752c0d4b7547da35ebb5f9271a5041df5af6afb",
+    "project": "teller",
+    "dlPoolId": "1c3a3818-d1ce-4f54-9f70-0f0b817ed7eb",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x7752c0d4b7547da35ebb5f9271a5041df5af6afb"
+  },
+  {
+    "address": "0x6164045fc2b2b269ffcab2197736a74b1725b6c6",
+    "project": "yearn-finance",
+    "dlPoolId": "f88f32f0-fa63-4dff-b99a-6bf6bec3a00d",
+    "url": "https://yearn.fi/vaults/1/0x6164045FC2b2b269ffcaB2197736A74B1725B6C6"
+  },
+  {
+    "address": "0x4d52545235a3df246a8928c583e47ae7eec4acfe",
+    "project": "morpho-v1",
+    "dlPoolId": "60718439-6aca-4ee3-99c5-095545ce7e15",
+    "url": "https://app.morpho.org/ethereum/vault/0x4d52545235A3dF246a8928c583E47AE7eeC4aCfE"
+  },
+  {
+    "address": "0x5ef340c8129fd7f6b7c8900df7c6558e164ef052",
+    "project": "silo-v2",
+    "dlPoolId": "43589f13-76ab-4f49-9b12-632744a882d3",
+    "url": "https://v2.silo.finance/markets/ethereum/104"
+  },
+  {
+    "address": "0x053c80ea73dc6941f518a68e2fc52ac45bde7c9c",
+    "project": "harvest-finance",
+    "dlPoolId": "d4019537-521c-4f63-85f7-bd5cea38c113",
+    "url": "https://app.harvest.finance/ethereum/0x053c80eA73Dc6941F518a68E2FC52Ac45BDE7c9C"
+  },
+  {
+    "address": "0xfa7ed49eb24a6117d8a3168eee69d26b45c40c63",
+    "project": "morpho-v1",
+    "dlPoolId": "3c7d5ebf-8fa0-4df4-81ba-446fef0d4403",
+    "url": "https://app.morpho.org/ethereum/vault/0xFa7ED49Eb24A6117D8a3168EEE69D26b45C40C63"
+  },
+  {
+    "address": "0xe800e3760fc20aa98c5df6a9816147f190455af3",
+    "project": "autofinance",
+    "dlPoolId": "06a77517-529a-465e-8157-ba752207676b",
+    "url": "https://app.auto.finance/autopool?id=0xe800e3760fc20aa98c5df6a9816147f190455af3"
+  },
+  {
+    "address": "0x6619f92861c760ad11ba0d56e8ed63a33ecce22b",
+    "project": "morpho-v1",
+    "dlPoolId": "90505cd5-fe18-4671-b2b9-a16d1b8bd30e",
+    "url": "https://app.morpho.org/ethereum/vault/0x6619F92861C760AD11BA0D56E8ED63A33EccE22B"
+  },
+  {
+    "address": "0x48afe17cb6363fd1aaea50a8cb652c5978972c96",
+    "project": "euler-v2",
+    "dlPoolId": "519cf6c0-04b1-447a-ad1e-80d990bb457b",
+    "url": "https://app.euler.finance/vault/0x48Afe17cB6363fD1aaeA50a8CB652C5978972c96?network=ethereum"
+  },
+  {
+    "address": "0x7752c0d4b7547da35ebb5f9271a5041df5af6afb",
+    "project": "teller",
+    "dlPoolId": "b8db648e-fdf6-4288-8a73-f6dd09580a60",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x7752c0d4b7547da35ebb5f9271a5041df5af6afb"
+  },
+  {
+    "address": "0x4d56c9cba373ad39df69eb18f076b7348000ae09",
+    "project": "gearbox",
+    "dlPoolId": "30c30366-ef53-4bdd-9f48-7531ed6faf9d",
+    "url": "https://app.gearbox.fi/pools/0x4d56c9cBa373AD39dF69Eb18F076b7348000AE09"
+  },
+  {
+    "address": "0xea4540dac38583be91dbfb235efc49286d49a5e5",
+    "project": "silo-v2",
+    "dlPoolId": "5c231ceb-8bde-4c63-9a45-10f6546b7c58",
+    "url": "https://v2.silo.finance/markets/ethereum/172"
+  },
+  {
+    "address": "0x14361c243174794e2207296a6ad59bb0dec1d388",
+    "project": "convex-finance",
+    "dlPoolId": "ea9653c7-1d36-445d-8ba1-3de3f22d3fd8",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x22eed7c25a35d40255cd80d3b67a2f8742f94443",
+    "project": "euler-v2",
+    "dlPoolId": "4e8e3dcb-6ca8-46ed-b6f7-0f03a1b0ab56",
+    "url": "https://app.euler.finance/vault/0x22eed7C25A35D40255cd80d3B67A2F8742f94443?network=ethereum"
+  },
+  {
+    "address": "0xb2b23c87a4b6d1b03ba603f7c3eb9a81fdc0aac9",
+    "project": "convex-finance",
+    "dlPoolId": "3fe5c41d-5a6a-4df3-a625-592f32349baf",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xbeefc1cdafc5b4a649b54d07afc6bf0f75c6f4e2",
+    "project": "morpho-v1",
+    "dlPoolId": "8e62891e-9e72-468a-a804-fcdd2681fc7f",
+    "url": "https://app.morpho.org/ethereum/vault/0xBeEFC1CDAfc5b4a649b54D07AFc6bF0f75C6F4E2"
+  },
+  {
+    "address": "0x9f12d29c7cc72bb3d237e2d042a6d890421f9899",
+    "project": "euler-v2",
+    "dlPoolId": "3297056c-49db-418b-b68e-b35e980cf722",
+    "url": "https://app.euler.finance/vault/0x9f12d29c7CC72bb3d237E2D042A6D890421f9899?network=ethereum"
+  },
+  {
+    "address": "0x209c28798cd14dda47f384df102a24da0e76e0d4",
+    "project": "euler-v2",
+    "dlPoolId": "241690a6-5c3a-4360-a4f1-1d0e7281cd80",
+    "url": "https://app.euler.finance/vault/0x209C28798CD14Dda47F384Df102a24da0e76e0d4?network=ethereum"
+  },
+  {
+    "address": "0x206db0a0af10bec57784045e089a418771d20227",
+    "project": "yearn-finance",
+    "dlPoolId": "d9dc9882-7036-4098-a3c3-a8c3a307fa4d",
+    "url": "https://yearn.fi/vaults/1/0x206db0A0Af10Bec57784045e089A418771D20227"
+  },
+  {
+    "address": "0x45c3b59d53e2e148aaa6a857521059676d5c0489",
+    "project": "euler-v2",
+    "dlPoolId": "143baf6f-154d-415c-8bb3-96e2a5aaf34f",
+    "url": "https://app.euler.finance/vault/0x45c3B59d53e2e148Aaa6a857521059676D5c0489?network=ethereum"
+  },
+  {
+    "address": "0x1b4cd53a1a8e5f50ab6320ef34e5fb4d3df7b6f6",
+    "project": "morpho-v1",
+    "dlPoolId": "25c77668-5435-4ceb-aff5-26a1f10564cb",
+    "url": "https://app.morpho.org/ethereum/vault/0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6"
+  },
+  {
+    "address": "0xc727069c0eb261be642272fe3848518192683ffc",
+    "project": "euler-v2",
+    "dlPoolId": "ef9cf8d2-cf11-416d-a6be-3bcd08244f51",
+    "url": "https://app.euler.finance/vault/0xc727069c0eb261Be642272fe3848518192683fFc?network=ethereum"
+  },
+  {
+    "address": "0xbbfaf69e3b932f38541a130cd5f3cb0e7100fa0d",
+    "project": "morpho-v1",
+    "dlPoolId": "70026915-dc85-4d29-98e5-b4994fbde2ff",
+    "url": "https://app.morpho.org/ethereum/vault/0xBBfaF69e3B932f38541a130CD5f3cB0e7100Fa0d"
+  },
+  {
+    "address": "0x53afe3343f322c4189ab69e0d048efd154259419",
+    "project": "euler-v2",
+    "dlPoolId": "a02c4fea-b826-4b8e-96c1-051320e42a9e",
+    "url": "https://app.euler.finance/vault/0x53AfE3343f322c4189Ab69E0D048efd154259419?network=ethereum"
+  },
+  {
+    "address": "0xebb1ce9c7c18f0ab128e711b4f5c3c20feb1f158",
+    "project": "morpho-v1",
+    "dlPoolId": "14164b88-14f3-42a4-82e6-e1aa75aa5307",
+    "url": "https://app.morpho.org/ethereum/vault/0xeBb1ce9c7c18f0AB128e711B4f5C3C20fEB1f158"
+  },
+  {
+    "address": "0x7fa9d88209a38ec394b1616e5e63d8769b8ecd6b",
+    "project": "teller",
+    "dlPoolId": "69d8c398-06cd-49f7-804b-d277ab7cb265",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x7fa9d88209a38ec394b1616e5e63d8769b8ecd6b"
+  },
+  {
+    "address": "0x1de3ba67da79a81bc0c3922689c98550e4bd9bc2",
+    "project": "silo-v2",
+    "dlPoolId": "329a09af-c49b-45ef-bbfe-ddb14cb22de1",
+    "url": "https://v2.silo.finance/markets/ethereum/155"
+  },
+  {
+    "address": "0xba04de02ed8cecc3befb8575a95d56d901c9c602",
+    "project": "morpho-v1",
+    "dlPoolId": "0d37e947-8860-49fd-9ab0-4c0bca014b94",
+    "url": "https://app.morpho.org/ethereum/vault/0xba04de02ED8cecc3befb8575a95d56D901c9C602"
+  },
+  {
+    "address": "0xbe40491f3261fd42724f1aeb465796eb11c06ddf",
+    "project": "morpho-v1",
+    "dlPoolId": "4834d98f-4f11-41dc-b8b7-d159cf8e6294",
+    "url": "https://app.morpho.org/ethereum/vault/0xBE40491F3261Fd42724F1AEb465796eb11c06ddF"
+  },
+  {
+    "address": "0x287f941ab4b5aadad2f13f9363fcec8ee312a969",
+    "project": "pods-yield",
+    "dlPoolId": "60efe2e8-7580-4c42-9e8c-1fe8d60eab26",
+    "url": "https://app.pods.finance"
+  },
+  {
+    "address": "0xc2a119ea6de75e4b1451330321cb2474eb8d82d4",
+    "project": "ipor-fusion",
+    "dlPoolId": "b77ea8a2-b4c8-4af3-bb58-b9386a60479f",
+    "url": "https://app.ipor.io/fusion/ethereum/0xc2a119ea6de75e4b1451330321cb2474eb8d82d4"
+  },
+  {
+    "address": "0x99671dbf3d87c0b8f23e7ea5b20cfaa6175578ca",
+    "project": "harvest-finance",
+    "dlPoolId": "83e31753-d9b7-41cb-b9bb-6512c5aa2d38",
+    "url": "https://app.harvest.finance/ethereum/0x99671dbf3D87C0b8f23E7Ea5B20CFAA6175578ca"
+  },
+  {
+    "address": "0x64964e162aa18d32f91ea5b24a09529f811aeb8e",
+    "project": "morpho-v1",
+    "dlPoolId": "f222b7ba-215e-40ad-afa1-b87fea1367d1",
+    "url": "https://app.morpho.org/ethereum/vault/0x64964E162Aa18d32f91eA5B24a09529f811AEB8e"
+  },
+  {
+    "address": "0xce22b5fb17ccbc0c5d87dc2e0df47dd71e3adc0a",
+    "project": "morpho-v1",
+    "dlPoolId": "261c2a72-83cf-469f-a4b5-a9f77099ca36",
+    "url": "https://app.morpho.org/ethereum/vault/0xcE22b5Fb17ccbc0C5d87DC2e0dF47DD71E3AdC0a"
+  },
+  {
+    "address": "0x0d1b386187be8e96680bbddbf7bc05fc737f81b8",
+    "project": "euler-v2",
+    "dlPoolId": "a5dfb181-843c-49c5-a787-7f5b71394b82",
+    "url": "https://app.euler.finance/vault/0x0D1B386187be8e96680bbddBf7Bc05FC737f81b8?network=ethereum"
+  },
+  {
+    "address": "0xf55cd3c172427880dee1b24a91f33a1ca2cf3c8f",
+    "project": "teller",
+    "dlPoolId": "113626bc-d293-490d-9718-543af8daa78a",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xf55cd3c172427880dee1b24a91f33a1ca2cf3c8f"
+  },
+  {
+    "address": "0x5d9d25c7c457dd82fc8668ffc6b9746b674d4ecb",
+    "project": "harvest-finance",
+    "dlPoolId": "7a421824-1c55-4ab0-8aab-894450c95a98",
+    "url": "https://app.harvest.finance/ethereum/0x5d9d25c7C457dD82fc8668FFC6B9746b674d4EcB"
+  },
+  {
+    "address": "0xf2f826c190d020a6d1ec422bf2269e63b8b315e0",
+    "project": "euler-v2",
+    "dlPoolId": "2bcbbb9a-4f25-4771-b64a-a0c55e0de35b",
+    "url": "https://app.euler.finance/vault/0xf2f826c190D020A6D1EC422bF2269E63b8b315E0?network=ethereum"
+  },
+  {
+    "address": "0x2c3cc1c02856894345797cf6ee76ae76ac0f4031",
+    "project": "morpho-v1",
+    "dlPoolId": "30eb5a58-237b-4094-9825-b20ddec27f6d",
+    "url": "https://app.morpho.org/ethereum/vault/0x2C3Cc1C02856894345797Cf6ee76aE76AC0f4031"
+  },
+  {
+    "address": "0xb35b02e3353be80a5648f5299b0336579bcf64a0",
+    "project": "yearn-finance",
+    "dlPoolId": "19308041-dfc5-420a-a119-ccb4d2520793",
+    "url": "https://yearn.fi/vaults/1/0xB35b02E3353BE80A5648F5299b0336579BCf64a0"
+  },
+  {
+    "address": "0xfbc84dbfaa2196853fdb6cae52ef8f56dd76770a",
+    "project": "morpho-v1",
+    "dlPoolId": "c6392dfa-9e63-4972-8e18-46b058e3556d",
+    "url": "https://app.morpho.org/ethereum/vault/0xfBC84DBfAA2196853FdB6cAE52ef8F56DD76770a"
+  },
+  {
+    "address": "0x0562ae950276b24f3eae0d0a518dadb7ad2f8d66",
+    "project": "morpho-v1",
+    "dlPoolId": "641fe81f-e419-4ce9-8d75-fc85126208f4",
+    "url": "https://app.morpho.org/ethereum/vault/0x0562AE950276B24F3eAE0d0a518dADB7Ad2F8D66"
+  },
+  {
+    "address": "0xcfb23d05f32ea0be0dbb5078d189cca89688945e",
+    "project": "sturdy-v2",
+    "dlPoolId": "bed186b4-4143-4184-a56b-6b4145944bd4",
+    "url": "https://v2.sturdy.finance/aggregators/ethereum/0xcFB23D05f32eA0BE0dBb5078d189Cca89688945E"
+  },
+  {
+    "address": "0x01864ae3c7d5f507cc4c24ca67b4cabbdda37ecd",
+    "project": "euler-v2",
+    "dlPoolId": "72edd719-a083-47cf-b8db-eea5cd24d62f",
+    "url": "https://app.euler.finance/vault/0x01864aE3c7d5f507cC4c24cA67B4CABbDdA37EcD?network=ethereum"
+  },
+  {
+    "address": "0xa08ceb657d9a8035a44a1b44b8d4c42ec31dd4d4",
+    "project": "yearn-finance",
+    "dlPoolId": "5fe59931-6b08-4d2e-8a8c-230dbccb4fd9",
+    "url": "https://yearn.fi/vaults/1/0xa08CEb657D9A8035A44A1b44b8d4C42eC31Dd4D4"
+  },
+  {
+    "address": "0xc08d81aba10f2dcba50f9a3efbc0988439223978",
+    "project": "yearn-finance",
+    "dlPoolId": "95292dd4-9564-4337-b32e-8daf5de5a5df",
+    "url": "https://yearn.fi/vaults/1/0xC08d81aba10f2dcBA50F9A3Efbc0988439223978"
+  },
+  {
+    "address": "0xff467c6e827ebbea64da1ab0425021e6c89fbe0d",
+    "project": "convex-finance",
+    "dlPoolId": "d336a31f-1352-4cdb-bbe1-7dde1e26a680",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0xf03bdf72be613931577f78f4754b1c9618d885f7",
+    "project": "teller",
+    "dlPoolId": "7833b5b8-12d9-4ec3-928f-d0cbcd7619fc",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xf03bdf72be613931577f78f4754b1c9618d885f7"
+  },
+  {
+    "address": "0x694e47afd14a64661a04eee674fb331bcdef3737",
+    "project": "yearn-finance",
+    "dlPoolId": "bd6115c6-e90b-4888-a978-c642aed23d7b",
+    "url": "https://yearn.fi/vaults/1/0x694E47AFD14A64661a04eee674FB331bCDEF3737"
+  },
+  {
+    "address": "0x3ed8f77ca6fd9e5c6dbbcc9696bf93f30c3a2ba5",
+    "project": "euler-v2",
+    "dlPoolId": "f9acce1f-8162-43dd-86d1-de83146adb77",
+    "url": "https://app.euler.finance/vault/0x3eD8f77Ca6FD9e5c6DBBcC9696BF93F30C3A2BA5?network=ethereum"
+  },
+  {
+    "address": "0xe92ade9ee76681f96c8bb0b352d5410ca5b35d70",
+    "project": "yearn-finance",
+    "dlPoolId": "9a55c672-c834-4da4-9b14-64271a5a1675",
+    "url": "https://yearn.fi/vaults/1/0xe92ade9eE76681f96C8BB0b352d5410ca5b35D70"
+  },
+  {
+    "address": "0x4c406c068106375724275cbff028770c544a1333",
+    "project": "sandclock",
+    "dlPoolId": "4fd20348-641d-4d84-9559-689106907ecc",
+    "url": "https://app.sandclock.org/"
+  },
+  {
+    "address": "0x31426271449f60d37cc5c9aef7bd12af3bdc7a94",
+    "project": "gearbox",
+    "dlPoolId": "8a777389-069b-44a2-857d-ed4eae1d6154",
+    "url": "https://app.gearbox.fi/pools/0x31426271449F60d37Cc5C9AEf7bD12aF3BdC7A94"
+  },
+  {
+    "address": "0x7338d86137052f0df6e9048d6d23e09735a99585",
+    "project": "euler-v2",
+    "dlPoolId": "01550fbe-9ffb-4c37-a450-e35071523820",
+    "url": "https://app.euler.finance/vault/0x7338d86137052F0dF6e9048d6D23e09735a99585?network=ethereum"
+  },
+  {
+    "address": "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e",
+    "project": "mev-protocol",
+    "dlPoolId": "5c96d741-3cdc-4f71-9f19-c808a76e401e",
+    "url": "https://mev.io/stake"
+  },
+  {
+    "address": "0xaed098db0e39bed6ddc2c07727b8ffc0ba470d9c",
+    "project": "sturdy-v2",
+    "dlPoolId": "f7f0ffac-9aa4-45b8-b6e8-280b4c73b427",
+    "url": "https://v2.sturdy.finance/aggregators/ethereum/0xAeD098db0e39bed6DDc2c07727B8FfC0BA470D9C"
+  },
+  {
+    "address": "0x3a8992754e2ef51d8f90620d2766278af5c59b90",
+    "project": "euler-v2",
+    "dlPoolId": "00609ee1-bd45-46e6-97fb-e7d5699b5e58",
+    "url": "https://app.euler.finance/vault/0x3A8992754E2EF51D8F90620d2766278af5C59b90?network=ethereum"
+  },
+  {
+    "address": "0x4ca0e178c94f039d7f202e09d8d1a655ed3fb6b6",
+    "project": "morpho-v1",
+    "dlPoolId": "ab12cc0f-4296-488e-9ad9-4014d1fadf13",
+    "url": "https://app.morpho.org/ethereum/vault/0x4cA0E178c94f039d7F202E09d8d1a655Ed3fb6b6"
+  },
+  {
+    "address": "0xa94f9ce821c7bd57cc12991cb46ca19f5789278f",
+    "project": "euler-v2",
+    "dlPoolId": "6ceead3d-c017-409c-bc03-bc7672332324",
+    "url": "https://app.euler.finance/vault/0xa94F9CE821C7bD57cc12991CB46ca19f5789278F?network=ethereum"
+  },
+  {
+    "address": "0x0a36f9565c6fb862509ad8d148941968344a55d8",
+    "project": "sandclock",
+    "dlPoolId": "80ac7d0d-7cf4-49e3-b9b4-3b0da370955a",
+    "url": "https://app.sandclock.org/"
+  },
+  {
+    "address": "0x686c83aa81ba206354fdcbc2cd282b4531365e29",
+    "project": "upshift",
+    "dlPoolId": "c18c517b-e281-456b-bb2f-66b943d110f7",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x50d59b785df23728d9948804f8ca3543237a1495",
+    "project": "csigma-finance",
+    "dlPoolId": "e8e1db13-dbb3-4484-a677-80ca66ca2568",
+    "url": "https://app.csigma.finance"
+  },
+  {
+    "address": "0xc2d36f41841b420937643dcccbea8163d4f59b6c",
+    "project": "euler-v2",
+    "dlPoolId": "408a92e7-0150-4b19-b5e4-e8261b248d16",
+    "url": "https://app.euler.finance/vault/0xc2d36F41841B420937643dcccbEa8163D4F59B6c?network=ethereum"
+  },
+  {
+    "address": "0x5085dd6fad07c12e38fae01bc2a4938d2c08b1bc",
+    "project": "morpho-v1",
+    "dlPoolId": "2144b632-6dda-4839-8975-1a072e5a212f",
+    "url": "https://app.morpho.org/ethereum/vault/0x5085Dd6FAd07c12e38fae01bc2a4938d2C08B1Bc"
+  },
+  {
+    "address": "0x419386e3ef42368e602720cc458e00c0b28c47a7",
+    "project": "upshift",
+    "dlPoolId": "dde3dabb-d63f-43d2-b319-60af4a77c4a6",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0x125d41a6e5dbf455cd9df8f80bcc6fd172d52cc6",
+    "project": "morpho-v1",
+    "dlPoolId": "4465eb38-bf67-4f9d-be36-e6fb89ebebb2",
+    "url": "https://app.morpho.org/ethereum/vault/0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6"
+  },
+  {
+    "address": "0x77633305032b6bdf3ebdb373b3badccb2786ce2f",
+    "project": "euler-v2",
+    "dlPoolId": "fe640713-4aae-4130-a31b-a8a6e32289ec",
+    "url": "https://app.euler.finance/vault/0x77633305032b6bDf3eBdB373b3bADcCb2786ce2f?network=ethereum"
+  },
+  {
+    "address": "0x125d41a6e5dbf455cd9df8f80bcc6fd172d52cc6",
+    "project": "angle",
+    "dlPoolId": "8cbf8d7b-711a-4387-97d3-97059b878b0d",
+    "url": "https://app.angle.money/earn"
+  },
+  {
+    "address": "0x7fa9d88209a38ec394b1616e5e63d8769b8ecd6b",
+    "project": "teller",
+    "dlPoolId": "71f2706c-4fe0-44d1-8db3-bf85379bb185",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x7fa9d88209a38ec394b1616e5e63d8769b8ecd6b"
+  },
+  {
+    "address": "0x54fa13a38a690bc69584a7ac8b834c1770959974",
+    "project": "notional-v3",
+    "dlPoolId": "d0c3df8f-ebcd-4c54-b04d-418fd010447f",
+    "url": "https://notional.finance/lend-variable/mainnet/DAI"
+  },
+  {
+    "address": "0x186514400e52270cef3d80e1c6f8d10a75d47344",
+    "project": "morpho-v1",
+    "dlPoolId": "d31fe043-5d45-4c31-a404-6d971749d678",
+    "url": "https://app.morpho.org/ethereum/vault/0x186514400e52270cef3D80e1c6F8d10A75d47344"
+  },
+  {
+    "address": "0x8d4e9a090817e07bdf2bc83a666a81cdb24fb8d1",
+    "project": "teller",
+    "dlPoolId": "25cae42a-053d-4c41-b9b7-19817e5d1802",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x8d4e9a090817e07bdf2bc83a666a81cdb24fb8d1"
+  },
+  {
+    "address": "0x45c1875f1c48622b3d9740af2d7dc62bc9a72422",
+    "project": "morpho-v1",
+    "dlPoolId": "e625175d-8a15-45e6-9cb1-3b12f0997e6c",
+    "url": "https://app.morpho.org/ethereum/vault/0x45c1875F1C48622b3D9740Af2D7dc62Bc9a72422"
+  },
+  {
+    "address": "0x341193ed21711472e71aeca4a942123452bd0dda",
+    "project": "morpho-v1",
+    "dlPoolId": "5b0c7b0b-065f-4717-b8f2-1b1774210249",
+    "url": "https://app.morpho.org/ethereum/vault/0x341193ED21711472e71aECa4A942123452bd0ddA"
+  },
+  {
+    "address": "0xe934c98fe4bb38a5aff1bdf7f1460b84815d27b4",
+    "project": "teller",
+    "dlPoolId": "1b3918cb-38d2-43db-8e91-3d9a7eabbb1d",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xe934c98fe4bb38a5aff1bdf7f1460b84815d27b4"
+  },
+  {
+    "address": "0x09580f2305a335218bdb2eb828387d52ed8fc2f4",
+    "project": "yearn-finance",
+    "dlPoolId": "05badb28-e8ed-4ecf-a7c7-14835875407d",
+    "url": "https://yearn.fi/vaults/1/0x09580f2305a335218bdB2EB828387d52ED8Fc2F4"
+  },
+  {
+    "address": "0x3151cee0cdb517c0e7db2b55ff5085e7d1809d90",
+    "project": "ipor-fusion",
+    "dlPoolId": "46e24837-806f-4c30-8836-946b14092b0b",
+    "url": "https://app.ipor.io/fusion/ethereum/0x3151cee0cdb517c0e7db2b55ff5085e7d1809d90"
+  },
+  {
+    "address": "0x3151cee0cdb517c0e7db2b55ff5085e7d1809d90",
+    "project": "harvest-finance",
+    "dlPoolId": "4b9c4bd7-1c56-4fbb-a2d0-d77b3effab70",
+    "url": "https://app.harvest.finance/ethereum/0x3151cEE0cdb517C0E7Db2B55FF5085e7D1809d90"
+  },
+  {
+    "address": "0xc82b74bc114d7e2d4047ccf14f7a6109b654ab91",
+    "project": "morpho-v1",
+    "dlPoolId": "f90c0702-7ab7-4adb-b967-19007e18032d",
+    "url": "https://app.morpho.org/ethereum/vault/0xc82b74bC114D7e2D4047Ccf14f7a6109b654Ab91"
+  },
+  {
+    "address": "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1",
+    "project": "morpho-v1",
+    "dlPoolId": "3d94f028-40c7-4791-a7dd-b939f3d6facf",
+    "url": "https://app.morpho.org/ethereum/vault/0xbEEFC01767ed5086f35deCb6C00e6C12bc7476C1"
+  },
+  {
+    "address": "0xb5e4576c2faa16b0cc59d1a2f3366164844ef9e0",
+    "project": "morpho-v1",
+    "dlPoolId": "16f7f1cb-f08f-442b-9f67-ab8fe9a6bb00",
+    "url": "https://app.morpho.org/ethereum/vault/0xb5e4576C2FAA16b0cC59D1A2f3366164844Ef9E0"
+  },
+  {
+    "address": "0xcbc9b61177444a793b85442d3a953b90f6170b7d",
+    "project": "euler-v2",
+    "dlPoolId": "af2343d4-1265-47b1-babf-bfbca90dab56",
+    "url": "https://app.euler.finance/vault/0xcBC9B61177444A793B85442D3a953B90f6170b7D?network=ethereum"
+  },
+  {
+    "address": "0x2bbe31d63e6813e3ac858c04dae43fb2a72b0d11",
+    "project": "fluid-lending",
+    "dlPoolId": "f918753b-4cf3-4eec-97aa-ab6b5409b5f9",
+    "url": "https://fluid.io/lending/1/sUSDS"
+  },
+  {
+    "address": "0x4ebfc11ad2dd1c2a450ba194558d797ee5d305a6",
+    "project": "notional-v3",
+    "dlPoolId": "fa9b0e06-5f09-49d8-85d1-60ff2d27809d",
+    "url": "https://notional.finance/lend-variable/mainnet/USDT"
+  },
+  {
+    "address": "0xe27a96f4c9528e3d32e6f31c6aca9281ebea0338",
+    "project": "euler-v2",
+    "dlPoolId": "0e65c414-fe31-46da-9b9a-eaa86f5b8235",
+    "url": "https://app.euler.finance/vault/0xE27A96f4c9528e3d32E6f31c6aCa9281EbEA0338?network=ethereum"
+  },
+  {
+    "address": "0xf03bdf72be613931577f78f4754b1c9618d885f7",
+    "project": "teller",
+    "dlPoolId": "96fee495-fbad-4a81-9693-297cc1e0834f",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xf03bdf72be613931577f78f4754b1c9618d885f7"
+  },
+  {
+    "address": "0x42d425fb918acbbd73b10b851979e8fc469b3e9a",
+    "project": "morpho-v1",
+    "dlPoolId": "78c2d78a-9037-4d41-beb8-7468fc939e6a",
+    "url": "https://app.morpho.org/ethereum/vault/0x42D425Fb918acBbd73B10B851979E8fc469B3e9A"
+  },
+  {
+    "address": "0x40c0a9789d4c38e1125c540edb664ffff69c83e7",
+    "project": "harvest-finance",
+    "dlPoolId": "adf8825e-2d58-42bd-b563-e1827ae7dccc",
+    "url": "https://app.harvest.finance/ethereum/0x40C0a9789D4C38e1125C540edB664fFff69C83E7"
+  },
+  {
+    "address": "0xb6761fb99062f6dbc09395f6f16df239720017db",
+    "project": "euler-v2",
+    "dlPoolId": "a03a36cd-6836-4aca-8efd-6ba912056eb4",
+    "url": "https://app.euler.finance/vault/0xB6761Fb99062f6dBc09395f6F16dF239720017db?network=ethereum"
+  },
+  {
+    "address": "0x22028e652a2e937c876f2577f8e78f692d6daa93",
+    "project": "yearn-finance",
+    "dlPoolId": "91665cbf-27d3-4ffe-8c5b-4b415ba9b1d2",
+    "url": "https://yearn.fi/vaults/1/0x22028E652a2e937c876F2577f8E78f692d6DAA93"
+  },
+  {
+    "address": "0xfbadc4f18ddc7ebdbc920d3f9b0ca7a1296788d1",
+    "project": "notional-v3",
+    "dlPoolId": "644eee59-e733-4ad5-8ff1-cd3f5fca3084",
+    "url": "https://notional.finance/lend-variable/mainnet/wstETH"
+  },
+  {
+    "address": "0xc40dc53931cd184f782f3602d95c7e3609706004",
+    "project": "yearn-finance",
+    "dlPoolId": "1cd2fbb6-d8fe-44c7-9b2d-16b49c822c29",
+    "url": "https://yearn.fi/vaults/1/0xC40dC53931cd184F782f3602d95C7e3609706004"
+  },
+  {
+    "address": "0xe934c98fe4bb38a5aff1bdf7f1460b84815d27b4",
+    "project": "teller",
+    "dlPoolId": "31ed4b0a-ad03-427c-88c5-149758bc7499",
+    "url": "https://app.teller.org/ethereum/lend/pool/0xe934c98fe4bb38a5aff1bdf7f1460b84815d27b4"
+  },
+  {
+    "address": "0x082a5743aadf3d0daf750eef24652b36a68b1e9c",
+    "project": "yearn-finance",
+    "dlPoolId": "6ee53b1a-93fa-49de-af22-62db4521d17b",
+    "url": "https://yearn.fi/vaults/1/0x082a5743aAdf3d0Daf750EeF24652b36a68B1e9C"
+  },
+  {
+    "address": "0xbd564bfe6f2366336ecd707862eda79b97bce383",
+    "project": "sturdy-v2",
+    "dlPoolId": "7c14b737-cdbb-425e-b7c1-e9e5bd7f020f",
+    "url": "https://v2.sturdy.finance/aggregators/ethereum/0xBd564BFE6F2366336ecD707862EDa79b97BCE383"
+  },
+  {
+    "address": "0x03319602af213d2c60f501655d73960be3b58824",
+    "project": "stake-dao",
+    "dlPoolId": "52f72d32-25f0-48b6-b661-497e7d0049c3",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x3cb38627dbbee9bc6e47e1731d9510745b6fcc24",
+    "project": "teller",
+    "dlPoolId": "d99a6069-96ab-431f-a5ff-9a83dc35cee5",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x3cb38627dbbee9bc6e47e1731d9510745b6fcc24"
+  },
+  {
+    "address": "0x53208e965eb66841598fb8f983a41936eee6d774",
+    "project": "euler-v2",
+    "dlPoolId": "9928e0b1-eb0c-446e-b87c-dc5c228fb2e2",
+    "url": "https://app.euler.finance/vault/0x53208e965EB66841598fB8f983a41936EeE6d774?network=ethereum"
+  },
+  {
+    "address": "0x832c30802054f60f0cedb5be1f9a0e3da2a0cab4",
+    "project": "yearn-finance",
+    "dlPoolId": "6f42d7b7-3305-4e4c-9735-e603ed0303a6",
+    "url": "https://yearn.fi/vaults/1/0x832c30802054F60f0CeDb5BE1F9A0e3da2a0Cab4"
+  },
+  {
+    "address": "0x5ae28c9197a4a6570216fc7e53e7e0221d7a0fef",
+    "project": "convex-finance",
+    "dlPoolId": "ffa56b1b-0366-4216-939e-7ac8181ed56c",
+    "url": "https://curve.convexfinance.com/stake"
+  },
+  {
+    "address": "0x473c188acb9033d37e5bf9ba66fb51390522e342",
+    "project": "harvest-finance",
+    "dlPoolId": "63976774-b940-4aa7-8e85-dab12e3ee236",
+    "url": "https://app.harvest.finance/ethereum/0x473C188Acb9033D37e5bf9bA66FB51390522e342"
+  },
+  {
+    "address": "0x39a1f8e5d2422ccc5e08c5b4019ab70147f5cc95",
+    "project": "notional-v3",
+    "dlPoolId": "5d299b77-414c-4691-8a83-7577fe86f5c8",
+    "url": "https://notional.finance/lend-variable/mainnet/rETH"
+  },
+  {
+    "address": "0xb0154f71912866bb69fe26ffc44779d99b9cae85",
+    "project": "yearn-finance",
+    "dlPoolId": "10efb727-9347-44ea-91f6-96dc81f24b2b",
+    "url": "https://yearn.fi/vaults/1/0xb0154f71912866Bb69fE26fFc44779D99B9CAE85"
+  },
+  {
+    "address": "0x05329aab081b125eef7fbbc8b857428d478e692b",
+    "project": "yearn-finance",
+    "dlPoolId": "47c75e45-b27e-443c-b36b-41ab91d7c030",
+    "url": "https://yearn.fi/vaults/1/0x05329AAb081B125eEF7FbbC8b857428D478E692B"
+  },
+  {
+    "address": "0x73e4c11b670ef9c025a030a20b72cb9150e54523",
+    "project": "sturdy-v2",
+    "dlPoolId": "948c89e2-8536-4364-b15a-a6d8c5a0c3d9",
+    "url": "https://v2.sturdy.finance/aggregators/ethereum/0x73E4C11B670Ef9C025A030A20b72CB9150E54523"
+  },
+  {
+    "address": "0x0b6c8ef0de1be5ed1b59e6e7a67fb9442fb9e49c",
+    "project": "morpho-v1",
+    "dlPoolId": "d3b3bbb7-2e4a-4d63-b1c6-2e71b1fc33df",
+    "url": "https://app.morpho.org/ethereum/vault/0x0B6C8ef0DE1Be5ed1B59E6e7a67fB9442FB9E49C"
+  },
+  {
+    "address": "0x8ef73f036feec873d0b2fd20892215df5b8bdd72",
+    "project": "gearbox",
+    "dlPoolId": "27737fa6-5aef-46f4-a7f0-43302be76a63",
+    "url": "https://app.gearbox.fi/pools/0x8EF73f036fEEC873D0B2fd20892215Df5B8Bdd72"
+  },
+  {
+    "address": "0xb565175e174290bbc9e0aabfe14dee09220537ed",
+    "project": "stake-dao",
+    "dlPoolId": "04effd53-51e3-4082-b30f-c95a4b344623",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x7ee351aa702c8fc735d77fb229b7676ac15d7c79",
+    "project": "yearn-finance",
+    "dlPoolId": "1dbb8d34-f29a-458b-8850-83399278fe06",
+    "url": "https://yearn.fi/vaults/1/0x7eE351aA702C8fC735D77Fb229b7676AC15D7c79"
+  },
+  {
+    "address": "0x5f76526390d9cd9944d65c605c5006480fa1bfcb",
+    "project": "yearn-finance",
+    "dlPoolId": "30c09ef8-d1e6-4bf5-95b8-8dff2c9b9266",
+    "url": "https://yearn.fi/vaults/1/0x5f76526390d9cd9944d65C605C5006480FA1bFcB"
+  },
+  {
+    "address": "0x8d4e9a090817e07bdf2bc83a666a81cdb24fb8d1",
+    "project": "teller",
+    "dlPoolId": "f055f8d3-e8ba-42f9-9455-9f323e89eafa",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x8d4e9a090817e07bdf2bc83a666a81cdb24fb8d1"
+  },
+  {
+    "address": "0x7786dba2a1f7a4b0b7abf0962c449154c4f2b8ac",
+    "project": "silo-v2",
+    "dlPoolId": "797f9dfd-4c55-4346-8cc5-178db9b8312c",
+    "url": "https://v2.silo.finance/markets/ethereum/170"
+  },
+  {
+    "address": "0xd623646da89f9264547272f268785d9c64af9ce3",
+    "project": "notional-v3",
+    "dlPoolId": "b6add6a7-ae25-4598-9592-568af5a72483",
+    "url": "https://notional.finance/liquidity-variable/mainnet/rETH"
+  },
+  {
+    "address": "0xd623646da89f9264547272f268785d9c64af9ce3",
+    "project": "notional-v3",
+    "dlPoolId": "07f398a2-64a1-4ee2-93b6-a15412e5940f",
+    "url": "https://notional.finance/liquidity-leveraged/mainnet/CreateLeveragedNToken/rETH"
+  },
+  {
+    "address": "0xc1c51c5c9efaf0c485aa1097ae9690b5e102975a",
+    "project": "euler-v2",
+    "dlPoolId": "412fd68d-364e-4193-bcf2-52fc32bef889",
+    "url": "https://app.euler.finance/vault/0xC1C51C5c9EfaF0c485Aa1097AE9690B5e102975A?network=ethereum"
+  },
+  {
+    "address": "0x2791eb5807d69fe10c02eed6b4dc12bac0701744",
+    "project": "amphor",
+    "dlPoolId": "be98de2b-79a5-4283-9f0a-b9f0542bf840",
+    "url": "https://app.amphor.io/earn"
+  },
+  {
+    "address": "0x6d4e530b8431a52ffda4516ba4aadc0951897f8c",
+    "project": "morpho-v1",
+    "dlPoolId": "71d0467f-96a6-4d20-9664-33353366da2c",
+    "url": "https://app.morpho.org/ethereum/vault/0x6D4e530B8431a52FFDA4516BA4Aadc0951897F8C"
+  },
+  {
+    "address": "0x4ef4dc9def84e3cc54d7a4aa95877fbd4add36c1",
+    "project": "silo-v2",
+    "dlPoolId": "84a73e2e-6936-4117-ae37-6e675d43c5f6",
+    "url": "https://v2.silo.finance/markets/ethereum/113"
+  },
+  {
+    "address": "0xbfdc482616787b420bc6c710212fe3167e7198e9",
+    "project": "euler-v2",
+    "dlPoolId": "43475a94-5c41-459a-b67f-11de719c0862",
+    "url": "https://app.euler.finance/vault/0xbFdc482616787b420BC6C710212fE3167E7198e9?network=ethereum"
+  },
+  {
+    "address": "0x977ddca6f9e088094eee9567e6d5906b1a1e94d2",
+    "project": "stake-dao",
+    "dlPoolId": "3c81a5bc-1617-4474-8b58-bad901454cc7",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xc7d526efefa2e3073531f9e054f5c8cd1d0ec636",
+    "project": "euler-v2",
+    "dlPoolId": "f144facb-fa5c-4435-9938-8fa98ada1062",
+    "url": "https://app.euler.finance/vault/0xc7d526eFefa2e3073531f9e054F5c8cD1d0eC636?network=ethereum"
+  },
+  {
+    "address": "0x55f9bace2c864ac0d3392ea9fa654b605f21a3d3",
+    "project": "euler-v2",
+    "dlPoolId": "f2a5a405-73cf-40db-9071-2f771789bdac",
+    "url": "https://app.euler.finance/vault/0x55F9bACE2C864aC0D3392Ea9fa654b605F21A3d3?network=ethereum"
+  },
+  {
+    "address": "0xbd3f00330d75883e3395ad443161cb0d5b3c1605",
+    "project": "harvest-finance",
+    "dlPoolId": "da2e7795-ef03-49b5-a7a7-d20759a995c2",
+    "url": "https://app.harvest.finance/ethereum/0xBd3f00330d75883e3395AD443161CB0D5b3C1605"
+  },
+  {
+    "address": "0xbb828e3d0c96b334fe2cf8f18382bb11f533e878",
+    "project": "notional-v3",
+    "dlPoolId": "0b18bf23-4c14-4329-905c-edabf27f137e",
+    "url": "https://notional.finance/lend-variable/mainnet/GHO"
+  },
+  {
+    "address": "0xf9a23b059858cdd0e3ed0dde89864bb82b88aa19",
+    "project": "euler-v2",
+    "dlPoolId": "2e5e0ec5-2337-4054-a766-574a1e0e7d47",
+    "url": "https://app.euler.finance/vault/0xf9a23b059858CdD0e3ED0DDE89864BB82B88aa19?network=ethereum"
+  },
+  {
+    "address": "0xeb402fc96c7ed2f889d837c9976d6d821c1b5f01",
+    "project": "upshift",
+    "dlPoolId": "3c6c8af4-4fc3-459f-b6c9-2e34bf196a7b",
+    "url": "https://www.upshift.finance/"
+  },
+  {
+    "address": "0xdb369eeb33fcfdcd1557e354ddee7d6cf3146a11",
+    "project": "sandclock",
+    "dlPoolId": "a74a96de-f72a-42d6-a469-96fc2225ded0",
+    "url": "https://app.sandclock.org/"
+  },
+  {
+    "address": "0xce45ef0414de3516caf1bcf937bf7f2cf67873de",
+    "project": "euler-v2",
+    "dlPoolId": "9aebca2c-c84a-4909-b54a-0e5c3090b694",
+    "url": "https://app.euler.finance/vault/0xce45EF0414dE3516cAF1BCf937bF7F2Cf67873De?network=ethereum"
+  },
+  {
+    "address": "0xc1ff5490651b9b8d0400b0146e7fb174b90e315b",
+    "project": "euler-v2",
+    "dlPoolId": "09ae5388-2fd2-4de8-8b59-083d10d12c64",
+    "url": "https://app.euler.finance/vault/0xc1fF5490651B9B8d0400B0146E7fb174B90E315B?network=ethereum"
+  },
+  {
+    "address": "0x5705b2eb944e6043485390c313210e52bc00e6cb",
+    "project": "ipor-fusion",
+    "dlPoolId": "cef6f36f-5ac4-441c-bec4-61d5a2196661",
+    "url": "https://app.ipor.io/fusion/ethereum/0x5705b2eb944e6043485390c313210e52bc00e6cb"
+  },
+  {
+    "address": "0xca7c196f00e04a5e1c71b91476d0d58f82499734",
+    "project": "morpho-v1",
+    "dlPoolId": "493b763c-12df-4e19-b1ac-6af65819515b",
+    "url": "https://app.morpho.org/ethereum/vault/0xca7c196f00e04A5e1c71B91476d0d58f82499734"
+  },
+  {
+    "address": "0x211711f277f146fc947d7053b41bb71bb5b5fc2c",
+    "project": "euler-v2",
+    "dlPoolId": "4388eeef-a353-469b-931d-ee687ccfc55f",
+    "url": "https://app.euler.finance/vault/0x211711F277f146fC947D7053B41BB71BB5b5FC2C?network=ethereum"
+  },
+  {
+    "address": "0x3cb38627dbbee9bc6e47e1731d9510745b6fcc24",
+    "project": "teller",
+    "dlPoolId": "614c1ba4-4445-4e34-b88a-c768808e007e",
+    "url": "https://app.teller.org/ethereum/lend/pool/0x3cb38627dbbee9bc6e47e1731d9510745b6fcc24"
+  },
+  {
+    "address": "0x0d6b6280915313e7322dcb4d71d511a93a75d98d",
+    "project": "termmax",
+    "dlPoolId": "92be0e7c-dc08-4ba7-9104-fbe8e3423923",
+    "url": "https://app.termmax.ts.finance/earn/eth/0x0d6b6280915313e7322dcb4d71d511a93a75d98d?chain=eth"
+  },
+  {
+    "address": "0x5cd6614d11c3dd84fb941e5be2f5a454c88e32b6",
+    "project": "silo-v2",
+    "dlPoolId": "6fbca028-8534-4e46-bfd8-22a596c10d5d",
+    "url": "https://v2.silo.finance/markets/ethereum/145"
+  },
+  {
+    "address": "0xc2007a9c48eecb36868cf9d1da5d8566e90bf042",
+    "project": "morpho-v1",
+    "dlPoolId": "c59ce116-eb6e-4bdd-be25-ff1cf8223cb4",
+    "url": "https://app.morpho.org/ethereum/vault/0xc2007A9c48Eecb36868Cf9D1da5D8566e90bf042"
+  },
+  {
+    "address": "0x0bb2751a90fff62e844b1521637ded28f3f5046a",
+    "project": "morpho-v1",
+    "dlPoolId": "cc09caff-9902-49a9-a34f-1eb0be6a8903",
+    "url": "https://app.morpho.org/ethereum/vault/0x0bB2751a90fFF62e844b1521637DeD28F3f5046A"
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "address": "0x396922ef30cf012973343f7174db850c7d265278",
+    "project": "silo-v2",
+    "dlPoolId": "68892078-2e21-4f27-b458-015d1d842636",
+    "url": "https://v2.silo.finance/markets/sonic/3"
+  },
+  {
+    "address": "0xf55902de87bd80c6a35614b48d7f8b612a083c12",
+    "project": "silo-v2",
+    "dlPoolId": "d7657d6f-da8b-4935-b6ac-a30545df8dbc",
+    "url": "https://v2.silo.finance/markets/sonic/20"
+  },
+  {
+    "address": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+    "project": "trevee-earn",
+    "dlPoolId": "4755c634-2e97-4547-be2b-0989e373cccb",
+    "url": "https://app.rings.money/earn/mint/"
+  },
+  {
+    "address": "0x21580de05c4f3d6d6a5345b03a898c33b872ab51",
+    "project": "silo-v2",
+    "dlPoolId": "736a7c3c-e07d-4ffb-aae9-39884c2b0406",
+    "url": "https://v2.silo.finance/markets/sonic/25"
+  },
+  {
+    "address": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+    "project": "silo-v2",
+    "dlPoolId": "c14d2f81-cfc9-407b-8f00-aae0eca62233",
+    "url": "https://app.silo.finance/vaults/sonic/0xf6f87073cf8929c206a77b0694619dc776f89885?action=deposit"
+  },
+  {
+    "address": "0x391b3f70e254d582588b27e97e48d1cfcdf0be7e",
+    "project": "silo-v2",
+    "dlPoolId": "ce6e1b4a-db72-4ca5-adda-969504a37a20",
+    "url": "https://app.silo.finance/vaults/sonic/0x391b3f70e254d582588b27e97e48d1cfcdf0be7e?action=deposit"
+  },
+  {
+    "address": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+    "project": "silo-v2",
+    "dlPoolId": "ce77c1eb-f51d-4652-8c25-b53f8254827a",
+    "url": "https://v2.silo.finance/markets/sonic/20"
+  },
+  {
+    "address": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+    "project": "silo-v2",
+    "dlPoolId": "d31be661-1513-47b3-b012-fb0aa8e92b37",
+    "url": "https://app.silo.finance/vaults/sonic/0xded4ac8645619334186f28b8798e07ca354cfa0e?action=deposit"
+  },
+  {
+    "address": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+    "project": "silo-v2",
+    "dlPoolId": "c6698fdc-ce59-4fbe-89e3-58c93b8d98b4",
+    "url": "https://app.silo.finance/vaults/sonic/0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581?action=deposit"
+  },
+  {
+    "address": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+    "project": "trevee-earn",
+    "dlPoolId": "505e1ca5-9986-45e1-b013-ff6b902678fc",
+    "url": "https://app.rings.money/earn/mint/"
+  },
+  {
+    "address": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+    "project": "rezerve-money",
+    "dlPoolId": "104b3467-bba3-4923-851d-aa9e6ff47611",
+    "url": "https://rezerve.money/liquid-staking?utm_source=defillama"
+  },
+  {
+    "address": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
+    "project": "silo-v2",
+    "dlPoolId": "6ddd8dfd-33fa-4a47-acdd-09e5d6a424f7",
+    "url": "https://app.silo.finance/vaults/sonic/0xcca902f2d3d265151f123d8ce8fdac38ba9745ed?action=deposit"
+  },
+  {
+    "address": "0x4e216c15697c1392fe59e1014b009505e05810df",
+    "project": "silo-v2",
+    "dlPoolId": "1f2252e3-64c0-47ad-8249-84a8711862fb",
+    "url": "https://v2.silo.finance/markets/sonic/8"
+  },
+  {
+    "address": "0x21b7def97680992b1f1a8b8e5966eae32e6ab8f3",
+    "project": "silo-v2",
+    "dlPoolId": "f64b395a-8b49-4f7a-94a2-a9a645f98938",
+    "url": "https://v2.silo.finance/markets/sonic/49"
+  },
+  {
+    "address": "0x47d8490be37adc7af053322d6d779153689e13c1",
+    "project": "silo-v2",
+    "dlPoolId": "a174ceee-f881-4db4-b976-ef37319f0910",
+    "url": "https://v2.silo.finance/markets/sonic/3"
+  },
+  {
+    "address": "0xe453c128f9fa860960913f40ef975b1fe5621e9e",
+    "project": "silo-v2",
+    "dlPoolId": "0f20d87d-fd42-40a6-b3ba-691511447856",
+    "url": "https://v2.silo.finance/markets/sonic/27"
+  },
+  {
+    "address": "0xe223c8e92aa91e966ca31d5c6590ff7167e25801",
+    "project": "silo-v2",
+    "dlPoolId": "0e1b2a2b-dc19-4701-88ed-deabdff13fac",
+    "url": "https://v2.silo.finance/markets/sonic/8"
+  },
+  {
+    "address": "0x04f124bf435545a3c79a8ee3ffb6c51213cf5175",
+    "project": "silo-v2",
+    "dlPoolId": "e702ea36-f68f-4cb6-8f13-566f0d97f47c",
+    "url": "https://v2.silo.finance/markets/sonic/54"
+  },
+  {
+    "address": "0xb38d431e932fea77d1df0ae0dfe4400c97e597b8",
+    "project": "euler-v2",
+    "dlPoolId": "1b319b61-9e4a-446d-bdc7-b4d07afd5635",
+    "url": "https://app.euler.finance/vault/0xB38D431e932fEa77d1dF0AE0dFE4400c97e597B8?network=sonic"
+  },
+  {
+    "address": "0x8c7a2c0729afb927da27d4c9aa172bc5a5fb12bb",
+    "project": "euler-v2",
+    "dlPoolId": "28f0644c-7f80-4b50-8bb6-9e2a495fc51d",
+    "url": "https://app.euler.finance/vault/0x8c7a2C0729aFB927DA27D4C9aa172bc5A5FB12Bb?network=sonic"
+  },
+  {
+    "address": "0xe8e1a980a7fc8d47d337d704fa73fbb81ee55c25",
+    "project": "silo-v2",
+    "dlPoolId": "86055c9e-cb18-4aaf-91de-38b3ae682b62",
+    "url": "https://v2.silo.finance/markets/sonic/26"
+  },
+  {
+    "address": "0x4e09ff794d255a123b00efa30162667a8054a845",
+    "project": "silo-v2",
+    "dlPoolId": "1bc787f1-6373-4121-9baa-227bd9726c1d",
+    "url": "https://v2.silo.finance/markets/sonic/23"
+  },
+  {
+    "address": "0x196f3c7443e940911ee2bb88e019fd71400349d9",
+    "project": "euler-v2",
+    "dlPoolId": "2b998941-5802-43e0-a69e-936b44d771a0",
+    "url": "https://app.euler.finance/vault/0x196F3C7443E940911EE2Bb88e019Fd71400349D9?network=sonic"
+  },
+  {
+    "address": "0x90a804d316a06e00755444d56b9ef52e5c4f4d73",
+    "project": "euler-v2",
+    "dlPoolId": "edf5aa34-3a84-41d9-a7e4-6baeec932a76",
+    "url": "https://app.euler.finance/vault/0x90a804D316A06E00755444D56b9eF52e5C4F4D73?network=sonic"
+  },
+  {
+    "address": "0x92ebf5a1fb4061b45222a6d76accf4698bde4b95",
+    "project": "silo-v2",
+    "dlPoolId": "f9b15dbd-f529-4140-b11a-031431191b94",
+    "url": "https://app.silo.finance/vaults/sonic/0x92ebf5a1fb4061b45222a6d76accf4698bde4b95?action=deposit"
+  },
+  {
+    "address": "0x0806af1762bdd85b167825ab1a64e31cf9497038",
+    "project": "euler-v2",
+    "dlPoolId": "d3abd89e-df60-45af-94f9-2ae21c495a50",
+    "url": "https://app.euler.finance/vault/0x0806af1762Bdd85B167825ab1a64E31CF9497038?network=sonic"
+  },
+  {
+    "address": "0x2f5dc399b1e31f9808d1ef1256917abd2447c74f",
+    "project": "silo-v2",
+    "dlPoolId": "74026807-e439-4a7f-bacb-eb1b45a2e20b",
+    "url": "https://v2.silo.finance/markets/sonic/15"
+  },
+  {
+    "address": "0x15641c093e566bd951c5e08e505a644478125f70",
+    "project": "silo-v2",
+    "dlPoolId": "ff719350-75c3-488d-a6f8-5aed38a43d13",
+    "url": "https://v2.silo.finance/markets/sonic/55"
+  },
+  {
+    "address": "0xe6605932e4a686534d19005bb9db0fba1f101272",
+    "project": "silo-v2",
+    "dlPoolId": "8cf96260-8080-40f2-8b2d-b4e62773478a",
+    "url": "https://v2.silo.finance/markets/sonic/46"
+  },
+  {
+    "address": "0x016c306e103fbf48ec24810d078c65ad13c5f11b",
+    "project": "silo-v2",
+    "dlPoolId": "6a3c5da3-0b8d-4af6-9446-7ae4aa63e327",
+    "url": "https://v2.silo.finance/markets/sonic/25"
+  },
+  {
+    "address": "0x08c320a84a59c6f533e0dca655cf497594bca1f9",
+    "project": "silo-v2",
+    "dlPoolId": "338ad779-6058-4d58-9655-dd02ba5e1f61",
+    "url": "https://v2.silo.finance/markets/sonic/35"
+  },
+  {
+    "address": "0x28b1f68685f1da9f8b10bdc593d7655aa0f83e2a",
+    "project": "stake-dao",
+    "dlPoolId": "e5116370-409c-409e-a924-ff6513af43cb",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x41a5477364bf60d8936b90310fecfda79593304e",
+    "project": "dtrinity-dusd",
+    "dlPoolId": "664664bb-31e0-4e65-808d-6dc82bdb05bb",
+    "url": "https://app.dtrinity.org/dstake/vault/"
+  },
+  {
+    "address": "0xad08ca304af4d97bd582303ccdd9cdd48e537ccf",
+    "project": "stake-dao",
+    "dlPoolId": "cad8d8e0-43f8-4376-b52b-499001e6aad1",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xb0f7931c300097c462f2c8568750d1c496f62205",
+    "project": "silo-v2",
+    "dlPoolId": "1c0e80f9-c69e-44c3-82a0-36775cd38314",
+    "url": "https://v2.silo.finance/markets/sonic/50"
+  },
+  {
+    "address": "0xcb119265aa1195ea363d7a243ad56c73ea42eb59",
+    "project": "autofinance",
+    "dlPoolId": "ee64919a-c75d-4b0f-b081-bcbdf86820f5",
+    "url": "https://app.auto.finance/autopool?id=0xcb119265aa1195ea363d7a243ad56c73ea42eb59"
+  },
+  {
+    "address": "0xb47cb414aab743c977dfd1fdb758f971907e810e",
+    "project": "silo-v2",
+    "dlPoolId": "91a6828a-bb32-4eb9-9c51-5a077c646e97",
+    "url": "https://app.silo.finance/vaults/sonic/0xb47cb414aab743c977dfd1fdb758f971907e810e?action=deposit"
+  },
+  {
+    "address": "0x6e6a10761eaa6480c13585a2b6fabab0e0408c9d",
+    "project": "stake-dao",
+    "dlPoolId": "72576829-e919-4b08-9c04-7ddfbd365174",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x427514a905fa6beaed9a36e308fcfa06ce54e95b",
+    "project": "silo-v2",
+    "dlPoolId": "ee094b57-c855-46c8-92c8-572805f6bb7e",
+    "url": "https://v2.silo.finance/markets/sonic/9"
+  },
+  {
+    "address": "0x0a94e18bdbccd048198806d7ff28a1b1d2590724",
+    "project": "silo-v2",
+    "dlPoolId": "c581e14a-6368-4c00-bb15-010a49364d1f",
+    "url": "https://v2.silo.finance/markets/sonic/32"
+  },
+  {
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "project": "yieldfi",
+    "dlPoolId": "ae012e18-d641-40ae-a0e0-5015e80fb88a",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0xe1e17b7a733be455d9b5fbd07a17026de1fd166a",
+    "project": "stake-dao",
+    "dlPoolId": "f44c402d-34ec-4e50-ada8-e53a67ae7e96",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xbe0d3c8801206cc9f35a6626f90ef9f4f2983a3d",
+    "project": "silo-v2",
+    "dlPoolId": "4cf32790-be1f-4fec-8e7b-f3d45e539188",
+    "url": "https://v2.silo.finance/markets/sonic/54"
+  },
+  {
+    "address": "0x19926d2163fde0d77f7d50bb88701a6f51f45fab",
+    "project": "silo-v2",
+    "dlPoolId": "f6489b5b-ce61-4664-8094-69c3230f1a82",
+    "url": "https://v2.silo.finance/markets/sonic/52"
+  },
+  {
+    "address": "0x219656f33c58488d09d518badf50aa8cdcaca2aa",
+    "project": "silo-v2",
+    "dlPoolId": "f6e2a923-58ac-4de3-a8e6-35631a290c43",
+    "url": "https://v2.silo.finance/markets/sonic/26"
+  },
+  {
+    "address": "0x9ccf74e64922d8a48b87aa4200b7c27b2b1d860a",
+    "project": "euler-v2",
+    "dlPoolId": "c1dd1704-379b-453b-87a5-43d3656093b8",
+    "url": "https://app.euler.finance/vault/0x9CcF74E64922D8a48b87AA4200b7c27B2B1D860a?network=sonic"
+  },
+  {
+    "address": "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7",
+    "project": "silo-v2",
+    "dlPoolId": "487b1913-9657-4e13-b0a3-3c56ea8efbcf",
+    "url": "https://app.silo.finance/vaults/sonic/0x592d1e187729c76efacc6dffb9355bd7bf47b2a7?action=deposit"
+  },
+  {
+    "address": "0xf03c5b0ccbc4840aa2a0c896dc56ca79e75d1879",
+    "project": "silo-v2",
+    "dlPoolId": "08203293-2251-454f-b479-c980b34417d9",
+    "url": "https://v2.silo.finance/markets/sonic/28"
+  },
+  {
+    "address": "0x0dfa6b53c05b07e29b49a878fc96153cc03c3e72",
+    "project": "silo-v2",
+    "dlPoolId": "d9d7a4ac-5868-4a4a-9ce6-322596547ce0",
+    "url": "https://v2.silo.finance/markets/sonic/32"
+  },
+  {
+    "address": "0x271a367898fbf1f70045ad413f2a072ff0b907d5",
+    "project": "silo-v2",
+    "dlPoolId": "3ca82a89-f356-4a97-96c0-05367a960d42",
+    "url": "https://app.silo.finance/vaults/sonic/0x271a367898fbf1f70045ad413f2a072ff0b907d5?action=deposit"
+  },
+  {
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "project": "yieldfi",
+    "dlPoolId": "f7a832fc-1a93-4f75-9952-64e1a392d3b8",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0x5954ce6671d97d24b782920ddcdbb4b1e63ab2de",
+    "project": "silo-v2",
+    "dlPoolId": "e649ae02-570b-4cf1-b3f8-a775d6dd5a37",
+    "url": "https://v2.silo.finance/markets/sonic/23"
+  },
+  {
+    "address": "0x7e88ae5e50474a48dea4c42a634aa7485e7caa62",
+    "project": "silo-v2",
+    "dlPoolId": "9aa03f4b-f037-40da-b91c-6708199a45ba",
+    "url": "https://v2.silo.finance/markets/sonic/27"
+  },
+  {
+    "address": "0x901e3059bf118abc74d917440f0c08fc78ec0aa6",
+    "project": "goat-protocol",
+    "dlPoolId": "29b7ca10-22f6-483b-96ba-0d1761d4facc",
+    "url": "https://app.goat.fi/vault/sonic/ycUSDCe"
+  },
+  {
+    "address": "0xf773807af8c8899c6b9fe4fd4388f7b516f0cb93",
+    "project": "stake-dao",
+    "dlPoolId": "ca2c34c2-0a97-4a04-bfcd-22b7dec3d357",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xb488af9a423ee9012db3b90b213dcca2cd9c4070",
+    "project": "silo-v2",
+    "dlPoolId": "085ce41c-376c-44ac-a150-dbe05e0a489a",
+    "url": "https://v2.silo.finance/markets/sonic/50"
+  },
+  {
+    "address": "0x3d9e5462a940684073eed7e4a13d19ae0dcd13bc",
+    "project": "euler-v2",
+    "dlPoolId": "ffe9d3d1-aee0-4a96-a054-f0036d32e77e",
+    "url": "https://app.euler.finance/vault/0x3D9e5462A940684073EED7e4a13d19AE0Dcd13bc?network=sonic"
+  },
+  {
+    "address": "0x24c74b30d1a4261608e84bf5a618693032681dac",
+    "project": "silo-v2",
+    "dlPoolId": "97d36cfb-c831-4f73-ba08-b86ac1ef05c0",
+    "url": "https://v2.silo.finance/markets/sonic/47"
+  },
+  {
+    "address": "0x4bfead9975a64545c3594090327ef6666c2f6164",
+    "project": "silo-v2",
+    "dlPoolId": "31a4261c-e771-4b51-a5de-5e07bbf92da7",
+    "url": "https://v2.silo.finance/markets/sonic/9"
+  },
+  {
+    "address": "0xb581e5a18a223c6d63313be93e082e2b0fb0d32b",
+    "project": "stake-dao",
+    "dlPoolId": "148e85de-9cc0-448c-a7a7-641463a78cd4",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x4935fadb17df859667cc4f7bfe6a8cb24f86f8d0",
+    "project": "silo-v2",
+    "dlPoolId": "b003851e-855b-4b06-bfed-03fda3052100",
+    "url": "https://v2.silo.finance/markets/sonic/55"
+  },
+  {
+    "address": "0xfbd3cccb196ce900be5e2d008a6c2fde90760408",
+    "project": "silo-v2",
+    "dlPoolId": "a45cbabe-fccc-40bb-b6ba-57c2da26a492",
+    "url": "https://v2.silo.finance/markets/sonic/52"
+  },
+  {
+    "address": "0x1d7e3726afec5088e11438258193a199f9d5ba93",
+    "project": "silo-v2",
+    "dlPoolId": "167fa8f0-0253-47ca-85a4-5f18716b5c7e",
+    "url": "https://v2.silo.finance/markets/sonic/22"
+  },
+  {
+    "address": "0xeeb1dc1ca7ffc5b54ad1cc4c1088db4e5657cb6c",
+    "project": "euler-v2",
+    "dlPoolId": "37f2d620-03ca-477d-b3e2-15d41032fa7c",
+    "url": "https://app.euler.finance/vault/0xeEb1DC1Ca7ffC5b54aD1cc4c1088Db4E5657Cb6c?network=sonic"
+  },
+  {
+    "address": "0xd90545b06e7a6f9d2194d8f26e72c9b0d4e00d60",
+    "project": "silo-v2",
+    "dlPoolId": "38eec703-0329-4ddc-9a65-64a4099a8199",
+    "url": "https://v2.silo.finance/markets/sonic/36"
+  },
+  {
+    "address": "0x4c0af5d6bcb10b3c05fb5f3a846999a3d87534c7",
+    "project": "euler-v2",
+    "dlPoolId": "769df1bb-2686-422d-85de-1cdf86c27821",
+    "url": "https://app.euler.finance/vault/0x4c0AF5d6Bcb10B3C05FB5F3a846999a3d87534C7?network=sonic"
+  },
+  {
+    "address": "0xf2f6609c0d9a8e6bd9be51359e67b58c9d33e771",
+    "project": "silo-v2",
+    "dlPoolId": "394629c0-ef76-4481-9138-b04db2ce9f14",
+    "url": "https://v2.silo.finance/markets/sonic/31"
+  },
+  {
+    "address": "0x9dcba08a3f370b0f674621123f880b36ec095776",
+    "project": "stake-dao",
+    "dlPoolId": "f1187f5b-eb5b-4ca3-8ab8-625e18f4ffa3",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xf75ae954d30217b4ee70dbfb33f04162aa3cf260",
+    "project": "silo-v2",
+    "dlPoolId": "ec7f3f81-be0d-4ed9-9610-275bc1f0da6c",
+    "url": "https://app.silo.finance/vaults/sonic/0xf75ae954d30217b4ee70dbfb33f04162aa3cf260?action=deposit"
+  },
+  {
+    "address": "0x9d2192e40f8d215c628ea9fcf067683720d82032",
+    "project": "silo-v2",
+    "dlPoolId": "e9532aad-73b5-4065-b008-52d3d624fe24",
+    "url": "https://app.silo.finance/vaults/sonic/0x9d2192e40f8d215c628ea9fcf067683720d82032?action=deposit"
+  },
+  {
+    "address": "0xfec8e3f993cd3c0956f8c1c644e6d2f3215546a2",
+    "project": "stake-dao",
+    "dlPoolId": "a5686add-50db-47b5-86dd-38cd485f3c7d",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x915ce52b954383d8408bf09a881f543b40ddcbfe",
+    "project": "stake-dao",
+    "dlPoolId": "10d1eb23-e3d9-4dbf-b121-fdc4da18af7c",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x112380065a2cb73a5a429d9ba7368cc5e8434595",
+    "project": "silo-v2",
+    "dlPoolId": "251c8976-4411-4c59-aea2-55b4bc583304",
+    "url": "https://v2.silo.finance/markets/sonic/22"
+  },
+  {
+    "address": "0xf136c06d23492ff143afd9f5dc4e886224ba7050",
+    "project": "silo-v2",
+    "dlPoolId": "016251f9-5560-4d51-b156-540be28cb902",
+    "url": "https://app.silo.finance/vaults/sonic/0xf136c06d23492ff143afd9f5dc4e886224ba7050?action=deposit"
+  },
+  {
+    "address": "0x9144c0f0614dd0ace859c61cc37e5386d2ada43a",
+    "project": "euler-v2",
+    "dlPoolId": "94d232f9-b71f-4de8-858e-b8d0d1c8dd7b",
+    "url": "https://app.euler.finance/vault/0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A?network=sonic"
+  },
+  {
+    "address": "0xa5cd24d9792f4f131f5976af935a505d19c8db2b",
+    "project": "euler-v2",
+    "dlPoolId": "0fcc31cd-27d7-4046-a7db-c5baeb4ada97",
+    "url": "https://app.euler.finance/vault/0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b?network=sonic"
+  },
+  {
+    "address": "0xebfc9cb1e08913f688faef7221c1988ccfcf8dbe",
+    "project": "stake-dao",
+    "dlPoolId": "ff995447-391e-412f-8d25-aa766bf88426",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x87178fe8698c7eda8aa207083c3d66aea569ab98",
+    "project": "silo-v2",
+    "dlPoolId": "62cc7762-032c-4f8c-a27e-d0404c8684bf",
+    "url": "https://v2.silo.finance/markets/sonic/13"
+  },
+  {
+    "address": "0x87db5253be78e889bf3e554a815b3c5f48793dca",
+    "project": "stake-dao",
+    "dlPoolId": "5e355dde-e54c-4324-a82e-44cbe8089bea",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xa20b019d1cafd9d1ce802fb491123d35ed78eebf",
+    "project": "stake-dao",
+    "dlPoolId": "73f490d7-facc-4a6a-94de-4040de72550d",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x6659fcdf041165bae113deb3fb5e48d1fbe9f2c6",
+    "project": "stake-dao",
+    "dlPoolId": "7b4987ee-dfda-4694-b8ef-597eb9032eb8",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x34bb967d21bfed31f2a2eb4478a520c254b16d2e",
+    "project": "silo-v2",
+    "dlPoolId": "a128c76c-a7e2-4e6d-9f97-7d786759cdbf",
+    "url": "https://v2.silo.finance/markets/sonic/15"
+  },
+  {
+    "address": "0x0588651ee0b84b3ca8035a69d60ff18c0263df71",
+    "project": "silo-v2",
+    "dlPoolId": "3c7c1991-1f2b-4189-8b37-5243a448a70a",
+    "url": "https://v2.silo.finance/markets/sonic/31"
+  },
+  {
+    "address": "0xa18a8f100f2c976044f2f84fae1ee9f807ae7893",
+    "project": "silo-v2",
+    "dlPoolId": "1baa1ae4-fda1-4e16-81b8-321a909a556c",
+    "url": "https://v2.silo.finance/markets/sonic/49"
+  },
+  {
+    "address": "0x6030ad53d90ec2fb67f3805794dbb3fa5fd6eb64",
+    "project": "silo-v2",
+    "dlPoolId": "9a356899-c799-4090-aeb9-ed27fb96b924",
+    "url": "https://v2.silo.finance/markets/sonic/34"
+  },
+  {
+    "address": "0xeeaab5c863f4b1c5356af138f384adc25cb70da6",
+    "project": "euler-v2",
+    "dlPoolId": "084b14a6-4740-4827-97ce-84501d3890f8",
+    "url": "https://app.euler.finance/vault/0xeeaaB5c863f4b1c5356aF138F384AdC25Cb70Da6?network=sonic"
+  },
+  {
+    "address": "0x3710b212b39477df2deaadcf16ef56c384a3d142",
+    "project": "silo-v2",
+    "dlPoolId": "27350b42-bca0-447c-9172-0510b7262528",
+    "url": "https://app.silo.finance/vaults/sonic/0x3710b212b39477df2deaadcf16ef56c384a3d142?action=deposit"
+  },
+  {
+    "address": "0x11ba70c0ebab7946ac84f0e6d79162b0cbb2693f",
+    "project": "silo-v2",
+    "dlPoolId": "8eec81e1-84bc-4fd2-9fc8-7a5e5fb44857",
+    "url": "https://v2.silo.finance/markets/sonic/36"
+  },
+  {
+    "address": "0xeae86f9e60b156007d30b4cd4eaae8f11008530c",
+    "project": "silo-v2",
+    "dlPoolId": "b568ace1-1f2f-4b8d-a190-7cfea9635541",
+    "url": "https://app.silo.finance/vaults/sonic/0xeae86f9e60b156007d30b4cd4eaae8f11008530c?action=deposit"
+  },
+  {
+    "address": "0x24f7692af5231d559219d07c65276ad8c8cee9a3",
+    "project": "silo-v2",
+    "dlPoolId": "43e0dafc-b5e2-44c0-bb57-eadd00eb0d38",
+    "url": "https://v2.silo.finance/markets/sonic/40"
+  },
+  {
+    "address": "0x53f2b31fbe5def59c8d6a33ad056a0261da40c83",
+    "project": "silo-v2",
+    "dlPoolId": "8b90f369-d074-4655-a7a9-1ec61cf32436",
+    "url": "https://app.silo.finance/vaults/sonic/0x53f2b31fbe5def59c8d6a33ad056a0261da40c83?action=deposit"
+  }
+]

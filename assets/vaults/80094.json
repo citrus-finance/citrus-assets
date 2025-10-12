@@ -1,0 +1,122 @@
+[
+  {
+    "address": "0x1d22592f66fc92e0a64ee9300eaeca548cd466c5",
+    "project": "beraborrow",
+    "dlPoolId": "30dd2264-82da-40d1-b28d-87e94fc9c2e7",
+    "url": "https://app.beraborrow.com/vault"
+  },
+  {
+    "address": "0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a",
+    "project": "dolomite",
+    "dlPoolId": "7a46caa3-34e5-4a6b-8cbb-05c356cd4a34",
+    "url": "https://app.dolomite.io/stats/token/0x118d2ceee9785eaf70c15cd74cd84c9f8c3eec9a"
+  },
+  {
+    "address": "0x69f1e971257419b1e9c405a553f252c64a29a30a",
+    "project": "dolomite",
+    "dlPoolId": "005af064-6eb7-464e-865e-d3c58925bff7",
+    "url": "https://app.dolomite.io/stats/token/0x69f1e971257419b1e9c405a553f252c64a29a30a"
+  },
+  {
+    "address": "0xcaa70d2aa873ef057980844e18d9a9560bdffcc0",
+    "project": "euler-v2",
+    "dlPoolId": "11979b6f-f2f3-4c28-a166-3ef492cd362d",
+    "url": "https://app.euler.finance/vault/0xCaa70d2aa873Ef057980844e18D9a9560bdfFcC0?network=berachain"
+  },
+  {
+    "address": "0x07346ae3245e04c96e33e8d8e02a638aaa08e719",
+    "project": "euler-v2",
+    "dlPoolId": "e101d8be-e718-4c00-bb5c-93e79608dd5d",
+    "url": "https://app.euler.finance/vault/0x07346aE3245E04C96E33E8d8e02a638AaA08E719?network=berachain"
+  },
+  {
+    "address": "0x16c7169421cfb2c78b2d447b9274c61b8b2e846a",
+    "project": "euler-v2",
+    "dlPoolId": "cf357d90-333f-457f-b520-047e71efdd70",
+    "url": "https://app.euler.finance/vault/0x16C7169421CfB2C78b2D447b9274c61B8b2E846a?network=berachain"
+  },
+  {
+    "address": "0xb758d6ec8111feb9b0ec758a61b7874e5821dffd",
+    "project": "euler-v2",
+    "dlPoolId": "2bb20ae6-c0c9-4a84-bb0b-564ff0da9322",
+    "url": "https://app.euler.finance/vault/0xb758d6eC8111FEB9b0EC758A61B7874e5821dfFd?network=berachain"
+  },
+  {
+    "address": "0x1371dd58ce95ecd624340f072f97212a2661a280",
+    "project": "euler-v2",
+    "dlPoolId": "d20373db-3ba5-4ed3-8984-109a8c84f6ee",
+    "url": "https://app.euler.finance/vault/0x1371dD58ce95eCD624340F072f97212A2661A280?network=berachain"
+  },
+  {
+    "address": "0xad9e5e2647efb9137b6b8d688d4906fa51476870",
+    "project": "euler-v2",
+    "dlPoolId": "e99494b9-f9b4-4c70-a970-863537c8dda3",
+    "url": "https://app.euler.finance/vault/0xad9e5E2647EFb9137B6B8D688d4906fa51476870?network=berachain"
+  },
+  {
+    "address": "0x66f233ac844c3948a516857ca769872e5941f91c",
+    "project": "euler-v2",
+    "dlPoolId": "7d4dfd89-eca9-434f-b651-0999f71cdb25",
+    "url": "https://app.euler.finance/vault/0x66f233ac844C3948A516857CA769872E5941f91c?network=berachain"
+  },
+  {
+    "address": "0xe932da5a4d00536c224f8153f299cdcd8054c444",
+    "project": "euler-v2",
+    "dlPoolId": "9653b4d9-8e11-4343-ac91-a8d19109fe1b",
+    "url": "https://app.euler.finance/vault/0xE932da5A4d00536c224f8153f299cDcD8054c444?network=berachain"
+  },
+  {
+    "address": "0x6d976915bd9de43de1a60c39e128e320dadda000",
+    "project": "euler-v2",
+    "dlPoolId": "f2f4a679-29be-47d0-82c7-ed1442de163a",
+    "url": "https://app.euler.finance/vault/0x6D976915bD9DE43De1A60C39e128e320dadda000?network=berachain"
+  },
+  {
+    "address": "0x44812cce64fddc7529dd6d41c9b3e1d0de006d92",
+    "project": "euler-v2",
+    "dlPoolId": "2bd2f9c2-c92a-4b12-a0c6-ab882e326775",
+    "url": "https://app.euler.finance/vault/0x44812CCE64FDDc7529Dd6D41c9B3e1d0De006D92?network=berachain"
+  },
+  {
+    "address": "0x028b1f7a949a7a862c3f93987296be30d71f7f97",
+    "project": "euler-v2",
+    "dlPoolId": "10e5f56e-4726-44e3-9466-6e1b112eba2e",
+    "url": "https://app.euler.finance/vault/0x028b1F7a949a7a862C3f93987296be30d71f7F97?network=berachain"
+  },
+  {
+    "address": "0x34018ac9dc4b114036ca148aa18c8f75594e5e95",
+    "project": "euler-v2",
+    "dlPoolId": "8a7fa3e0-a50f-4801-9dc4-7420a57c8414",
+    "url": "https://app.euler.finance/vault/0x34018ac9DC4B114036Ca148Aa18C8f75594E5e95?network=berachain"
+  },
+  {
+    "address": "0x027dcafb223f69d41bd413c50854017718419585",
+    "project": "euler-v2",
+    "dlPoolId": "8baded01-a648-4316-97c1-93117abb9917",
+    "url": "https://app.euler.finance/vault/0x027DcAfB223f69d41Bd413C50854017718419585?network=berachain"
+  },
+  {
+    "address": "0xd538b6aef78e4bdde4fd4576e9e3a403704602bc",
+    "project": "euler-v2",
+    "dlPoolId": "fbab4173-8715-42ee-a1bc-d63c234f84ac",
+    "url": "https://app.euler.finance/vault/0xd538b6aeF78E4bDDe4FD4576E9E3A403704602bc?network=berachain"
+  },
+  {
+    "address": "0xe318d262290abab80fc6e217c514801e2c0ef999",
+    "project": "euler-v2",
+    "dlPoolId": "b7475ea0-bc7d-40e9-a936-a11090eb2dcf",
+    "url": "https://app.euler.finance/vault/0xe318d262290ABab80FC6e217c514801e2c0EF999?network=berachain"
+  },
+  {
+    "address": "0x542b1ffd33c239c7afc6511fb8855390aa9c8ac2",
+    "project": "euler-v2",
+    "dlPoolId": "fd4a566b-9cfc-4bbd-ab31-53e78ba8fbdf",
+    "url": "https://app.euler.finance/vault/0x542B1ffd33C239C7AFc6511FB8855390Aa9c8aC2?network=berachain"
+  },
+  {
+    "address": "0x4eb3351066494852a03ffbbde40a9776380ce20d",
+    "project": "euler-v2",
+    "dlPoolId": "2daa1df1-4775-440f-9add-620d8293c728",
+    "url": "https://app.euler.finance/vault/0x4eB3351066494852a03ffBBDE40a9776380Ce20D?network=berachain"
+  }
+]

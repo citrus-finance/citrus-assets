@@ -1,0 +1,704 @@
+[
+  {
+    "address": "0x7e97fa6893871a2751b5fe961978dccb2c201e65",
+    "project": "morpho-v1",
+    "dlPoolId": "c47d5b9a-b2c4-4948-8a64-82ad8e6a6d0d",
+    "url": "https://app.morpho.org/arbitrum/vault/0x7e97fa6893871A2751B5fE961978DCCb2c201E65"
+  },
+  {
+    "address": "0x1a996cb54bb95462040408c06122d45d6cdb6096",
+    "project": "fluid-lending",
+    "dlPoolId": "4c45cc9e-e1a4-43c9-8a3d-687d96abb07c",
+    "url": "https://fluid.io/lending/42161/USDC"
+  },
+  {
+    "address": "0x4a03f37e7d3fc243e3f99341d36f4b829bee5e03",
+    "project": "fluid-lending",
+    "dlPoolId": "9f9b14d8-4eaa-4718-85e9-43ca843f6dc6",
+    "url": "https://fluid.io/lending/42161/USD₮0"
+  },
+  {
+    "address": "0x4b6f1c9e5d470b97181786b26da0d0945a7cf027",
+    "project": "morpho-v1",
+    "dlPoolId": "8d646344-66e7-4545-b245-67a9089ff76b",
+    "url": "https://app.morpho.org/arbitrum/vault/0x4B6F1C9E5d470b97181786b26da0d0945A7cf027"
+  },
+  {
+    "address": "0xa60643c90a542a95026c0f1dbdb0615ff42019cf",
+    "project": "morpho-v1",
+    "dlPoolId": "a531840a-34a3-4bbf-9de9-4ab8a77f7465",
+    "url": "https://app.morpho.org/arbitrum/vault/0xa60643c90A542A95026C0F1dbdB0615fF42019Cf"
+  },
+  {
+    "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "project": "yieldfi",
+    "dlPoolId": "6281cb17-c209-44d9-9ab7-9a9921221f93",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0x7c574174da4b2be3f705c6244b4bfa0815a8b3ed",
+    "project": "morpho-v1",
+    "dlPoolId": "d59cb98e-de3b-4192-b5bd-c34e1e6d6299",
+    "url": "https://app.morpho.org/arbitrum/vault/0x7c574174DA4b2be3f705c6244B4BfA0815a8B3Ed"
+  },
+  {
+    "address": "0xd8872677af7bf49d85352fc18c7c32f106f6fc49",
+    "project": "silo-v2",
+    "dlPoolId": "89e75e9c-9918-4dc1-86eb-c649ce32a9d2",
+    "url": "https://v2.silo.finance/markets/arbitrum/127"
+  },
+  {
+    "address": "0x6ed386ee386199d0e1d9d712ef2071be433844f4",
+    "project": "morpho-v1",
+    "dlPoolId": "b4bf2ba6-bbda-4b9b-ba42-c070bc85f444",
+    "url": "https://app.morpho.org/arbitrum/vault/0x6ed386Ee386199D0E1D9D712Ef2071bE433844F4"
+  },
+  {
+    "address": "0x45df0656f8adf017590009d2f1898eeca4f0a205",
+    "project": "fluid-lending",
+    "dlPoolId": "12c58026-7208-4899-9f0c-dfc293513a3d",
+    "url": "https://fluid.io/lending/42161/WETH"
+  },
+  {
+    "address": "0xf63b7f49b4f5dc5d0e7e583cfd79dc64e646320c",
+    "project": "autofinance",
+    "dlPoolId": "8d58514b-1013-4fb0-8cd0-0f1147ed16f4",
+    "url": "https://app.auto.finance/autopool?id=0xf63b7f49b4f5dc5d0e7e583cfd79dc64e646320c"
+  },
+  {
+    "address": "0x037dff1c12805707d7c29f163e0f09fc9102657a",
+    "project": "fluid-lending",
+    "dlPoolId": "19d0ddd5-083a-4839-a01a-5fdf066e94a3",
+    "url": "https://fluid.io/lending/42161/GHO"
+  },
+  {
+    "address": "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+    "project": "gains-network",
+    "dlPoolId": "c48595c8-49bc-4853-80e4-f18c470bbfc3",
+    "url": "https://gains.trade/vaults"
+  },
+  {
+    "address": "0x6afb8d3f6d4a34e9cb2f217317f4dc8e05aa673b",
+    "project": "euler-v2",
+    "dlPoolId": "85f878ab-9ae3-4524-afa5-f1356dfb361f",
+    "url": "https://app.euler.finance/vault/0x6aFB8d3F6D4A34e9cB2f217317f4dc8e05Aa673b?network=arbitrumone"
+  },
+  {
+    "address": "0xc19c532ce32a41c8329508153ace85a2534d4b1b",
+    "project": "silo-v2",
+    "dlPoolId": "daebade4-a1e5-47c6-928e-03cf6d1ab81a",
+    "url": "https://v2.silo.finance/markets/arbitrum/138"
+  },
+  {
+    "address": "0x05d28a86e057364f6ad1a88944297e58fc6160b3",
+    "project": "euler-v2",
+    "dlPoolId": "ea0477f6-4ead-4339-926d-eeff9e11580b",
+    "url": "https://app.euler.finance/vault/0x05d28A86E057364F6ad1a88944297E58Fc6160b3?network=arbitrumone"
+  },
+  {
+    "address": "0xa53cf822fe93002aeae16d395cd823ece161a6ac",
+    "project": "morpho-v1",
+    "dlPoolId": "4d1f3dbb-3f02-40da-bce1-b1dbb47b9e75",
+    "url": "https://app.morpho.org/arbitrum/vault/0xa53Cf822FE93002aEaE16d395CD823Ece161a6AC"
+  },
+  {
+    "address": "0x038722a3b78a10816ae0edc6afa768b03048a0cc",
+    "project": "silo-v2",
+    "dlPoolId": "6268c196-e958-402c-8dca-08f4c642aea2",
+    "url": "https://v2.silo.finance/markets/arbitrum/140"
+  },
+  {
+    "address": "0x5c0c306aaa9f877de636f4d5822ca9f2e81563ba",
+    "project": "morpho-v1",
+    "dlPoolId": "d36174b0-47c0-482d-8ec4-636c34765540",
+    "url": "https://app.morpho.org/arbitrum/vault/0x5c0C306Aaa9F877de636f4d5822cA9F2E81563BA"
+  },
+  {
+    "address": "0x3613d1789583c790d30f3c6c7786a4f36f81c6ec",
+    "project": "silo-v2",
+    "dlPoolId": "beee8014-d4e3-4a7e-9550-57336b99715a",
+    "url": "https://v2.silo.finance/markets/arbitrum/140"
+  },
+  {
+    "address": "0x5579e27129110bbc9c0ec1388acbf7ad04771b76",
+    "project": "morpho-v1",
+    "dlPoolId": "5ec6a47f-c8b6-49ce-8871-a6a2c3807198",
+    "url": "https://app.morpho.org/arbitrum/vault/0x5579e27129110bBC9c0eC1388aCBf7ad04771b76"
+  },
+  {
+    "address": "0x3a52dd6fa7881fc6cd3da9a6e776ff748a2bc636",
+    "project": "silo-v2",
+    "dlPoolId": "b0335c3c-a380-4165-b31e-8716fe49e560",
+    "url": "https://v2.silo.finance/markets/arbitrum/138"
+  },
+  {
+    "address": "0xacb7432a4bb15402ce2afe0a7c9d5b738604f6f9",
+    "project": "silo-v2",
+    "dlPoolId": "7520c07a-d7a9-43d4-a7c5-6732d7494bbf",
+    "url": "https://v2.silo.finance/markets/arbitrum/146"
+  },
+  {
+    "address": "0x2d5fde3d24ed3e7c548a59039eee5af8200f9291",
+    "project": "harvest-finance",
+    "dlPoolId": "af521c8b-05f4-4f46-ac87-24bbc2ba75e2",
+    "url": "https://app.harvest.finance/arbitrum/0x2d5FDe3D24ed3e7c548a59039EeE5af8200f9291"
+  },
+  {
+    "address": "0x5977a9682d7af81d347cfc338c61692163a2784c",
+    "project": "gains-network",
+    "dlPoolId": "ba852dba-2778-4b00-a8e5-5ea40b56270f",
+    "url": "https://gains.trade/vaults"
+  },
+  {
+    "address": "0xa8616e4d9f3f0aa01aff1d7c3b66249f8a5f1a58",
+    "project": "euler-v2",
+    "dlPoolId": "84a453b1-f18f-4432-a7ca-34aac82406ca",
+    "url": "https://app.euler.finance/vault/0xA8616E4D9f3f0aa01aff1d7c3b66249f8a5f1A58?network=arbitrumone"
+  },
+  {
+    "address": "0x407d3d942d0911a2fea7e22417f81e27c02d6c6f",
+    "project": "ipor-fusion",
+    "dlPoolId": "c3b30aea-1d30-4e14-a3f1-f27029e62e5c",
+    "url": "https://app.ipor.io/fusion/arbitrum/0x407d3d942d0911a2fea7e22417f81e27c02d6c6f"
+  },
+  {
+    "address": "0x407d3d942d0911a2fea7e22417f81e27c02d6c6f",
+    "project": "harvest-finance",
+    "dlPoolId": "4ce244a9-d353-4466-9bb8-e203d921f4a7",
+    "url": "https://app.harvest.finance/arbitrum/0x407D3d942d0911a2fEA7E22417f81E27c02D6c6F"
+  },
+  {
+    "address": "0xd85e038593d7a098614721eae955ec2022b9b91b",
+    "project": "gains-network",
+    "dlPoolId": "15c3e528-2825-4ca4-804b-406e8b8e2ebd",
+    "url": "https://gains.trade/vaults"
+  },
+  {
+    "address": "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de",
+    "project": "yieldfi",
+    "dlPoolId": "63c4bb3d-1402-436e-b921-65ac38abad87",
+    "url": "https://yield.fi/mint"
+  },
+  {
+    "address": "0xa7a9b773f139010f284e825a74060648d91de37a",
+    "project": "euler-v2",
+    "dlPoolId": "b37b45c8-a9fd-4afe-a666-2b6cb0fbe685",
+    "url": "https://app.euler.finance/vault/0xa7a9B773f139010f284E825a74060648d91dE37a?network=arbitrumone"
+  },
+  {
+    "address": "0x44c10da836d2abe881b77bbb0b3dce5f85c0c1cc",
+    "project": "euler-v2",
+    "dlPoolId": "91a13ad5-0687-4d6f-a789-da86b149d817",
+    "url": "https://app.euler.finance/vault/0x44C10DA836d2aBe881b77bbB0b3DCE5f85C0C1Cc?network=arbitrumone"
+  },
+  {
+    "address": "0x5a8294ce02908b1da68c6c39695c9b0fbaf7675d",
+    "project": "euler-v2",
+    "dlPoolId": "9a6e64f5-8925-4793-8d14-9ab640ef668c",
+    "url": "https://app.euler.finance/vault/0x5A8294CE02908B1da68c6c39695c9b0FbaF7675d?network=arbitrumone"
+  },
+  {
+    "address": "0x482c3e2530fac8fe2c63ae007ad2695c6d685e98",
+    "project": "euler-v2",
+    "dlPoolId": "f078c20b-26fb-44b3-a22c-4889e87d72f8",
+    "url": "https://app.euler.finance/vault/0x482C3E2530FAc8FE2c63AE007AD2695C6d685E98?network=arbitrumone"
+  },
+  {
+    "address": "0x2433d6ac11193b4695d9ca73530de93c538ad18a",
+    "project": "silo-v2",
+    "dlPoolId": "2d75a8dd-f4bd-4ed9-a006-445df75be02c",
+    "url": "https://v2.silo.finance/markets/arbitrum/127"
+  },
+  {
+    "address": "0x889e1c458b2469b70accdfb5b59726dc1668896c",
+    "project": "euler-v2",
+    "dlPoolId": "6bf18fcf-e0ff-41e0-873f-5dec5290cb38",
+    "url": "https://app.euler.finance/vault/0x889E1c458B2469b70aCcdfb5B59726dC1668896C?network=arbitrumone"
+  },
+  {
+    "address": "0xe1c410eefaebb052e17e0cb6f1c3197f35765aab",
+    "project": "goat-protocol",
+    "dlPoolId": "70228bc6-05f6-4687-a9f9-8d80c4e94b4c",
+    "url": "https://app.goat.fi/vault/arbitrum/ycETH"
+  },
+  {
+    "address": "0x8a1ef3066553275829d1c0f64ee8d5871d5ce9d3",
+    "project": "goat-protocol",
+    "dlPoolId": "7e649021-fc9c-44ab-b605-3a9674d098d6",
+    "url": "https://app.goat.fi/vault/arbitrum/ycsUSDC"
+  },
+  {
+    "address": "0xdc1ab820c92735e7a5e48f10fa3d8424ec47a93e",
+    "project": "silo-v2",
+    "dlPoolId": "930e523f-23dc-4e4f-9732-b4d9bd8494cf",
+    "url": "https://v2.silo.finance/markets/arbitrum/145"
+  },
+  {
+    "address": "0x79e1f4a1cde92568d58eb823f81d9c0c7c384e6b",
+    "project": "euler-v2",
+    "dlPoolId": "a4096510-2caa-4629-a577-9f3ebd29ce1e",
+    "url": "https://app.euler.finance/vault/0x79e1F4a1Cde92568D58EB823f81D9c0C7C384e6b?network=arbitrumone"
+  },
+  {
+    "address": "0x250cf7c82bac7cb6cf899b6052979d4b5ba1f9ca",
+    "project": "morpho-v1",
+    "dlPoolId": "71f3f1a3-bde5-44be-8a27-cec127ac0b7e",
+    "url": "https://app.morpho.org/arbitrum/vault/0x250CF7c82bAc7cB6cf899b6052979d4B5BA1f9ca"
+  },
+  {
+    "address": "0x1544e663dd326a6d853a0cc4ceef0860eb82b287",
+    "project": "stake-dao",
+    "dlPoolId": "3c88637c-ef45-41ac-8e4f-d4f72eb7e3c6",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x1dc45c4451a99882fda13c98de8c940961875a92",
+    "project": "silo-v2",
+    "dlPoolId": "2ad38f69-54d6-4878-884d-b855ca769c0c",
+    "url": "https://v2.silo.finance/markets/arbitrum/151"
+  },
+  {
+    "address": "0x252b965400862d94bda35fecf7ee0f204a53cc36",
+    "project": "yearn-finance",
+    "dlPoolId": "e69906f2-40c0-4ed1-a187-05722162f0c3",
+    "url": "https://yearn.fi/vaults/42161/0x252b965400862d94BDa35FeCF7Ee0f204a53Cc36"
+  },
+  {
+    "address": "0x2abad3d0c104fe1c9a412431d070e73108b4eff8",
+    "project": "stake-dao",
+    "dlPoolId": "7551ff59-180f-411e-b84a-e1a0b09172b5",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xbc323e3564fb498e55cdc83a3ea6bb1af8402d6b",
+    "project": "notional-v3",
+    "dlPoolId": "02c05a05-9760-4b54-a6b7-726be800c96e",
+    "url": "https://notional.finance/lend-variable/arbitrum/wstETH"
+  },
+  {
+    "address": "0x0a1ecc5fe8c9be3c809844fcbe615b46a869b899",
+    "project": "euler-v2",
+    "dlPoolId": "d710ca08-6f7d-4617-8909-7d00486a226c",
+    "url": "https://app.euler.finance/vault/0x0a1eCC5Fe8C9be3C809844fcBe615B46A869b899?network=arbitrumone"
+  },
+  {
+    "address": "0x18b0fc5a233acf1586da7c199ca9e3f486305a29",
+    "project": "notional-v3",
+    "dlPoolId": "fc595421-5081-4fb1-8a8c-d7718a4bcd42",
+    "url": "https://notional.finance/liquidity-variable/arbitrum/ETH"
+  },
+  {
+    "address": "0x18b0fc5a233acf1586da7c199ca9e3f486305a29",
+    "project": "notional-v3",
+    "dlPoolId": "aa56b510-3228-48a2-9276-9ba38ebaf807",
+    "url": "https://notional.finance/liquidity-leveraged/arbitrum/CreateLeveragedNToken/ETH"
+  },
+  {
+    "address": "0xa91267a25939b2b0f046013fbf9597008f7f014b",
+    "project": "ipor-fusion",
+    "dlPoolId": "1749b636-897d-49f7-b76f-2872b67c2bc0",
+    "url": "https://app.ipor.io/fusion/arbitrum/0xa91267a25939b2b0f046013fbf9597008f7f014b"
+  },
+  {
+    "address": "0x06d45ef1f8b3c37b0de66f156b11f10b4837619a",
+    "project": "notional-v3",
+    "dlPoolId": "7eaf99ab-1ef5-4a45-8d94-e7d30f4d78ce",
+    "url": "https://notional.finance/liquidity-leveraged/arbitrum/CreateLeveragedNToken/wstETH"
+  },
+  {
+    "address": "0x06d45ef1f8b3c37b0de66f156b11f10b4837619a",
+    "project": "notional-v3",
+    "dlPoolId": "151f7d9c-3b36-417b-9d01-a9248aea0b7d",
+    "url": "https://notional.finance/liquidity-variable/arbitrum/wstETH"
+  },
+  {
+    "address": "0xa7781f1d982eb9000bc1733e29ff5ba2824cdbe5",
+    "project": "goat-protocol",
+    "dlPoolId": "9e7e5800-3b68-4d98-9b3c-14682f201910",
+    "url": "https://app.goat.fi/vault/arbitrum/ycCRVUSD"
+  },
+  {
+    "address": "0x66c25cd75ebdaa7e04816f643d8e46cecd3183c9",
+    "project": "fluid-lending",
+    "dlPoolId": "e92a6af8-146a-401c-bd0d-a0c50f092ef8",
+    "url": "https://fluid.io/lending/42161/wstETH"
+  },
+  {
+    "address": "0x78e3e051d32157aacd550fbb78458762d8f7edff",
+    "project": "euler-v2",
+    "dlPoolId": "589aa5cd-aeab-433e-aefc-9d0992796430",
+    "url": "https://app.euler.finance/vault/0x78E3E051D32157AACD550fBB78458762d8f7edFF?network=arbitrumone"
+  },
+  {
+    "address": "0xc76387330f1614d7e10e045cfcc7c9f7ff2adc1f",
+    "project": "harvest-finance",
+    "dlPoolId": "d1bcbeee-2835-48a4-9e1e-73ef33c14c64",
+    "url": "https://app.harvest.finance/arbitrum/0xc76387330F1614D7e10e045cfcc7C9f7Ff2AdC1F"
+  },
+  {
+    "address": "0x9fa306b1f4a6a83fec98d8ebbabedff78c407f6b",
+    "project": "yearn-finance",
+    "dlPoolId": "2aaca58d-e93b-4368-8978-7e59a3cc7b55",
+    "url": "https://yearn.fi/vaults/42161/0x9FA306b1F4a6a83FEC98d8eBbaBEDfF78C407f6B"
+  },
+  {
+    "address": "0xabc07bf91469c5450d6941dd0770e6e6761b90d6",
+    "project": "notional-v3",
+    "dlPoolId": "108514e5-638c-4bc8-a28a-41b285e9d654",
+    "url": "https://notional.finance/lend-variable/arbitrum/ETH"
+  },
+  {
+    "address": "0x17e876675258dee5a7b2e2e14fcfab44f867896c",
+    "project": "stake-dao",
+    "dlPoolId": "7a0f9f79-6127-47a0-99dd-f1ecd0bbfe2e",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0x555928dc8973f10f5bba677d0ebb7cbac968e36a",
+    "project": "stake-dao",
+    "dlPoolId": "4fc5b0f2-476b-4872-a995-0d5fc4e99903",
+    "url": "https://stakedao.org"
+  },
+  {
+    "address": "0xb9bfbb35c2ed588a42f9fd1120929c607b463192",
+    "project": "notional-v3",
+    "dlPoolId": "3a783a46-7b80-4bf0-8ee5-49e9290f2875",
+    "url": "https://notional.finance/lend-variable/arbitrum/WBTC"
+  },
+  {
+    "address": "0x53425c73267fc3e00d6e18023219c66c038146a1",
+    "project": "harvest-finance",
+    "dlPoolId": "b47009da-eb3c-4053-96f3-52df7fe4298a",
+    "url": "https://app.harvest.finance/arbitrum/0x53425C73267fC3E00d6E18023219c66c038146A1"
+  },
+  {
+    "address": "0xb739ae19620f7ecb4fb84727f205453aa5bc1ad2",
+    "project": "yearn-finance",
+    "dlPoolId": "d3d8221f-9279-4daa-8612-eea36625986f",
+    "url": "https://yearn.fi/vaults/42161/0xb739AE19620f7ECB4fb84727f205453aa5bc1AD2"
+  },
+  {
+    "address": "0x32db5cbac1c278696875eb9f27ed4cd7423dd126",
+    "project": "harvest-finance",
+    "dlPoolId": "2f23760e-de90-4934-96b9-3a53cfc69f0f",
+    "url": "https://app.harvest.finance/arbitrum/0x32DB5Cbac1C278696875eB9F27eD4cD7423dd126"
+  },
+  {
+    "address": "0x0df2e3a0b5997adc69f8768e495fd98a4d00f134",
+    "project": "goat-protocol",
+    "dlPoolId": "ab3092dc-6700-4136-9842-fea80d179d4d",
+    "url": "https://app.goat.fi/vault/arbitrum/ycUSDC"
+  },
+  {
+    "address": "0x4c4f752fa54dafb6d51b4a39018271c90ba1156f",
+    "project": "ipor-fusion",
+    "dlPoolId": "475978e4-6787-4abc-aced-ff93968e132f",
+    "url": "https://app.ipor.io/fusion/arbitrum/0x4c4f752fa54dafb6d51b4a39018271c90ba1156f"
+  },
+  {
+    "address": "0xf54537b19796d2c75ecb6760a299b8482ea717fb",
+    "project": "harvest-finance",
+    "dlPoolId": "174054ae-6a04-4796-9899-9f2b472d9ad3",
+    "url": "https://app.harvest.finance/arbitrum/0xf54537b19796d2c75EcB6760a299B8482eA717fB"
+  },
+  {
+    "address": "0xede9330aa169f0feca59e2e62ff443682862a0a4",
+    "project": "harvest-finance",
+    "dlPoolId": "dbccb642-2884-44e1-ab4c-a8376835a77a",
+    "url": "https://app.harvest.finance/arbitrum/0xedE9330Aa169f0fEca59E2e62fF443682862a0a4"
+  },
+  {
+    "address": "0x866eb09d3d1397b8a28cfe5dceeaed9362840385",
+    "project": "notional-v3",
+    "dlPoolId": "5dfc25ee-d98c-47e6-b192-fc1548eda6c5",
+    "url": "https://notional.finance/lend-variable/arbitrum/rETH"
+  },
+  {
+    "address": "0xabacc4ff86564ac1af46c0b518c3264a29ef9859",
+    "project": "silo-v2",
+    "dlPoolId": "15378f94-951c-4f5e-b2a7-45f4c66cc07b",
+    "url": "https://v2.silo.finance/markets/arbitrum/134"
+  },
+  {
+    "address": "0xe82d060687c014b280b65df24acd94a77251c784",
+    "project": "yearn-finance",
+    "dlPoolId": "48e8e005-41cd-4fbe-b806-47cf74a73d6b",
+    "url": "https://yearn.fi/vaults/42161/0xE82D060687C014B280b65df24AcD94A77251C784"
+  },
+  {
+    "address": "0x291f5bd3d239603224ad6d9ca5eef20224914dbd",
+    "project": "silo-v2",
+    "dlPoolId": "c204b35b-74ff-4a6c-a7ba-ac8c2ea366f5",
+    "url": "https://v2.silo.finance/markets/arbitrum/150"
+  },
+  {
+    "address": "0xcafc0a559a9bf2fc77a7ecfaf04bd929a7d9c5cf",
+    "project": "ipor-fusion",
+    "dlPoolId": "8b59d682-a455-4250-ab6a-526ee8eeae08",
+    "url": "https://app.ipor.io/fusion/arbitrum/0xcafc0a559a9bf2fc77a7ecfaf04bd929a7d9c5cf"
+  },
+  {
+    "address": "0x0f13fb925edc3e1fe947209010d9c0e072986adc",
+    "project": "notional-v3",
+    "dlPoolId": "0a5747a9-efa7-44b4-a076-2396ed23819e",
+    "url": "https://notional.finance/liquidity-leveraged/arbitrum/CreateLeveragedNToken/USDC"
+  },
+  {
+    "address": "0x0f13fb925edc3e1fe947209010d9c0e072986adc",
+    "project": "notional-v3",
+    "dlPoolId": "76d9d63c-bb9a-4d75-b47e-26c4c9ea671a",
+    "url": "https://notional.finance/liquidity-variable/arbitrum/USDC"
+  },
+  {
+    "address": "0xe6e61bf3ec29b4ab1846ea2851fa021c0be886ba",
+    "project": "harvest-finance",
+    "dlPoolId": "f3bf6b32-44d0-403b-81ce-43ca981d16f1",
+    "url": "https://app.harvest.finance/arbitrum/0xE6e61bF3Ec29b4ab1846EA2851FA021C0BE886BA"
+  },
+  {
+    "address": "0xe25eae6261a0ad47b57d16bd10c0cadc9d317ac2",
+    "project": "harvest-finance",
+    "dlPoolId": "edca7a19-5a41-4f56-aa2d-06ff954cbf4c",
+    "url": "https://app.harvest.finance/arbitrum/0xE25EaE6261a0aD47b57d16bD10c0cAdC9D317aC2"
+  },
+  {
+    "address": "0x3734273c0ad5ab9565f77294335584c904822d4d",
+    "project": "harvest-finance",
+    "dlPoolId": "646d50c0-4210-49a8-b86d-f9d7acc1cfdb",
+    "url": "https://app.harvest.finance/arbitrum/0x3734273c0AD5aB9565f77294335584C904822D4D"
+  },
+  {
+    "address": "0xb441f55ac9acd19d9d0c400dd6ce33317961edd0",
+    "project": "harvest-finance",
+    "dlPoolId": "9c74173e-746e-41b3-9f13-fa2165b7f6d7",
+    "url": "https://app.harvest.finance/arbitrum/0xb441f55Ac9aCd19d9D0C400dd6cE33317961eDd0"
+  },
+  {
+    "address": "0xbe6a65325a073490d0a2999529633f1ae88bb091",
+    "project": "harvest-finance",
+    "dlPoolId": "0a9e1139-4a9c-422a-bf5d-bd005c123127",
+    "url": "https://app.harvest.finance/arbitrum/0xbe6A65325A073490D0A2999529633f1Ae88bb091"
+  },
+  {
+    "address": "0x11f629445c55bbcb03ebe7cb15bcf770eb006917",
+    "project": "harvest-finance",
+    "dlPoolId": "cc6137cd-18f2-4558-829b-3762c5e94405",
+    "url": "https://app.harvest.finance/arbitrum/0x11F629445C55BbCb03EbE7cB15Bcf770eB006917"
+  },
+  {
+    "address": "0x8c5161f287cbc9afa48bc8972ee8cc0a755fcadc",
+    "project": "termmax",
+    "dlPoolId": "aebf3315-ca79-4cd5-8c93-b39a3b6887d5",
+    "url": "https://app.termmax.ts.finance/earn/arb/0x8c5161f287cbc9afa48bc8972ee8cc0a755fcadc?chain=arb"
+  },
+  {
+    "address": "0x34e2110f8c9a635477eff75fdbe73251fe02ae4a",
+    "project": "harvest-finance",
+    "dlPoolId": "cb32d316-90c8-43fe-81ac-4f5a3fbc39f9",
+    "url": "https://app.harvest.finance/arbitrum/0x34E2110F8C9a635477EFf75FDBe73251Fe02ae4a"
+  },
+  {
+    "address": "0x6f28cafe12bd97e474a52bcbfea6f2c18ae0f53d",
+    "project": "notional-v3",
+    "dlPoolId": "d06b5b4a-1ac1-4ec0-8d09-5a6badfbf078",
+    "url": "https://notional.finance/lend-variable/arbitrum/USDC"
+  },
+  {
+    "address": "0xed5ef6ee1139dbc3d48b1e5336b4a9f1c240fb6f",
+    "project": "silo-v2",
+    "dlPoolId": "a68999f9-b9d6-4ac0-9fc5-c779a65c8f80",
+    "url": "https://v2.silo.finance/markets/arbitrum/134"
+  },
+  {
+    "address": "0x6f6603f12af215bdba1f55f643e098530dd45b8f",
+    "project": "notional-v3",
+    "dlPoolId": "2e4ea882-f2f6-4341-bf82-e2687c5b6779",
+    "url": "https://notional.finance/liquidity-variable/arbitrum/rETH"
+  },
+  {
+    "address": "0x6f6603f12af215bdba1f55f643e098530dd45b8f",
+    "project": "notional-v3",
+    "dlPoolId": "1d5ea4f6-e5f7-4d69-a1fa-d96227d0a413",
+    "url": "https://notional.finance/liquidity-leveraged/arbitrum/CreateLeveragedNToken/rETH"
+  },
+  {
+    "address": "0x3014ed70b39be395e1a5eb8ab4c4b8a5378e6522",
+    "project": "morpho-v1",
+    "dlPoolId": "7557b51d-1a3a-48bb-b70a-4acf254f4897",
+    "url": "https://app.morpho.org/arbitrum/vault/0x3014ED70B39be395e1a5Eb8ab4c4b8a5378E6522"
+  },
+  {
+    "address": "0xcacc53bacce744ac7b5c1ec7eb7e3ab01330733b",
+    "project": "yearn-finance",
+    "dlPoolId": "1f8d75b5-f5af-4222-bc16-074ff5e7dedb",
+    "url": "https://yearn.fi/vaults/42161/0xCACc53bAcCe744ac7b5C1eC7eb7e3Ab01330733b"
+  },
+  {
+    "address": "0xb01a958d8e9dba566c6d71f66ef566ccf5fac859",
+    "project": "harvest-finance",
+    "dlPoolId": "404b24f7-5a22-4b7e-82b2-e1cf3582d33a",
+    "url": "https://app.harvest.finance/arbitrum/0xB01a958d8e9dBA566c6D71f66ef566ccf5Fac859"
+  },
+  {
+    "address": "0xc94b752839a22d2c44e99e298671dd4b2add11b3",
+    "project": "termmax",
+    "dlPoolId": "222d500d-c5d0-4082-b0a0-a87bc36f46a4",
+    "url": "https://app.termmax.ts.finance/earn/arb/0xc94b752839a22d2c44e99e298671dd4b2add11b3?chain=arb"
+  },
+  {
+    "address": "0xfc1ac64e5afd67465b29d14d0dc1d1d081016394",
+    "project": "silo-v2",
+    "dlPoolId": "8ea1d5b0-b876-43b9-a698-048c7adcc517",
+    "url": "https://v2.silo.finance/markets/arbitrum/115"
+  },
+  {
+    "address": "0x0623a67d69bb2f59d266897a15dc1509d291d631",
+    "project": "morpho-v1",
+    "dlPoolId": "63957c9e-dbbc-4950-b5c8-3fa844cdad27",
+    "url": "https://app.morpho.org/arbitrum/vault/0x0623a67D69bB2F59D266897A15dC1509d291D631"
+  },
+  {
+    "address": "0x24174022d382cd155c33a847404cda5bc7978802",
+    "project": "harvest-finance",
+    "dlPoolId": "37250409-ceae-4893-a363-dda790817798",
+    "url": "https://app.harvest.finance/arbitrum/0x24174022D382CD155C33A847404cDA5Bc7978802"
+  },
+  {
+    "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
+    "project": "yearn-finance",
+    "dlPoolId": "cc28d02f-6934-4e57-b58c-dea0e618b2e3",
+    "url": "https://yearn.fi/vaults/42161/0x6FAF8b7fFeE3306EfcFc2BA9Fec912b4d49834C1"
+  },
+  {
+    "address": "0xb0bde111812eac913b392d80d51966ec977be3a2",
+    "project": "dolomite",
+    "dlPoolId": "9ffc545f-8fb0-4187-9995-6627bd068052",
+    "url": "https://app.dolomite.io/stats/token/0xb0bde111812eac913b392d80d51966ec977be3a2"
+  },
+  {
+    "address": "0xd3a17928245064b6df5095a76e277fe441d538a4",
+    "project": "vaultcraft",
+    "dlPoolId": "d25cd9ec-ffaf-4630-9a13-8b03d577f12f",
+    "url": "https://app.vaultcraft.io/vaults"
+  },
+  {
+    "address": "0x0ee8d628411f446bfbbe08bdef53e42414c8fbc4",
+    "project": "euler-v2",
+    "dlPoolId": "d3325c3d-cd57-4264-80e7-4cb0c9a087e0",
+    "url": "https://app.euler.finance/vault/0x0EE8D628411F446BFbbe08BDeF53E42414C8fBC4?network=arbitrumone"
+  },
+  {
+    "address": "0x2b70238022589f17e7b266bc753e74027d57009f",
+    "project": "harvest-finance",
+    "dlPoolId": "c9c1124b-27af-4ddc-b931-922f34f8b6c4",
+    "url": "https://app.harvest.finance/arbitrum/0x2b70238022589f17E7b266BC753E74027D57009F"
+  },
+  {
+    "address": "0x2281961480216653529a03d6ce03ee6b8cdf564e",
+    "project": "morpho-v1",
+    "dlPoolId": "0bcce476-27c8-4437-a2d2-f22f999a70bc",
+    "url": "https://app.morpho.org/arbitrum/vault/0x2281961480216653529A03D6CE03Ee6B8cdF564E"
+  },
+  {
+    "address": "0xe96e07c16661744836a742ef2090f11e84a86f4f",
+    "project": "euler-v2",
+    "dlPoolId": "d99ac38c-abcf-419d-a920-cae7f76e39d0",
+    "url": "https://app.euler.finance/vault/0xE96e07C16661744836a742Ef2090F11e84a86f4F?network=arbitrumone"
+  },
+  {
+    "address": "0x37512f45b4ba8808910632323b73783ca938cd51",
+    "project": "euler-v2",
+    "dlPoolId": "6c682632-a083-4af4-9d88-ab8f36b8864b",
+    "url": "https://app.euler.finance/vault/0x37512F45B4ba8808910632323b73783Ca938CD51?network=arbitrumone"
+  },
+  {
+    "address": "0x1fd865a55eaf5333e6374fb3ad66d22e9885d3aa",
+    "project": "notional-v3",
+    "dlPoolId": "a06a31f8-1115-4d4d-a885-a031c6ed618c",
+    "url": "https://notional.finance/lend-variable/arbitrum/FRAX"
+  },
+  {
+    "address": "0xc0ba9bfed28ab46da48d2b69316a3838698ef3f5",
+    "project": "yearn-finance",
+    "dlPoolId": "59bbc81b-e2d7-4c82-ac7b-01efb92e722d",
+    "url": "https://yearn.fi/vaults/42161/0xc0ba9bfED28aB46Da48d2B69316A3838698EF3f5"
+  },
+  {
+    "address": "0xb320a32c435657389815075118c940d3d4792aaa",
+    "project": "harvest-finance",
+    "dlPoolId": "e082b10d-f0cd-474a-a67f-607a717d383d",
+    "url": "https://app.harvest.finance/arbitrum/0xB320a32C435657389815075118c940D3D4792AaA"
+  },
+  {
+    "address": "0x64a651d825fc70ebba88f2e1bad90be9a496c4b9",
+    "project": "morpho-v1",
+    "dlPoolId": "1c0849cc-022d-4259-9e2e-a71d577f5532",
+    "url": "https://app.morpho.org/arbitrum/vault/0x64A651D825FC70Ebba88f2E1BAD90be9A496C4b9"
+  },
+  {
+    "address": "0xa4b8873b4629c20f2167c0a2bc33b6af8699ddc1",
+    "project": "yearn-finance",
+    "dlPoolId": "3b6d0745-6a66-4fde-a276-67ccc2a73a70",
+    "url": "https://yearn.fi/vaults/42161/0xA4B8873B4629c20f2167c0A2bC33B6AF8699dDc1"
+  },
+  {
+    "address": "0x52602a1075645845a303f86b2bd0b7e7227f99d6",
+    "project": "notional-v3",
+    "dlPoolId": "8e22ba2c-8168-4e47-bd52-0568bf922065",
+    "url": "https://notional.finance/liquidity-variable/arbitrum/WBTC"
+  },
+  {
+    "address": "0x52602a1075645845a303f86b2bd0b7e7227f99d6",
+    "project": "notional-v3",
+    "dlPoolId": "09c18b98-d44e-47a2-9045-6626bdee2e08",
+    "url": "https://notional.finance/liquidity-leveraged/arbitrum/CreateLeveragedNToken/WBTC"
+  },
+  {
+    "address": "0x8e8fa7c73bef97205552456a7d41e14caf57404d",
+    "project": "euler-v2",
+    "dlPoolId": "554460fc-4693-4057-8c73-0d7efc4396a4",
+    "url": "https://app.euler.finance/vault/0x8E8FA7c73BeF97205552456A7D41E14cAf57404D?network=arbitrumone"
+  },
+  {
+    "address": "0x2ec0160246461f0ce477887dde2c931ee8233de7",
+    "project": "harvest-finance",
+    "dlPoolId": "41dbfbf5-ef9d-4188-b5d0-0a8fb7d1ac36",
+    "url": "https://app.harvest.finance/arbitrum/0x2EC0160246461F0ce477887DdE2C931Ee8233de7"
+  },
+  {
+    "address": "0xfa10759780304c2b8d34b051c039899dfbbcad7f",
+    "project": "harvest-finance",
+    "dlPoolId": "52a4af91-646b-4568-aa92-700578bc60e1",
+    "url": "https://app.harvest.finance/arbitrum/0xFA10759780304c2B8d34B051C039899dFBbcad7f"
+  },
+  {
+    "address": "0x7ed866d2d66c3149fafe854c30c68a8ba7cee8b9",
+    "project": "euler-v2",
+    "dlPoolId": "8274ad4b-d7ba-4ab8-a8e0-db2a7c36aceb",
+    "url": "https://app.euler.finance/vault/0x7eD866D2D66c3149FaFE854C30C68a8BA7ceE8B9?network=arbitrumone"
+  },
+  {
+    "address": "0xd691d8e3bc5008708786114481714b9c636f766f",
+    "project": "harvest-finance",
+    "dlPoolId": "cfed8fdd-213f-4e1c-afcc-8a3f3abb003d",
+    "url": "https://app.harvest.finance/arbitrum/0xD691D8e3BC5008708786114481714B9c636f766F"
+  },
+  {
+    "address": "0x0ace2dc3995acd739ae5e0599e71a5524b93b886",
+    "project": "notional-v3",
+    "dlPoolId": "6edc18d3-114d-4ee6-9dde-5e97f5fbcb3f",
+    "url": "https://notional.finance/lend-variable/arbitrum/DAI"
+  },
+  {
+    "address": "0xbe3860fd4c3facdf8ad57aa8c1a36d6dc4390a49",
+    "project": "fluid-lending",
+    "dlPoolId": "2b272fb2-8721-42ea-87cd-be74d256bcc5",
+    "url": "https://fluid.io/lending/42161/ARB"
+  },
+  {
+    "address": "0x86b1c293e56cbac04d9c15a1af2ef1d2050ff6cd",
+    "project": "silo-v2",
+    "dlPoolId": "836ad654-a70e-46a0-8b06-83f7b2b76238",
+    "url": "https://v2.silo.finance/markets/arbitrum/115"
+  }
+]
