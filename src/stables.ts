@@ -42,7 +42,7 @@ export default async function buildStables() {
       iconUrl: "https://assets.citrus.finance" + stable.iconUrl,
     })),
     layerZero: {
-      networks: Object.fromEntries(
+      chains: Object.fromEntries(
         getLayerZeroChainIds().map((chainId) => [
           chainId,
           getLayerZeroDeployment(chainId)!,

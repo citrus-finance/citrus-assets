@@ -34,7 +34,7 @@
     }
   ],
   "layerZero": {
-    "networks": {
+    "chains": {
       "1": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x8FAFC84cAeA1Cef8475cb5CB344658D160c9CE0b"
