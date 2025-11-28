@@ -7,6 +7,7 @@ import updateTokensData from "./utils/updateTokensData.js";
 
 import { config } from "./config.js";
 import addTokenList from "./utils/addTokenList.js";
+import buildStables from "./stables.js";
 
 await buildNetworks();
 
@@ -30,3 +31,5 @@ for (let tokenList of config.tokenLists) {
 }
 
 await updateTokensData(tokenMap);
+
+await buildStables();

@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Pound symbol in indigo circle" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background + 1px ring -->
+  <circle cx="24" cy="24" r="23.5" fill="#312E81" stroke="#4338CA" stroke-width="1"></circle>
+  <!-- Centered text: text-xl (~20px), font-semibold -->
+  <text x="24" y="24" font-size="20" font-weight="600" text-anchor="middle" dominant-baseline="middle" fill="#60A5FA" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji'">
+    £
+  </text>
+</svg>

@@ -284,10 +284,10 @@ unicorn-magic@^0.3.0:
   resolved "https://registry.yarnpkg.com/unicorn-magic/-/unicorn-magic-0.3.0.tgz#4efd45c85a69e0dd576d25532fbfa22aa5c8a104"
   integrity sha512-+QBBXBCvifc56fsbuxZQ6Sic3wqqc3WWaqxs58gvJrcOuN83HGTCwz3oS5phzU9LthRNE9VrJCFCLUgHeeFnfA==
 
-viem@^2.37.13:
-  version "2.37.13"
-  resolved "https://registry.yarnpkg.com/viem/-/viem-2.37.13.tgz#81a17a1a5843da9c9ed79765a502989a4ff29802"
-  integrity sha512-05dh56iMmCyjRLcTIiu8bB4zZLnb9uLOVToDwmBLYDarmoOE8d8SLFkQLc2zLU57FlnYCQIO1VbUviGZYwFGgQ==
+viem@^2.40.3:
+  version "2.40.3"
+  resolved "https://registry.yarnpkg.com/viem/-/viem-2.40.3.tgz#237b11c54f808b5747e483fa7dd05a843e3c079f"
+  integrity sha512-feYfEpbgjRkZYQpwcgxqkWzjxHI5LSDAjcGetHHwDRuX9BRQHUdV8ohrCosCYpdEhus/RknD3/bOd4qLYVPPuA==
   dependencies:
     "@noble/curves" "1.9.1"
     "@noble/hashes" "1.8.0"
