@@ -15,6 +15,7 @@ export default async function buildStables() {
         syntheticVaults: {
           100: ["0x2EaCa4A751Fd15Eb0da89501Bd7b673e4F1a6952"],
         },
+        yieldSetter: "0xA67C1Fd4Ca79a89290B8011E4bbA3Be3dAD1c659",
       },
       {
         address: "0x0000000000000000000000000000000000000000",

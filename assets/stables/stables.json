@@ -9,7 +9,8 @@
         "100": [
           "0x2EaCa4A751Fd15Eb0da89501Bd7b673e4F1a6952"
         ]
-      }
+      },
+      "yieldSetter": "0xA67C1Fd4Ca79a89290B8011E4bbA3Be3dAD1c659"
     },
     {
       "address": "0x0000000000000000000000000000000000000000",
@@ -114,6 +115,10 @@
       "148": {
         "endpointV2": "0x148f693af10ddfaE81cDdb36F4c93B31A90076e1",
         "endpointV2View": "0x763BfcE1Ed335885D0EeC1F182fE6E6B85BAbC92"
+      },
+      "151": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
       "169": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
@@ -251,6 +256,10 @@
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x4514FC667a944752ee8A29F544c1B20b1A315f25"
       },
+      "1672": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
       "1729": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
@@ -279,6 +288,10 @@
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x1eeF2Bd32b5827813d97Cd25b6C392154044f453"
       },
+      "2288": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
       "2345": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
@@ -287,15 +300,19 @@
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
-      "2525": {
-        "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
-        "endpointV2View": "0xe9bA4C1e76D874a43942718Dafc96009ec9D9917"
+      "2366": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
       "2741": {
         "endpointV2": "0x5c6cfF4b7C49805F8295Ff73C204ac83f3bC4AE7",
         "endpointV2View": "0x52fFEeaE5Ffa89D4b31c72F87ead3699FCB79e40"
       },
       "2818": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
+      "3282": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
@@ -307,9 +324,21 @@
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
+      "4114": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
+      "4153": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
       "4200": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
+      "4217": {
+        "endpointV2": "0x20Bb7C2E2f4e5ca2B4c57060d1aE2615245dCc9C",
+        "endpointV2View": "0x6903A4a6F09f8837886928b9494C0635Cf3091ED"
       },
       "4326": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
@@ -322,6 +351,14 @@
       "5000": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x9BbEb2B2184B9313Cf5ed4a4DDFEa2ef62a2a03B"
+      },
+      "5031": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
+      "5464": {
+        "endpointV2": "0xa20DB4Ffe74A31D17fc24BD32a7DD7555441058e",
+        "endpointV2View": "0x306B9a8953B9462F8b826e6768a93C8EA7454965"
       },
       "6001": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
@@ -387,6 +424,10 @@
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675"
       },
+      "26514": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
+      },
       "33139": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
@@ -435,10 +476,6 @@
         "endpointV2": "0x5c6cfF4b7C49805F8295Ff73C204ac83f3bC4AE7",
         "endpointV2View": "0x52fFEeaE5Ffa89D4b31c72F87ead3699FCB79e40"
       },
-      "50312": {
-        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
-        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
-      },
       "53935": {
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0x11bb2991882a86Dc3E38858d922559A385d506bA"
@@ -475,9 +512,9 @@
         "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
         "endpointV2View": "0xe1844c5D63a9543023008D332Bd3d2e6f1FE1043"
       },
-      "94524": {
-        "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
-        "endpointV2View": "0x4514FC667a944752ee8A29F544c1B20b1A315f25"
+      "88888": {
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
       },
       "97477": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
@@ -526,10 +563,6 @@
       "5064014": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
         "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4"
-      },
-      "5151706": {
-        "endpointV2": "0x1a44076050125825900e736c501f859c50fE728c",
-        "endpointV2View": "0x57D9775eE8feC31F1B612a06266f599dA167d211"
       },
       "6985385": {
         "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
