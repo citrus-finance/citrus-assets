@@ -11,25 +11,25 @@ import buildStables from "./stables.js";
 
 await buildNetworks();
 
-const tokenMap: TokenMap = new Map();
+// const tokenMap: TokenMap = new Map();
 
-for (let tokenList of config.tokenLists) {
-  if ("gitUrl" in tokenList) {
-    await addManyTokenLists(tokenMap, {
-      gitUrl: tokenList.gitUrl,
-      tokenListsDir: tokenList.tokenListsDir,
-      tokenListTransform: tokenList.tokenListTransform,
-      tags: tokenList.tags,
-    });
-  } else {
-    await addTokenList(tokenMap, {
-      url: tokenList.url,
-      tokenListTransform: tokenList.tokenListTransform,
-      tags: tokenList.tags,
-    });
-  }
-}
+// for (let tokenList of config.tokenLists) {
+//   if ("gitUrl" in tokenList) {
+//     await addManyTokenLists(tokenMap, {
+//       gitUrl: tokenList.gitUrl,
+//       tokenListsDir: tokenList.tokenListsDir,
+//       tokenListTransform: tokenList.tokenListTransform,
+//       tags: tokenList.tags,
+//     });
+//   } else {
+//     await addTokenList(tokenMap, {
+//       url: tokenList.url,
+//       tokenListTransform: tokenList.tokenListTransform,
+//       tags: tokenList.tags,
+//     });
+//   }
+// }
 
-await updateTokensData(tokenMap);
+// await updateTokensData(tokenMap);
 
-await buildStables();
+// await buildStables();

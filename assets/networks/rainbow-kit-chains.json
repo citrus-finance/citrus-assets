@@ -125,9 +125,9 @@
       }
     },
     "sourceId": 1,
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/10.svg",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/10.webp",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/10.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/10.webp",
       "wrapped": "0x4200000000000000000000000000000000000006",
       "defiLLamaChain": "optimism"
     }
@@ -239,9 +239,9 @@
         "blockCreated": 15921452
       }
     },
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/56.webp",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/56.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/56.webp",
       "wrapped": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "defiLLamaChain": "bsc"
     }
@@ -310,9 +310,9 @@
         "blockCreated": 21022491
       }
     },
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/100.svg",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/100.webp",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/100.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/100.webp",
       "wrapped": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
       "defiLLamaChain": "xdai"
     }
@@ -357,6 +357,7 @@
   {
     "id": 137,
     "name": "Polygon",
+    "blockTime": 2000,
     "nativeCurrency": {
       "name": "POL",
       "symbol": "POL",
@@ -376,7 +377,7 @@
       "default": {
         "name": "PolygonScan",
         "url": "https://polygonscan.com",
-        "apiUrl": "https://api.polygonscan.com/api"
+        "apiUrl": "https://api.etherscan.io/v2/api"
       }
     },
     "contracts": {
@@ -385,9 +386,9 @@
         "blockCreated": 25770160
       }
     },
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/137.svg",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/137.webp",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/137.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/137.webp",
       "wrapped": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "defiLLamaChain": "polygon"
     }
@@ -737,6 +738,102 @@
     }
   },
   {
+    "formatters": {
+      "block": {
+        "type": "block"
+      },
+      "transaction": {
+        "type": "transaction"
+      },
+      "transactionReceipt": {
+        "type": "transactionReceipt"
+      }
+    },
+    "serializers": {},
+    "blockTime": 2000,
+    "contracts": {
+      "gasPriceOracle": {
+        "address": "0x420000000000000000000000000000000000000F"
+      },
+      "l1Block": {
+        "address": "0x4200000000000000000000000000000000000015"
+      },
+      "l2CrossDomainMessenger": {
+        "address": "0x4200000000000000000000000000000000000007"
+      },
+      "l2Erc721Bridge": {
+        "address": "0x4200000000000000000000000000000000000014"
+      },
+      "l2StandardBridge": {
+        "address": "0x4200000000000000000000000000000000000010"
+      },
+      "l2ToL1MessagePasser": {
+        "address": "0x4200000000000000000000000000000000000016"
+      },
+      "multicall3": {
+        "address": "0xca11bde05977b3631167028862be2a173976ca11",
+        "blockCreated": 0
+      },
+      "disputeGameFactory": {
+        "1": {
+          "address": "0x069c4c579671f8c120b1327a73217D01Ea2EC5ea"
+        }
+      },
+      "l2OutputOracle": {
+        "1": {
+          "address": "0x19A6d1E9034596196295CF148509796978343c5D"
+        }
+      },
+      "portal": {
+        "1": {
+          "address": "0xd5ec14a83B7d95BE1E2Ac12523e2dEE12Cbeea6C"
+        }
+      },
+      "l1StandardBridge": {
+        "1": {
+          "address": "0x470458C91978D2d929704489Ad730DC3E3001113"
+        }
+      }
+    },
+    "id": 480,
+    "name": "World Chain",
+    "network": "worldchain",
+    "nativeCurrency": {
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpcUrls": {
+      "default": {
+        "http": [
+          "https://lb.drpc.org/worldchain/<DRPC_API_KEY>"
+        ],
+        "webSocket": [
+          "wss://lb.drpc.org/worldchain/<DRPC_API_KEY>"
+        ]
+      }
+    },
+    "blockExplorers": {
+      "default": {
+        "name": "Worldscan",
+        "url": "https://worldscan.org",
+        "apiUrl": "https://api.worldscan.org/api"
+      },
+      "blockscout": {
+        "name": "Blockscout",
+        "url": "https://worldchain-mainnet.explorer.alchemy.com",
+        "apiUrl": "https://worldchain-mainnet.explorer.alchemy.com/api"
+      }
+    },
+    "testnet": false,
+    "sourceId": 1,
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/480.webp",
+    "custom": {
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/480.webp",
+      "wrapped": "0x4200000000000000000000000000000000000006"
+    }
+  },
+  {
     "id": 1088,
     "name": "Metis",
     "nativeCurrency": {
@@ -876,6 +973,11 @@
       "l2ToL1MessagePasser": {
         "address": "0x4200000000000000000000000000000000000016"
       },
+      "disputeGameFactory": {
+        "1": {
+          "address": "0x0CF7D3706a27CCE2017aEB11E8a9c8b5388c282C"
+        }
+      },
       "multicall3": {
         "address": "0xA9d71E1dd7ca26F26e656E66d6AA81ed7f745bf0"
       },
@@ -986,9 +1088,9 @@
     },
     "blockExplorers": {
       "default": {
-        "name": "Seitrace",
-        "url": "https://seitrace.com",
-        "apiUrl": "https://seitrace.com/pacific-1/api"
+        "name": "Seiscan",
+        "url": "https://seiscan.io",
+        "apiUrl": "https://api.etherscan.io/v2/api"
       }
     },
     "contracts": {
@@ -1426,6 +1528,11 @@
       "l2ToL1MessagePasser": {
         "address": "0x4200000000000000000000000000000000000016"
       },
+      "disputeGameFactory": {
+        "1": {
+          "address": "0x6f13EFadABD9269D6cEAd22b448d434A1f1B433E"
+        }
+      },
       "multicall3": {
         "address": "0xca11bde05977b3631167028862be2a173976ca11",
         "blockCreated": 2465882
@@ -1570,6 +1677,7 @@
     "fees": {},
     "id": 59144,
     "name": "Linea Mainnet",
+    "blockTime": 2000,
     "nativeCurrency": {
       "name": "Linea Ether",
       "symbol": "ETH",
@@ -1610,9 +1718,9 @@
       ".linea.eth"
     ],
     "testnet": false,
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/59144.webp",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/linea.svg",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/59144.webp",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/linea.svg",
       "wrapped": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
     }
   },
@@ -1690,9 +1798,9 @@
       }
     },
     "sourceId": 1,
-    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg",
+    "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.png",
     "custom": {
-      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.svg",
+      "chainLogo": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/60808.png",
       "wrapped": "0x4200000000000000000000000000000000000006"
     }
   },
@@ -1804,14 +1912,14 @@
     },
     "blockExplorers": {
       "default": {
-        "name": "Taikoscan",
-        "url": "https://taikoscan.io",
-        "apiUrl": "https://api.taikoscan.io/api"
+        "name": "Etherscan",
+        "url": "https://taikoscan.io"
       }
     },
     "contracts": {
       "multicall3": {
-        "address": "0xcb2436774C3e191c85056d248EF4260ce5f27A9D"
+        "address": "0xcA11bde05977b3631167028862bE2a173976CA11",
+        "blockCreated": 11269
       }
     },
     "iconUrl": "https://raw.githubusercontent.com/TalismanSociety/chaindata/main/assets/chains/known/167000.webp",
@@ -1824,6 +1932,7 @@
   {
     "id": 534352,
     "name": "Scroll",
+    "blockTime": 3000,
     "nativeCurrency": {
       "name": "Ether",
       "symbol": "ETH",
@@ -1892,6 +2001,11 @@
       },
       "l2ToL1MessagePasser": {
         "address": "0x4200000000000000000000000000000000000016"
+      },
+      "disputeGameFactory": {
+        "1": {
+          "address": "0xB0F15106fa1e473Ddb39790f197275BC979Aa37e"
+        }
       },
       "l2OutputOracle": {
         "1": {
