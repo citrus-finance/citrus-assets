@@ -68,7 +68,10 @@ results
     console.log("");
     console.log(`${x.name} (${x.id})`);
 
-    if (!x.chainIsSupported) {
+    if (x.chainIsSupported === null) {
+      console.log(" \x1b[33m?\x1b[0m RPC unreachable, could not check");
+      return;
+    } else if (!x.chainIsSupported) {
       console.log(" \x1b[31m✗\x1b[0m Missing CREATE2 contract");
       return;
     } else {

@@ -1,9 +1,9 @@
-import { writeFile } from "fs/promises";
+import { readFile, writeFile } from "fs/promises";
 import { getViemChain } from "./utils/viemChains.js";
 import isChainSupported from "./utils/isChainSupported.js";
 import { existsSync } from "fs";
 import { mkdir } from "fs/promises";
-import { ChainFormatters, getAddress } from "viem";
+import { getAddress } from "viem";
 import type { Chain as BaseChain } from "viem/chains";
 import { getNativeWrappedToken } from "./utils/wrapped.js";
 import { getDefiLlamaProvider } from "./utils/defiLlama.js";
@@ -20,10 +20,9 @@ interface ChainCustom {
   chainLogo?: string;
 }
 
-type Chain = BaseChain<
-  ChainFormatters | undefined,
-  Record<string, unknown> & ChainCustom
->;
+type Chain = Omit<BaseChain, "custom"> & {
+  custom: Record<string, unknown> & ChainCustom;
+};
 
 interface RainbowKitChain extends Chain {
   iconUrl?: string | (() => Promise<string>) | null;
@@ -45,12 +44,26 @@ export type CaipNetwork = Omit<Chain, "id"> & {
   };
 };
 
+async function getPreviouslySupportedChainIds(): Promise<Set<number>> {
+  try {
+    const chains = JSON.parse(
+      await readFile("assets/networks/viem-chains.json", "utf8"),
+    ) as { id: number }[];
+
+    return new Set(chains.map((chain) => chain.id));
+  } catch {
+    return new Set();
+  }
+}
+
 export default async function buildNetworks() {
   let completed = 0;
 
   const chainsSupportedSet = new Set<number>();
+  const undeterminedChainIds: number[] = [];
 
   const drpcChainIds = getDRpcChainIds();
+  const previouslySupportedChainIds = await getPreviouslySupportedChainIds();
 
   await Promise.all(
     drpcChainIds.map(async (chainId): Promise<void> => {
@@ -59,7 +72,14 @@ export default async function buildNetworks() {
       if (wrappedToken) {
         const supportsCitrus = await isChainSupported(chainId);
 
-        if (supportsCitrus) {
+        const wasSupported =
+          supportsCitrus ?? previouslySupportedChainIds.has(chainId);
+
+        if (supportsCitrus === null) {
+          undeterminedChainIds.push(chainId);
+        }
+
+        if (wasSupported) {
           chainsSupportedSet.add(chainId);
         }
       }
@@ -70,6 +90,14 @@ export default async function buildNetworks() {
       }
     }),
   );
+
+  if (undeterminedChainIds.length > 0) {
+    console.log(
+      `networks: kept previous support for unreachable chains: ${undeterminedChainIds
+        .sort((a, b) => a - b)
+        .join(", ")}`,
+    );
+  }
 
   const appKitNetworks = drpcChainIds.map((chainId): CaipNetwork | null => {
     const wrappedToken = getNativeWrappedToken(chainId);

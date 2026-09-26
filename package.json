@@ -12,7 +12,7 @@
     "typescript": "^5.9.2"
   },
   "scripts": {
-    "build": "yarn add viem && tsc --outDir build",
+    "build": "pnpm add viem && tsc --outDir build",
     "start": "node build/index.js",
     "prepare": "husky"
   },
@@ -21,6 +21,7 @@
     "p-limit": "^7.1.1",
     "p-map": "^7.0.3",
     "p-retry": "^6.2.1",
-    "viem": "^2.47.6"
-  }
+    "viem": "^2.56.9"
+  },
+  "packageManager": "pnpm@11.14.0"
 }
